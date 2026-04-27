@@ -1,13 +1,22 @@
-# Clean Chemnitz Core Corpus Summary
+# Clean Chemnitz_core Corpus Summary
 
 - Total original files: 32
-- Kept files: 9
-- Dropped files: 23
-- Duplicate groups collapsed: 3
+- Kept files: 12
+- Dropped files: 20
+- Review files: 0
+- Duplicate groups collapsed: 7
 
-## Rules Used
+## Representative Selection Rule
 
-- `keep` = core event report or useful analysis text.
-- `drop` = `duplicate_exact`, `duplicate_near`, `regional_variant`, `reader_letter`, `commentary_noncore`, `very_short_low_value`, or `malformed`.
-- For confirmed duplicate or variant clusters, one representative file was kept and the others were dropped.
-- If the case was uncertain and not part of a confirmed duplicate cluster, the file was kept.
+- Priority order: complete metadata, then longest usable body text, then cleanest parsed version, then lexical file-name order.
+
+## Malformed Criteria
+
+- Missing or empty title, publication, or date.
+- Missing or empty body text.
+- Placeholder-like title such as `No Headline In Original`.
+- Extremely short extracted body that is clearly unusable.
+
+## Canonical CSV
+
+- `article_registry.csv` is the canonical final article-level registry for this corpus batch.

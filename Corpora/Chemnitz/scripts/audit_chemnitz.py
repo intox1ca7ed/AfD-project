@@ -14,8 +14,8 @@ from rapidfuzz import fuzz
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-CHEMNITZ_DIR = SCRIPT_DIR.parent
-QC_DIR = CHEMNITZ_DIR / "qc"
+CORPUS_DIR = SCRIPT_DIR.parent
+QC_DIR = CORPUS_DIR / "qc"
 
 BODY_END_MARKERS = (
     "\nClassification\n",
@@ -24,47 +24,62 @@ BODY_END_MARKERS = (
 )
 
 DATE_LINE_RE = re.compile(
-    r"^(?:Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag)?\s*\d{1,2}\.\s+[A-ZÄÖÜa-zäöüß]+\s+\d{4}$"
+    r"^(?:(?:Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag)\s+)?\d{1,2}\.\s+[A-ZÄÖÜa-zäöüß]+\s+\d{4}(?:\s+(?:Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag))?$"
 )
+
+PLACEHOLDER_TITLES = {
+    "no headline in original",
+}
 
 
 @dataclass
 class ArticleRecord:
-    dataset: str
+    batch_id: str
+    corpus_name: str
+    source_archive: str
     file_name: str
     file_path: str
-    title: str | None
-    publication: str | None
-    date: str | None
-    byline: str | None
-    section: str | None
-    length_words_header: int | None
-    body_text: str
-    body_word_count: int
-    raw_text_chars: int
-    empty_or_malformed: bool
+    title_original: str
+    title_normalized: str
+    publication: str
+    publication_normalized: str
+    date: str
+    byline: str
+    section: str
+    word_count: int
+    body_char_count: int
+    body_hash_exact: str
+    duplicate_group_id: str
+    duplicate_category: str
+    keep_drop_review: str
+    drop_reason: str
+    kept_representative_of_group: str
+    representative_selection_reason: str
+    malformed_flag: str
     malformed_reason: str
-    low_value_flag: bool
+    notes: str
+    raw_text_chars: int
+    low_value_flag: str
     low_value_reason: str
-    keep_drop_flag: str
-    keep_drop_reason: str
     exact_duplicate_group: str
     near_duplicate_group: str
     repeated_variant_group: str
-    body_hash: str
+    body_text: str
 
 
-def paths_for(dataset: str) -> dict[str, Path]:
+def paths_for(dataset: str) -> dict[str, Path | str]:
     if dataset not in {"core", "extra"}:
         raise ValueError("Dataset must be 'core' or 'extra'")
-    source_dir = CHEMNITZ_DIR / f"raw_unarchive_{dataset}"
-    dataset_qc_dir = QC_DIR / dataset
+    archives = sorted(CORPUS_DIR.glob(f"*{dataset}*.ZIP"))
     return {
-        "source_dir": source_dir,
-        "dataset_qc_dir": dataset_qc_dir,
-        "articles_csv": dataset_qc_dir / "qc_articles.csv",
-        "duplicates_csv": dataset_qc_dir / "duplicate_groups.csv",
-        "summary_md": dataset_qc_dir / "qc_summary.md",
+        "source_dir": CORPUS_DIR / f"raw_unarchive_{dataset}",
+        "dataset_qc_dir": QC_DIR / dataset,
+        "articles_csv": QC_DIR / dataset / "qc_articles.csv",
+        "duplicate_groups": QC_DIR / dataset / "duplicate_groups.csv",
+        "summary_md": QC_DIR / dataset / "qc_summary.md",
+        "batch_id": f"{CORPUS_DIR.name}_{dataset}",
+        "corpus_name": CORPUS_DIR.name,
+        "source_archive": archives[0].name if archives else "",
     }
 
 
@@ -88,26 +103,25 @@ def clean_whitespace(text: str) -> str:
     return text.strip()
 
 
-def normalize_for_similarity(text: str) -> str:
-    text = text.lower()
-    text = text.replace("ß", "ss")
+def normalize_text(text: str) -> str:
+    text = text.lower().replace("ß", "ss")
     text = re.sub(r"\s+", " ", text)
     text = re.sub(r"[^\w\s]", "", text)
     return text.strip()
 
 
-def parse_article(dataset: str, path: Path) -> ArticleRecord:
+def parse_article(path: Path, batch_id: str, corpus_name: str, source_archive: str) -> ArticleRecord:
     raw = clean_whitespace(pdf_text(path))
     lines = [line.strip() for line in raw.splitlines() if line.strip()]
 
-    title = lines[0] if lines else None
-    publication = None
-    date = None
-    byline = None
-    section = None
-    length_words_header = None
+    title = lines[0] if lines else ""
+    publication = ""
+    date = ""
+    byline = ""
+    section = ""
     body = ""
-    malformed_reason = ""
+
+    malformed_reasons: list[str] = []
 
     date_idx = None
     for i, line in enumerate(lines):
@@ -121,25 +135,20 @@ def parse_article(dataset: str, path: Path) -> ArticleRecord:
         title_candidates: list[str] = []
         seen = set()
         for line in lines[: date_idx - 1]:
-            norm = normalize_for_similarity(line)
+            norm = normalize_text(line)
             if not norm or norm in seen:
                 continue
-            if line.startswith("Copyright ") or line.startswith("Section:") or line.startswith("Length:"):
+            if line.startswith(("Copyright ", "Section:", "Length:", "Byline:", "Highlight:")):
                 continue
             seen.add(norm)
             title_candidates.append(line)
         if title_candidates:
             preferred = [line for line in title_candidates if "..." not in line and "...." not in line]
-            source = preferred or title_candidates
-            title = max(source, key=len)
+            title = max(preferred or title_candidates, key=len)
 
     section_match = re.search(r"(?m)^Section:\s*(.+)$", raw)
     if section_match:
         section = section_match.group(1).strip()
-
-    length_match = re.search(r"(?m)^Length:\s*(\d+)\s+words?$", raw)
-    if length_match:
-        length_words_header = int(length_match.group(1))
 
     byline_match = re.search(r"(?m)^Byline:\s*(.+)$", raw)
     if byline_match:
@@ -155,26 +164,34 @@ def parse_article(dataset: str, path: Path) -> ArticleRecord:
                 body_end = min(body_end, marker_idx)
         body = raw[body_start:body_end].strip()
     else:
-        malformed_reason = "missing_body_marker"
+        malformed_reasons.append("missing_body_marker")
 
     if title and body.startswith(title):
         body = body[len(title) :].strip()
 
     body = re.sub(r"\n{2,}", "\n\n", body).strip()
-    body_word_count = len(re.findall(r"\b\w+\b", body, flags=re.UNICODE))
+    word_count = len(re.findall(r"\b\w+\b", body, flags=re.UNICODE))
+    body_char_count = len(body)
+
+    title_normalized = normalize_text(title)
+    publication_normalized = normalize_text(publication)
 
     if not title:
-        malformed_reason = malformed_reason or "missing_title"
+        malformed_reasons.append("missing_title")
+    if title_normalized in PLACEHOLDER_TITLES:
+        malformed_reasons.append("placeholder_title")
     if not publication:
-        malformed_reason = malformed_reason or "missing_publication"
+        malformed_reasons.append("missing_publication")
     if not date:
-        malformed_reason = malformed_reason or "missing_date"
+        malformed_reasons.append("missing_date")
     if not body:
-        malformed_reason = malformed_reason or "empty_body"
+        malformed_reasons.append("empty_body")
+    if body_char_count < 80 or word_count < 15:
+        malformed_reasons.append("body_too_short_to_use")
 
-    low_value_reasons = []
-    title_lc = (title or "").lower()
-    section_lc = (section or "").lower()
+    low_value_reasons: list[str] = []
+    title_lc = title.lower()
+    section_lc = section.lower()
 
     opinion_markers = [
         "kommentar",
@@ -194,63 +211,69 @@ def parse_article(dataset: str, path: Path) -> ArticleRecord:
         "leser",
     ]
     if any(marker in section_lc for marker in opinion_markers) or any(marker in title_lc for marker in opinion_markers):
-        low_value_reasons.append("opinion_or_commentary")
+        low_value_reasons.append("commentary_noncore")
     if any(marker in section_lc for marker in letter_markers) or title_lc.startswith("leser"):
         low_value_reasons.append("reader_letter")
-    if body_word_count and body_word_count < 120:
-        low_value_reasons.append("very_short")
-    if not body:
-        low_value_reasons.append("empty_or_malformed")
+    if word_count and word_count < 120:
+        low_value_reasons.append("very_short_low_value")
 
-    keep_drop_flag = "keep"
-    keep_drop_reason = "core_event_or_context"
-    if malformed_reason:
-        keep_drop_flag = "drop"
-        keep_drop_reason = malformed_reason
+    keep_drop_review = "keep"
+    drop_reason = ""
+
+    if malformed_reasons:
+        keep_drop_review = "drop"
+        drop_reason = "malformed"
     elif "reader_letter" in low_value_reasons:
-        keep_drop_flag = "drop"
-        keep_drop_reason = "reader_letter"
-    elif "opinion_or_commentary" in low_value_reasons and body_word_count < 700:
-        keep_drop_flag = "drop"
-        keep_drop_reason = "commentary_not_core_event_report"
-    elif "very_short" in low_value_reasons:
-        keep_drop_flag = "drop"
-        keep_drop_reason = "very_short_low_value"
-
-    body_hash = hashlib.sha1(normalize_for_similarity(body).encode("utf-8")).hexdigest()
+        keep_drop_review = "drop"
+        drop_reason = "reader_letter"
+    elif "commentary_noncore" in low_value_reasons and word_count < 700:
+        keep_drop_review = "drop"
+        drop_reason = "commentary_noncore"
+    elif "very_short_low_value" in low_value_reasons:
+        keep_drop_review = "drop"
+        drop_reason = "very_short_low_value"
 
     return ArticleRecord(
-        dataset=dataset,
+        batch_id=batch_id,
+        corpus_name=corpus_name,
+        source_archive=source_archive,
         file_name=path.name,
         file_path=str(path.resolve()),
-        title=title,
+        title_original=title,
+        title_normalized=title_normalized,
         publication=publication,
+        publication_normalized=publication_normalized,
         date=date,
         byline=byline,
         section=section,
-        length_words_header=length_words_header,
-        body_text=body,
-        body_word_count=body_word_count,
+        word_count=word_count,
+        body_char_count=body_char_count,
+        body_hash_exact=hashlib.sha1(normalize_text(body).encode("utf-8")).hexdigest(),
+        duplicate_group_id="",
+        duplicate_category="unique",
+        keep_drop_review=keep_drop_review,
+        drop_reason=drop_reason,
+        kept_representative_of_group="no",
+        representative_selection_reason="",
+        malformed_flag="yes" if malformed_reasons else "no",
+        malformed_reason="; ".join(dict.fromkeys(malformed_reasons)),
+        notes="",
         raw_text_chars=len(raw),
-        empty_or_malformed=bool(malformed_reason),
-        malformed_reason=malformed_reason,
-        low_value_flag=bool(low_value_reasons),
+        low_value_flag="yes" if low_value_reasons else "no",
         low_value_reason="; ".join(dict.fromkeys(low_value_reasons)),
-        keep_drop_flag=keep_drop_flag,
-        keep_drop_reason=keep_drop_reason,
         exact_duplicate_group="",
         near_duplicate_group="",
         repeated_variant_group="",
-        body_hash=body_hash,
+        body_text=body,
     )
 
 
 def group_exact_duplicates(records: list[ArticleRecord]) -> dict[str, list[int]]:
     groups: dict[str, list[int]] = defaultdict(list)
     for idx, rec in enumerate(records):
-        key = rec.body_hash if rec.body_text else f"empty::{rec.file_name}"
+        key = rec.body_hash_exact if rec.body_text else f"empty::{rec.file_name}"
         groups[key].append(idx)
-    return {k: v for k, v in groups.items() if len(v) > 1}
+    return {key: indexes for key, indexes in groups.items() if len(indexes) > 1}
 
 
 def same_story_candidate(a: ArticleRecord, b: ArticleRecord) -> bool:
@@ -258,12 +281,9 @@ def same_story_candidate(a: ArticleRecord, b: ArticleRecord) -> bool:
         return False
     if a.date and b.date and a.date != b.date:
         return False
-    title_sim = fuzz.token_set_ratio(a.title or "", b.title or "")
-    body_sim = fuzz.token_set_ratio(
-        normalize_for_similarity(a.body_text[:5000]),
-        normalize_for_similarity(b.body_text[:5000]),
-    )
-    len_ratio = min(a.body_word_count, b.body_word_count) / max(a.body_word_count, b.body_word_count)
+    title_sim = fuzz.token_set_ratio(a.title_normalized, b.title_normalized)
+    body_sim = fuzz.token_set_ratio(normalize_text(a.body_text[:5000]), normalize_text(b.body_text[:5000]))
+    len_ratio = min(a.word_count, b.word_count) / max(a.word_count, b.word_count)
     return body_sim >= 90 and title_sim >= 65 and len_ratio >= 0.6
 
 
@@ -272,11 +292,8 @@ def repeated_variant_candidate(a: ArticleRecord, b: ArticleRecord) -> bool:
         return False
     if a.publication != b.publication or a.date != b.date:
         return False
-    title_sim = fuzz.token_set_ratio(a.title or "", b.title or "")
-    body_sim = fuzz.token_set_ratio(
-        normalize_for_similarity(a.body_text[:5000]),
-        normalize_for_similarity(b.body_text[:5000]),
-    )
+    title_sim = fuzz.token_set_ratio(a.title_normalized, b.title_normalized)
+    body_sim = fuzz.token_set_ratio(normalize_text(a.body_text[:5000]), normalize_text(b.body_text[:5000]))
     return body_sim >= 82 and title_sim >= 85
 
 
@@ -309,13 +326,13 @@ def build_group_row(records: list[ArticleRecord], group_id: str, group_type: str
         "group_type": group_type,
         "item_count": str(len(indexes)),
         "files": " | ".join(records[idx].file_name for idx in indexes),
-        "titles": " | ".join(records[idx].title or "" for idx in indexes),
-        "publications": " | ".join(records[idx].publication or "" for idx in indexes),
-        "dates": " | ".join(records[idx].date or "" for idx in indexes),
+        "titles": " | ".join(records[idx].title_original for idx in indexes),
+        "publications": " | ".join(records[idx].publication for idx in indexes),
+        "dates": " | ".join(records[idx].date for idx in indexes),
     }
 
 
-def assign_group_labels(records: list[ArticleRecord]) -> tuple[list[dict[str, str]], dict[str, int]]:
+def assign_group_labels(records: list[ArticleRecord]) -> list[dict[str, str]]:
     duplicate_rows: list[dict[str, str]] = []
     exact_groups = group_exact_duplicates(records)
     exact_counter = 0
@@ -324,10 +341,10 @@ def assign_group_labels(records: list[ArticleRecord]) -> tuple[list[dict[str, st
 
     for indexes in exact_groups.values():
         exact_counter += 1
-        gid = f"exact_{exact_counter:03d}"
+        group_id = f"exact_{exact_counter:03d}"
         for idx in indexes:
-            records[idx].exact_duplicate_group = gid
-        duplicate_rows.append(build_group_row(records, gid, "exact_duplicate", indexes))
+            records[idx].exact_duplicate_group = group_id
+        duplicate_rows.append(build_group_row(records, group_id, "duplicate_exact", indexes))
 
     near_edges = []
     variant_edges = []
@@ -342,97 +359,109 @@ def assign_group_labels(records: list[ArticleRecord]) -> tuple[list[dict[str, st
 
     for indexes in connected_components(near_edges, len(records)):
         near_counter += 1
-        gid = f"near_{near_counter:03d}"
+        group_id = f"near_{near_counter:03d}"
         for idx in indexes:
-            records[idx].near_duplicate_group = gid
-        duplicate_rows.append(build_group_row(records, gid, "near_duplicate", indexes))
+            records[idx].near_duplicate_group = group_id
+        duplicate_rows.append(build_group_row(records, group_id, "duplicate_near", indexes))
 
     for indexes in connected_components(variant_edges, len(records)):
         variant_counter += 1
-        gid = f"variant_{variant_counter:03d}"
+        group_id = f"variant_{variant_counter:03d}"
         for idx in indexes:
-            records[idx].repeated_variant_group = gid
-        duplicate_rows.append(build_group_row(records, gid, "regional_variant", indexes))
+            records[idx].repeated_variant_group = group_id
+        duplicate_rows.append(build_group_row(records, group_id, "regional_variant", indexes))
 
     for rec in records:
-        if rec.exact_duplicate_group and rec.keep_drop_flag != "drop":
-            rec.keep_drop_flag = "drop"
-            rec.keep_drop_reason = "exact_duplicate"
-        elif rec.near_duplicate_group and rec.keep_drop_flag == "keep":
-            rec.keep_drop_flag = "review"
-            rec.keep_drop_reason = "possible_near_duplicate"
-        elif rec.repeated_variant_group and rec.keep_drop_flag == "keep":
-            rec.keep_drop_flag = "review"
-            rec.keep_drop_reason = "possible_regional_variant"
+        if rec.exact_duplicate_group:
+            rec.duplicate_category = "duplicate_exact"
+            rec.duplicate_group_id = rec.exact_duplicate_group
+            if rec.keep_drop_review == "keep":
+                rec.keep_drop_review = "review"
+        elif rec.repeated_variant_group:
+            rec.duplicate_category = "regional_variant"
+            rec.duplicate_group_id = rec.repeated_variant_group
+            if rec.keep_drop_review == "keep":
+                rec.keep_drop_review = "review"
+        elif rec.near_duplicate_group:
+            rec.duplicate_category = "duplicate_near"
+            rec.duplicate_group_id = rec.near_duplicate_group
+            if rec.keep_drop_review == "keep":
+                rec.keep_drop_review = "review"
 
-    return duplicate_rows, {
-        "exact_groups": exact_counter,
-        "near_groups": near_counter,
-        "variant_groups": variant_counter,
-    }
+    return duplicate_rows
 
 
-def write_articles_csv(path: Path, records: list[ArticleRecord]) -> None:
+def write_qc_articles(path: Path, records: list[ArticleRecord]) -> None:
     fieldnames = [
-        "dataset",
+        "batch_id",
+        "corpus_name",
+        "source_archive",
         "file_name",
         "file_path",
-        "title",
+        "title_original",
+        "title_normalized",
         "publication",
+        "publication_normalized",
         "date",
         "byline",
         "section",
-        "length_words_header",
-        "body_word_count",
-        "raw_text_chars",
-        "empty_or_malformed",
+        "word_count",
+        "body_char_count",
+        "body_hash_exact",
+        "duplicate_group_id",
+        "duplicate_category",
+        "keep_drop_review",
+        "drop_reason",
+        "kept_representative_of_group",
+        "representative_selection_reason",
+        "malformed_flag",
         "malformed_reason",
+        "notes",
+        "raw_text_chars",
         "low_value_flag",
         "low_value_reason",
         "exact_duplicate_group",
         "near_duplicate_group",
         "repeated_variant_group",
-        "keep_drop_flag",
-        "keep_drop_reason",
-        "body_hash",
         "body_text",
     ]
-    with path.open("w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+    with path.open("w", newline="", encoding="utf-8-sig") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
         for rec in records:
             writer.writerow(rec.__dict__)
 
 
-def write_duplicates_csv(path: Path, rows: list[dict[str, str]]) -> None:
-    fieldnames = ["group_id", "group_type", "item_count", "files", "titles", "publications", "dates"]
-    with path.open("w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+def write_duplicate_groups(path: Path, rows: list[dict[str, str]]) -> None:
+    with path.open("w", newline="", encoding="utf-8-sig") as handle:
+        writer = csv.DictWriter(
+            handle,
+            fieldnames=["group_id", "group_type", "item_count", "files", "titles", "publications", "dates"],
+        )
         writer.writeheader()
         writer.writerows(rows)
 
 
-def write_summary(path: Path, dataset: str, records: list[ArticleRecord], group_counts: dict[str, int], duplicate_rows: list[dict[str, str]]) -> None:
+def write_summary(path: Path, batch_id: str, records: list[ArticleRecord], duplicate_rows: list[dict[str, str]]) -> None:
     total = len(records)
-    exact_dupe_members = {rec.file_name for rec in records if rec.exact_duplicate_group}
-    unique_count = total - len(exact_dupe_members) + group_counts["exact_groups"]
-    malformed = [rec for rec in records if rec.empty_or_malformed]
-    low_value = [rec for rec in records if rec.low_value_flag]
-    keep_counts = Counter(rec.keep_drop_flag for rec in records)
+    unique_count = sum(1 for rec in records if rec.duplicate_category == "unique") + len(
+        {rec.duplicate_group_id for rec in records if rec.duplicate_group_id}
+    )
+    malformed = [rec for rec in records if rec.malformed_flag == "yes"]
+    keep_counts = Counter(rec.keep_drop_review for rec in records)
     outlets = Counter(rec.publication or "UNKNOWN" for rec in records)
 
     lines = [
-        f"# Chemnitz {dataset.capitalize()} QC Summary",
+        f"# {batch_id} QC Summary",
         "",
         "## Overall",
         "",
         f"- Total file count: {total}",
-        f"- Unique article count after exact-duplicate collapse: {unique_count}",
-        f"- Exact duplicate groups: {group_counts['exact_groups']}",
-        f"- Suspicious near-duplicate groups: {group_counts['near_groups']}",
-        f"- Repeated regional-edition variant groups: {group_counts['variant_groups']}",
-        f"- Empty or malformed records: {len(malformed)}",
-        f"- Low-value / commentary / reader-letter / very short items flagged: {len(low_value)}",
+        f"- Unique article count after duplicate collapse: {unique_count}",
+        f"- Exact duplicate groups: {sum(row['group_type'] == 'duplicate_exact' for row in duplicate_rows)}",
+        f"- Suspicious near-duplicate groups: {sum(row['group_type'] == 'duplicate_near' for row in duplicate_rows)}",
+        f"- Repeated regional-edition variant groups: {sum(row['group_type'] == 'regional_variant' for row in duplicate_rows)}",
+        f"- Malformed records: {len(malformed)}",
         f"- Keep: {keep_counts.get('keep', 0)}",
         f"- Review: {keep_counts.get('review', 0)}",
         f"- Drop: {keep_counts.get('drop', 0)}",
@@ -445,18 +474,24 @@ def write_summary(path: Path, dataset: str, records: list[ArticleRecord], group_
     for publication, count in outlets.most_common():
         lines.append(f"| {publication} | {count} |")
 
-    for title, gtype in [
-        ("Duplicate Groups", "exact_duplicate"),
-        ("Suspicious Near-Duplicate Groups", "near_duplicate"),
+    for section_title, group_type in [
+        ("Duplicate Groups", "duplicate_exact"),
+        ("Suspicious Near-Duplicate Groups", "duplicate_near"),
         ("Repeated Regional Variants", "regional_variant"),
     ]:
-        rows = [row for row in duplicate_rows if row["group_type"] == gtype]
-        lines.extend([f"## {title}", ""])
+        lines.extend([f"## {section_title}", ""])
+        rows = [row for row in duplicate_rows if row["group_type"] == group_type]
         if rows:
             for row in rows:
                 lines.append(f"- {row['group_id']} ({row['item_count']} items): {row['files']}")
         else:
             lines.append("- None")
+        lines.append("")
+
+    if malformed:
+        lines.extend(["## Malformed Records", ""])
+        for rec in malformed:
+            lines.append(f"- {rec.file_name}: {rec.malformed_reason}")
         lines.append("")
 
     path.write_text("\n".join(lines), encoding="utf-8")
@@ -466,14 +501,14 @@ def main() -> None:
     dataset = sys.argv[1] if len(sys.argv) > 1 else "core"
     cfg = paths_for(dataset)
     cfg["dataset_qc_dir"].mkdir(parents=True, exist_ok=True)
-    paths = sorted(cfg["source_dir"].glob("*.PDF"))
-    records = [parse_article(dataset, path) for path in paths]
-    duplicate_rows, group_counts = assign_group_labels(records)
-    write_articles_csv(cfg["articles_csv"], records)
-    write_duplicates_csv(cfg["duplicates_csv"], duplicate_rows)
-    write_summary(cfg["summary_md"], dataset, records, group_counts, duplicate_rows)
+    paths = sorted((cfg["source_dir"]).glob("*.PDF"))
+    records = [parse_article(path, cfg["batch_id"], cfg["corpus_name"], cfg["source_archive"]) for path in paths]
+    duplicate_rows = assign_group_labels(records)
+    write_qc_articles(cfg["articles_csv"], records)
+    write_duplicate_groups(cfg["duplicate_groups"], duplicate_rows)
+    write_summary(cfg["summary_md"], cfg["batch_id"], records, duplicate_rows)
     print(f"Processed {len(records)} files for {dataset}")
-    print(f"Wrote {cfg['articles_csv'].name}, {cfg['duplicates_csv'].name}, {cfg['summary_md'].name}")
+    print(f"Wrote {cfg['articles_csv'].name}, {cfg['duplicate_groups'].name}, {cfg['summary_md'].name}")
 
 
 if __name__ == "__main__":

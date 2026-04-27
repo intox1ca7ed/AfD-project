@@ -1,17 +1,16 @@
-# Chemnitz Core QC Summary
+# Chemnitz_core QC Summary
 
 ## Overall
 
 - Total file count: 32
-- Unique article count after exact-duplicate collapse: 15
+- Unique article count after duplicate collapse: 13
 - Exact duplicate groups: 5
 - Suspicious near-duplicate groups: 4
 - Repeated regional-edition variant groups: 0
-- Empty or malformed records: 0
-- Low-value / commentary / reader-letter / very short items flagged: 3
+- Malformed records: 0
 - Keep: 3
-- Review: 4
-- Drop: 25
+- Review: 26
+- Drop: 3
 
 ## Outlet Frequency
 

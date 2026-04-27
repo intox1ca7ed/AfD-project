@@ -1,114 +1,114 @@
 ﻿file_name,decision,reason,duplicate_group,notes
-"500 _ 0 In der Rigaer rückt die Polizei an. Und bei mir_ Ein Kreuzberger ärgert sich über Einbrüche,.PDF",keep,core event report / useful analysis text,,
-516 Strafanzeigen zur Neujahrsnacht Tätergruppen verabredeten sich womöglich zu gemeinschaftlicher s.PDF,keep,core event report / useful analysis text,,
-_CSU macht Stimmung gegen Flüchtlinge_ SPD kritisiert Forderung des Koalitionspartners nach den Köln.PDF,keep,core event report / useful analysis text,,
-_Die haben uns nur weggeschickt_ Zeugen sprechen von Überforderung der Polizei in der Silvesternacht.PDF,keep,core event report / useful analysis text,,
-_Die Männer haben mich umzingelt und begrapscht_.PDF,keep,core event report / useful analysis text,,
-"_Die waren geübt darin, Leute zu bestehlen_.PDF",keep,core event report / useful analysis text,,
-_Eine neue Dimension des Hasses_.PDF,keep,core event report / useful analysis text,,
-_Es fehlt an der Durchsetzung des geltenden Rechts_.PDF,keep,core event report / useful analysis text,,
-"_Es ist erschreckend, was passiert ist_.PDF",keep,core event report / useful analysis text,,
-_Gastrecht darf nicht missbraucht werden_(2).PDF,drop,very_short_low_value,exact_001,
-_Gastrecht darf nicht missbraucht werden_.PDF,drop,very_short_low_value,exact_001,
-_Ich habe mich noch nie so fremd gefühlt_ Die Redaktion erreichen derzeit sehr viele Reaktionen von.PDF,keep,core_event_report / representative_kept,variant_001,Representative kept for variant_001.
-_Ich habe mich noch nie so fremd gefühlt_.PDF,drop,very_short_low_value,variant_001,
-_Neue Dimension der Gewalt_ Sexuelle Übergriffe auf Frauen in Köln.PDF,keep,core event report / useful analysis text,,
-"_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto(2).PDF",drop,duplicate,near_001,"Dropped in favor of representative file: _Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF (near_001)."
-"_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto.PDF",drop,duplicate,near_001,"Dropped in favor of representative file: _Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF (near_001)."
-"_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF",keep,core_event_report / representative_kept,near_001,Representative kept for near_001.
-"_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi.PDF",drop,duplicate,near_001,"Dropped in favor of representative file: _Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF (near_001)."
-Akgün verweist aufs Grundgesetz 60-PLUS-GRUPPE SPD-Politikern vermisst die gesellschaftliche Integra.PDF,keep,core event report / useful analysis text,,
-Alles muss raus Reaktionen Nach den gewaltsamen und sexuellen Übergriffen in der Silvesternacht werd.PDF,keep,core event report / useful analysis text,,
-Anzeigen auch in Hamburg gestiegen ÜBERGRIFFE Auf St. Pauli kam es in der Silvesternacht zu ähnliche.PDF,keep,core event report / useful analysis text,,
+"500 _ 0 In der Rigaer rückt die Polizei an. Und bei mir_ Ein Kreuzberger ärgert sich über Einbrüche,.PDF",keep,,,
+516 Strafanzeigen zur Neujahrsnacht Tätergruppen verabredeten sich womöglich zu gemeinschaftlicher s.PDF,keep,,,
+_CSU macht Stimmung gegen Flüchtlinge_ SPD kritisiert Forderung des Koalitionspartners nach den Köln.PDF,keep,,,
+_Die haben uns nur weggeschickt_ Zeugen sprechen von Überforderung der Polizei in der Silvesternacht.PDF,keep,,,
+_Die Männer haben mich umzingelt und begrapscht_.PDF,keep,,,
+"_Die waren geübt darin, Leute zu bestehlen_.PDF",keep,,,
+_Eine neue Dimension des Hasses_.PDF,keep,,,
+_Es fehlt an der Durchsetzung des geltenden Rechts_.PDF,keep,,,
+"_Es ist erschreckend, was passiert ist_.PDF",keep,,,
+_Gastrecht darf nicht missbraucht werden_(2).PDF,drop,duplicate_exact,exact_001,Dropped in favor of representative file: _Gastrecht darf nicht missbraucht werden_.PDF (exact_001).
+_Gastrecht darf nicht missbraucht werden_.PDF,keep,,exact_001,Representative kept for exact_001.
+_Ich habe mich noch nie so fremd gefühlt_ Die Redaktion erreichen derzeit sehr viele Reaktionen von.PDF,keep,,variant_001,Representative kept for variant_001.
+_Ich habe mich noch nie so fremd gefühlt_.PDF,drop,regional_variant,variant_001,Dropped in favor of representative file: _Ich habe mich noch nie so fremd gefühlt_ Die Redaktion erreichen derzeit sehr viele Reaktionen von.PDF (variant_001).
+_Neue Dimension der Gewalt_ Sexuelle Übergriffe auf Frauen in Köln.PDF,keep,,,
+"_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto(2).PDF",keep,,variant_002,Representative kept for variant_002.
+"_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto.PDF",drop,regional_variant,variant_002,"Dropped in favor of representative file: _Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto(2).PDF (variant_002)."
+"_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF",keep,,variant_003,Representative kept for variant_003.
+"_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi.PDF",drop,regional_variant,variant_003,"Dropped in favor of representative file: _Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF (variant_003)."
+Akgün verweist aufs Grundgesetz 60-PLUS-GRUPPE SPD-Politikern vermisst die gesellschaftliche Integra.PDF,keep,,,
+Alles muss raus Reaktionen Nach den gewaltsamen und sexuellen Übergriffen in der Silvesternacht werd.PDF,keep,,,
+Anzeigen auch in Hamburg gestiegen ÜBERGRIFFE Auf St. Pauli kam es in der Silvesternacht zu ähnliche.PDF,keep,,,
 ARTIKEL(2).PDF,drop,very_short_low_value,,
 ARTIKEL.PDF,drop,very_short_low_value,,
-Asylbewerber verteilen Blumen an Odenthaler.PDF,drop,very_short_low_value,near_002,
-Asylbewerber verteilen Blumen.PDF,keep,core_event_report / representative_kept,near_002,Representative kept for near_002.
-Azzouzi fürchtet pauschale Urteile nach Kölner Taten.PDF,keep,core event report / useful analysis text,,
-Beamte in Köln befürchteten Tote Leitender Bundespolizist spricht von Spießrutenlauf für die Frauen.PDF,keep,core event report / useful analysis text,,
-Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in(2).PDF,keep,core_event_report / representative_kept,near_003,Representative kept for near_003.
-Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in.PDF,drop,duplicate,near_003,Dropped in favor of representative file: Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in(2).PDF (near_003).
-Das Grauen danach Die sexuellen Übergriffe und Diebstähle in der Silvesternacht in Köln haben großes.PDF,keep,core event report / useful analysis text,,
-Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(2).PDF,drop,duplicate,exact_002,
-Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(3).PDF,drop,duplicate,exact_002,
-Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(4).PDF,drop,duplicate,exact_002,
-Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv.PDF,drop,duplicate,exact_002,
-"Den Tätern drohen hohe Strafen Einzelnen Personen Übergriffe nachzuweisen, wird aber schwierig.PDF",keep,core event report / useful analysis text,,
-Der Aufschrei SILVESTERATTACKEN Nach den Angriffen auf Frauen in Köln sprechen Bundesminister von  n.PDF,keep,core event report / useful analysis text,,
-Der Hass im Netz ist ein Zeichen von Schwäche.PDF,keep,core event report / useful analysis text,,
-Die Armlänge und die Angst.PDF,drop,commentary_not_core_event_report,,
-Die Bürger in Oberberg rüsten auf Händler verkaufen deutlich mehr Reizgas und Gaspistolen - Kleiner.PDF,keep,core event report / useful analysis text,,
-Die ganze Wahrheit muss an die Öffentlichkeit.PDF,keep,core event report / useful analysis text,,
-Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner(2).PDF,drop,duplicate,exact_003,
-Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner.PDF,drop,duplicate,exact_003,
-Die Polizei braucht mehr Rückendeckung.PDF,keep,core event report / useful analysis text,,
-Die Übergriffe an Silvester in Köln erschüttern die Bürger.PDF,keep,core event report / useful analysis text,,
-Drohanrufe und Hassmails.PDF,keep,core event report / useful analysis text,,
-Ein Rücktritt mit Anlauf.PDF,keep,core event report / useful analysis text,,
-Eindeutigen Zettel sichergestellt Fahnder finden belastendes Material bei Kontrollierten - Spuren fü.PDF,keep,core event report / useful analysis text,,
-Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch(2).PDF,keep,core_event_report / representative_kept,variant_005,Representative kept for variant_005.
-Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch.PDF,drop,duplicate,variant_005,Dropped in favor of representative file: Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch(2).PDF (variant_005).
-Fassungslosigkeit über Gewalt in Köln In der Silvesternacht wurden zahlreiche Frauen sexuell belästi.PDF,keep,core event report / useful analysis text,,
-Fehleinschätzung.PDF,drop,commentary_not_core_event_report,,
-Folgen falscher Toleranz.PDF,drop,commentary_not_core_event_report,,
-"Frauen, weicht nicht zurück.PDF",keep,core event report / useful analysis text,,
+Asylbewerber verteilen Blumen an Odenthaler.PDF,drop,duplicate_near,near_002,Dropped in favor of representative file: Asylbewerber verteilen Blumen.PDF (near_002).
+Asylbewerber verteilen Blumen.PDF,keep,,near_002,Representative kept for near_002.
+Azzouzi fürchtet pauschale Urteile nach Kölner Taten.PDF,keep,,,
+Beamte in Köln befürchteten Tote Leitender Bundespolizist spricht von Spießrutenlauf für die Frauen.PDF,keep,,,
+Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in(2).PDF,keep,,variant_004,Representative kept for variant_004.
+Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in.PDF,drop,regional_variant,variant_004,Dropped in favor of representative file: Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in(2).PDF (variant_004).
+Das Grauen danach Die sexuellen Übergriffe und Diebstähle in der Silvesternacht in Köln haben großes.PDF,keep,,,
+Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(2).PDF,drop,duplicate_exact,exact_002,Dropped in favor of representative file: Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv.PDF (exact_002).
+Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(3).PDF,drop,duplicate_exact,exact_002,Dropped in favor of representative file: Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv.PDF (exact_002).
+Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(4).PDF,drop,duplicate_exact,exact_002,Dropped in favor of representative file: Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv.PDF (exact_002).
+Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv.PDF,keep,,exact_002,Representative kept for exact_002.
+"Den Tätern drohen hohe Strafen Einzelnen Personen Übergriffe nachzuweisen, wird aber schwierig.PDF",keep,,,
+Der Aufschrei SILVESTERATTACKEN Nach den Angriffen auf Frauen in Köln sprechen Bundesminister von  n.PDF,keep,,,
+Der Hass im Netz ist ein Zeichen von Schwäche.PDF,keep,,,
+Die Armlänge und die Angst.PDF,drop,commentary_noncore,,
+Die Bürger in Oberberg rüsten auf Händler verkaufen deutlich mehr Reizgas und Gaspistolen - Kleiner.PDF,keep,,,
+Die ganze Wahrheit muss an die Öffentlichkeit.PDF,keep,,,
+Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner(2).PDF,drop,duplicate_exact,exact_003,Dropped in favor of representative file: Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner.PDF (exact_003).
+Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner.PDF,keep,,exact_003,Representative kept for exact_003.
+Die Polizei braucht mehr Rückendeckung.PDF,keep,,,
+Die Übergriffe an Silvester in Köln erschüttern die Bürger.PDF,keep,,,
+Drohanrufe und Hassmails.PDF,keep,,,
+Ein Rücktritt mit Anlauf.PDF,keep,,,
+Eindeutigen Zettel sichergestellt Fahnder finden belastendes Material bei Kontrollierten - Spuren fü.PDF,keep,,,
+Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch(2).PDF,keep,,variant_005,Representative kept for variant_005.
+Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch.PDF,drop,regional_variant,variant_005,Dropped in favor of representative file: Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch(2).PDF (variant_005).
+Fassungslosigkeit über Gewalt in Köln In der Silvesternacht wurden zahlreiche Frauen sexuell belästi.PDF,keep,,,
+Fehleinschätzung.PDF,drop,commentary_noncore,,
+Folgen falscher Toleranz.PDF,drop,commentary_noncore,,
+"Frauen, weicht nicht zurück.PDF",keep,,,
 Fünf Festnahmen nach Überfällen.PDF,drop,very_short_low_value,,
-Fünf Verdächtige in Untersuchungshaft Belohnung für entscheidende Hinweise.PDF,keep,core event report / useful analysis text,,
-Für Zuneigung statt Ablehnung.PDF,keep,core event report / useful analysis text,,
-Geht's noch_ Özcan Mutlu über Köln und die Reaktionen.PDF,keep,core event report / useful analysis text,,
-Gemeinsam ist vieles leichter anzugehen Trotz der schrecklichen Ereignisse zum Jahresbeginn sollte m.PDF,keep,core event report / useful analysis text,,
-Gestohlenes Handy bei 19-Jährigem gefunden.PDF,keep,core event report / useful analysis text,,
-Große Politik und gute Stimmung NEUJAHRSEMPFANG Handwerksmeister begrüßen den FDP-Bundesvorsitzenden.PDF,keep,core event report / useful analysis text,,
-"Hamburg in einem Satz Warum lang, wenn es auch kurz geht_ Was die Stadt in dieser Woche bewegt hat.PDF",keep,core event report / useful analysis text,,
-"In aller Öffentlichkeit Dutzende Frauen wurden zuletzt bedrängt, begrapscht und beklaut. Wie konnte.PDF",keep,core event report / useful analysis text,,
+Fünf Verdächtige in Untersuchungshaft Belohnung für entscheidende Hinweise.PDF,keep,,,
+Für Zuneigung statt Ablehnung.PDF,keep,,,
+Geht's noch_ Özcan Mutlu über Köln und die Reaktionen.PDF,keep,,,
+Gemeinsam ist vieles leichter anzugehen Trotz der schrecklichen Ereignisse zum Jahresbeginn sollte m.PDF,keep,,,
+Gestohlenes Handy bei 19-Jährigem gefunden.PDF,keep,,,
+Große Politik und gute Stimmung NEUJAHRSEMPFANG Handwerksmeister begrüßen den FDP-Bundesvorsitzenden.PDF,keep,,,
+"Hamburg in einem Satz Warum lang, wenn es auch kurz geht_ Was die Stadt in dieser Woche bewegt hat.PDF",keep,,,
+"In aller Öffentlichkeit Dutzende Frauen wurden zuletzt bedrängt, begrapscht und beklaut. Wie konnte.PDF",keep,,,
 Junge Union möchte stärkere Polizeipräsenz.PDF,drop,very_short_low_value,,
-Jäger erhöht Druck auf Kölner Polizei SICHERHEIT Innenminister erwartet schnellen Bericht zum Einsat.PDF,drop,duplicate,near_004,Dropped in favor of representative file: Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtling.PDF (near_004).
-Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtling.PDF,keep,core_event_report / representative_kept,near_004,Representative kept for near_004.
-Jägers Generalangriff auf die Kölner Polizei war nicht klug.PDF,keep,core event report / useful analysis text,,
-Keine Angst unter den Reisenden Trotz zunehmender Kriminalität fühlen sich viele Menschen im Bahnhof.PDF,keep,core event report / useful analysis text,,
-Keine Toleranz gegenüber Tätern.PDF,keep,core event report / useful analysis text,,
-Kleine Fische.PDF,keep,core event report / useful analysis text,,
-Kommissar Selfie hilft.PDF,drop,commentary_not_core_event_report,,
-Konsequenz_ Mehr Polizeipräsenz.PDF,keep,core event report / useful analysis text,,
-Kraft stärkt Jäger den Rücken Erster Auftritt der Ministerpräsidentin seit Silvester - Grüne verärge.PDF,keep,core event report / useful analysis text,,
-Kriminelle Sportgymnastik_ Wie wehre ich mich gegen Antanzdiebstähle_ Nicht nur in der Debatte um di.PDF,keep,core event report / useful analysis text,,
-Kölner Gewaltnacht wirkte bis Leverkusen.PDF,keep,core event report / uncertain regional relevance,,"Kept conservatively. QC flagged this as a short regional variant, but no confirmed duplicate pair was assigned."
-Kölner Polizei stockt Ermittlergruppe auf.PDF,keep,core event report / useful analysis text,,
-Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(2).PDF,drop,duplicate,near_005,
-Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(3).PDF,drop,duplicate,near_005,
-Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe.PDF,keep,core_event_report / representative_kept,near_005,Representative kept for near_005.
-Kölns Polizeichef muss gehen Nach umstrittenem Einsatz in Silvesternacht.PDF,keep,core event report / useful analysis text,,
+Jäger erhöht Druck auf Kölner Polizei SICHERHEIT Innenminister erwartet schnellen Bericht zum Einsat.PDF,drop,regional_variant,variant_006,Dropped in favor of representative file: Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtling.PDF (variant_006).
+Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtling.PDF,keep,,variant_006,Representative kept for variant_006.
+Jägers Generalangriff auf die Kölner Polizei war nicht klug.PDF,keep,,,
+Keine Angst unter den Reisenden Trotz zunehmender Kriminalität fühlen sich viele Menschen im Bahnhof.PDF,keep,,,
+Keine Toleranz gegenüber Tätern.PDF,keep,,,
+Kleine Fische.PDF,keep,,,
+Kommissar Selfie hilft.PDF,drop,commentary_noncore,,
+Konsequenz_ Mehr Polizeipräsenz.PDF,keep,,,
+Kraft stärkt Jäger den Rücken Erster Auftritt der Ministerpräsidentin seit Silvester - Grüne verärge.PDF,keep,,,
+Kriminelle Sportgymnastik_ Wie wehre ich mich gegen Antanzdiebstähle_ Nicht nur in der Debatte um di.PDF,keep,,,
+Kölner Gewaltnacht wirkte bis Leverkusen.PDF,review,,,Short local brief kept for review.
+Kölner Polizei stockt Ermittlergruppe auf.PDF,keep,,,
+Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(2).PDF,keep,,exact_004,Representative kept for exact_004.
+Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(3).PDF,drop,duplicate_exact,exact_004,Dropped in favor of representative file: Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(2).PDF (exact_004).
+Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe.PDF,keep,,variant_007,Representative kept for variant_007.
+Kölns Polizeichef muss gehen Nach umstrittenem Einsatz in Silvesternacht.PDF,keep,,,
 LESERBRIEF.PDF,drop,reader_letter,,
-Minister Jäger will seinen Kopf retten.PDF,drop,commentary_not_core_event_report,,
-Mit aller Häme.PDF,keep,core event report / useful analysis text,,
-Muslime kritisieren Debatte über Frauenbild im Islam Mazyek_ _Dieser Kontext zur Herkunft ist gefähr.PDF,keep,core event report / useful analysis text,,
-Nach den Übergriffen in Köln muss die Politik handeln.PDF,keep,core event report / useful analysis text,,
-Nackt gegen Sexismus.PDF,keep,core event report / useful analysis text,,
-Nackte Beleidigung Nach heftiger Kritik verteidigt _Focus_-Chef Reitz sein Cover. Es sei nicht sexis.PDF,keep,core event report / useful analysis text,,
-No Headline In Original.PDF,drop,very_short_low_value,,
-Patriarchat ist weiter die herrschende Kultur.PDF,keep,core event report / useful analysis text,,
-Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(2).PDF,drop,duplicate,exact_005,
-Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(3).PDF,drop,duplicate,exact_005,
-Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(4).PDF,drop,duplicate,exact_005,
-Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre.PDF,drop,duplicate,exact_005,
-Polizei_ Keine Toleranz bei Verstößen.PDF,keep,core event report / useful analysis text,,
-Polizei_ Passanten stoppten Vergewaltigungen in Köln.PDF,keep,core event report / useful analysis text,,
-Polizeipräsident Albers muss um seinen Job fürchten NRW-Innenminister Jäger geht auf Distanz zu Köln.PDF,keep,core event report / useful analysis text,,
+Minister Jäger will seinen Kopf retten.PDF,drop,commentary_noncore,,
+Mit aller Häme.PDF,keep,,,
+Muslime kritisieren Debatte über Frauenbild im Islam Mazyek_ _Dieser Kontext zur Herkunft ist gefähr.PDF,keep,,,
+Nach den Übergriffen in Köln muss die Politik handeln.PDF,keep,,,
+Nackt gegen Sexismus.PDF,keep,,,
+Nackte Beleidigung Nach heftiger Kritik verteidigt _Focus_-Chef Reitz sein Cover. Es sei nicht sexis.PDF,keep,,,
+No Headline In Original.PDF,drop,malformed,,
+Patriarchat ist weiter die herrschende Kultur.PDF,keep,,,
+Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(2).PDF,drop,duplicate_exact,exact_005,Dropped in favor of representative file: Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre.PDF (exact_005).
+Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(3).PDF,drop,duplicate_exact,exact_005,Dropped in favor of representative file: Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre.PDF (exact_005).
+Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(4).PDF,drop,duplicate_exact,exact_005,Dropped in favor of representative file: Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre.PDF (exact_005).
+Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre.PDF,keep,,exact_005,Representative kept for exact_005.
+Polizei_ Keine Toleranz bei Verstößen.PDF,keep,,,
+Polizei_ Passanten stoppten Vergewaltigungen in Köln.PDF,keep,,,
+Polizeipräsident Albers muss um seinen Job fürchten NRW-Innenminister Jäger geht auf Distanz zu Köln.PDF,keep,,,
 RHEIN -ERFT.PDF,drop,very_short_low_value,,
-"Richtiges Opfer, falsche Gründe Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht.PDF",drop,commentary_not_core_event_report,,
-Schlechte Perspektive Algerien und Marokko sollen sichere Herkunftsländer werden _ Hohe Kriminalität.PDF,keep,core event report / useful analysis text,,
+"Richtiges Opfer, falsche Gründe Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht.PDF",drop,commentary_noncore,,
+Schlechte Perspektive Algerien und Marokko sollen sichere Herkunftsländer werden _ Hohe Kriminalität.PDF,keep,,,
 Silvester-Übergriffe_ Telefon-Hotline für Opfer.PDF,drop,very_short_low_value,,
-Silvesterübergriffe_ _Mann fasste mir in den Schritt_.PDF,keep,core event report / useful analysis text,,
-So kommunizierte die Polizei die Kölner Exzesse Neujahr werteten Beamte die Lage zu Silvester noch a.PDF,keep,core event report / useful analysis text,,
-Spießrutenlauf durch Männermassen Köln Der interne Bericht eines leitenden Polizeibeamten offenbart.PDF,keep,core event report / useful analysis text,,
-Straßenraub im großen Stil Zahlen &amp; Fakten Was wir inzwischen über die Silvesternacht wissen.PDF,keep,core event report / useful analysis text,,
-Streit über junge Trickdiebe KRIMINALITÄT Aachens Polizei enttäuscht über Staatsanwaltschaft - Täter.PDF,keep,core event report / useful analysis text,,
+Silvesterübergriffe_ _Mann fasste mir in den Schritt_.PDF,keep,,,
+So kommunizierte die Polizei die Kölner Exzesse Neujahr werteten Beamte die Lage zu Silvester noch a.PDF,keep,,,
+Spießrutenlauf durch Männermassen Köln Der interne Bericht eines leitenden Polizeibeamten offenbart.PDF,keep,,,
+Straßenraub im großen Stil Zahlen &amp; Fakten Was wir inzwischen über die Silvesternacht wissen.PDF,keep,,,
+Streit über junge Trickdiebe KRIMINALITÄT Aachens Polizei enttäuscht über Staatsanwaltschaft - Täter.PDF,keep,,,
 "verboten Guten Tag,meine Damen und Herren.PDF",drop,very_short_low_value,,
-Verheerendes Polizei-Zeugnis Der Bericht des in der Kritik stehenden NRW-Innenministers Ralf Jäger g.PDF,keep,core event report / useful analysis text,,
-Von _Madonnen_ und _Huren_ Die fundamentalistischen Varianten des Islam stellen eine große Herausfor.PDF,keep,core event report / useful analysis text,,
-War die Polizei auf den Gewaltexzess vorbereitet_ Nach den Übergriffen am Kölner Hauptbahnhof entbre.PDF,keep,core event report / useful analysis text,,
-Warum Kölns Polizeichef gehen musste.PDF,keep,core event report / useful analysis text,,
-Wir müssen Ängste jetzt offen aussprechen.PDF,keep,core event report / useful analysis text,,
-Wirrwarr um das Einsatzgebiet POLIZEI Behörden widersprechen sich. Die Rechtslage ist eindeutig.PDF,keep,core event report / useful analysis text,,
-Übergriffe auf Frauen.PDF,keep,core event report / useful analysis text,,
-Übergriffe in der Silvesternacht werfen viele Fragen auf.PDF,keep,core event report / useful analysis text,,
+Verheerendes Polizei-Zeugnis Der Bericht des in der Kritik stehenden NRW-Innenministers Ralf Jäger g.PDF,keep,,,
+Von _Madonnen_ und _Huren_ Die fundamentalistischen Varianten des Islam stellen eine große Herausfor.PDF,keep,,,
+War die Polizei auf den Gewaltexzess vorbereitet_ Nach den Übergriffen am Kölner Hauptbahnhof entbre.PDF,keep,,,
+Warum Kölns Polizeichef gehen musste.PDF,keep,,,
+Wir müssen Ängste jetzt offen aussprechen.PDF,keep,,,
+Wirrwarr um das Einsatzgebiet POLIZEI Behörden widersprechen sich. Die Rechtslage ist eindeutig.PDF,keep,,,
+Übergriffe auf Frauen.PDF,keep,,,
+Übergriffe in der Silvesternacht werfen viele Fragen auf.PDF,keep,,,

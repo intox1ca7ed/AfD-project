@@ -1,5 +1,5 @@
-﻿file_name,file_path,title,publication,date,byline,section,length_words_header,body_word_count,raw_text_chars,empty_or_malformed,malformed_reason,low_value_flag,low_value_reason,exact_duplicate_group,near_duplicate_group,repeated_variant_group,keep_drop_flag,keep_drop_reason,body_hash,body_text
-"500 _ 0 In der Rigaer rückt die Polizei an. Und bei mir_ Ein Kreuzberger ärgert sich über Einbrüche,.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\500 _ 0 In der Rigaer rückt die Polizei an. Und bei mir_ Ein Kreuzberger ärgert sich über Einbrüche,.PDF","500 : 0 In der Rigaer rückt die Polizei an. Und bei mir? Ein Kreuzberger ärgert sich über Einbrüche,",Der Tagesspiegel,Sonntag 17. Januar 2016,Mark Terkessidis,BERLIN; S. 10; Ausg. 22642,1064,1001,8048,False,,False,,,,,keep,core_event_or_context,5c7653878c6d05afd49aa9198d9a474d42dc2dda,"Fünf ganze Hundertschaften rückten in der letzten Woche aus, als ein Polizist leicht verletzt wurde von Leuten, die 
+﻿batch_id,corpus_name,source_archive,file_name,file_path,title_original,title_normalized,publication,publication_normalized,date,byline,section,word_count,body_char_count,body_hash_exact,duplicate_group_id,duplicate_category,keep_drop_review,drop_reason,kept_representative_of_group,representative_selection_reason,malformed_flag,malformed_reason,notes,raw_text_chars,low_value_flag,low_value_reason,exact_duplicate_group,near_duplicate_group,repeated_variant_group,body_text
+Cologne,Cologne,Cologne(113).ZIP,"500 _ 0 In der Rigaer rückt die Polizei an. Und bei mir_ Ein Kreuzberger ärgert sich über Einbrüche,.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\500 _ 0 In der Rigaer rückt die Polizei an. Und bei mir_ Ein Kreuzberger ärgert sich über Einbrüche,.PDF","500 : 0 In der Rigaer rückt die Polizei an. Und bei mir? Ein Kreuzberger ärgert sich über Einbrüche,",500  0 in der rigaer rückt die polizei an und bei mir ein kreuzberger ärgert sich über einbrüche,Der Tagesspiegel,der tagesspiegel,Sonntag 17. Januar 2016,Mark Terkessidis,BERLIN; S. 10; Ausg. 22642,1001,6973,5c7653878c6d05afd49aa9198d9a474d42dc2dda,,unique,keep,,no,,no,,,8048,no,,,,,"Fünf ganze Hundertschaften rückten in der letzten Woche aus, als ein Polizist leicht verletzt wurde von Leuten, die 
 kurz darauf in das autonome Hausprojekt in der Rigaer Straße flohen. Nach den Ereignissen in der Kölner 
 Silvesternacht wirkt diese ""Demonstration von Entschlossenheit"", wie es der Polizeisprecher ausdrückte, regelrecht 
 grotesk. Denn während der Innensenator die Sicherheitskräfte massiv gegen die versprengten Reste ihrer 
@@ -74,7 +74,7 @@ Kontaktbereichsbeamte. Polizisten im Dienst in Friedrichshain. Foto: Imago
 Mark Terkessidis
 ist Autor, u. a. mit dem Schwerpunkt Migration. Sein jüngstes Buch handelt von Defiziten der Demokratie und heißt 
 ""Kollaboration"" (Suhrkamp)."
-516 Strafanzeigen zur Neujahrsnacht Tätergruppen verabredeten sich womöglich zu gemeinschaftlicher s.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\516 Strafanzeigen zur Neujahrsnacht Tätergruppen verabredeten sich womöglich zu gemeinschaftlicher s.PDF,516 Strafanzeigen zur Neujahrsnacht Tätergruppen verabredeten sich womöglich zu gemeinschaftlicher,Kölner Stadt-Anzeiger,11. Januar 2016,TIM STINAUER,BL; S. 2,446,376,3890,False,,False,,,,,keep,core_event_or_context,fed28e14b08ba9cf376ab3409d7adaa10a2b717f,"VON TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,516 Strafanzeigen zur Neujahrsnacht Tätergruppen verabredeten sich womöglich zu gemeinschaftlicher s.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\516 Strafanzeigen zur Neujahrsnacht Tätergruppen verabredeten sich womöglich zu gemeinschaftlicher s.PDF,516 Strafanzeigen zur Neujahrsnacht Tätergruppen verabredeten sich womöglich zu gemeinschaftlicher,516 strafanzeigen zur neujahrsnacht tätergruppen verabredeten sich womöglich zu gemeinschaftlicher,Kölner Stadt-Anzeiger,kölner stadtanzeiger,11. Januar 2016,TIM STINAUER,BL; S. 2,376,2788,fed28e14b08ba9cf376ab3409d7adaa10a2b717f,,unique,keep,,no,,no,,,3890,no,,,,,"VON TIM STINAUER 
  Köln. Zehn Tage nach den Überfällen und sexuellen Übergriffen vor dem Hauptbahnhof setzt sich das Puzzle 
 aus der Silvesternacht Stück für Stück zusammen. Inzwischen liegen der ""Ermittlungsgruppe Neujahr"" der Kölner 
 Polizei 516 Strafanzeigen vor. ""In etwa 40 Prozent der Fälle ermitteln die Beamten unter anderem wegen 
@@ -105,7 +105,7 @@ Wie der ""Kölner Stadt-Anzeiger"" erfuhr, standen in Aachen, Wuppertal und Gels
 uns, es bestünde kein Bedarf"", bestätigte ein Sprecher des Landesamtes für polizeiliche Dienste. Jetzt, wo das in 
 arabischen Ländern offenbar ""taharrusch gamea"" (gemeinschaftliche sexuelle Belästigung) genannte Phänomen 
 auch hierzulande bekannt sei, müsse man sich ""genau überlegen"", wie die Polizei damit umgehe."
-_CSU macht Stimmung gegen Flüchtlinge_ SPD kritisiert Forderung des Koalitionspartners nach den Köln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_CSU macht Stimmung gegen Flüchtlinge_ SPD kritisiert Forderung des Koalitionspartners nach den Köln.PDF,"""CSU macht Stimmung gegen Flüchtlinge"" SPD kritisiert Forderung des Koalitionspartners nach den Kölner",Der Tagesspiegel,Donnerstag 7. Januar 2016,Hans Monath,TITEL; S. 1; Ausg. 22632,520,463,4708,False,,False,,,,,keep,core_event_or_context,a58a54f4eb818e5fb90af0d00996200f99856374,"Berlin - Nach den massenhaften sexuellen Übergriffen auf Frauen in Köln streiten SPD und Union über politische 
+Cologne,Cologne,Cologne(113).ZIP,_CSU macht Stimmung gegen Flüchtlinge_ SPD kritisiert Forderung des Koalitionspartners nach den Köln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_CSU macht Stimmung gegen Flüchtlinge_ SPD kritisiert Forderung des Koalitionspartners nach den Köln.PDF,"""CSU macht Stimmung gegen Flüchtlinge"" SPD kritisiert Forderung des Koalitionspartners nach den Kölner",csu macht stimmung gegen flüchtlinge spd kritisiert forderung des koalitionspartners nach den kölner,Der Tagesspiegel,der tagesspiegel,Donnerstag 7. Januar 2016,Hans Monath,TITEL; S. 1; Ausg. 22632,463,3290,a58a54f4eb818e5fb90af0d00996200f99856374,,unique,keep,,no,,no,,,4708,no,,,,,"Berlin - Nach den massenhaften sexuellen Übergriffen auf Frauen in Köln streiten SPD und Union über politische 
 Schlussfolgerungen aus dem Geschehen in der Silvesternacht. Der stellvertretende SPD-Chef Ralf Stegner warf 
 CSU- Generalsekretär Andreas Scheuer in diesem Zusammenhang Stimmungsmache gegen Flüchtlinge vor. ""Der 
 CSU-Generalsekretär überholt AfD & Co rechts"", sagte Stegner dem Tagesspiegel. Scheuer überschreite die 
@@ -140,7 +140,7 @@ Stils, ob man ohne Detailkenntnisse, bei eigener Verantwortung, Polizeieinsätze
 Wie am Mittwoch bekannt wurde, kam es auch in Berlin in der Silvesternacht zu mehreren Übergriffen auf Frauen. 
 Es handelte sich aber nach Angaben der Polizei nicht um Gruppenübergriffe.
 Seiten 2, 4, 7 und Meinungsseite"
-_Die haben uns nur weggeschickt_ Zeugen sprechen von Überforderung der Polizei in der Silvesternacht.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Die haben uns nur weggeschickt_ Zeugen sprechen von Überforderung der Polizei in der Silvesternacht.PDF,"""Die haben uns nur weggeschickt"" Zeugen sprechen von Überforderung der Polizei in der Silvesternacht am",Kölner Stadt-Anzeiger,07. Januar 2016,TIM STINAUER,BL; S. 3,868,777,6448,False,,False,,,,,keep,core_event_or_context,e809f0fdf15d5a5cdf128ffc1d96a7b80b3d04be,"VON TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,_Die haben uns nur weggeschickt_ Zeugen sprechen von Überforderung der Polizei in der Silvesternacht.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Die haben uns nur weggeschickt_ Zeugen sprechen von Überforderung der Polizei in der Silvesternacht.PDF,"""Die haben uns nur weggeschickt"" Zeugen sprechen von Überforderung der Polizei in der Silvesternacht am",die haben uns nur weggeschickt zeugen sprechen von überforderung der polizei in der silvesternacht am,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,TIM STINAUER,BL; S. 3,777,5313,e809f0fdf15d5a5cdf128ffc1d96a7b80b3d04be,,unique,keep,,no,,no,,,6448,no,,,,,"VON TIM STINAUER 
  Köln. Sie hätten ihm einfach nur leid getan, die vier Polizisten vor dem Domportal, erinnert sich Jochen N. an die 
 Silvesternacht. Wie verloren standen die Beamten gegen 22 Uhr neben ihren Streifenwagen. Um sie herum flogen 
 Silvesterraketen gegen den Dom, junge, arabisch aussehende Männer warfen Böller in die Menschenmenge, sie 
@@ -200,7 +200,7 @@ Kommunikationsfehler"" habe dazu geführt.
  Josef K., Zeuge 
  Die Polizisten waren überfordert und verglichen mit den Tätern deutlich in der Unterzahl 
  Eine Zeugin (22)"
-_Die Männer haben mich umzingelt und begrapscht_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Die Männer haben mich umzingelt und begrapscht_.PDF,"""Die Männer haben mich umzingelt und begrapscht""",Rheinische Post,Freitag 8. Januar 2016,,LAND UND LEUTE,193,180,1577,False,,False,,,,,keep,core_event_or_context,11b8e09156f06369dd11a0d55f989ba1c7f1384c,"Köln (klik) Die 57-jährige Maren Haas ist in der Silvesternacht am Kölner Hauptbahnhof von einer Gruppe Männern 
+Cologne,Cologne,Cologne(113).ZIP,_Die Männer haben mich umzingelt und begrapscht_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Die Männer haben mich umzingelt und begrapscht_.PDF,"""Die Männer haben mich umzingelt und begrapscht""",die männer haben mich umzingelt und begrapscht,Rheinische Post,rheinische post,Freitag 8. Januar 2016,,LAND UND LEUTE,180,1168,11b8e09156f06369dd11a0d55f989ba1c7f1384c,,unique,keep,,no,,no,,,1577,no,,,,,"Köln (klik) Die 57-jährige Maren Haas ist in der Silvesternacht am Kölner Hauptbahnhof von einer Gruppe Männern 
 umzingelt, betatscht und ausgeraubt worden. Um ihre Wertsachen zu schützen, hat sich die Dürener 
 Krankenschwester, umringt von Männern, auf den Boden geworfen und ihre vorderen Hosentaschen zugedrückt.
 ""Ich habe geschrien wie am Spieß und um Hilfe gerufen"", sagt Haas, die in der Nacht mit zwei Freundinnen und 
@@ -211,7 +211,7 @@ sagt Haas. Ihnen gelang es dabei, das Smartphone aus den vorderen Hosentaschen z
 Mann später wieder aus der Hand reißen konnte. Der Rucksack der 57-Jährigen war vollkommen leer geräumt. ""Es 
 war einfach nur furchtbar"", sagt die Krankenschwester, die um ihr Leben fürchtete. ""Man war so hilflos; ich stand 
 total unter Schock."" Als einen sexuellen Übergriff habe es Haas aber nicht empfunden."
-"_Die waren geübt darin, Leute zu bestehlen_.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Die waren geübt darin, Leute zu bestehlen_.PDF","""Die waren geübt darin, Leute zu bestehlen""",Frankfurter Rundschau,Mittwoch 6. Januar 2016,,POLITIK; S. 2,907,869,6320,False,,False,,,,,keep,core_event_or_context,2451c38c434ec287aa187ed6fbcc496a13c7b99c,"Immer mehr Zeugen melden sich und berichten, was sich in der Silvesternacht vor dem Kölner Hauptbahnhof 
+Cologne,Cologne,Cologne(113).ZIP,"_Die waren geübt darin, Leute zu bestehlen_.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Die waren geübt darin, Leute zu bestehlen_.PDF","""Die waren geübt darin, Leute zu bestehlen""",die waren geübt darin leute zu bestehlen,Frankfurter Rundschau,frankfurter rundschau,Mittwoch 6. Januar 2016,,POLITIK; S. 2,869,5540,2451c38c434ec287aa187ed6fbcc496a13c7b99c,,unique,keep,,no,,no,,,6320,no,,,,,"Immer mehr Zeugen melden sich und berichten, was sich in der Silvesternacht vor dem Kölner Hauptbahnhof 
 abgespielt hat. Drei Beispiele:
 Fahra Tajik (Name geändert), 32, Flüchtling aus Afghanistan, seit zwei Jahren in Köln, war mit ihrer Tochter (10) 
 zwischen 21 und 21.30 Uhr auf dem Bahnhofsvorplatz. Sie hatten zwei Verwandte vom Zug abgeholt, waren zuvor 
@@ -266,7 +266,7 @@ erstattet - wegen Diebstahls und sexueller Belästigung. Seiner Familie gehe es 
 und seine Frau unter Schlafproblemen leiden würden. ""Ich kann das einfach kaum beschreiben. Ich war in der 
 Situation völlig hilflos. Dass meine Kinder so etwas miterleben mussten, ist für mich das Schlimmste.""
 Aufgezeichnet von Rüdiger Heimlich, Jenny Filon und Tobias Christ."
-_Eine neue Dimension des Hasses_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Eine neue Dimension des Hasses_.PDF,"""Eine neue Dimension des Hasses""",Frankfurter Rundschau,Montag 11. Januar 2016,,POLITIK; S. 2,715,595,5550,False,,False,,,,,keep,core_event_or_context,5fee9ce80ba7ec6437d0cdc6b0052bac9e6b246c,"Von Jörg Wimalasena
+Cologne,Cologne,Cologne(113).ZIP,_Eine neue Dimension des Hasses_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Eine neue Dimension des Hasses_.PDF,"""Eine neue Dimension des Hasses""",eine neue dimension des hasses,Frankfurter Rundschau,frankfurter rundschau,Montag 11. Januar 2016,,POLITIK; S. 2,595,4371,5fee9ce80ba7ec6437d0cdc6b0052bac9e6b246c,,unique,keep,,no,,no,,,5550,no,,,,,"Von Jörg Wimalasena
 Nach den sexuellen Angriffen auf Frauen am Kölner Hauptbahnhof in der Silvesternacht spüren 
 Flüchtlingsorganisationen und Islamverbände, wie sich die Stimmung der Bevölkerung gegenüber Migranten und 
 Muslimen in Deutschland verschlechtert.
@@ -316,7 +316,7 @@ Unterkunft bestand nach Angaben der Polizei zu keiner Zeit eine Gefahr. Der für
 Staatsschutz ermittelt in der Angelegenheit. dpa
 ""Die Flüchtlinge werden jetzt misstrauisch beäugt"", konstatiert Aydan Özoguz
 ""Köln hat unsere Arbeit nicht leichter gemacht"", sagt Karl Kopp von Pro Asyl"
-_Es fehlt an der Durchsetzung des geltenden Rechts_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Es fehlt an der Durchsetzung des geltenden Rechts_.PDF,"""Es fehlt an der Durchsetzung des geltenden Rechts""",Kölnische Rundschau,11. Januar 2016,,BR; S. 13,1321,1090,8844,False,,False,,,,,keep,core_event_or_context,8c257d5ba1a947a704175c8e6a5233d7bf0fd10c,"Weitere Leser zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof. 
+Cologne,Cologne,Cologne(113).ZIP,_Es fehlt an der Durchsetzung des geltenden Rechts_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Es fehlt an der Durchsetzung des geltenden Rechts_.PDF,"""Es fehlt an der Durchsetzung des geltenden Rechts""",es fehlt an der durchsetzung des geltenden rechts,Kölnische Rundschau,kölnische rundschau,11. Januar 2016,,BR; S. 13,1090,7918,8c257d5ba1a947a704175c8e6a5233d7bf0fd10c,,unique,keep,,no,,no,,,8844,no,,,,,"Weitere Leser zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof. 
  Wer mit offenen Augen zu Karneval im Rheinland unterwegs ist, müsste es schon seit Jahrzehnten 
 mitbekommen haben. Ob in Köln, Düsseldorf oder Bonn: sexuelle Belästigung ist überall anzutreffen. Folge - bisher 
 kein Aufschrei der Bestürzung. 
@@ -408,7 +408,7 @@ Grundrechte, besonders als Frauen.
  Aufwachen, Arsch in die Hose, Zähne zeigen. Wir alle zusammen. Für alle, die hier friedlich und frei leben 
 wollen, egal welchem Geschlecht und welcher Nation sie angehören. 
  A. Addis"
-"_Es ist erschreckend, was passiert ist_.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Es ist erschreckend, was passiert ist_.PDF","""Es ist erschreckend, was passiert ist""",Kölnische Rundschau,06. Januar 2016,,KÖLN; S. 27,1238,1058,7959,False,,False,,,,,keep,core_event_or_context,77180ed911a4ad8d14c5fb6761bc249c76bbc601,"Verwahrlosung 
+Cologne,Cologne,Cologne(113).ZIP,"_Es ist erschreckend, was passiert ist_.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Es ist erschreckend, was passiert ist_.PDF","""Es ist erschreckend, was passiert ist""",es ist erschreckend was passiert ist,Kölnische Rundschau,kölnische rundschau,06. Januar 2016,,KÖLN; S. 27,1058,7304,77180ed911a4ad8d14c5fb6761bc249c76bbc601,,unique,keep,,no,,no,,,7959,no,,,,,"Verwahrlosung 
  Zu den Ereignissen in der Silvesternacht am Kölner Hauptbahnhof machen sich viele Leser Gedanken. 
  Ein Geschehen wie in der Silvesternacht rund um den Kölner Hauptbahnhof fällt nicht einfach vom Himmel. Dem 
 gehen immer Verhältnisse der Verwahrlosung und Vermüllung voraus, wie man sie an Weihnachten auf dem Weg 
@@ -521,15 +521,15 @@ bereits durch ""aggressive Trickdiebstähle und Raube"" aufgefallen sind? Sehr g
 mal ein Anfang. 
  Sabine Schmitz, 
  Köln"
-_Gastrecht darf nicht missbraucht werden_(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Gastrecht darf nicht missbraucht werden_(2).PDF,"""Gastrecht darf nicht missbraucht werden""",Kölnische Rundschau,09. Januar 2016,,POL; S. 1,46,38,653,False,,True,very_short,exact_001,,,drop,very_short_low_value,d9f7f3342a540b3b46e64a0576020c97a1939b7c,"RHEIN-ERFT-KREIS. Klare Worte finden Landrat Michael Kreuzberg und der leitende Polizeidirektor für den 
+Cologne,Cologne,Cologne(113).ZIP,_Gastrecht darf nicht missbraucht werden_(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Gastrecht darf nicht missbraucht werden_(2).PDF,"""Gastrecht darf nicht missbraucht werden""",gastrecht darf nicht missbraucht werden,Kölnische Rundschau,kölnische rundschau,09. Januar 2016,,POL; S. 1,38,268,d9f7f3342a540b3b46e64a0576020c97a1939b7c,exact_001,duplicate_exact,drop,very_short_low_value,no,,no,,,653,yes,very_short_low_value,exact_001,,,"RHEIN-ERFT-KREIS. Klare Worte finden Landrat Michael Kreuzberg und der leitende Polizeidirektor für den 
 Rhein-Erft-Kreis, Roland Küpper, zu den Vorkommnissen in der Silvesternacht am Kölner Hauptbahnhof. Harsche 
 Kritik übt Kreuzberg an der Polizeileitung. 
  Seite 45"
-_Gastrecht darf nicht missbraucht werden_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Gastrecht darf nicht missbraucht werden_.PDF,"""Gastrecht darf nicht missbraucht werden""",Kölnische Rundschau,09. Januar 2016,,POL; S. 1,46,38,653,False,,True,very_short,exact_001,,,drop,very_short_low_value,d9f7f3342a540b3b46e64a0576020c97a1939b7c,"RHEIN-ERFT-KREIS. Klare Worte finden Landrat Michael Kreuzberg und der leitende Polizeidirektor für den 
+Cologne,Cologne,Cologne(113).ZIP,_Gastrecht darf nicht missbraucht werden_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Gastrecht darf nicht missbraucht werden_.PDF,"""Gastrecht darf nicht missbraucht werden""",gastrecht darf nicht missbraucht werden,Kölnische Rundschau,kölnische rundschau,09. Januar 2016,,POL; S. 1,38,268,d9f7f3342a540b3b46e64a0576020c97a1939b7c,exact_001,duplicate_exact,drop,very_short_low_value,no,,no,,,653,yes,very_short_low_value,exact_001,,,"RHEIN-ERFT-KREIS. Klare Worte finden Landrat Michael Kreuzberg und der leitende Polizeidirektor für den 
 Rhein-Erft-Kreis, Roland Küpper, zu den Vorkommnissen in der Silvesternacht am Kölner Hauptbahnhof. Harsche 
 Kritik übt Kreuzberg an der Polizeileitung. 
  Seite 45"
-_Ich habe mich noch nie so fremd gefühlt_ Die Redaktion erreichen derzeit sehr viele Reaktionen von.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Ich habe mich noch nie so fremd gefühlt_ Die Redaktion erreichen derzeit sehr viele Reaktionen von.PDF,"""Ich habe mich noch nie so fremd gefühlt"" Die Redaktion erreichen derzeit sehr viele Reaktionen von Lesern",Kölner Stadt-Anzeiger,07. Januar 2016,,LO; S. 24,1027,905,7473,False,,False,,,,variant_001,review,possible_regional_variant,c0c042e159ec66d886be122e881738d9dc565644,"Als Opfer der Silvesternacht mit Frau und zwei minderjährigen Kindern haben wir kopfschüttelnd den 
+Cologne,Cologne,Cologne(113).ZIP,_Ich habe mich noch nie so fremd gefühlt_ Die Redaktion erreichen derzeit sehr viele Reaktionen von.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Ich habe mich noch nie so fremd gefühlt_ Die Redaktion erreichen derzeit sehr viele Reaktionen von.PDF,"""Ich habe mich noch nie so fremd gefühlt"" Die Redaktion erreichen derzeit sehr viele Reaktionen von Lesern",ich habe mich noch nie so fremd gefühlt die redaktion erreichen derzeit sehr viele reaktionen von lesern,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,,LO; S. 24,905,6405,c0c042e159ec66d886be122e881738d9dc565644,variant_001,regional_variant,review,,no,,no,,,7473,no,,,,variant_001,"Als Opfer der Silvesternacht mit Frau und zwei minderjährigen Kindern haben wir kopfschüttelnd den 
 Polizeibericht gelesen. Wenig später erklärt Frau Reker, man solle zu Fremden eine Armlänge Distanz halten. So, 
 wie wir uns Silvester ohne Hilfe fühlten, so fühlen wir uns nun von der Politik in dieser Stadt betrogen. Wir sollen 
 nicht voreilig sein mit Behauptungen bezüglich der Herkunft der Angreifer, doch die Angaben der Opfer sind Fakt. 
@@ -605,10 +605,10 @@ und aus der Politik zu den Geschehnissen in der Silve....
  E-Mail: leserbriefe@ksta.de 
  Leserbriefe sind keine Meinungsäußerungen der Redaktion. Briefe und E-Mails ohne Angabe von Name und 
 Adresse können nicht veröffentlicht werden. Bitte geben Sie für Rückfragen Ihre Nummer an."
-_Ich habe mich noch nie so fremd gefühlt_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Ich habe mich noch nie so fremd gefühlt_.PDF,"""Ich habe mich noch nie so fremd gefühlt""",Kölner Stadt-Anzeiger,07. Januar 2016,,LO; S. 24,37,32,641,False,,True,very_short,,,variant_001,drop,very_short_low_value,350896a70f970229622653aad8fc8296d62b885a,"Die Redaktion erreichen derzeit sehr viele Reaktionen von Lesern und aus der Politik zu den Geschehnissen in 
+Cologne,Cologne,Cologne(113).ZIP,_Ich habe mich noch nie so fremd gefühlt_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Ich habe mich noch nie so fremd gefühlt_.PDF,"""Ich habe mich noch nie so fremd gefühlt""",ich habe mich noch nie so fremd gefühlt,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,,LO; S. 24,32,211,350896a70f970229622653aad8fc8296d62b885a,variant_001,regional_variant,drop,very_short_low_value,no,,no,,,641,yes,very_short_low_value,,,variant_001,"Die Redaktion erreichen derzeit sehr viele Reaktionen von Lesern und aus der Politik zu den Geschehnissen in 
 der Silvesternacht - Eine Auswahl 
  So denken die Leser des ""Kölner Stadt-Anzeiger"" über die Vorfälle"
-_Neue Dimension der Gewalt_ Sexuelle Übergriffe auf Frauen in Köln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Neue Dimension der Gewalt_ Sexuelle Übergriffe auf Frauen in Köln.PDF,"""Neue Dimension der Gewalt"" Sexuelle Übergriffe auf Frauen in Köln",Berliner Zeitung,05. Januar 2016,BLZ,PAN; S. 28,283,232,2428,False,,False,,,,,keep,core_event_or_context,dee002aa10d4663482d402a497e96b4b01ed3e24,"Nach sexuellen Übergriffen auf Frauen am Kölner Hauptbahnhof in der Silvesternacht hat Kölns 
+Cologne,Cologne,Cologne(113).ZIP,_Neue Dimension der Gewalt_ Sexuelle Übergriffe auf Frauen in Köln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Neue Dimension der Gewalt_ Sexuelle Übergriffe auf Frauen in Köln.PDF,"""Neue Dimension der Gewalt"" Sexuelle Übergriffe auf Frauen in Köln",neue dimension der gewalt sexuelle übergriffe auf frauen in köln,Berliner Zeitung,berliner zeitung,05. Januar 2016,BLZ,PAN; S. 28,232,1691,dee002aa10d4663482d402a497e96b4b01ed3e24,,unique,keep,,no,,no,,,2428,no,,,,,"Nach sexuellen Übergriffen auf Frauen am Kölner Hauptbahnhof in der Silvesternacht hat Kölns 
 Oberbürgermeisterin Henriette Reker (parteilos) ein Krisentreffen für Dienstag anberaumt. Die Vorfälle seien 
 ""ungeheuerlich"", sagte Reker. 
  Wegen der Vorfälle am Dom und am benachbarten Bahnhofsvorplatz hatten bis zum Wochenende rund 30 
@@ -626,7 +626,7 @@ werden. ""Wir können nicht tolerieren, dass hier ein rechtsfreier Raum entsteht
 Termin vereinbart. Die Gewerkschaft der Polizei (GdP) zeigte sich ebenfalls entsetzt über die zahlreichen 
 Übergriffe. ""Das ist eine völlig neue Dimension der Gewalt. So etwas kennen wir bisher nicht"", sagte der NRW-
 Landesvorsitzende der GdP, Arnold Plickert am Montag. (BLZ)"
-"_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto(2).PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto(2).PDF","""Wer Missbrauch betreibt, verwirkt Gastrecht"" Landrat Michael Kreuzberg und Leitender Polizeidirektor Roland",Kölnische Rundschau,09. Januar 2016,,RBG-LOK; S. 45,819,704,6312,False,,False,,,near_001,variant_002,review,possible_near_duplicate,c5d15c4c24f4053e54c277906cfbf1bb5bf26ec3,"Die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof werden mittlerweile weltweit diskutiert. Im 
+Cologne,Cologne,Cologne(113).ZIP,"_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto(2).PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto(2).PDF","""Wer Missbrauch betreibt, verwirkt Gastrecht"" Landrat Michael Kreuzberg und Leitender Polizeidirektor Roland",wer missbrauch betreibt verwirkt gastrecht landrat michael kreuzberg und leitender polizeidirektor roland,Kölnische Rundschau,kölnische rundschau,09. Januar 2016,,RBG-LOK; S. 45,704,5011,c5d15c4c24f4053e54c277906cfbf1bb5bf26ec3,variant_002,regional_variant,review,,no,,no,,,6312,no,,,near_001,variant_002,"Die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof werden mittlerweile weltweit diskutiert. Im 
 Gespräch mit Redaktionsleiter Bernd Rupprecht, Udo Beißel und Britta Havlicek äußern sich Landrat Michael 
 Kreuzberg und der Leitende Polizeidirektor des Rhein-Erft-Kreises, Roland Küpper, zur Lage in Köln und im Rhein-
 Erft-Kreis. 
@@ -680,7 +680,7 @@ Zivilcourage von allen, die Straftaten sehen.
  Für Menschen aus anderen Kulturen sind Karneval und die manchmal freizügige Verkleidung unbekannt. Sollen 
 Frauen darauf verzichten? 
  Kreuzberg: Ein klares Nein! Unsere Traditionen und Bräuche dürfen wir nicht aufgeben."
-"_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto.PDF","""Wer Missbrauch betreibt, verwirkt Gastrecht""; Landrat Michael Kreuzberg und Leitender Polizeidirektor Roland",Kölnische Rundschau,09. Januar 2016,,RKL-LOK; S. 45,814,699,6283,False,,False,,,near_001,variant_002,review,possible_near_duplicate,d36f33217e3e31fd8977fd2894a55375e672f385,"Die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof werden mittlerweile weltweit diskutiert. Im 
+Cologne,Cologne,Cologne(113).ZIP,"_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Wer Missbrauch betreibt, verwirkt Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidirekto.PDF","""Wer Missbrauch betreibt, verwirkt Gastrecht""; Landrat Michael Kreuzberg und Leitender Polizeidirektor Roland",wer missbrauch betreibt verwirkt gastrecht landrat michael kreuzberg und leitender polizeidirektor roland,Kölnische Rundschau,kölnische rundschau,09. Januar 2016,,RKL-LOK; S. 45,699,4980,d36f33217e3e31fd8977fd2894a55375e672f385,variant_002,regional_variant,review,,no,,no,,,6283,no,,,near_001,variant_002,"Die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof werden mittlerweile weltweit diskutiert. Im 
 Gespräch mit Redaktionsleiter Bernd Rupprecht und Britta Havlicek äußern sich Landrat Michael Kreuzberg und 
 der Leitende Polizeidirektor des Rhein-Erft-Kreises, Roland Küpper, zur Lage in Köln und im Rhein-Erft-Kreis. 
  Was haben Sie zuerst gedacht, als Sie von den Übergriffen auf Frauen in der Silvesternacht in Köln gehört 
@@ -733,7 +733,7 @@ Zivilcourage von allen, die Straftaten sehen.
  Für Menschen aus anderen Kulturen sind Karneval und die manchmal freizügige Verkleidung unbekannt. Sollen 
 Frauen darauf verzichten? 
  Kreuzberg: Ein klares Nein! Unsere Traditionen und Bräuche dürfen wir nicht aufgeben."
-"_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF","""Wer Missbrauch betreibt, verwirkt sein Gastrecht"" Landrat Michael Kreuzberg und Leitender Polizeidirektor",Kölner Stadt-Anzeiger,09. Januar 2016,,KB; S. 33,816,704,6403,False,,False,,,near_001,variant_003,review,possible_near_duplicate,e8d0205fbf0adec936212cd5dcf66da317e8c10a,"Die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof werden mittlerweile weltweit diskutiert. Im 
+Cologne,Cologne,Cologne(113).ZIP,"_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi(2).PDF","""Wer Missbrauch betreibt, verwirkt sein Gastrecht"" Landrat Michael Kreuzberg und Leitender Polizeidirektor",wer missbrauch betreibt verwirkt sein gastrecht landrat michael kreuzberg und leitender polizeidirektor,Kölner Stadt-Anzeiger,kölner stadtanzeiger,09. Januar 2016,,KB; S. 33,704,5014,e8d0205fbf0adec936212cd5dcf66da317e8c10a,variant_003,regional_variant,review,,no,,no,,,6403,no,,,near_001,variant_003,"Die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof werden mittlerweile weltweit diskutiert. Im 
 Gespräch mit Redaktionsleiter Bernd Rupprecht und Britta Havlicek äußern sich Landrat Michael Kreuzberg und 
 der Leitende Polizeidirektor des Rhein-Erft-Kreises, Roland Küpper, zur Lage in Köln und im Rhein-Erft-Kreis. 
  Was haben Sie zuerst gedacht, als Sie von den Übergriffen auf Frauen in der Silvesternacht in Köln gehört 
@@ -786,7 +786,7 @@ Zivilcourage von allen, die Straftaten sehen.
  Für Menschen aus anderen Kulturen sind Karneval und die manchmal freizügige Verkleidung unbekannt. Sollen 
 Frauen darauf verzichten? 
  KREUZBERG: Ein klares Nein! Unsere Traditionen und Bräuche dürfen wir nicht aufgeben."
-"_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi.PDF","""Wer Missbrauch betreibt, verwirkt sein Gastrecht"" Landrat Michael Kreuzberg und Leitender Polizeidirektor",Kölner Stadt-Anzeiger,09. Januar 2016,,BG; S. 33,815,702,6396,False,,False,,,near_001,variant_003,review,possible_near_duplicate,22fd55fa751391cc8ea341979360db5df88120c0,"Die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof werden mittlerweile weltweit diskutiert. Im 
+Cologne,Cologne,Cologne(113).ZIP,"_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\_Wer Missbrauch betreibt, verwirkt sein Gastrecht_ Landrat Michael Kreuzberg und Leitender Polizeidi.PDF","""Wer Missbrauch betreibt, verwirkt sein Gastrecht"" Landrat Michael Kreuzberg und Leitender Polizeidirektor",wer missbrauch betreibt verwirkt sein gastrecht landrat michael kreuzberg und leitender polizeidirektor,Kölner Stadt-Anzeiger,kölner stadtanzeiger,09. Januar 2016,,BG; S. 33,702,5007,22fd55fa751391cc8ea341979360db5df88120c0,variant_003,regional_variant,review,,no,,no,,,6396,no,,,near_001,variant_003,"Die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof werden mittlerweile weltweit diskutiert. Im 
 Gespräch mit Redaktionsleiter Bernd Rupprecht, Udo Beißel und Britta Havlicek äußern sich Landrat Michael 
 Kreuzberg und der Leitende Polizeidirektor des Rhein-Erft-Kreises, Roland Küpper, zur Lage in Köln und im Rhein-
 Erft-Kreis. 
@@ -840,7 +840,7 @@ von allen, die Straftaten sehen.
  Für Menschen aus anderen Kulturen sind Karneval und die manchmal freizügige Verkleidung unbekannt. Sollen 
 Frauen darauf verzichten? 
  KREUZBERG: Ein klares Nein! Unsere Traditionen und Bräuche dürfen wir nicht aufgeben."
-Akgün verweist aufs Grundgesetz 60-PLUS-GRUPPE SPD-Politikern vermisst die gesellschaftliche Integra.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Akgün verweist aufs Grundgesetz 60-PLUS-GRUPPE SPD-Politikern vermisst die gesellschaftliche Integra.PDF,Akgün verweist aufs Grundgesetz 60-PLUS-GRUPPE SPD-Politikern vermisst die gesellschaftliche Integration,Kölner Stadt-Anzeiger,14. Januar 2016,JACQUELINE ROTHER,LE; S. 24,535,456,4166,False,,False,,,,,keep,core_event_or_context,c73623cc016d90134cb1e17278f50460260e9110,"VON JACQUELINE ROTHER 
+Cologne,Cologne,Cologne(113).ZIP,Akgün verweist aufs Grundgesetz 60-PLUS-GRUPPE SPD-Politikern vermisst die gesellschaftliche Integra.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Akgün verweist aufs Grundgesetz 60-PLUS-GRUPPE SPD-Politikern vermisst die gesellschaftliche Integra.PDF,Akgün verweist aufs Grundgesetz 60-PLUS-GRUPPE SPD-Politikern vermisst die gesellschaftliche Integration,akgün verweist aufs grundgesetz 60plusgruppe spdpolitikern vermisst die gesellschaftliche integration,Kölner Stadt-Anzeiger,kölner stadtanzeiger,14. Januar 2016,JACQUELINE ROTHER,LE; S. 24,456,3309,c73623cc016d90134cb1e17278f50460260e9110,,unique,keep,,no,,no,,,4166,no,,,,,"VON JACQUELINE ROTHER 
  ""Ich habe den Eindruck, dass niemand mehr empört ist"", bemängelte Vorsitzender Hans Klose am Dienstag beim 
 Treffen der 60-Plus-Gruppe der SPD. Eine ist es auf jeden Fall noch: Kölnerin, SPD-Mitglied und Muslimin Lale 
 Akgün. Sie war zu Gast bei den sozialdemokratischen Senioren im Kurt-Schumacher-Haus und diskutierte mit 
@@ -877,7 +877,7 @@ auch Handeln müssen. ""Deutschland hat den Ruf bekommen, es zähle nur Geld und
 international nicht mehr Ernst"", so Akgün. Das müsse sich ändern. 
  Nach der anregenden Veranstaltung versprach die SPD-Politiker, die auch für die Stadt Köln tätig ist, im Herbst 
 wiederzukommen, um zusehen, was aus der Situation geworden ist."
-Alles muss raus Reaktionen Nach den gewaltsamen und sexuellen Übergriffen in der Silvesternacht werd.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Alles muss raus Reaktionen Nach den gewaltsamen und sexuellen Übergriffen in der Silvesternacht werd.PDF,Alles muss raus Reaktionen Nach den gewaltsamen und sexuellen Übergriffen in der Silvesternacht werden die,"taz, die tageszeitung",Montag 11. Januar 2016,Pascal Beucker,SCHWERPUNKT; S. 3,807,682,7023,False,,False,,,,,keep,core_event_or_context,606a4b9c6905de610cc72870f5ea3f6fd033a28e,"von Pascal Beucker
+Cologne,Cologne,Cologne(113).ZIP,Alles muss raus Reaktionen Nach den gewaltsamen und sexuellen Übergriffen in der Silvesternacht werd.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Alles muss raus Reaktionen Nach den gewaltsamen und sexuellen Übergriffen in der Silvesternacht werd.PDF,Alles muss raus Reaktionen Nach den gewaltsamen und sexuellen Übergriffen in der Silvesternacht werden die,alles muss raus reaktionen nach den gewaltsamen und sexuellen übergriffen in der silvesternacht werden die,"taz, die tageszeitung",taz die tageszeitung,Montag 11. Januar 2016,Pascal Beucker,SCHWERPUNKT; S. 3,682,5032,606a4b9c6905de610cc72870f5ea3f6fd033a28e,,unique,keep,,no,,no,,,7023,no,,,,,"von Pascal Beucker
 Berlin taz | Die Vorfälle in der Silvesternacht am Kölner Hauptbahnhof werden jetzt auch Thema im Bundestag. 
 Dort soll entweder in einer Aktuellen Stunde oder in einer anderen Plenardebatte in dieser Woche über mögliche 
 Konsequenzen diskutiert werden. Offen ist derzeit noch, ob Bundeskanzlerin Angela Merkel (CDU) eine 
@@ -935,7 +935,7 @@ Nach aktuellem Ermittlungsstand liegen zu den Geschehnissen in Köln mittlerweil
 Köln und die Folgen
 Der Schrecken der Silvesternacht ist noch nicht aufgeklärt. Schon sollen Gesetze verschärft werden. Und 
 Rechtsextreme drehen durch"
-Anzeigen auch in Hamburg gestiegen ÜBERGRIFFE Auf St. Pauli kam es in der Silvesternacht zu ähnliche.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Anzeigen auch in Hamburg gestiegen ÜBERGRIFFE Auf St. Pauli kam es in der Silvesternacht zu ähnliche.PDF,Anzeigen auch in Hamburg gestiegen ÜBERGRIFFE Auf St. Pauli kam es in der Silvesternacht zu ähnlichen,"taz, die tageszeitung",Freitag 15. Januar 2016,Katharina Schipkowski,INLAND; S. 7,678,606,5849,False,,False,,,,,keep,core_event_or_context,a45fdaecb7d16ada29935fe7064adaa060b9f888,"von Katharina Schipkowski
+Cologne,Cologne,Cologne(113).ZIP,Anzeigen auch in Hamburg gestiegen ÜBERGRIFFE Auf St. Pauli kam es in der Silvesternacht zu ähnliche.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Anzeigen auch in Hamburg gestiegen ÜBERGRIFFE Auf St. Pauli kam es in der Silvesternacht zu ähnliche.PDF,Anzeigen auch in Hamburg gestiegen ÜBERGRIFFE Auf St. Pauli kam es in der Silvesternacht zu ähnlichen,anzeigen auch in hamburg gestiegen übergriffe auf st pauli kam es in der silvesternacht zu ähnlichen,"taz, die tageszeitung",taz die tageszeitung,Freitag 15. Januar 2016,Katharina Schipkowski,INLAND; S. 7,606,4262,a45fdaecb7d16ada29935fe7064adaa060b9f888,,unique,keep,,no,,no,,,5849,no,,,,,"von Katharina Schipkowski
 Als sich abzuzeichnen begann, dass sich in der Hamburger Silvesternacht Ähnliches ereignet hatte, war über die 
 Vorkommnisse um den Kölner Hauptbahnhof bereits international berichtet worden. Erst als JournalistInnen bei der 
 Hamburger Polizeipressestelle anriefen, gab die Polizei eine Meldung raus, in der sie potenzielle Opfer und 
@@ -980,21 +980,21 @@ entfesselten Sex-Mob , Sex-Gangstern und regelrechten Chroniken des Grauens ist 
 und in der Morgenpost die Rede. Wer so etwas tut, sollte abgeschoben werden , forderte der Erste Bürgermeister 
 Hamburgs Olaf Scholz (SPD).
 Frauen wurden von Männergruppen umzingelt"
-ARTIKEL(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\ARTIKEL(2).PDF,ARTIKEL,Kölnische Rundschau,09. Januar 2016,,POL; S. 2,55,43,619,False,,True,very_short,,,,drop,very_short_low_value,6b49ee7d99d25445ef95fe911c4d1a15e2fcc20f,"THEMA 
+Cologne,Cologne,Cologne(113).ZIP,ARTIKEL(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\ARTIKEL(2).PDF,ARTIKEL,artikel,Kölnische Rundschau,kölnische rundschau,09. Januar 2016,,POL; S. 2,43,314,6b49ee7d99d25445ef95fe911c4d1a15e2fcc20f,,unique,drop,very_short_low_value,no,,no,,,619,yes,very_short_low_value,,,,"THEMA 
  NACH DEM SILVESTER-SKANDAL 
  Nach und nach dringen Details der gewalttätigen Übergriffe in der Silvesternacht vor dem Kölner Hauptbahnhof 
 an die Öffentlichkeit. Ein einige Tage nach den Vorfällen bei Verdächtigen konfiszierter Zettel mit sexistischen 
 Sprüchen auf Deutsch und Arabisch sorgt für Aufsehen."
-ARTIKEL.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\ARTIKEL.PDF,ARTIKEL,Kölnische Rundschau,07. Januar 2016,Foto:dpa,POL; S. 2,22,16,425,False,,True,very_short,,,,drop,very_short_low_value,bcb894f2604b04c20e50d898b18e6ad790dfa6a1,"Silvesternacht vor dem Kölner Hauptbahnhof: Unbekannte zünden Böller inmitten der Menschenmenge auf der 
+Cologne,Cologne,Cologne(113).ZIP,ARTIKEL.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\ARTIKEL.PDF,ARTIKEL,artikel,Kölnische Rundschau,kölnische rundschau,07. Januar 2016,Foto:dpa,POL; S. 2,16,127,bcb894f2604b04c20e50d898b18e6ad790dfa6a1,,unique,drop,very_short_low_value,no,,no,,,425,yes,very_short_low_value,,,,"Silvesternacht vor dem Kölner Hauptbahnhof: Unbekannte zünden Böller inmitten der Menschenmenge auf der 
 Domtreppe. (Foto: dpa)"
-Asylbewerber verteilen Blumen an Odenthaler.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Asylbewerber verteilen Blumen an Odenthaler.PDF,Asylbewerber verteilen Blumen an Odenthaler,Kölner Stadt-Anzeiger,15. Januar 2016,dfk,RB; S. 31,127,107,1368,False,,True,very_short,,near_002,,drop,very_short_low_value,66b76c12826ba828f0621329ab4d91ebc67399c6,"Odenthal. Nach den Ereignissen in der Silvesternacht in Köln wollen Flüchtlinge am Samstag, 16. Januar, ein 
+Cologne,Cologne,Cologne(113).ZIP,Asylbewerber verteilen Blumen an Odenthaler.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Asylbewerber verteilen Blumen an Odenthaler.PDF,Asylbewerber verteilen Blumen an Odenthaler,asylbewerber verteilen blumen an odenthaler,Kölner Stadt-Anzeiger,kölner stadtanzeiger,15. Januar 2016,dfk,RB; S. 31,107,760,66b76c12826ba828f0621329ab4d91ebc67399c6,near_002,duplicate_near,drop,very_short_low_value,no,,no,,,1368,yes,very_short_low_value,,near_002,,"Odenthal. Nach den Ereignissen in der Silvesternacht in Köln wollen Flüchtlinge am Samstag, 16. Januar, ein 
 Zeichen setzen. Von 12 bis 14 Uhr werden etwa 40 Asylsuchende vor dem Rewe-Markt Blumen verteilen. Sie 
 wollen sich entschieden von den Übergriffen abgrenzen. Vor dem Kölner Hauptbahnhof waren in der Silvesternacht 
 zahlreiche Frauen sexuell belästigt worden; unter den Verdächtigen sind auch Asylbewerber. Die Botschaft lautet: 
 ""Wir sind nicht so wie die in Köln."" Deshalb wollen die Flüchtlinge auf die Bevölkerung zugehen, Blumen verteilen 
 und für eine differenzierte Betrachtung der Ereignisse in der Silvesternacht werben. Die Aktion wird von 
 Bürgermeister Robert Lennerts und der Gemeindeverwaltung ausdrücklich begrüßt und unterstützt. (dfk)"
-Asylbewerber verteilen Blumen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Asylbewerber verteilen Blumen.PDF,Asylbewerber verteilen Blumen,Kölnische Rundschau,15. Januar 2016,dfk,RRB-LOK; S. 35,146,123,1414,False,,False,,,near_002,,review,possible_near_duplicate,f25b3944ac6eb512d8644b9352977d70ea830fa1,"Odenthal. Nach den Ereignissen in der Silvesternacht in Köln wollen Flüchtlinge am Samstag, 16. Januar, ein 
+Cologne,Cologne,Cologne(113).ZIP,Asylbewerber verteilen Blumen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Asylbewerber verteilen Blumen.PDF,Asylbewerber verteilen Blumen,asylbewerber verteilen blumen,Kölnische Rundschau,kölnische rundschau,15. Januar 2016,dfk,RRB-LOK; S. 35,123,873,f25b3944ac6eb512d8644b9352977d70ea830fa1,near_002,duplicate_near,review,,no,,no,,,1414,no,,,near_002,,"Odenthal. Nach den Ereignissen in der Silvesternacht in Köln wollen Flüchtlinge am Samstag, 16. Januar, ein 
 Zeichen setzen. Von 12 bis 14 Uhr werden etwa 40 Asylsuchende vor dem Rewe-Markt Blumen verteilen. Sie 
 wollen mit der Aktion zum Ausdruck bringen, dass sie sich entschieden von den massiven Übergriffen auf Frauen, 
 Diebstähle und Gewalt abgrenzen. Vor dem Kölner Hauptbahnhof waren in der Silvesternacht zahlreiche Frauen 
@@ -1003,7 +1003,7 @@ sexuell belästigt worden; unter den Verdächtigen sind auch Asylbewerber.
 Odenthaler Bevölkerung zugehen, Blumen verteilen und für eine differenzierte Betrachtung der Ereignisse in der 
 Silvesternacht werben. Die Aktion wird von Bürgermeister Robert Lennerts und der Gemeindeverwaltung 
 ausdrücklich begrüßt und unterstützt. (dfk)"
-Azzouzi fürchtet pauschale Urteile nach Kölner Taten.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Azzouzi fürchtet pauschale Urteile nach Kölner Taten.PDF,Azzouzi fürchtet pauschale Urteile nach Kölner Taten,Rheinische Post,Samstag 9. Januar 2016,,SPORT,166,145,1634,False,,False,,,,,keep,core_event_or_context,26168bcfe312300dc3c79cd7c1f348aa59f1c049,"düsseldorf (jol) Die Übergriffe am Kölner Hauptbahnhof in der Silvesternacht beschäftigen auch den Profifußball. 
+Cologne,Cologne,Cologne(113).ZIP,Azzouzi fürchtet pauschale Urteile nach Kölner Taten.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Azzouzi fürchtet pauschale Urteile nach Kölner Taten.PDF,Azzouzi fürchtet pauschale Urteile nach Kölner Taten,azzouzi fürchtet pauschale urteile nach kölner taten,Rheinische Post,rheinische post,Samstag 9. Januar 2016,,SPORT,145,1010,26168bcfe312300dc3c79cd7c1f348aa59f1c049,,unique,keep,,no,,no,,,1634,no,,,,,"düsseldorf (jol) Die Übergriffe am Kölner Hauptbahnhof in der Silvesternacht beschäftigen auch den Profifußball. 
 Rachid Azzouzi, Sportdirektor des Zweitligisten Fortuna Düsseldorf, äußerte sich gegenüber unserer Redaktion 
 entsetzt über die Gewalt. ""Ich verurteile die Überfälle auf das Schärfste"", sagte der im marokkanischen Fez 
 geborene 44-Jährige. ""Noch weiß niemand, ob es sich bei den Tätern tatsächlich um Nordafrikaner handelt. Aber 
@@ -1013,7 +1013,7 @@ Verallgemeinerung sei. ""Natürlich besteht die Gefahr, dass alle arabisch ausse
 Kamm geschoren werden"", sagt Azzouzi. ""Das ist aber ein Problem, mit dem man als Nordafrikaner immer lebt. 
 Pauschalisierung fürchte ich nicht erst seit Köln."" Die Taten seien ""Wasser auf die Mühlen jener, die einen Kampf 
 der Kulturen ausrufen"" wollten."
-Beamte in Köln befürchteten Tote Leitender Bundespolizist spricht von Spießrutenlauf für die Frauen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Beamte in Köln befürchteten Tote Leitender Bundespolizist spricht von Spießrutenlauf für die Frauen.PDF,Beamte in Köln befürchteten Tote; Leitender Bundespolizist spricht von Spießrutenlauf für die Frauen / Merkel,Der Tagesspiegel,Freitag 8. Januar 2016,Frank Jansen und Hans Monath,TITEL; S. 1; Ausg. 22633,576,493,4897,False,,False,,,,,keep,core_event_or_context,58444620453d395a5b325670f0d48e308a9bea74,"Berlin - Die sexistischen Krawalle in der Silvesternacht am Kölner Hauptbahnhof haben Polizeikräfte als Ausbruch 
+Cologne,Cologne,Cologne(113).ZIP,Beamte in Köln befürchteten Tote Leitender Bundespolizist spricht von Spießrutenlauf für die Frauen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Beamte in Köln befürchteten Tote Leitender Bundespolizist spricht von Spießrutenlauf für die Frauen.PDF,Beamte in Köln befürchteten Tote; Leitender Bundespolizist spricht von Spießrutenlauf für die Frauen / Merkel,beamte in köln befürchteten tote leitender bundespolizist spricht von spiessrutenlauf für die frauen  merkel,Der Tagesspiegel,der tagesspiegel,Freitag 8. Januar 2016,Frank Jansen und Hans Monath,TITEL; S. 1; Ausg. 22633,493,3658,58444620453d395a5b325670f0d48e308a9bea74,,unique,keep,,no,,no,,,4897,no,,,,,"Berlin - Die sexistischen Krawalle in der Silvesternacht am Kölner Hauptbahnhof haben Polizeikräfte als Ausbruch 
 lebensgefährlicher Gewalt erlebt. Die Situation hätte zu erheblichen Verletzungen, ""wenn nicht sogar zu Toten 
 führen"" können, heißt es in einem vom 4. Januar datierten internen Bericht eines leitenden Beamten der 
 Bundespolizei. Er nennt in dem in der ""Bild"" abgedruckten und vom Bundespolizeipräsidium in Potsdam als echt 
@@ -1050,7 +1050,7 @@ es nur Einzelfälle sind"", betonte Merkel. Auch die SPD zeigt sich bereit zu Ge
 Regeln für die Ausweisung krimineller Migranten. ""Über eine Absenkung der Hürden für die Abschiebung müssen 
 wir nachdenken"", sagte SPD-Vizefraktionschefin Eva Högl dem Tagesspiegel. mit dpa
 Seiten 3, 4, 7, 8, 23 und Meinungsseite"
-Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in(2).PDF,"Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke ""sehr dünn"" - Viele Frauen wurden in der",Kölner Stadt-Anzeiger,04. Januar 2016,TIM STINAUER,BL; S. 2,1109,1006,7775,False,,False,,,near_003,variant_004,review,possible_near_duplicate,f6249edf097d96d122759f5d01cd26c95ef70ad0,"VON TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in(2).PDF,"Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke ""sehr dünn"" - Viele Frauen wurden in der",bundespolizei am bahnhof nicht mehr herr der lage personaldecke sehr dünn  viele frauen wurden in der,Kölner Stadt-Anzeiger,kölner stadtanzeiger,04. Januar 2016,TIM STINAUER,BL; S. 2,1006,6846,f6249edf097d96d122759f5d01cd26c95ef70ad0,variant_004,regional_variant,review,,no,,no,,,7775,no,,,near_003,variant_004,"VON TIM STINAUER 
  Köln. Angst, Tränen, Panik- immer wieder fallen diese Worte, wenn man Frauen zuhört, die von ihren 
 Erlebnissen aus der Silvesternacht am Kölner Hauptbahnhof berichten. Eine 22-Jährige schildert, sie habe auf dem 
 Weg in eine Diskothek die ganze Zeit eine Sektflasche fest umklammert, um sich im Zweifel damit wehren zu 
@@ -1131,7 +1131,7 @@ merken erst beim nächsten Einkauf oder zu Hause, dass eine beträchtliche Summe
 zuschlagen, verständigen sich die Diebe ohne Worte: Einer schleicht sich von hinten an das Opfer heran, der 
 zweite drückt den Not-Knopf. Die Rolltreppe kommt ruckartig zum Stehen. Den kurzen Moment der Verwirrung 
 nutzen die Täter aus. Oft sind ältere Menschen das Opfer, aber auch Touristen mit viel Gepäck oder Betrunkene."
-Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in.PDF,"Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke ""sehr dünn"" - Viele Frauen wurden in der",Kölner Stadt-Anzeiger,04. Januar 2016,TIM STINAUER,BL; S. 2,796,707,5933,False,,False,,,near_003,variant_004,review,possible_near_duplicate,f0feef94257eca5807197e1c3f7929d8de53d70f,"VON TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke _sehr dünn_ - Viele Frauen wurden in.PDF,"Bundespolizei am Bahnhof nicht mehr Herr der Lage Personaldecke ""sehr dünn"" - Viele Frauen wurden in der",bundespolizei am bahnhof nicht mehr herr der lage personaldecke sehr dünn  viele frauen wurden in der,Kölner Stadt-Anzeiger,kölner stadtanzeiger,04. Januar 2016,TIM STINAUER,BL; S. 2,707,4861,f0feef94257eca5807197e1c3f7929d8de53d70f,variant_004,regional_variant,review,,no,,no,,,5933,no,,,near_003,variant_004,"VON TIM STINAUER 
  Köln. Angst, Tränen, Panik- immer wieder fallen diese Worte, wenn man Frauen zuhört, die von ihren 
 Erlebnissen aus der Silvesternacht am Kölner Hauptbahnhof berichten. Eine 22-Jährige schildert, sie habe auf dem 
 Weg in eine Diskothek die ganze Zeit eine Sektflasche fest umklammert, um sich im Zweifel damit wehren zu 
@@ -1188,7 +1188,7 @@ sagte Krummen - auch wenn die Motivation seiner Kollegen noch hoch sei.
  des Neujahrstages 
  immer mehr Anzeigen bekommen 
  Polizeisprecherin"
-Das Grauen danach Die sexuellen Übergriffe und Diebstähle in der Silvesternacht in Köln haben großes.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Grauen danach Die sexuellen Übergriffe und Diebstähle in der Silvesternacht in Köln haben großes.PDF,Das Grauen danach Die sexuellen Übergriffe und Diebstähle in der Silvesternacht in Köln haben großes,Die Welt,Mittwoch 6. Januar 2016,Dirk Banse,POLITIK; Politik; S. 4; Ausg. 4,1480,1382,11535,False,,False,,,,,keep,core_event_or_context,a776fa6babd94006b98c939b2713f37ff4b17d6b,"Köln und Berlin
+Cologne,Cologne,Cologne(113).ZIP,Das Grauen danach Die sexuellen Übergriffe und Diebstähle in der Silvesternacht in Köln haben großes.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Grauen danach Die sexuellen Übergriffe und Diebstähle in der Silvesternacht in Köln haben großes.PDF,Das Grauen danach Die sexuellen Übergriffe und Diebstähle in der Silvesternacht in Köln haben großes,das grauen danach die sexuellen übergriffe und diebstähle in der silvesternacht in köln haben grosses,Die Welt,die welt,Mittwoch 6. Januar 2016,Dirk Banse,POLITIK; Politik; S. 4; Ausg. 4,1382,10123,a776fa6babd94006b98c939b2713f37ff4b17d6b,,unique,keep,,no,,no,,,11535,no,,,,,"Köln und Berlin
 Einem Eindruck wollte die Kölner Oberbürgermeisterin Henriette Reker (parteilos) unter allen Umständen die Wucht 
 nehmen. Dem Eindruck, dass die Gewalttaten in der Silvesternacht am Kölner Hauptbahnhof mit der 
 Flüchtlingssituation verknüpft sind. Es gebe keinen Hinweis, dass es sich bei den Tätern um Menschen handle, die 
@@ -1299,7 +1299,7 @@ Schild vor Taschendieben
 obe fux
 Oliver Berg
 Oliver Berg"
-Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(2).PDF,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der,Kölner Stadt-Anzeiger,12. Januar 2016,,BR; S. 37,1404,1235,9930,False,,False,,exact_002,,,drop,exact_duplicate,fd9aa18a5207c5b3d2543608921ad652414f654a,"Voller Verzweiflung 
+Cologne,Cologne,Cologne(113).ZIP,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(2).PDF,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der,das vertrauen in die schutzfunktion des staates ist futsch kriminalität zu den vorfällen in der,Kölner Stadt-Anzeiger,kölner stadtanzeiger,12. Januar 2016,,BR; S. 37,1235,8648,fd9aa18a5207c5b3d2543608921ad652414f654a,exact_002,duplicate_exact,review,,no,,no,,,9930,no,,exact_002,,,"Voller Verzweiflung 
  Stellt euch vor, ihr habt unbekannte und ungebetene Gäste aufgenommen. Ihr tut einiges, damit sich diese Gäste 
 bei euch wohlfühlen. Kaum habt ihr aber die Gäste für eine kurze Zeit allein gelassen, greifen manche von diesen 
 Gästen eure Familienmitglieder an. Genau das ist in Köln, Düsseldorf und Hamburg passiert. Ich bin vor mehr als 
@@ -1402,7 +1402,7 @@ kein Grund, in Zukunft keine Kritik an ihr üben zu können.
  E-Mail: leserbriefe@ksta.de 
  Leserbriefe sind keine Meinungsäußerungen der Redaktion. Briefe und E-Mails ohne Angabe von Name und 
 Adresse können nicht veröffentlicht werden. Bitte geben Sie für Rückfragen Ihre Nummer an."
-Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(3).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(3).PDF,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der,Kölner Stadt-Anzeiger,12. Januar 2016,,BR; S. 28,1404,1235,9930,False,,False,,exact_002,,,drop,exact_duplicate,fd9aa18a5207c5b3d2543608921ad652414f654a,"Voller Verzweiflung 
+Cologne,Cologne,Cologne(113).ZIP,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(3).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(3).PDF,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der,das vertrauen in die schutzfunktion des staates ist futsch kriminalität zu den vorfällen in der,Kölner Stadt-Anzeiger,kölner stadtanzeiger,12. Januar 2016,,BR; S. 28,1235,8648,fd9aa18a5207c5b3d2543608921ad652414f654a,exact_002,duplicate_exact,review,,no,,no,,,9930,no,,exact_002,,,"Voller Verzweiflung 
  Stellt euch vor, ihr habt unbekannte und ungebetene Gäste aufgenommen. Ihr tut einiges, damit sich diese Gäste 
 bei euch wohlfühlen. Kaum habt ihr aber die Gäste für eine kurze Zeit allein gelassen, greifen manche von diesen 
 Gästen eure Familienmitglieder an. Genau das ist in Köln, Düsseldorf und Hamburg passiert. Ich bin vor mehr als 
@@ -1505,7 +1505,7 @@ kein Grund, in Zukunft keine Kritik an ihr üben zu können.
  E-Mail: leserbriefe@ksta.de 
  Leserbriefe sind keine Meinungsäußerungen der Redaktion. Briefe und E-Mails ohne Angabe von Name und 
 Adresse können nicht veröffentlicht werden. Bitte geben Sie für Rückfragen Ihre Nummer an."
-Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(4).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(4).PDF,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der,Kölner Stadt-Anzeiger,12. Januar 2016,,BR; S. 34,1404,1235,9930,False,,False,,exact_002,,,drop,exact_duplicate,fd9aa18a5207c5b3d2543608921ad652414f654a,"Voller Verzweiflung 
+Cologne,Cologne,Cologne(113).ZIP,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(4).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv(4).PDF,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der,das vertrauen in die schutzfunktion des staates ist futsch kriminalität zu den vorfällen in der,Kölner Stadt-Anzeiger,kölner stadtanzeiger,12. Januar 2016,,BR; S. 34,1235,8648,fd9aa18a5207c5b3d2543608921ad652414f654a,exact_002,duplicate_exact,review,,no,,no,,,9930,no,,exact_002,,,"Voller Verzweiflung 
  Stellt euch vor, ihr habt unbekannte und ungebetene Gäste aufgenommen. Ihr tut einiges, damit sich diese Gäste 
 bei euch wohlfühlen. Kaum habt ihr aber die Gäste für eine kurze Zeit allein gelassen, greifen manche von diesen 
 Gästen eure Familienmitglieder an. Genau das ist in Köln, Düsseldorf und Hamburg passiert. Ich bin vor mehr als 
@@ -1608,7 +1608,7 @@ kein Grund, in Zukunft keine Kritik an ihr üben zu können.
  E-Mail: leserbriefe@ksta.de 
  Leserbriefe sind keine Meinungsäußerungen der Redaktion. Briefe und E-Mails ohne Angabe von Name und 
 Adresse können nicht veröffentlicht werden. Bitte geben Sie für Rückfragen Ihre Nummer an."
-Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv.PDF,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der,Kölner Stadt-Anzeiger,12. Januar 2016,,BR; S. 35,1404,1235,9930,False,,False,,exact_002,,,drop,exact_duplicate,fd9aa18a5207c5b3d2543608921ad652414f654a,"Voller Verzweiflung 
+Cologne,Cologne,Cologne(113).ZIP,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der Silv.PDF,Das Vertrauen in die Schutzfunktion des Staates ist futsch KRIMINALITÄT Zu den Vorfällen in der,das vertrauen in die schutzfunktion des staates ist futsch kriminalität zu den vorfällen in der,Kölner Stadt-Anzeiger,kölner stadtanzeiger,12. Januar 2016,,BR; S. 35,1235,8648,fd9aa18a5207c5b3d2543608921ad652414f654a,exact_002,duplicate_exact,review,,no,,no,,,9930,no,,exact_002,,,"Voller Verzweiflung 
  Stellt euch vor, ihr habt unbekannte und ungebetene Gäste aufgenommen. Ihr tut einiges, damit sich diese Gäste 
 bei euch wohlfühlen. Kaum habt ihr aber die Gäste für eine kurze Zeit allein gelassen, greifen manche von diesen 
 Gästen eure Familienmitglieder an. Genau das ist in Köln, Düsseldorf und Hamburg passiert. Ich bin vor mehr als 
@@ -1711,7 +1711,7 @@ kein Grund, in Zukunft keine Kritik an ihr üben zu können.
  E-Mail: leserbriefe@ksta.de 
  Leserbriefe sind keine Meinungsäußerungen der Redaktion. Briefe und E-Mails ohne Angabe von Name und 
 Adresse können nicht veröffentlicht werden. Bitte geben Sie für Rückfragen Ihre Nummer an."
-"Den Tätern drohen hohe Strafen Einzelnen Personen Übergriffe nachzuweisen, wird aber schwierig.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Den Tätern drohen hohe Strafen Einzelnen Personen Übergriffe nachzuweisen, wird aber schwierig.PDF","Den Tätern drohen hohe Strafen Einzelnen Personen Übergriffe nachzuweisen, wird aber schwierig",Kölner Stadt-Anzeiger,08. Januar 2016,TANJA BRANDES,BL; S. 3,467,390,3908,False,,False,,,,,keep,core_event_or_context,3950df6f0e45242327ac21b7152104cd792df39f,"VON TANJA BRANDES 
+Cologne,Cologne,Cologne(113).ZIP,"Den Tätern drohen hohe Strafen Einzelnen Personen Übergriffe nachzuweisen, wird aber schwierig.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Den Tätern drohen hohe Strafen Einzelnen Personen Übergriffe nachzuweisen, wird aber schwierig.PDF","Den Tätern drohen hohe Strafen Einzelnen Personen Übergriffe nachzuweisen, wird aber schwierig",den tätern drohen hohe strafen einzelnen personen übergriffe nachzuweisen wird aber schwierig,Kölner Stadt-Anzeiger,kölner stadtanzeiger,08. Januar 2016,TANJA BRANDES,BL; S. 3,390,2884,3950df6f0e45242327ac21b7152104cd792df39f,,unique,keep,,no,,no,,,3908,no,,,,,"VON TANJA BRANDES 
  Angesichts der Übergriffe am Kölner Hauptbahnhof werden die Stimmen lauter, die eine schnellere Abschiebung 
 von ausländischen Straftätern fordern. Eine ""harte Antwort des Rechtsstaats"" wird verlangt. Doch Paragraf 60 des 
 Aufenthaltsgesetzes verbietet die Abschiebung eines anerkannten Flüchtlings in einen unsicheren Staat - es sei 
@@ -1742,7 +1742,7 @@ einem Gerichtsverfahren ist ein Zeuge aber oft das unsicherste Beweismittel"", s
 überrascht, wenn viele Opfer sich nach derartigen Übergriffen nicht mehr genau an die Täter der Silvesternacht 
 erinnern - jedenfalls nicht genau genug, um sie bei einer Gegenüberstellung glaubhaft eindeutig identifizieren zu 
 können."""
-Der Aufschrei SILVESTERATTACKEN Nach den Angriffen auf Frauen in Köln sprechen Bundesminister von  n.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Der Aufschrei SILVESTERATTACKEN Nach den Angriffen auf Frauen in Köln sprechen Bundesminister von  n.PDF,Der Aufschrei SILVESTERATTACKEN Nach den Angriffen auf Frauen in Köln sprechen Bundesminister von,"taz, die tageszeitung",Mittwoch 06. Januar 2016,,SEITE 1; S. 1,385,333,4081,False,,False,,,,,keep,core_event_or_context,07fa781b80c05b2fcecbc521517a0f9bf26262f3,"BERLIN taz/dpa | Die massiven Übergriffe auf Frauen am Kölner Hauptbahnhof in der Silvesternacht haben 
+Cologne,Cologne,Cologne(113).ZIP,Der Aufschrei SILVESTERATTACKEN Nach den Angriffen auf Frauen in Köln sprechen Bundesminister von  n.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Der Aufschrei SILVESTERATTACKEN Nach den Angriffen auf Frauen in Köln sprechen Bundesminister von  n.PDF,Der Aufschrei SILVESTERATTACKEN Nach den Angriffen auf Frauen in Köln sprechen Bundesminister von,der aufschrei silvesterattacken nach den angriffen auf frauen in köln sprechen bundesminister von,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 06. Januar 2016,,SEITE 1; S. 1,333,2484,07fa781b80c05b2fcecbc521517a0f9bf26262f3,,unique,keep,,no,,no,,,4081,no,,,,,"BERLIN taz/dpa | Die massiven Übergriffe auf Frauen am Kölner Hauptbahnhof in der Silvesternacht haben 
 bundesweit für Empörung gesorgt. Bundesjustizminister Heiko Maas (SPD) forderte eine umfassende Aufklärung 
 und warnte zugleich davor, die Vorfälle mit der Flüchtlingsdebatte zu vermischen.
  Jetzt geht es darum, die Fakten aufzuklären und daraus auch die notwendigen Schlüsse zu ziehen , sagte Maas. 
@@ -1770,7 +1770,7 @@ fragt auf Facebook: Ist Ihnen nach der Welle an Straftaten und sexuellen Übergr
 weltoffen genug, Frau Merkel? SAM
  Schwerpunkt SEITE 3
  Gesellschaft + Kultur SEITE 14"
-Der Hass im Netz ist ein Zeichen von Schwäche.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Der Hass im Netz ist ein Zeichen von Schwäche.PDF,Der Hass im Netz ist ein Zeichen von Schwäche,Rheinische Post,Samstag 16. Januar 2016,,POLITIK,461,416,3719,False,,False,,,,,keep,core_event_or_context,965f3950392fed5a5b6d8b2218c0e3f69138c051,"Gott und die Welt
+Cologne,Cologne,Cologne(113).ZIP,Der Hass im Netz ist ein Zeichen von Schwäche.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Der Hass im Netz ist ein Zeichen von Schwäche.PDF,Der Hass im Netz ist ein Zeichen von Schwäche,der hass im netz ist ein zeichen von schwäche,Rheinische Post,rheinische post,Samstag 16. Januar 2016,,POLITIK,416,2841,965f3950392fed5a5b6d8b2218c0e3f69138c051,,unique,keep,,no,,no,,,3719,no,,,,,"Gott und die Welt
 Wenn ich lese, was manche Menschen in den sozialen Netzwerken schreiben, dann kommt mir manchmal der Satz 
 Jesu am Kreuz in den Sinn: ""Vater, vergib ihnen, denn sie wissen nicht, was sie tun."" Auch jetzt, nach den 
 entsetzlichen Übergriffen auf Frauen in der Silvesternacht am Kölner Hauptbahnhof, kochen die Emotionen bei 
@@ -1801,7 +1801,7 @@ Der Kölner Erzbischof Rainer Maria Kardinal Woelki schreibt hier an jedem dritt
 Meinung? Schreiben Sie unserem Autor: kolumne@rheinische-post.de
 Es ist billig und leicht, in den sozialen Netzwerken Hass zu verbreiten. Derzeit vor allem gegen Flüchtlinge. Oft sind 
 solche Kommentare ein Zeichen völliger Enthemmung und des Verlustes jeglicher Zivilisiertheit."
-Die Armlänge und die Angst.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Armlänge und die Angst.PDF,Die Armlänge und die Angst,Die Welt,Dienstag 12. Januar 2016,Gerrit-freya Klebe,FORUM; Gastkommentar; S. 2; Ausg. 9,427,421,3234,False,,True,opinion_or_commentary,,,,drop,commentary_not_core_event_report,1de481cf5dee1ccb26e79991e41de457bbdc185f,"Pass auf dich auf!"", sagte meine Freundin zu mir. Dann winkte sie noch einmal und machte die Tür hinter sich zu. 
+Cologne,Cologne,Cologne(113).ZIP,Die Armlänge und die Angst.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Armlänge und die Angst.PDF,Die Armlänge und die Angst,die armlänge und die angst,Die Welt,die welt,Dienstag 12. Januar 2016,Gerrit-freya Klebe,FORUM; Gastkommentar; S. 2; Ausg. 9,421,2649,1de481cf5dee1ccb26e79991e41de457bbdc185f,,unique,drop,commentary_noncore,no,,no,,,3234,yes,commentary_noncore,,,,"Pass auf dich auf!"", sagte meine Freundin zu mir. Dann winkte sie noch einmal und machte die Tür hinter sich zu. 
 Ihre Worte hallten in meinem Kopf nach. Wir hatten an dem Abend viel geredet. Auch über Köln. Die Stadt ist per 
 Luftlinie fast 500 Kilometer von Berlin entfernt. Doch die Erschütterung ist auch hier zu spüren. Ich muss an die 
 Frauen denken, die in der Silvesternacht am Kölner Hauptbahnhof waren. Sie wollten einen schönen Abend 
@@ -1833,7 +1833,7 @@ Original Gesamtseiten-PDF
 Graphic
  
 GERRIT-FREYA KLEBE"
-Die Bürger in Oberberg rüsten auf Händler verkaufen deutlich mehr Reizgas und Gaspistolen - Kleiner.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Bürger in Oberberg rüsten auf Händler verkaufen deutlich mehr Reizgas und Gaspistolen - Kleiner.PDF,Die Bürger in Oberberg rüsten auf Händler verkaufen deutlich mehr Reizgas und Gaspistolen - Kleiner,Kölnische Rundschau,14. Januar 2016,Torsten Sülzer,RON-LOK; S. 32,714,603,5273,False,,False,,,,,keep,core_event_or_context,a4ff56a35c74b25826293d1a7a9d4deb83cbaf52,"Von Torsten Sülzer und Niklas Pinner 
+Cologne,Cologne,Cologne(113).ZIP,Die Bürger in Oberberg rüsten auf Händler verkaufen deutlich mehr Reizgas und Gaspistolen - Kleiner.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Bürger in Oberberg rüsten auf Händler verkaufen deutlich mehr Reizgas und Gaspistolen - Kleiner.PDF,Die Bürger in Oberberg rüsten auf Händler verkaufen deutlich mehr Reizgas und Gaspistolen - Kleiner,die bürger in oberberg rüsten auf händler verkaufen deutlich mehr reizgas und gaspistolen  kleiner,Kölnische Rundschau,kölnische rundschau,14. Januar 2016,Torsten Sülzer,RON-LOK; S. 32,603,4351,a4ff56a35c74b25826293d1a7a9d4deb83cbaf52,,unique,keep,,no,,no,,,5273,no,,,,,"Von Torsten Sülzer und Niklas Pinner 
  Wipperfürth/Oberberg. Die Bürger rüsten auch im Bergischen Land auf: Nach den Ereignisse in der 
 Silvesternacht am Kölner Hauptbahnhof verkaufen die Händler in Oberberg zum Beispiel deutlich mehr 
 Pfefferspray, aber auch Gaspistolen und -Revolver werden stärker nachgefragt. Das berichten der Gummersbacher 
@@ -1883,7 +1883,7 @@ führt, begeht eine Straftat, die mit Freiheitsstrafe bis zu drei Jahren oder Ge
 der Polizei raten allerdings vom Gebrauch ebenso ab wie von dem des viel verkauften Pfeffersprays: Es bestehe 
 die Gefahr, selber zum Opfer dieser Waffen zu werden, wenn sich der Angreifer des Elektroschockers oder des 
 Pfeffersprays bemächtige."
-Die ganze Wahrheit muss an die Öffentlichkeit.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die ganze Wahrheit muss an die Öffentlichkeit.PDF,Die ganze Wahrheit muss an die Öffentlichkeit,Kölnische Rundschau,12. Januar 2016,,BR; S. 22,915,756,6342,False,,False,,,,,keep,core_event_or_context,c8f472f1caa5442e7ad110b1f350eca527591fa1,"Weitere Stimmen zu den Ereignissen in der Silvesternacht am Kölner Hauptbahnhof. 
+Cologne,Cologne,Cologne(113).ZIP,Die ganze Wahrheit muss an die Öffentlichkeit.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die ganze Wahrheit muss an die Öffentlichkeit.PDF,Die ganze Wahrheit muss an die Öffentlichkeit,die ganze wahrheit muss an die öffentlichkeit,Kölnische Rundschau,kölnische rundschau,12. Januar 2016,,BR; S. 22,756,5435,c8f472f1caa5442e7ad110b1f350eca527591fa1,,unique,keep,,no,,no,,,6342,no,,,,,"Weitere Stimmen zu den Ereignissen in der Silvesternacht am Kölner Hauptbahnhof. 
  Fakt ist, dass man es den Opfern und der Bevölkerung schuldig ist, die Wahrheit über die Ausschreitungen und 
 die Täter schonungslos an die Öffentlichkeit zu bringen. Alles andere ist eines freien Rechtsstaates und 
 demokratischen Landes unwürdig. Für mich bedeuten die Vorgänge einen eklatanten Vertrauensverlust in die 
@@ -1947,7 +1947,7 @@ ein, dass die Idylle zerstört wird.
  Es ist, als ob die Angst vor dem Nicht-sagen-dürfen verschwindet. Darauf bin ich gespannt. Es ist wie ein 
 aufatmen. Die Fenster werden aufgestoßen. Frische Luft zieht den Mief weg. 
  Leonhard Schmitz"
-Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner(2).PDF,Die Kapitulation der Sicherheitsorgane; KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner,Kölner Stadt-Anzeiger,08. Januar 2016,,BR; S. 9,2299,1993,15254,False,,False,,exact_003,,,drop,exact_duplicate,3f53d54f5b04a90c8f04611aab52a697508780d2,"Züge geentert 
+Cologne,Cologne,Cologne(113).ZIP,Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner(2).PDF,Die Kapitulation der Sicherheitsorgane; KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner,die kapitulation der sicherheitsorgane kriminalität zu den vorfällen in der silvesternacht am kölner,Kölner Stadt-Anzeiger,kölner stadtanzeiger,08. Januar 2016,,BR; S. 9,1993,14313,3f53d54f5b04a90c8f04611aab52a697508780d2,exact_003,duplicate_exact,review,,no,,no,,,15254,no,,exact_003,,,"Züge geentert 
  Mein Mann und ich hatten auf einem der Partyschiffe mit Freunden eine schöne Feier erlebt. Wir haben uns 
 verabschiedet und sind zu den Bahnsteigen gegangen, wo sich ganze Horden von Ausländern befanden, die Züge 
 enterten, um von innen immer wieder die Türen zu öffnen und sich in die Eingänge zu stellen, so dass der Zug nicht 
@@ -2113,7 +2113,7 @@ Adresse können nicht veröffentlicht werden. Bitte geben Sie für Rückfragen I
  Warum hört man nicht den Menschen zu, die tagtäglich mit der Lebenswirklichkeit konfrontiert werden; es gibt 
 genügend praxiserprobte Fachleute 
  Dr. Ulrich Blumentritt, Köln"
-Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner.PDF,Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner,Kölner Stadt-Anzeiger,08. Januar 2016,,BR; S. 9,2299,1993,15215,False,,False,,exact_003,,,drop,exact_duplicate,3f53d54f5b04a90c8f04611aab52a697508780d2,"Züge geentert 
+Cologne,Cologne,Cologne(113).ZIP,Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner.PDF,Die Kapitulation der Sicherheitsorgane KRIMINALITÄT Zu den Vorfällen in der Silvesternacht am Kölner,die kapitulation der sicherheitsorgane kriminalität zu den vorfällen in der silvesternacht am kölner,Kölner Stadt-Anzeiger,kölner stadtanzeiger,08. Januar 2016,,BR; S. 9,1993,14309,3f53d54f5b04a90c8f04611aab52a697508780d2,exact_003,duplicate_exact,review,,no,,no,,,15215,no,,exact_003,,,"Züge geentert 
  Mein Mann und ich hatten auf einem der Partyschiffe mit Freunden eine schöne Feier erlebt. Wir haben uns 
 verabschiedet und sind zu den Bahnsteigen gegangen, wo sich ganze Horden von Ausländern befanden, die Züge 
 enterten, um von innen immer wieder die Türen zu öffnen und sich in die Eingänge zu stellen, so dass der Zug nicht 
@@ -2279,7 +2279,7 @@ Adresse können nicht veröffentlicht werden. Bitte geben Sie für Rückfragen I
  Warum hört man nicht den Menschen zu, die tagtäglich mit der Lebenswirklichkeit konfrontiert werden; es gibt 
 genügend praxiserprobte Fachleute 
  Dr. Ulrich Blumentritt, Köln"
-Die Polizei braucht mehr Rückendeckung.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Polizei braucht mehr Rückendeckung.PDF,Die Polizei braucht mehr Rückendeckung,Kölnische Rundschau,14. Januar 2016,,BR; S. 15,1019,848,6767,False,,False,,,,,keep,core_event_or_context,c63ed647fba3a0f3b915a0ee79693ddad5e81183,"Leser zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof. 
+Cologne,Cologne,Cologne(113).ZIP,Die Polizei braucht mehr Rückendeckung.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Polizei braucht mehr Rückendeckung.PDF,Die Polizei braucht mehr Rückendeckung,die polizei braucht mehr rückendeckung,Kölnische Rundschau,kölnische rundschau,14. Januar 2016,,BR; S. 15,848,6107,c63ed647fba3a0f3b915a0ee79693ddad5e81183,,unique,keep,,no,,no,,,6767,no,,,,,"Leser zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof. 
  Unser Volk hat es gelernt, Konflikte auszuhalten. In einer Demokratie darf man aber sicher erwarten, dass der 
 gutwillige Bürger nicht ständig belogen und ihm die Wahrheit vorenthalten wird. Wir haben eine gute, bürgernahe 
 Polizei, aber eine schlechte, heuchlerische Führung: Seit Jahren darf die Polizei aus politischen Gründen nicht 
@@ -2348,7 +2348,7 @@ verantwortlich. Sie wird zum politischen Bauernopfer für eine fehlgeleitete Pol
 Steuerzahler kostet. Hier wird der falsche Mann freigesetzt. 
  Klaus Koldert 
 Die Polizei braucht mehr Rückendeckung"
-Die Übergriffe an Silvester in Köln erschüttern die Bürger.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Übergriffe an Silvester in Köln erschüttern die Bürger.PDF,Die Übergriffe an Silvester in Köln erschüttern die Bürger,Kölnische Rundschau,09. Januar 2016,,BR; S. 41,1449,1214,9397,False,,False,,,,,keep,core_event_or_context,9fdeb11667acca36064f211d5b244558b9423cb2,"Weitere Leser zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof. 
+Cologne,Cologne,Cologne(113).ZIP,Die Übergriffe an Silvester in Köln erschüttern die Bürger.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Die Übergriffe an Silvester in Köln erschüttern die Bürger.PDF,Die Übergriffe an Silvester in Köln erschüttern die Bürger,die übergriffe an silvester in köln erschüttern die bürger,Kölnische Rundschau,kölnische rundschau,09. Januar 2016,,BR; S. 41,1214,8650,9fdeb11667acca36064f211d5b244558b9423cb2,,unique,keep,,no,,no,,,9397,no,,,,,"Weitere Leser zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof. 
  Die Vorfälle in der Silvesternacht vor dem Kölner Hauptbahnhof finde ich erschreckend. Die ganze Reaktion 
 dazu finde ich unsäglich. Mir platzt gleich der Kragen. 1000 junge Männer aus, wie man weiß, Nordafrika und dem 
 arabischen Raum werden derart kriminell. Und was passiert dann? Die Polizei wird angegriffen, sie habe versagt. 
@@ -2452,7 +2452,7 @@ diesen Bereich. Wo war denn unsere Polizei, wo war ihr Einsatz, wo war ihr Schut
 die richtigen Worte. 
  Frau Reker, Frau Merkel und die übrigen Abgeordneten: Tun Sie endlich was, so schaffen wir das nicht. 
  C. Fränke"
-Drohanrufe und Hassmails.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Drohanrufe und Hassmails.PDF,Drohanrufe und Hassmails,Berliner Zeitung,11. Januar 2016,JÖRG WIMALASENA,POL; S. 4,508,420,3964,False,,False,,,,,keep,core_event_or_context,1317d71eeb3d626a9e2ccd8bf6e0e52b21949b31,"VON JÖRG WIMALASENA 
+Cologne,Cologne,Cologne(113).ZIP,Drohanrufe und Hassmails.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Drohanrufe und Hassmails.PDF,Drohanrufe und Hassmails,drohanrufe und hassmails,Berliner Zeitung,berliner zeitung,11. Januar 2016,JÖRG WIMALASENA,POL; S. 4,420,3057,1317d71eeb3d626a9e2ccd8bf6e0e52b21949b31,,unique,keep,,no,,no,,,3964,no,,,,,"VON JÖRG WIMALASENA 
  Nach den sexuellen Angriffen auf Frauen am Kölner Hauptbahnhof in der Silvesternacht spüren 
 Flüchtlingsorganisationen und Islamverbände, wie sich die Stimmung der Bevölkerung gegenüber Migranten und 
 Muslimen in Deutschland verschlechtert. Der Vorsitzende des Zentralrats der Muslime, Aiman Mazyek, sagte der 
@@ -2485,7 +2485,7 @@ betreten. ""Das hat sich seit einer Woche deutlich verschärft.""
 über die Angriffe sich in Ablehnung gegenüber Flüchtlingen auch in Deutschland äußern könnte. Doch der Zulauf 
 an freiwilligen Helfern und Unterstützern habe nicht abgenommen, ""die Willkommenskultur ist stark genug"". Er 
 hoffe, dass auch nach den Ereignissen in Köln die Hilfsbereitschaft nicht sinken werde. (mit epd)"
-Ein Rücktritt mit Anlauf.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Ein Rücktritt mit Anlauf.PDF,Ein Rücktritt mit Anlauf,Rheinische Post,Samstag 9. Januar 2016,christian schwerdtfeger und reinhard kowalewsky,LAND UND LEUTE,1001,862,6865,False,,False,,,,,keep,core_event_or_context,e62d87f6541d1072484479eeb363f3d68eda6a35,"christian schwerdtfeger und reinhard kowalewsky
+Cologne,Cologne,Cologne(113).ZIP,Ein Rücktritt mit Anlauf.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Ein Rücktritt mit Anlauf.PDF,Ein Rücktritt mit Anlauf,ein rücktritt mit anlauf,Rheinische Post,rheinische post,Samstag 9. Januar 2016,christian schwerdtfeger und reinhard kowalewsky,LAND UND LEUTE,862,6095,e62d87f6541d1072484479eeb363f3d68eda6a35,,unique,keep,,no,,no,,,6865,no,,,,,"christian schwerdtfeger und reinhard kowalewsky
 Köln In Wolfgang Albers kargem Besprechungszimmer in der fünften Etage des Kölner Polizeipräsidiums hängen 
 die Führungsleitsätze der Polizei an der Wand. Einer davon lautet: ""Unangemessenes Auftreten und Verhalten 
 sprechen wir an."" Ein Satz, dem sich der 59-Jährige stets verpflichtet gefühlt hat. Doch genau an diese Maxime, so 
@@ -2551,7 +2551,7 @@ an.""
 ""Herr Albers hat für meine Entscheidung Verständnis aufgebracht. Das verdient Respekt.""
 Ralf Jäger
 NRW-Innenminister"
-Eindeutigen Zettel sichergestellt Fahnder finden belastendes Material bei Kontrollierten - Spuren fü.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Eindeutigen Zettel sichergestellt Fahnder finden belastendes Material bei Kontrollierten - Spuren fü.PDF,Eindeutigen Zettel sichergestellt; Fahnder finden belastendes Material bei Kontrollierten - Spuren führen auch,Kölner Stadt-Anzeiger,09. Januar 2016,TIM STINAUER,BL; S. 3,900,742,6763,False,,False,,,,,keep,core_event_or_context,2047b2e4bf5c13fdb12e781ae06c18f6f78f5d2d,"VON TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,Eindeutigen Zettel sichergestellt Fahnder finden belastendes Material bei Kontrollierten - Spuren fü.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Eindeutigen Zettel sichergestellt Fahnder finden belastendes Material bei Kontrollierten - Spuren fü.PDF,Eindeutigen Zettel sichergestellt; Fahnder finden belastendes Material bei Kontrollierten - Spuren führen auch,eindeutigen zettel sichergestellt fahnder finden belastendes material bei kontrollierten  spuren führen auch,Kölner Stadt-Anzeiger,kölner stadtanzeiger,09. Januar 2016,TIM STINAUER,BL; S. 3,742,5475,2047b2e4bf5c13fdb12e781ae06c18f6f78f5d2d,,unique,keep,,no,,no,,,6763,no,,,,,"VON TIM STINAUER 
  Köln. Es ist kurz nach Mitternacht am Freitag, als Zivilfahnder der Polizei zwei junge Männer auf dem 
 Bahnhofsvorplatz erspähen, die ihnen verdächtig vorkommen. Sie entscheiden sich, die beiden zu kontrollieren - 
 und landen einen Treffer. 
@@ -2610,7 +2610,7 @@ in Köln sieht das Bild ähnlich aus. Wichtig sei laut Meinhard, sich vor dem Ka
 CS-Gas in die Tasche stecken, ein extrem lautes Alarm-Gerät oder eine spezielle Blend-Lampe. (dpa) 
  Die Kölner Polizei verfolgt Spuren in ein Flüchtlingsheim 
  Die Ermittlungsgruppe Neujahr wurde auf 100 Beamte aufgestockt"
-Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch(2).PDF,"Ermittlungen gestalten sich schwierig; Sonderkommission ""Neujahr"" wertet alle verfügbaren Videomitschnitte",Kölner Stadt-Anzeiger,07. Januar 2016,FABIAN KLASK,BL; S. 3,465,404,4159,False,,False,,,,variant_005,review,possible_regional_variant,c5e217ba03545455e8b432da85bfacf2f21da7f0,"VON FABIAN KLASK 
+Cologne,Cologne,Cologne(113).ZIP,Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch(2).PDF,"Ermittlungen gestalten sich schwierig; Sonderkommission ""Neujahr"" wertet alle verfügbaren Videomitschnitte",ermittlungen gestalten sich schwierig sonderkommission neujahr wertet alle verfügbaren videomitschnitte,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,FABIAN KLASK,BL; S. 3,404,2885,c5e217ba03545455e8b432da85bfacf2f21da7f0,variant_005,regional_variant,review,,no,,no,,,4159,no,,,,variant_005,"VON FABIAN KLASK 
  Düsseldorf. Offenbar gibt es eine erste Spur zu jenen jungen Männern, die in der Silvesternacht an den 
 massiven sexuellen Übergriffen auf Frauen am Kölner Hauptbahnhof beteiligt waren. Bis zu sieben Personen 
 gelten inzwischen als Tatverdächtige. Zwei Männer waren der Polizei noch am Neujahrsmorgen in Bahnhofsnähe 
@@ -2641,7 +2641,7 @@ die Mitverantwortung des Bundes: ""Es gab Übergriffe sowohl im Zuständigkeitsb
 auch der Bundespolizei"", sagte er. Es sei daher eine Frage des Stils, ob man sich ""ohne Detailkenntnisse"" zu 
 Einsätzen anderer Behörden äußere. "" De Maizière hatte gesagt, so wie in der Kölner Silvesternacht könne die 
 Polizei nicht arbeiten."
-Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch.PDF,"Ermittlungen gestalten sich schwierig Sonderkommission ""Neujahr"" wertet alle verfügbaren Videomitschnitte",Kölner Stadt-Anzeiger,07. Januar 2016,FABIAN KLASK,BL; S. 3,464,397,4023,False,,False,,,,variant_005,review,possible_regional_variant,9cd4688393c98fa884cb4d785eb8483522f43424,"VON FABIAN KLASK 
+Cologne,Cologne,Cologne(113).ZIP,Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Ermittlungen gestalten sich schwierig Sonderkommission _Neujahr_ wertet alle verfügbaren Videomitsch.PDF,"Ermittlungen gestalten sich schwierig Sonderkommission ""Neujahr"" wertet alle verfügbaren Videomitschnitte",ermittlungen gestalten sich schwierig sonderkommission neujahr wertet alle verfügbaren videomitschnitte,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,FABIAN KLASK,BL; S. 3,397,2871,9cd4688393c98fa884cb4d785eb8483522f43424,variant_005,regional_variant,review,,no,,no,,,4023,no,,,,variant_005,"VON FABIAN KLASK 
  Düsseldorf. Offenbar gibt es eine erste Spur zu jenen jungen Männern, die in der Silvesternacht an den 
 massiven sexuellen Übergriffen auf Frauen am Kölner Hauptbahnhof beteiligt waren. Die Polizei habe inzwischen 
 drei Tatverdächtige ermittelt, sagte NRW-Innenminister Ralf Jäger (SPD) am Mittwoch in Düsseldorf. Nach 
@@ -2674,7 +2674,7 @@ Mitverantwortung des Bundes: ""Es gab Übergriffe sowohl im Zuständigkeitsberei
 der Bundespolizei"", sagte er. Es sei daher eine Frage des Stils, ob man sich ""ohne Detailkenntnisse"" zu Einsätzen 
 anderer Behörden äußere. De Maizière hatte gesagt, so wie in der Kölner Silvesternacht könne die Polizei nicht 
 arbeiten."
-Fassungslosigkeit über Gewalt in Köln In der Silvesternacht wurden zahlreiche Frauen sexuell belästi.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Fassungslosigkeit über Gewalt in Köln In der Silvesternacht wurden zahlreiche Frauen sexuell belästi.PDF,Fassungslosigkeit über Gewalt in Köln In der Silvesternacht wurden zahlreiche Frauen sexuell belästigt. 1 000,Berliner Zeitung,05. Januar 2016,CLAUDIA HAUSER,POL; S. 4,681,601,5324,False,,False,,,,,keep,core_event_or_context,2a4686c8d1af41349b9d848d250ff995a30c9931,"VON CLAUDIA HAUSER, TOBIAS CHRIST UND FABIAN KLASK 
+Cologne,Cologne,Cologne(113).ZIP,Fassungslosigkeit über Gewalt in Köln In der Silvesternacht wurden zahlreiche Frauen sexuell belästi.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Fassungslosigkeit über Gewalt in Köln In der Silvesternacht wurden zahlreiche Frauen sexuell belästi.PDF,Fassungslosigkeit über Gewalt in Köln In der Silvesternacht wurden zahlreiche Frauen sexuell belästigt. 1 000,fassungslosigkeit über gewalt in köln in der silvesternacht wurden zahlreiche frauen sexuell belästigt 1 000,Berliner Zeitung,berliner zeitung,05. Januar 2016,CLAUDIA HAUSER,POL; S. 4,601,4215,2a4686c8d1af41349b9d848d250ff995a30c9931,,unique,keep,,no,,no,,,5324,no,,,,,"VON CLAUDIA HAUSER, TOBIAS CHRIST UND FABIAN KLASK 
  KÖLN. Sie waren betrunken, aggressiv, haben in Gruppen Frauen umringt, beraubt, begrapscht und teilweise 
 massiv sexuell belästigt. Vier Tage nach Silvester wird die Dimension der Übergriffe am Kölner Hauptbahnhof in 
 der Neujahrsnacht klar: Mehr als 1 000 Männer hatten sich bis Mitternacht auf dem Domplatz versammelt. Diese 
@@ -2719,7 +2719,7 @@ und Bundespolizei seien dringend gefordert. Möglicherweise müsse man auch die 
 Hauptbahnhof ausweiten. Auch der Innenausschuss des Landtags wird sich mit dem Thema befassen. 
  ""Wir können nicht tolerieren, dass hier ein rechtsfreier Raum entsteht."" 
  Henriette Reker, Kölner Oberbürgermeisterin"
-Fehleinschätzung.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Fehleinschätzung.PDF,Fehleinschätzung,Rheinische Post,Mittwoch 6. Januar 2016,Christian schwerdtfeger,LEITARTIKEL,183,149,1689,False,,True,opinion_or_commentary,,,,drop,commentary_not_core_event_report,6c230eb083e44d2d687dfbbcdfd5eb82531233ed,"Christian schwerdtfeger
+Cologne,Cologne,Cologne(113).ZIP,Fehleinschätzung.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Fehleinschätzung.PDF,Fehleinschätzung,fehleinschätzung,Rheinische Post,rheinische post,Mittwoch 6. Januar 2016,Christian schwerdtfeger,LEITARTIKEL,149,1111,6c230eb083e44d2d687dfbbcdfd5eb82531233ed,,unique,drop,commentary_noncore,no,,no,,,1689,yes,commentary_noncore,,,,"Christian schwerdtfeger
 Der Einsatz der Polizei in der Silvesternacht am Kölner Hauptbahnhof hat erneut gezeigt, dass die dortige 
 Sicherheitsbehörde offenbar Schwierigkeiten hat, Gefahrenlagen frühzeitig zu erkennen und richtig einzuschätzen. 
 Noch am Neujahrsmorgen hatte die Polizei keinen genauen Überblick über die vielen widerwärtigen Übergriffe auf 
@@ -2731,7 +2731,7 @@ Fehleinschätzung der Polizei zu massiven gewalttätigen Auseinandersetzungen ge
 Behörde Besserung und erklärte, dass so etwas in Köln nicht noch einmal passieren dürfe. Aber anscheinend hat 
 sich seitdem nicht viel geändert - anders lässt sich die Fehleinschätzung der Silvesternacht kaum erklären.
 Bericht Polizei schützte Frauen zu spät, Seite A 3"
-Folgen falscher Toleranz.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Folgen falscher Toleranz.PDF,Folgen falscher Toleranz,Die Welt,Donnerstag 7. Januar 2016,Alice Schwarzer,FORUM; Gastkommentar; S. 2; Ausg. 5,609,543,4715,False,,True,opinion_or_commentary,,,,drop,commentary_not_core_event_report,bd12812681959e8ae19eca68bba1e7ffd59f1c26,"Für die Glücklichen, die nicht dabei waren auf der Gangbang-Party rund um den Kölner Hauptbahnhof in der 
+Cologne,Cologne,Cologne(113).ZIP,Folgen falscher Toleranz.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Folgen falscher Toleranz.PDF,Folgen falscher Toleranz,folgen falscher toleranz,Die Welt,die welt,Donnerstag 7. Januar 2016,Alice Schwarzer,FORUM; Gastkommentar; S. 2; Ausg. 5,543,3741,bd12812681959e8ae19eca68bba1e7ffd59f1c26,,unique,drop,commentary_noncore,no,,no,,,4715,yes,commentary_noncore,,,,"Für die Glücklichen, die nicht dabei waren auf der Gangbang-Party rund um den Kölner Hauptbahnhof in der 
 Silvesternacht: ""Focus Online"" zeigt ein Video, auf dem wir sehen können, wie junge Männer arabischer bzw. 
 nordafrikanischer Herkunft Krieg spielen, mitten in Köln. Sie ziehen in Truppen über den Platz, bilden Fronten und 
 feuern aus ""Pistolen"" Feuerwerkskörper mitten in die Menge. Und keiner hindert sie daran. Eine Gruppe von bis zu 
@@ -2772,7 +2772,7 @@ Original Gesamtseiten-PDF
 Graphic
  
 revierfoto"
-"Frauen, weicht nicht zurück.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Frauen, weicht nicht zurück.PDF","Frauen, weicht nicht zurück",Rheinische Post,Donnerstag 7. Januar 2016,Kirsten Bialdiga,STIMME DES WESTENS,925,772,6473,False,,False,,,,,keep,core_event_or_context,e2361a7bb4865b34d3ec54addaa07124dab0c3f8,"Kirsten Bialdiga
+Cologne,Cologne,Cologne(113).ZIP,"Frauen, weicht nicht zurück.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Frauen, weicht nicht zurück.PDF","Frauen, weicht nicht zurück",frauen weicht nicht zurück,Rheinische Post,rheinische post,Donnerstag 7. Januar 2016,Kirsten Bialdiga,STIMME DES WESTENS,772,5637,e2361a7bb4865b34d3ec54addaa07124dab0c3f8,,unique,keep,,no,,no,,,6473,no,,,,,"Kirsten Bialdiga
 Wer die Schilderungen der Silvesternacht am Kölner Hauptbahnhof und Städten wie Hamburg oder Frankfurt 
 verfolgt hat, den lassen sie nicht mehr los. Frauen berichten, wie sie von Horden von Männern bedrängt, 
 begrapscht, beraubt wurden. Wie sie umzingelt, hin- und hergestoßen und teils eine halbe Stunde lang Todesangst 
@@ -2833,7 +2833,7 @@ Soziologin Renate Ruhne. Dennoch sei nicht zu beobachten, dass sie unsichere Pl�
 zum Opfer zu werden. Oder gar, dass sie sich dadurch in ihrer Bewegungsfreiheit einschränken ließen.
 Und übrigens: Zwei Drittel der Gewalttaten gegen Frauen finden nicht auf der Straße statt - sondern im häuslichen 
 Umfeld."
-Fünf Festnahmen nach Überfällen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Fünf Festnahmen nach Überfällen.PDF,Fünf Festnahmen nach Überfällen,Kölner Stadt-Anzeiger,04. Januar 2016,ts,PL; S. 1,125,108,1327,False,,True,very_short,,,,drop,very_short_low_value,c71b3fe6c5824ea3d02c167b4cfdcd5f7593d356,"Köln. Nach den Raubüberfällen und sexuellen Übergriffen auf Frauen am Kölner Hauptbahnhof in der 
+Cologne,Cologne,Cologne(113).ZIP,Fünf Festnahmen nach Überfällen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Fünf Festnahmen nach Überfällen.PDF,Fünf Festnahmen nach Überfällen,fünf festnahmen nach überfällen,Kölner Stadt-Anzeiger,kölner stadtanzeiger,04. Januar 2016,ts,PL; S. 1,108,743,c71b3fe6c5824ea3d02c167b4cfdcd5f7593d356,,unique,drop,very_short_low_value,no,,no,,,1327,yes,very_short_low_value,,,,"Köln. Nach den Raubüberfällen und sexuellen Übergriffen auf Frauen am Kölner Hauptbahnhof in der 
 Silvesternacht hat die Bundespolizei am Sonntag fünf Männer im Bahnhof festgenommen. Sie sollen gegen 4.15 
 Uhr mit einer ähnlichen Masche eine Gruppe Frauen auf einem Bahnsteig des Breslauer Platzes bedrängt haben. 
 In den Jacken der Verdächtigen fanden die Beamten mehrere Mobiltelefone und ein Tablet. Die nach den Vorfällen 
@@ -2842,7 +2842,7 @@ an Silvester eingerichtete Ermittlungsgruppe der Landespolizei Köln prüft nun,
 inzwischen Anzeige gegen unbekannt erstattet. (ts) 
  Themen des Tages Seite 2 
  Kommentar Seite 4"
-Fünf Verdächtige in Untersuchungshaft Belohnung für entscheidende Hinweise.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Fünf Verdächtige in Untersuchungshaft Belohnung für entscheidende Hinweise.PDF,Fünf Verdächtige in Untersuchungshaft Belohnung für entscheidende Hinweise,Kölner Stadt-Anzeiger,15. Januar 2016,hsr,BL; S. 3,256,218,2572,False,,False,,,,,keep,core_event_or_context,39f3006258c0f3d707166187499d4d59e08d069d,"Köln. Zwei Wochen nach Silvester melden sich immer noch weitere Opfer der Übergriffe am Kölner 
+Cologne,Cologne,Cologne(113).ZIP,Fünf Verdächtige in Untersuchungshaft Belohnung für entscheidende Hinweise.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Fünf Verdächtige in Untersuchungshaft Belohnung für entscheidende Hinweise.PDF,Fünf Verdächtige in Untersuchungshaft Belohnung für entscheidende Hinweise,fünf verdächtige in untersuchungshaft belohnung für entscheidende hinweise,Kölner Stadt-Anzeiger,kölner stadtanzeiger,15. Januar 2016,hsr,BL; S. 3,218,1521,39f3006258c0f3d707166187499d4d59e08d069d,,unique,keep,,no,,no,,,2572,no,,,,,"Köln. Zwei Wochen nach Silvester melden sich immer noch weitere Opfer der Übergriffe am Kölner 
 Hauptbahnhof. 652 Anzeigen sind mittlerweile eingegangen, in 331 Fällen wurde ein Sexualdelikt angezeigt, wie 
 Oberstaatsanwalt Ulrich Bremer bestätigte. 739 Opfer gaben an, angegriffen oder bestohlen worden zu sein. Die 
 Zahl der Geschädigten ist höher als die der Anzeigen, da manche Opfer gemeinsam Anzeige erstattet haben. Die 
@@ -2859,7 +2859,7 @@ Ermittler stellten mehrere Mobiltelefone bei ihm sicher - eines war an der Silve
 gestohlen worden. Am Donnerstag sollte der Mann einem Haftrichter vorgeführt werden. Ob und in welcher Weise 
 er an sexuellen Übergriffen beteiligt war, sollen die Ermittlungen zeigen. (hsr) 
  www.bka-hinweisportal.de"
-Für Zuneigung statt Ablehnung.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Für Zuneigung statt Ablehnung.PDF,Für Zuneigung statt Ablehnung,Kölnische Rundschau,11. Januar 2016,Margret Klose,RBO-LAND; S. 21,568,492,4138,False,,False,,,,,keep,core_event_or_context,5aa3b6c0e3c85bf8c8d8dcfbc2941407654accb6,"Isabelle Lütz (59) arbeitet sehr aktiv in der Flüchtlingshilfe im Stadtgebiet Bornheim, vor allen aber in Merten. 
+Cologne,Cologne,Cologne(113).ZIP,Für Zuneigung statt Ablehnung.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Für Zuneigung statt Ablehnung.PDF,Für Zuneigung statt Ablehnung,für zuneigung statt ablehnung,Kölnische Rundschau,kölnische rundschau,11. Januar 2016,Margret Klose,RBO-LAND; S. 21,492,3407,5aa3b6c0e3c85bf8c8d8dcfbc2941407654accb6,,unique,keep,,no,,no,,,4138,no,,,,,"Isabelle Lütz (59) arbeitet sehr aktiv in der Flüchtlingshilfe im Stadtgebiet Bornheim, vor allen aber in Merten. 
 Viele Menschen aus Syrien, Afghanistan und Irak kennt sie persönlich. In ihrem Hause sind Flüchtlinge 
 willkommene Gäste, auch wenn ihre beiden Töchter (17 und 18 Jahre alt) daheim sind. So feierte die Familie mit 
 Flüchtlingen das Weihnachtsfest und lud sie eine Woche später auch zur Silvesterparty ein. Was denkt Isabelle 
@@ -2896,7 +2896,7 @@ Terror und Gewalt aus ihrer Heimat fliehen mussten? Persönlich empfehle ich sog
 deutschen Ehrenamtler auf jeden Flüchtling. 
  Würden Sie nach jetzigem Stand Ihre beiden Töchter in Köln den Straßenkarneval feiern lassen? 
  Natürlich! Wir dürfen uns von solchen Chaoten nicht unseren Lebensstil kaputt machen lassen."
-Geht's noch_ Özcan Mutlu über Köln und die Reaktionen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Geht's noch_ Özcan Mutlu über Köln und die Reaktionen.PDF,Geht's noch? Özcan Mutlu über Köln und die Reaktionen,Der Tagesspiegel,Dienstag 12. Januar 2016,,BERLIN; S. 14; Ausg. 22637,666,600,5440,False,,False,,,,,keep,core_event_or_context,4e4b88dd5665384fc52e5abc8c79156954f8dae7,"Die menschenverachtenden Übergriffe in der schlimmen Silvesternacht im Kölner Hauptbahnhof widern mich an. 
+Cologne,Cologne,Cologne(113).ZIP,Geht's noch_ Özcan Mutlu über Köln und die Reaktionen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Geht's noch_ Özcan Mutlu über Köln und die Reaktionen.PDF,Geht's noch? Özcan Mutlu über Köln und die Reaktionen,gehts noch özcan mutlu über köln und die reaktionen,Der Tagesspiegel,der tagesspiegel,Dienstag 12. Januar 2016,,BERLIN; S. 14; Ausg. 22637,600,4251,4e4b88dd5665384fc52e5abc8c79156954f8dae7,,unique,keep,,no,,no,,,5440,no,,,,,"Die menschenverachtenden Übergriffe in der schlimmen Silvesternacht im Kölner Hauptbahnhof widern mich an. 
 Nicht nur als Ehemann und Vater einer Tochter, auch als aktiver Teil einer freiheitlichen Gesellschaft, für die es 
 selbstverständlich ist, sich gegen jede Form von Gewalt und Ungleichbehandlung einzusetzen.
 Die Verbrecher müssen mit der Härte unseres Strafgesetzes konfrontiert werden. Jede Form von sexualisierter 
@@ -2944,7 +2944,7 @@ Graphic
 sitzt seit 2013 für Bündnis 90 / Die Grünen im Bundestag. Er wurde 1968 in der Türkei geboren und lebt seit 1973 
 in Berlin.
 Foto: Promo"
-Gemeinsam ist vieles leichter anzugehen Trotz der schrecklichen Ereignisse zum Jahresbeginn sollte m.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Gemeinsam ist vieles leichter anzugehen Trotz der schrecklichen Ereignisse zum Jahresbeginn sollte m.PDF,Gemeinsam ist vieles leichter anzugehen Trotz der schrecklichen Ereignisse zum Jahresbeginn sollte man sich,Kölner Stadt-Anzeiger,16. Januar 2016,MICHELLE SCHMIDT,ME; S. 4,426,404,3386,False,,False,,,,,keep,core_event_or_context,e25bb92530db464a18f9cf4f0fa84fd22d074cde,"Einen turbulenteren Jahresanfang hätte man sich kaum vorstellen können. Während die einen mit Familie und 
+Cologne,Cologne,Cologne(113).ZIP,Gemeinsam ist vieles leichter anzugehen Trotz der schrecklichen Ereignisse zum Jahresbeginn sollte m.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Gemeinsam ist vieles leichter anzugehen Trotz der schrecklichen Ereignisse zum Jahresbeginn sollte m.PDF,Gemeinsam ist vieles leichter anzugehen Trotz der schrecklichen Ereignisse zum Jahresbeginn sollte man sich,gemeinsam ist vieles leichter anzugehen trotz der schrecklichen ereignisse zum jahresbeginn sollte man sich,Kölner Stadt-Anzeiger,kölner stadtanzeiger,16. Januar 2016,MICHELLE SCHMIDT,ME; S. 4,404,2690,e25bb92530db464a18f9cf4f0fa84fd22d074cde,,unique,keep,,no,,no,,,3386,no,,,,,"Einen turbulenteren Jahresanfang hätte man sich kaum vorstellen können. Während die einen mit Familie und 
 Freunden zusammen feierten, kam es in der Silvesternacht zu den unvorstellbaren Geschehnissen am Kölner 
 Hauptbahnhof. Einige Tage später randalierten Rechtsextreme in der Innenstadt. Das ganze Land ist in Aufruhr, 
 wie mit all dem umzugehen ist. Das war ganz sicher nicht das, was ich mir fürs neue Jahr gewünscht hatte. 
@@ -2973,7 +2973,7 @@ eine bilde. Wieder ein bisschen mehr Normalität und bisschen weniger Aufgekratz
 in ihrer Freizeit die Jugendseite des ""Kölner Stadt-Anzeiger"". 
  Von Michelle Schmidt 
  NOCH FRAGEN?"
-Gestohlenes Handy bei 19-Jährigem gefunden.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Gestohlenes Handy bei 19-Jährigem gefunden.PDF,Gestohlenes Handy bei 19-Jährigem gefunden,Kölnische Rundschau,11. Januar 2016,ta,THEMA; S. 3,342,272,3072,False,,False,,,,,keep,core_event_or_context,baed02157888cf9f49e629a4db109f0afce94198,"Nach den Silvester-Übergriffen ist immer noch wenig über mögliche Täter bekannt. 
+Cologne,Cologne,Cologne(113).ZIP,Gestohlenes Handy bei 19-Jährigem gefunden.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Gestohlenes Handy bei 19-Jährigem gefunden.PDF,Gestohlenes Handy bei 19-Jährigem gefunden,gestohlenes handy bei 19jährigem gefunden,Kölnische Rundschau,kölnische rundschau,11. Januar 2016,ta,THEMA; S. 3,272,2042,baed02157888cf9f49e629a4db109f0afce94198,,unique,keep,,no,,no,,,3072,no,,,,,"Nach den Silvester-Übergriffen ist immer noch wenig über mögliche Täter bekannt. 
  Wie viele Tatverdächtige sind bekannt ? 
  Bis gestern Abend meldete die Kölner Polizei 20 namentlich bekannte Personen, die für Straftaten in der 
 Silvesternacht am und im Kölner Hauptbahnhof verantwortlich sein könnten. Ein 19 Jahre alter Mann wurde am 
@@ -2994,7 +2994,7 @@ dabei. Andere Papiere passten offenbar nicht zu den Kontrollierten. ""Wir brauch
 über die Papiere zu haben"", so die Polizei Köln. Die Bundespolizei teilte mit, dass unter den 32 Verdächtigen neun 
 algerische, acht marokkanische, fünf iranische, vier syrische, ein irakischer, ein serbischer, ein US-amerikanischer 
 und drei deutsche Staatsangehörige seien. (ta/mft)"
-Große Politik und gute Stimmung NEUJAHRSEMPFANG Handwerksmeister begrüßen den FDP-Bundesvorsitzenden.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Große Politik und gute Stimmung NEUJAHRSEMPFANG Handwerksmeister begrüßen den FDP-Bundesvorsitzenden.PDF,Große Politik und gute Stimmung NEUJAHRSEMPFANG Handwerksmeister begrüßen den FDP-,Kölner Stadt-Anzeiger,12. Januar 2016,ROLAND SCHRIEFER,QS; S. 29,537,463,4288,False,,False,,,,,keep,core_event_or_context,a3b6e854d3f3d8301c2f2dbaf9fcce2c0bc670f3,"VON ROLAND SCHRIEFER 
+Cologne,Cologne,Cologne(113).ZIP,Große Politik und gute Stimmung NEUJAHRSEMPFANG Handwerksmeister begrüßen den FDP-Bundesvorsitzenden.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Große Politik und gute Stimmung NEUJAHRSEMPFANG Handwerksmeister begrüßen den FDP-Bundesvorsitzenden.PDF,Große Politik und gute Stimmung NEUJAHRSEMPFANG Handwerksmeister begrüßen den FDP-,grosse politik und gute stimmung neujahrsempfang handwerksmeister begrüssen den fdp,Kölner Stadt-Anzeiger,kölner stadtanzeiger,12. Januar 2016,ROLAND SCHRIEFER,QS; S. 29,463,3317,a3b6e854d3f3d8301c2f2dbaf9fcce2c0bc670f3,,unique,keep,,no,,no,,,4288,no,,,,,"VON ROLAND SCHRIEFER 
  Porz. Beherrschendes Thema beim Neujahrsempfang des Vereins selbstständiger Handwerksmeister Porz war 
 nicht etwa die Situation des Handwerkes, sondern die innere Sicherheit und die Flüchtlingspolitik. Beeinflusst war 
 die Themenauswahl von den Vorgängen am Kölner Hauptbahnhof in der Silvesternacht. Alle Redner, von Karl-
@@ -3033,7 +3033,7 @@ Anwesenden verhalten.
  Christian Lindner 
  Die Porzer Handwerker sind die Gallier im Kammerbezirk 
  Ortwin Weltrich"
-"Hamburg in einem Satz Warum lang, wenn es auch kurz geht_ Was die Stadt in dieser Woche bewegt hat.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Hamburg in einem Satz Warum lang, wenn es auch kurz geht_ Was die Stadt in dieser Woche bewegt hat.PDF","Hamburg in einem Satz Warum lang, wenn es auch kurz geht? Was die Stadt in dieser Woche bewegt hat",Die ZEIT (inklusive ZEIT Magazin),7. Januar 2016,,HAMBURG;Hamburg in einem Satz; S. 2; Ausg. 2,307,248,2812,False,,False,,,,,keep,core_event_or_context,470cc9d5a47f41e352f9ff0391763279fcf7d4d4,"Dernière: Das 1833 gegründete Traditionslokal Cölln's musste zum Jahreswechsel schließen, weil Betreiber 
+Cologne,Cologne,Cologne(113).ZIP,"Hamburg in einem Satz Warum lang, wenn es auch kurz geht_ Was die Stadt in dieser Woche bewegt hat.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Hamburg in einem Satz Warum lang, wenn es auch kurz geht_ Was die Stadt in dieser Woche bewegt hat.PDF","Hamburg in einem Satz Warum lang, wenn es auch kurz geht? Was die Stadt in dieser Woche bewegt hat",hamburg in einem satz warum lang wenn es auch kurz geht was die stadt in dieser woche bewegt hat,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,7. Januar 2016,,HAMBURG;Hamburg in einem Satz; S. 2; Ausg. 2,248,1795,470cc9d5a47f41e352f9ff0391763279fcf7d4d4,,unique,keep,,no,,no,,,2812,no,,,,,"Dernière: Das 1833 gegründete Traditionslokal Cölln's musste zum Jahreswechsel schließen, weil Betreiber 
 Holger Urmensbach keinen Nachfolger gefunden hat Karriere: Der neue Manager des Luxushotels Atlantic, 
 Franco Esposito, hat schon als Auszubildender in dem Traditionshaus an der Alster gelernt Eskalation: 
 Wie am Kölner Hauptbahnhof soll es auch auf der Reeperbahn in der Silvesternacht zu mehreren Übergriffen auf 
@@ -3051,7 +3051,7 @@ Polizeibericht: In einer Flüchtlingsunterkunft in Jenfeld ist es zu einer Schl�
 gekommen; in Bramfeld hat ein maskierter Mann eine Tankstelle überfallen und 200 Euro erbeutet; in Kirchwerder 
 nahe der Haltestelle Teufelsort haben drei 16-Jährige einen 15-Jährigen mit einer Schreckschusspistole überfallen 
 und wurden wenig später festgenommen"
-"In aller Öffentlichkeit Dutzende Frauen wurden zuletzt bedrängt, begrapscht und beklaut. Wie konnte.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\In aller Öffentlichkeit Dutzende Frauen wurden zuletzt bedrängt, begrapscht und beklaut. Wie konnte.PDF","In aller Öffentlichkeit Dutzende Frauen wurden zuletzt bedrängt, begrapscht und beklaut. Wie konnte es so weit",Der Tagesspiegel,Mittwoch 6. Januar 2016,"Andrea Dernbach, Frank Jansen und Timo Kather",ZWEITE; S. 2; Ausg. 22631,1084,962,7890,False,,False,,,,,keep,core_event_or_context,a795811f1e1199920d09bd707da42198d62854de,"Junge Frauen werden plötzlich von einer Gruppe Männern umringt, begrapscht und bestohlen. So soll es sich in 
+Cologne,Cologne,Cologne(113).ZIP,"In aller Öffentlichkeit Dutzende Frauen wurden zuletzt bedrängt, begrapscht und beklaut. Wie konnte.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\In aller Öffentlichkeit Dutzende Frauen wurden zuletzt bedrängt, begrapscht und beklaut. Wie konnte.PDF","In aller Öffentlichkeit Dutzende Frauen wurden zuletzt bedrängt, begrapscht und beklaut. Wie konnte es so weit",in aller öffentlichkeit dutzende frauen wurden zuletzt bedrängt begrapscht und beklaut wie konnte es so weit,Der Tagesspiegel,der tagesspiegel,Mittwoch 6. Januar 2016,"Andrea Dernbach, Frank Jansen und Timo Kather",ZWEITE; S. 2; Ausg. 22631,962,6841,a795811f1e1199920d09bd707da42198d62854de,,unique,keep,,no,,no,,,7890,no,,,,,"Junge Frauen werden plötzlich von einer Gruppe Männern umringt, begrapscht und bestohlen. So soll es sich in 
 der Silvesternacht vor dem Kölner Hauptbahnhof zugetragen haben. Und nicht nur dort.
 Was genau ist in Köln passiert?
 Nach Polizeiangaben hatten sich am Silvesterabend auf dem Bahnhofsvorplatz etwa tausend junge Männer 
@@ -3133,14 +3133,14 @@ Henkel.
 Graphic
  
 Foto: istock"
-Junge Union möchte stärkere Polizeipräsenz.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Junge Union möchte stärkere Polizeipräsenz.PDF,Junge Union möchte stärkere Polizeipräsenz,Kölner Stadt-Anzeiger,07. Januar 2016,ger,LE; S. 23,121,94,1248,False,,True,very_short,,,,drop,very_short_low_value,182b61454884d35de91ba464156be5462301e446,"Die Junge Union Leverkusen sorgt sich. Die Nachwuchsorganisation der Christdemokraten hat sich mit einem 
+Cologne,Cologne,Cologne(113).ZIP,Junge Union möchte stärkere Polizeipräsenz.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Junge Union möchte stärkere Polizeipräsenz.PDF,Junge Union möchte stärkere Polizeipräsenz,junge union möchte stärkere polizeipräsenz,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,ger,LE; S. 23,94,723,182b61454884d35de91ba464156be5462301e446,,unique,drop,very_short_low_value,no,,no,,,1248,yes,very_short_low_value,,,,"Die Junge Union Leverkusen sorgt sich. Die Nachwuchsorganisation der Christdemokraten hat sich mit einem 
 offenen Brief an den auch für Leverkusen zuständigen Kölner Polizeipräsidenten gewandt und ihn um eine erhöhte 
 Polizeipräsenz an den Karnevalstagen in Leverkusen gebeten. Nach den gewalttätigen Angriffen in der 
 Silvesternacht am Kölner Hauptbahnhof herrschten Angst und Beklemmungen, schreibt JU-Vorsitzender Lucas 
 Melzig an Wolfgang Albers. Vor allem an Weiberfastnacht und Rosenmontag sollte das Polizeiaufgebot erhöht 
 werden. Auch stelle sich die Frage nach zusätzlichen Sicherheitsmaßnahmen an den Umzügen in Opladen, 
 Wiesdorf und Schlebusch in den Fußgängerzonen sowie bei anderen Großveranstaltungen. (ger)"
-Jäger erhöht Druck auf Kölner Polizei SICHERHEIT Innenminister erwartet schnellen Bericht zum Einsat.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Jäger erhöht Druck auf Kölner Polizei SICHERHEIT Innenminister erwartet schnellen Bericht zum Einsat.PDF,Jäger erhöht Druck auf Kölner Polizei; SICHERHEIT Innenminister erwartet schnellen Bericht zum Einsatz in,Kölner Stadt-Anzeiger,07. Januar 2016,FABIAN KLASK,PL; S. 1,799,692,6522,False,,False,,,near_004,variant_006,review,possible_near_duplicate,3ac6f3ccfc3d046227e02c844a01db9c59fad329,"VON FABIAN KLASK UND TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,Jäger erhöht Druck auf Kölner Polizei SICHERHEIT Innenminister erwartet schnellen Bericht zum Einsat.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Jäger erhöht Druck auf Kölner Polizei SICHERHEIT Innenminister erwartet schnellen Bericht zum Einsat.PDF,Jäger erhöht Druck auf Kölner Polizei; SICHERHEIT Innenminister erwartet schnellen Bericht zum Einsatz in,jäger erhöht druck auf kölner polizei sicherheit innenminister erwartet schnellen bericht zum einsatz in,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,FABIAN KLASK,PL; S. 1,692,4986,3ac6f3ccfc3d046227e02c844a01db9c59fad329,variant_006,regional_variant,review,,no,,no,,,6522,no,,,near_004,variant_006,"VON FABIAN KLASK UND TIM STINAUER 
  Köln/Düsseldorf. Die Kölner Polizei hat nach den Vorfällen in der Silvesternacht drei Tatverdächtige identifiziert. 
 Es gebe sehr konkrete Hinweise, dass sich die Männer an den Übergriffen am Kölner Hauptbahnhof beteiligt 
 hätten, hieß es aus Sicherheitskreisen. Es habe aber bislang keine Festnahmen gegeben, sagte Innenminister Ralf 
@@ -3207,7 +3207,7 @@ Silvesternacht - Albers zum Rücktritt aufgefordert
  Pegida demonstriert S. 23 
  Das sagen Flüchtlinge S. 23 
  Reaktionen S. 24"
-Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtling.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtling.PDF,Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtlinge,Kölner Stadt-Anzeiger,07. Januar 2016,FABIAN KLASK,PL; S. 1,801,698,6316,False,,False,,,near_004,variant_006,review,possible_near_duplicate,b1672732242ebc36809ba46456d7fb395e98139f,"VON FABIAN KLASK, HENDRIK GEISLER, PETER BERGER UND TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtling.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtling.PDF,Jäger erhöht Druck auf Kölner Polizei SILVESTERNACHT Schnellen Bericht angefordert - Auch Flüchtlinge,jäger erhöht druck auf kölner polizei silvesternacht schnellen bericht angefordert  auch flüchtlinge,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,FABIAN KLASK,PL; S. 1,698,4977,b1672732242ebc36809ba46456d7fb395e98139f,variant_006,regional_variant,review,,no,,no,,,6316,no,,,near_004,variant_006,"VON FABIAN KLASK, HENDRIK GEISLER, PETER BERGER UND TIM STINAUER 
  Köln/Düsseldorf. Die Kölner Polizei hat nach den Vorfällen in der Silvesternacht drei Tatverdächtige identifiziert. 
 Es gebe sehr konkrete Hinweise, dass sich die Männer an den Übergriffen am Kölner Hauptbahnhof beteiligt 
 hätten, hieß es aus Sicherheitskreisen. Es habe aber bislang keine Festnahmen gegeben, sagte Innenminister Ralf 
@@ -3274,7 +3274,7 @@ waren am Bahnhof - Scharfe Kritik an Albers
  Pegida demonstriert S. 23 
  Das sagen Flüchtlinge S. 23 
  Reaktionen S. 24"
-Jägers Generalangriff auf die Kölner Polizei war nicht klug.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Jägers Generalangriff auf die Kölner Polizei war nicht klug.PDF,Jägers Generalangriff auf die Kölner Polizei war nicht klug,Kölnische Rundschau,13. Januar 2016,,BR; S. 15,1079,924,7103,False,,False,,,,,keep,core_event_or_context,af03ec6a3cdf71d932fddb0e3534930b7d2ee994,"Weitere Stimmen zu den Ereignissen in der Silvesternacht am Kölner Hauptbahnhof sowie zum Kommentar 
+Cologne,Cologne,Cologne(113).ZIP,Jägers Generalangriff auf die Kölner Polizei war nicht klug.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Jägers Generalangriff auf die Kölner Polizei war nicht klug.PDF,Jägers Generalangriff auf die Kölner Polizei war nicht klug,jägers generalangriff auf die kölner polizei war nicht klug,Kölnische Rundschau,kölnische rundschau,13. Januar 2016,,BR; S. 15,924,6477,af03ec6a3cdf71d932fddb0e3534930b7d2ee994,,unique,keep,,no,,no,,,7103,no,,,,,"Weitere Stimmen zu den Ereignissen in der Silvesternacht am Kölner Hauptbahnhof sowie zum Kommentar 
 ""Zumutung"" von Wilfried Goebels zum Bericht von NRW-Innenminister Ralf Jäger. 
  Zu Köln und dem Dom hatte ich immer eine starke Bindung und ein Heimatgefühl. Es ist traurig, wie sich dort 
 vieles negativ verändert. Wenn am Kölner Dom plötzlich rechtsfreie Räume entstehen, in denen die Polizei 
@@ -3352,7 +3352,7 @@ von dem Amt.
 selbst ja auch keine Blinddarmoperationen vor sich nähme"", offenbart nachdrücklich, dass er für ein solches nicht 
 geeignet ist. 
  Helmut Höhn"
-Keine Angst unter den Reisenden Trotz zunehmender Kriminalität fühlen sich viele Menschen im Bahnhof.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Keine Angst unter den Reisenden Trotz zunehmender Kriminalität fühlen sich viele Menschen im Bahnhof.PDF,Keine Angst unter den Reisenden; Trotz zunehmender Kriminalität fühlen sich viele Menschen im Bahnhof,Kölner Stadt-Anzeiger,05. Januar 2016,JENNY FILON,BL; S. 3,418,398,3572,False,,False,,,,,keep,core_event_or_context,65b2a01be0a74071bcc07d6c46aa85dab61c5db6,"VON JENNY FILON 
+Cologne,Cologne,Cologne(113).ZIP,Keine Angst unter den Reisenden Trotz zunehmender Kriminalität fühlen sich viele Menschen im Bahnhof.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Keine Angst unter den Reisenden Trotz zunehmender Kriminalität fühlen sich viele Menschen im Bahnhof.PDF,Keine Angst unter den Reisenden; Trotz zunehmender Kriminalität fühlen sich viele Menschen im Bahnhof,keine angst unter den reisenden trotz zunehmender kriminalität fühlen sich viele menschen im bahnhof,Kölner Stadt-Anzeiger,kölner stadtanzeiger,05. Januar 2016,JENNY FILON,BL; S. 3,398,2611,65b2a01be0a74071bcc07d6c46aa85dab61c5db6,,unique,keep,,no,,no,,,3572,no,,,,,"VON JENNY FILON 
  Köln. Schon seit Monaten stehen Gruppen junger Männer im Fokus der Polizei, weil sie am Kölner Hauptbahnhof 
 Reisekoffer und Fotoausrüstungen stehlen. Und jetzt, da in der Silvesternacht zahlreiche Frauen auf dem 
 Bahnhofsvorplatz sexuell belästigt wurden, sprechen die Behörden sogar von einer neuen Kategorie der Straftaten 
@@ -3380,7 +3380,7 @@ sicher
 ""üblichen Bahnhofgeschehen"". ""Im Drei- bis Vier-Tages-Takt kommt hier jemand rein und fragt, wie er zur Polizei 
 kommt."" Deswegen habe man vor ein paar Monaten auch mehr Sicherheitspersonal eingestellt, berichtet sie. Heute 
 ist niemand da. ""Es ist Montag"", sagt Lentes. Am Wochenende sei das anders."
-Keine Toleranz gegenüber Tätern.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Keine Toleranz gegenüber Tätern.PDF,Keine Toleranz gegenüber Tätern,Berliner Zeitung,07. Januar 2016,LALE AKGÜN,POL; S. 4,868,715,5978,False,,False,,,,,keep,core_event_or_context,eca7725560c6a520a08b3f65c02bcfdb9c046c5e,"VON LALE AKGÜN 
+Cologne,Cologne,Cologne(113).ZIP,Keine Toleranz gegenüber Tätern.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Keine Toleranz gegenüber Tätern.PDF,Keine Toleranz gegenüber Tätern,keine toleranz gegenüber tätern,Berliner Zeitung,berliner zeitung,07. Januar 2016,LALE AKGÜN,POL; S. 4,715,5206,eca7725560c6a520a08b3f65c02bcfdb9c046c5e,,unique,keep,,no,,no,,,5978,no,,,,,"VON LALE AKGÜN 
  Die entsetzlichen Vorfälle in der Silvesternacht am Kölner Hauptbahnhof zeugen von der fehlenden Einsicht in 
 die Rechte von Frauen. Weibliche Feiernde, Reisende oder Passantinnen wurden bedrängt, beraubt, sexuell 
 belästigt und vergewaltigt, weil sie zufällig ihrer Wege gingen. Ohne die Ermittlungsergebnisse vorwegzunehmen: 
@@ -3435,7 +3435,7 @@ abends allein am Kölner Hauptbahnhof an. Ich will und werde das auch weiterhin 
 Das ist mein gutes Recht. Es durchzusetzen, dafür haben Rechtsstaat und Polizei zu sorgen. 
  Lale Akgün, geboren 1953, ist Kölnerin 
  türkischer Herkunft. Für die SPD saß sie von 2002 bis 2009 im Bundestag."
-Kleine Fische.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kleine Fische.PDF,Kleine Fische,Frankfurter Rundschau,Samstag 9. Januar 2016,,FEUILLETON; S. 32,421,381,3089,False,,False,,,,,keep,core_event_or_context,cdc23cead7db8db01220de430f87bcacec3ac7d1,"Von Daniel Kothenschulte
+Cologne,Cologne,Cologne(113).ZIP,Kleine Fische.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kleine Fische.PDF,Kleine Fische,kleine fische,Frankfurter Rundschau,frankfurter rundschau,Samstag 9. Januar 2016,,FEUILLETON; S. 32,381,2570,cdc23cead7db8db01220de430f87bcacec3ac7d1,,unique,keep,,no,,no,,,3089,no,,,,,"Von Daniel Kothenschulte
 Die vertraute Frauenstimme aus dem Bahnhofslautsprecher klingt an diesem Freitagmorgen plötzlich unheimlich: 
 ""Es sind Trickdiebe unterwegs. Bitte achten Sie auf Ihre Handtaschen und Wertgegenstände."" Trickdiebe. Eine 
 Woche nach der Silvesternacht ist dieses Wort im Kölner Hauptbahnhof nur noch ein schamloser Euphemismus. 
@@ -3464,7 +3464,7 @@ eine Untertreibung.
 
 Kleine Fische
 ""Heißes Pflaster Köln"""
-Kommissar Selfie hilft.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kommissar Selfie hilft.PDF,Kommissar Selfie hilft,Frankfurter Rundschau,Donnerstag 7. Januar 2016,,MEINUNG; S. 12,568,492,4132,False,,True,opinion_or_commentary,,,,drop,commentary_not_core_event_report,73ccaa8b409872af76677c47b98dc986014f5d41,"Nachdem ein extrem unappetitlicher Mob in der Silvesternacht am Kölner Hauptbahnhof nach allen Regeln der 
+Cologne,Cologne,Cologne(113).ZIP,Kommissar Selfie hilft.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kommissar Selfie hilft.PDF,Kommissar Selfie hilft,kommissar selfie hilft,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 7. Januar 2016,,MEINUNG; S. 12,492,3472,73ccaa8b409872af76677c47b98dc986014f5d41,,unique,drop,commentary_noncore,no,,no,,,4132,yes,commentary_noncore,,,,"Nachdem ein extrem unappetitlicher Mob in der Silvesternacht am Kölner Hauptbahnhof nach allen Regeln der 
 Kunst explodiert ist, geben sich Wut, Trauer und Betroffenheit einmal mehr die Klinke in die Hand. Und die 
 Verantwortlichen versprechen in fast schon rührender Hilflosigkeit, beim nächsten Mal solchen Abscheulichkeiten 
 proaktiv einen Riegel vorzuschieben - etwa durch verstärkte Videoaufzeichnungen des närrischen Treibens, 
@@ -3503,7 +3503,7 @@ Stefan Behr ist Gerichtsreporter der FR.
 STEFAN BEHR
 Die Mob-Leistungsschau von Köln lässt viele nach mehr Videoüberwachung rufen. Richtig! Da gibt es ganz neue 
 Möglichkeiten."
-Konsequenz_ Mehr Polizeipräsenz.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Konsequenz_ Mehr Polizeipräsenz.PDF,Konsequenz: Mehr Polizeipräsenz,Berliner Zeitung,06. Januar 2016,epd,THEMA; S. 2,708,585,5262,False,,False,,,,,keep,core_event_or_context,343343a5d24016739e33dfbb491e9b100a31109c,"Nach den Übergriffen auf Frauen vor dem Kölner Hauptbahnhof in der Silvesternacht ist zu den Tätern weiterhin 
+Cologne,Cologne,Cologne(113).ZIP,Konsequenz_ Mehr Polizeipräsenz.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Konsequenz_ Mehr Polizeipräsenz.PDF,Konsequenz: Mehr Polizeipräsenz,konsequenz mehr polizeipräsenz,Berliner Zeitung,berliner zeitung,06. Januar 2016,epd,THEMA; S. 2,585,4261,343343a5d24016739e33dfbb491e9b100a31109c,,unique,keep,,no,,no,,,5262,no,,,,,"Nach den Übergriffen auf Frauen vor dem Kölner Hauptbahnhof in der Silvesternacht ist zu den Tätern weiterhin 
 wenig bekannt. Oberbürgermeisterin Henriette Reker (parteilos) sagte am Dienstag, die Behörden hätten keinerlei 
 Hinweise, dass es sich um Flüchtlinge handele. Entsprechende Vermutungen halte sie für ""absolut unzulässig"". 
 Alles müsse nun daran gesetzt werden, die Schuldigen so schnell und so vollständig wie möglich zu ermitteln und 
@@ -3548,7 +3548,7 @@ Osnabrücker Zeitung. Laschet erinnerte daran, dass Köln vor nicht allzu langer
 Krawalle bundesweit in den Schlagzeilen war. ""Während die bayerische Polizei erfolgreich dem Terror trotzt, ist die 
 NRW-Polizei in Köln nicht in der Lage, Frauen vor serienweisen sexuellen Übergriffen im Zentrum der größten 
 Stadt des Landes zu schützen"", erklärte der CDU-Bundesvize. (epd, KNA, dpa)"
-Kraft stärkt Jäger den Rücken Erster Auftritt der Ministerpräsidentin seit Silvester - Grüne verärge.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kraft stärkt Jäger den Rücken Erster Auftritt der Ministerpräsidentin seit Silvester - Grüne verärge.PDF,Kraft stärkt Jäger den Rücken Erster Auftritt der Ministerpräsidentin seit Silvester - Grüne verärgert über langes,Kölner Stadt-Anzeiger,11. Januar 2016,FABIAN KLASK,BL; S. 2,689,587,5375,False,,False,,,,,keep,core_event_or_context,926e6f24a4ec0485cbeb5c97eed5ab7b5484bddf,"VON FABIAN KLASK 
+Cologne,Cologne,Cologne(113).ZIP,Kraft stärkt Jäger den Rücken Erster Auftritt der Ministerpräsidentin seit Silvester - Grüne verärge.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kraft stärkt Jäger den Rücken Erster Auftritt der Ministerpräsidentin seit Silvester - Grüne verärge.PDF,Kraft stärkt Jäger den Rücken Erster Auftritt der Ministerpräsidentin seit Silvester - Grüne verärgert über langes,kraft stärkt jäger den rücken erster auftritt der ministerpräsidentin seit silvester  grüne verärgert über langes,Kölner Stadt-Anzeiger,kölner stadtanzeiger,11. Januar 2016,FABIAN KLASK,BL; S. 2,587,4230,926e6f24a4ec0485cbeb5c97eed5ab7b5484bddf,,unique,keep,,no,,no,,,5375,no,,,,,"VON FABIAN KLASK 
  Düsseldorf. Neujahrsempfang bei der SPD in Gelsenkirchen: In einem gewöhnlichen Januar hätte Hannelore 
 Kraft die Parteibasis mit zwei, drei sozialdemokratischen Gewissheiten, eine paar politischen Anekdoten und 
 freundlichen Worte über all die treuen SPD-Seelen aus dem Stadtverband bestens beschäftigt - bevor man Kuchen 
@@ -3594,7 +3594,7 @@ Medien zu den Vorfällen interviewt - unter anderem von der britischen BBC, dem 
 holländischen und US-amerikanischen Zeitungen. (ksta) 
  Wir verweigern uns einer sachlichen Diskussion zu Nachbesserungen nicht 
  Hannelore Kraft"
-Kriminelle Sportgymnastik_ Wie wehre ich mich gegen Antanzdiebstähle_ Nicht nur in der Debatte um di.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kriminelle Sportgymnastik_ Wie wehre ich mich gegen Antanzdiebstähle_ Nicht nur in der Debatte um di.PDF,Kriminelle Sportgymnastik: Wie wehre ich mich gegen Antanzdiebstähle? Nicht nur in der Debatte um die,"taz, die tageszeitung",Montag 11. Januar 2016,,DIE WAHRHEIT; S. 20,186,151,1932,False,,False,,,,,keep,core_event_or_context,20032a5602a6be978cfe619737783aeae14942b2,"Kriminelle Sportgymnastik: Wie wehre ich mich gegen Antanzdiebstähle?
+Cologne,Cologne,Cologne(113).ZIP,Kriminelle Sportgymnastik_ Wie wehre ich mich gegen Antanzdiebstähle_ Nicht nur in der Debatte um di.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kriminelle Sportgymnastik_ Wie wehre ich mich gegen Antanzdiebstähle_ Nicht nur in der Debatte um di.PDF,Kriminelle Sportgymnastik: Wie wehre ich mich gegen Antanzdiebstähle? Nicht nur in der Debatte um die,kriminelle sportgymnastik wie wehre ich mich gegen antanzdiebstähle nicht nur in der debatte um die,"taz, die tageszeitung",taz die tageszeitung,Montag 11. Januar 2016,,DIE WAHRHEIT; S. 20,151,1121,20032a5602a6be978cfe619737783aeae14942b2,,unique,keep,,no,,no,,,1932,no,,,,,"Kriminelle Sportgymnastik: Wie wehre ich mich gegen Antanzdiebstähle?
 Nicht nur in der Debatte um die sexuelle Gewalt in der Silvesternacht am Kölner Hauptbahnhof ist immer wieder 
 von Antanzdiebstählen die Rede. Sogar im völlig unrhythmischen Münster wurden jüngst vier kriminelle Antänzer 
 festgenommen, tickerte dpa gestern. Die Täter sollen ihre Opfer jedoch eher angerempelt haben, weswegen man 
@@ -3605,7 +3605,7 @@ sich gar nichts aus Gesellschaftstänzen machen , heißt es dort. Vermeiden Sie 
 Sie, die Täter mit Konversation einzulullen und dabei mit einer leichten Wiegeschritt-Wechselschritt-Kombination 
 zur nächsten Polizeidienststelle zu lenken. Dort können sie von eigens geschulten Beamten unschädlich gemacht 
 werden, die den schwarzen Gürtel in Standard und Latein besitzen."
-Kölner Gewaltnacht wirkte bis Leverkusen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Gewaltnacht wirkte bis Leverkusen.PDF,Kölner Gewaltnacht wirkte bis Leverkusen,Rheinische Post,Donnerstag 7. Januar 2016,,LOKALES,244,208,2186,False,,True,short_regional_brief,,,,review,short_regional_variant,2fdb9838a0345ab13b742ec2291f3d60e1aab505,"Köln/Leverkusen Ein Teil der Gewalttäter von Köln in der Silvesternacht stammt offenbar aus Leverkusen oder ist 
+Cologne,Cologne,Cologne(113).ZIP,Kölner Gewaltnacht wirkte bis Leverkusen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Gewaltnacht wirkte bis Leverkusen.PDF,Kölner Gewaltnacht wirkte bis Leverkusen,kölner gewaltnacht wirkte bis leverkusen,Rheinische Post,rheinische post,Donnerstag 7. Januar 2016,,LOKALES,208,1481,2fdb9838a0345ab13b742ec2291f3d60e1aab505,,unique,review,,no,,no,,Short local brief kept for review.,2186,yes,regional_variant_review,,,,"Köln/Leverkusen Ein Teil der Gewalttäter von Köln in der Silvesternacht stammt offenbar aus Leverkusen oder ist 
 zumindest kurz nach den Vorfällen noch nach Leverkusen gefahren. Dies berichten jedenfalls Augenzeugen. So 
 schilderte jetzt ein Leverkusener in einem WDR-Interview, wie am Bahnhof in Wiesdorf junge Frauen aus einem 
 Zug auf ihn zugelaufen seien und bei ihm Schutz gesucht hätten. Die Mädchen seien offensichtlich auch im Zug 
@@ -3620,7 +3620,7 @@ Dimension der Gewalt gegen Frauen"". Ihre Forderung: ""Wir brauchen effektive St
 nicht nur im öffentlichen Raum."" Und sie stellte klar:: ""Wir sind Ansprechpartnerinnen für betroffene Frauen aus 
 Leverkusen."" Der Opferverband Weißer Ring riet Frauen, die in eine ähnliche Situation geraten, sich "" in jedem Fall, 
 bemerkbar zu machen""."
-Kölner Polizei stockt Ermittlergruppe auf.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Polizei stockt Ermittlergruppe auf.PDF,Kölner Polizei stockt Ermittlergruppe auf,Rheinische Post,Donnerstag 7. Januar 2016,"Joris Hielscher, eva Quadbeck und christian schwerdtfeger",TITELSEITE,759,645,5748,False,,False,,,,,keep,core_event_or_context,cf2dbe895087bed911d8aea0217748402dc546ec,"Joris Hielscher, eva Quadbeck und christian schwerdtfeger
+Cologne,Cologne,Cologne(113).ZIP,Kölner Polizei stockt Ermittlergruppe auf.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Polizei stockt Ermittlergruppe auf.PDF,Kölner Polizei stockt Ermittlergruppe auf,kölner polizei stockt ermittlergruppe auf,Rheinische Post,rheinische post,Donnerstag 7. Januar 2016,"Joris Hielscher, eva Quadbeck und christian schwerdtfeger",TITELSEITE,645,4645,cf2dbe895087bed911d8aea0217748402dc546ec,,unique,keep,,no,,no,,,5748,no,,,,,"Joris Hielscher, eva Quadbeck und christian schwerdtfeger
 Köln Die Polizei in Köln hat im Zusammenhang mit sexuellen Übergriffen am Kölner Hauptbahnhof inzwischen zwei 
 Tatverdächtige festgenommen. ""Sie wurden bereits dem Haftrichter vorgeführt und sitzen in Untersuchungshaft"", 
 sagte ein Sprecher der Kölner Polizei. Allerdings wurden die zwei Männer für Delikte festgenommen, die sich erst 
@@ -3670,7 +3670,7 @@ Davon könne keine Rede sein.
 Leitartikel Seite A 2
 Stimme des Westens Seite A 2
 Nordrhein-Westfalen Seite A 3"
-Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(2).PDF,Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den,Kölner Stadt-Anzeiger,09. Januar 2016,HELMUT FRANGENBERG,PL; S. 1,772,656,5825,False,,False,,exact_004,near_005,variant_007,drop,exact_duplicate,58e585e75c11dd1fa22e9a9ddddb643c9b0c6313,"VON HELMUT FRANGENBERG, FABIAN KLASK, TIM STINAUER, TOBIAS PETER, HILMAR 
+Cologne,Cologne,Cologne(113).ZIP,Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(2).PDF,Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den,kölner polizeichef muss posten räumen silvesternacht innenminister jäger versetzt albers in den,Kölner Stadt-Anzeiger,kölner stadtanzeiger,09. Januar 2016,HELMUT FRANGENBERG,PL; S. 1,656,4848,58e585e75c11dd1fa22e9a9ddddb643c9b0c6313,exact_004,duplicate_exact,review,,no,,no,,,5825,no,,exact_004,near_005,variant_007,"VON HELMUT FRANGENBERG, FABIAN KLASK, TIM STINAUER, TOBIAS PETER, HILMAR 
 RIEMENSCHNEIDER UND DETLEF SCHMALENBERG 
  Köln/Düsseldorf. Der Kölner Polizeipräsident Wolfgang Albers muss wegen der Vorfälle in der Silvesternacht am 
 Kölner Hauptbahnhof seinen Posten räumen. NRW-Innenminister Ralf Jäger (SPD) versetzte den vor allem wegen 
@@ -3735,7 +3735,7 @@ Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger vers
 Ruhestand - Reker war auf Distanz gegangen - 170 Anzeigen
  Leserforum S. 21 
  Demos in Köln S. 40"
-Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(3).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(3).PDF,Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den,Kölner Stadt-Anzeiger,09. Januar 2016,HELMUT FRANGENBERG,PL; S. 1,772,656,5825,False,,False,,exact_004,near_005,variant_007,drop,exact_duplicate,58e585e75c11dd1fa22e9a9ddddb643c9b0c6313,"VON HELMUT FRANGENBERG, FABIAN KLASK, TIM STINAUER, TOBIAS PETER, HILMAR 
+Cologne,Cologne,Cologne(113).ZIP,Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(3).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe(3).PDF,Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den,kölner polizeichef muss posten räumen silvesternacht innenminister jäger versetzt albers in den,Kölner Stadt-Anzeiger,kölner stadtanzeiger,09. Januar 2016,HELMUT FRANGENBERG,PL; S. 1,656,4848,58e585e75c11dd1fa22e9a9ddddb643c9b0c6313,exact_004,duplicate_exact,review,,no,,no,,,5825,no,,exact_004,near_005,variant_007,"VON HELMUT FRANGENBERG, FABIAN KLASK, TIM STINAUER, TOBIAS PETER, HILMAR 
 RIEMENSCHNEIDER UND DETLEF SCHMALENBERG 
  Köln/Düsseldorf. Der Kölner Polizeipräsident Wolfgang Albers muss wegen der Vorfälle in der Silvesternacht am 
 Kölner Hauptbahnhof seinen Posten räumen. NRW-Innenminister Ralf Jäger (SPD) versetzte den vor allem wegen 
@@ -3800,7 +3800,7 @@ Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger vers
 Ruhestand - Reker war auf Distanz gegangen - 170 Anzeigen
  Leserforum S. 21 
  Demos in Köln S. 40"
-Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe.PDF,Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den,Kölner Stadt-Anzeiger,09. Januar 2016,HELMUT FRANGENBERG,PL; S. 1,772,656,5825,False,,False,,,near_005,variant_007,review,possible_near_duplicate,682c70179317486d5b42da5ed1873cd8135db082,"VON HELMUT FRANGENBERG, FABIAN KLASK, TIM STINAUER, TOBIAS PETER, HILMAR 
+Cologne,Cologne,Cologne(113).ZIP,Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den Ruhe.PDF,Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger versetzt Albers in den,kölner polizeichef muss posten räumen silvesternacht innenminister jäger versetzt albers in den,Kölner Stadt-Anzeiger,kölner stadtanzeiger,09. Januar 2016,HELMUT FRANGENBERG,PL; S. 1,656,4848,682c70179317486d5b42da5ed1873cd8135db082,variant_007,regional_variant,review,,no,,no,,,5825,no,,,near_005,variant_007,"VON HELMUT FRANGENBERG, FABIAN KLASK, TIM STINAUER, TOBIAS PETER, HILMAR 
 RIEMENSCHNEIDER UND DETLEF SCHMALENBERG 
  Köln/Düsseldorf. Der Kölner Polizeipräsident Wolfgang Albers muss wegen der Vorfälle in der Silvesternacht am 
 Kölner Hauptbahnhof seinen Posten räumen. NRW-Innenminister Ralf Jäger (SPD) versetzte den vor allem wegen 
@@ -3865,7 +3865,7 @@ Kölner Polizeichef muss Posten räumen SILVESTERNACHT Innenminister Jäger vers
 Ruhestand - Reker war auf Distanz gegangen - 170 Anzeigen
  Leserforum S. 21 
  Demos in Köln S. 26"
-Kölns Polizeichef muss gehen Nach umstrittenem Einsatz in Silvesternacht.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölns Polizeichef muss gehen Nach umstrittenem Einsatz in Silvesternacht.PDF,Kölns Polizeichef muss gehen Nach umstrittenem Einsatz in Silvesternacht,Der Tagesspiegel,Samstag 9. Januar 2016,,TITEL; S. 1; Ausg. 22634,323,263,2963,False,,False,,,,,keep,core_event_or_context,ac4ea97a0c9e1cbf2fdbc177f1dfe6beb2f8c05d,"Berlin/Köln - Der nach den Übergriffen am Kölner Hauptbahnhof in die Kritik geratene Kölner Polizeipräsident 
+Cologne,Cologne,Cologne(113).ZIP,Kölns Polizeichef muss gehen Nach umstrittenem Einsatz in Silvesternacht.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Kölns Polizeichef muss gehen Nach umstrittenem Einsatz in Silvesternacht.PDF,Kölns Polizeichef muss gehen Nach umstrittenem Einsatz in Silvesternacht,kölns polizeichef muss gehen nach umstrittenem einsatz in silvesternacht,Der Tagesspiegel,der tagesspiegel,Samstag 9. Januar 2016,,TITEL; S. 1; Ausg. 22634,263,1961,ac4ea97a0c9e1cbf2fdbc177f1dfe6beb2f8c05d,,unique,keep,,no,,no,,,2963,no,,,,,"Berlin/Köln - Der nach den Übergriffen am Kölner Hauptbahnhof in die Kritik geratene Kölner Polizeipräsident 
 Wolfgang Albers ist in den einstweiligen Ruhestand versetzt worden. Das teilte NRW-Innenminister Ralf Jäger 
 (SPD) am Freitagnachmittag mit. Zuletzt waren Rücktrittsforderungen gegen Albers laut geworden.
 Dem Polizeipräsidenten wurde unter anderem vorgeworfen, die Öffentlichkeit nicht rechtzeitig informiert zu haben 
@@ -3885,7 +3885,7 @@ ein US-amerikanischer und drei deutsche Staatsangehörige. Bei den Ermittlungen 
 Übergriffen gestohlenen Handys seien diese laut ""Spiegel"" teils in Flüchtlingsunterkünften geortet 
 worden.Tsp/dpa/AFP
 Seiten 2, 4 und Meinungsseite"
-LESERBRIEF.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\LESERBRIEF.PDF,LESERBRIEF,Kölnische Rundschau,12. Januar 2016,,RBO-LAND; S. 28,288,243,2311,False,,True,reader_letter,,,,drop,reader_letter,c7ccb4e02e4d76e467540615b499eae1a979aa13,"Positive Erfahrung 
+Cologne,Cologne,Cologne(113).ZIP,LESERBRIEF.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\LESERBRIEF.PDF,LESERBRIEF,leserbrief,Kölnische Rundschau,kölnische rundschau,12. Januar 2016,,RBO-LAND; S. 28,243,1719,c7ccb4e02e4d76e467540615b499eae1a979aa13,,unique,drop,reader_letter,no,,no,,,2311,yes,reader_letter,,,,"Positive Erfahrung 
  In einem Rundschau-Interview nahm Isabelle Lütz, engagierte Flüchtlingshelferin im Stadtgebiet Bornheim, 
 Stellung zu den Auswirkungen der Straftaten in der Silvesternacht am Kölner Hauptbahnhof auf die Arbeit vor Ort. 
  Frau Lütz hat in allen Punkten Recht. Natürlich ist es ohne Frage eine Katastrophe für die Frauen, die bedrängt 
@@ -3904,7 +3904,7 @@ dass hier in unserem Umkreis die Flüchtlinge einen Ansprechpartner haben, der s
 auseinandersetzt. 
  Heinz Wulff 
  Bornheim-Merten"
-Minister Jäger will seinen Kopf retten.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Minister Jäger will seinen Kopf retten.PDF,Minister Jäger will seinen Kopf retten,Rheinische Post,Samstag 9. Januar 2016,Detlev Hüwel,LEITARTIKEL,206,173,2052,False,,True,opinion_or_commentary,,,,drop,commentary_not_core_event_report,0f8c130e1c4d6463888ef9b80c2b5e65e59d9315,"Detlev Hüwel
+Cologne,Cologne,Cologne(113).ZIP,Minister Jäger will seinen Kopf retten.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Minister Jäger will seinen Kopf retten.PDF,Minister Jäger will seinen Kopf retten,minister jäger will seinen kopf retten,Rheinische Post,rheinische post,Samstag 9. Januar 2016,Detlev Hüwel,LEITARTIKEL,173,1254,0f8c130e1c4d6463888ef9b80c2b5e65e59d9315,,unique,drop,commentary_noncore,no,,no,,,2052,yes,commentary_noncore,,,,"Detlev Hüwel
 Die Absetzung des Kölner Polizeipräsidenten war längst überfällig. Immer wieder hat die Polizei der Domstadt für 
 negative Schlagzeilen gesorgt. So etwa bei den Ausschreitungen der Hooligans 2014 oder im vorigen Jahr mit dem 
 Wirbel um das SEK. Doch das, was in der Silvesternacht am Kölner Hauptbahnhof passiert ist, hat eine ganz 
@@ -3918,7 +3918,7 @@ sicher keinen Moment gezögert, bei einer ähnlichen Lage einen CDU-Minister zum
 kann jetzt damit rechnen, dass Hannelore Kraft an ihm festhält. Ein Jahr vor der Landtagswahl kann sie sich einen 
 solchen Eklat nicht erlauben.
 Bericht polizeichef geht . . , Titelseite"
-Mit aller Häme.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Mit aller Häme.PDF,Mit aller Häme,Der Tagesspiegel,Mittwoch 6. Januar 2016,,ZWEITE; S. 2; Ausg. 22631,907,767,6762,False,,False,,,,,keep,core_event_or_context,9460166d24cea49b0e4c608bd8ec281fc3cbf7a0,"Nach den Vorfällen diskutieren die Menschen in den sozialen Netzwerken über mögliche Hintergründe. Vor allem 
+Cologne,Cologne,Cologne(113).ZIP,Mit aller Häme.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Mit aller Häme.PDF,Mit aller Häme,mit aller häme,Der Tagesspiegel,der tagesspiegel,Mittwoch 6. Januar 2016,,ZWEITE; S. 2; Ausg. 22631,767,5516,9460166d24cea49b0e4c608bd8ec281fc3cbf7a0,,unique,keep,,no,,no,,,6762,no,,,,,"Nach den Vorfällen diskutieren die Menschen in den sozialen Netzwerken über mögliche Hintergründe. Vor allem 
 die rechte Szene nutzt die Lage, um gegen Flüchtlinge zu hetzen.
 Wie fallen die Kommentare aus?
 Lutz Bachmann kann sich auf die Reflexe seiner Anhänger verlassen. Mit dem Kommentar ""Bedauerliche 
@@ -3975,7 +3975,7 @@ Städtereisen geschickt haben. ""Besonders der Bereich in und um den Hauptbahnho
 angrenzende Areal hin zum Rheinufer kann für Touristen und Einheimische schon zu normalen Zeiten nicht mehr 
 als sicher erachtet werden"", behauptet da Judith Wolter, die für die Partei im Kölner Stadtrat sitzt.
 F. Jansen/M. Meisner/N. Wischmeyer"
-Muslime kritisieren Debatte über Frauenbild im Islam Mazyek_ _Dieser Kontext zur Herkunft ist gefähr.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Muslime kritisieren Debatte über Frauenbild im Islam Mazyek_ _Dieser Kontext zur Herkunft ist gefähr.PDF,"Muslime kritisieren Debatte über Frauenbild im Islam Mazyek: ""Dieser Kontext zur Herkunft ist gefährlich""",Die Welt,Donnerstag 7. Januar 2016,,POLITIK; Politik; S. 5; Ausg. 5,783,689,6063,False,,False,,,,,keep,core_event_or_context,de52748af2f5d17c5de2a097f511c56b7a25612d,"Als Konsequenz aus den Geschehnissen der Silvesternacht in Köln hat die frühere Familienministerin Kristina 
+Cologne,Cologne,Cologne(113).ZIP,Muslime kritisieren Debatte über Frauenbild im Islam Mazyek_ _Dieser Kontext zur Herkunft ist gefähr.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Muslime kritisieren Debatte über Frauenbild im Islam Mazyek_ _Dieser Kontext zur Herkunft ist gefähr.PDF,"Muslime kritisieren Debatte über Frauenbild im Islam Mazyek: ""Dieser Kontext zur Herkunft ist gefährlich""",muslime kritisieren debatte über frauenbild im islam mazyek dieser kontext zur herkunft ist gefährlich,Die Welt,die welt,Donnerstag 7. Januar 2016,,POLITIK; Politik; S. 5; Ausg. 5,689,4975,de52748af2f5d17c5de2a097f511c56b7a25612d,,unique,keep,,no,,no,,,6063,no,,,,,"Als Konsequenz aus den Geschehnissen der Silvesternacht in Köln hat die frühere Familienministerin Kristina 
 Schröder (CDU) zu einer offenen Debatte über gewaltbereite muslimische Männer aufgerufen. ""Wir Demokraten 
 dürfen das Thema der Gewaltbereitschaft vieler junger muslimischer Männer auf keinen Fall totschweigen"", sagte 
 Schröder der ""Rheinischen Post"". ""Denn dann würden rechtspopulistische oder rechtsextreme Parteien erst recht 
@@ -4035,7 +4035,7 @@ Graphic
 PA/ dpa/Matthias Balk
 Aiman Mazyek vom Zentralrat der Muslime in Deutschland ist entsetzt
 Matthias Balk"
-Nach den Übergriffen in Köln muss die Politik handeln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Nach den Übergriffen in Köln muss die Politik handeln.PDF,Nach den Übergriffen in Köln muss die Politik handeln,Kölnische Rundschau,07. Januar 2016,,BR; S. 15,1228,1060,8091,False,,False,,,,,keep,core_event_or_context,6c2e4d9d6e843aac77970de64622308f1733be21,"Stimmen zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof und zum 
+Cologne,Cologne,Cologne(113).ZIP,Nach den Übergriffen in Köln muss die Politik handeln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Nach den Übergriffen in Köln muss die Politik handeln.PDF,Nach den Übergriffen in Köln muss die Politik handeln,nach den übergriffen in köln muss die politik handeln,Kölnische Rundschau,kölnische rundschau,07. Januar 2016,,BR; S. 15,1060,7352,6c2e4d9d6e843aac77970de64622308f1733be21,,unique,keep,,no,,no,,,8091,no,,,,,"Stimmen zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof und zum 
 Kommentar ""Es geht nicht nur um Köln"" von Cordula von Wysocki zu den Konsequenzen. 
  Sehr guter Kommentar. Die Täter werden wohl nie gefasst und wenn, dann höchstens mit Bewährungsstrafen 
 lachend aus dem Gerichtssaal gehen. Schade, dass Oberbürgermeisterin Reker jetzt auch noch Verhaltensweisen 
@@ -4122,7 +4122,7 @@ durch eingeschleuste Kinderbanden beraten. Der deutsche Steuerzahler muss das al
 selbst genug Probleme. Wir sollten unsere Lebensart und 2000-jährige Kultur nicht durch andere Lebens- und 
 Rechtsvorstellungen verwaschen lassen. 
  Günther Humbach"
-Nackt gegen Sexismus.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Nackt gegen Sexismus.PDF,Nackt gegen Sexismus,Kölner Stadt-Anzeiger,09. Januar 2016,Foto:Hennes,LO; S. 26,173,152,1636,False,,False,,,,,keep,core_event_or_context,f2957bfcbf6f6e6439ee220073011b58b57f38f9,"Im Schatten des Doms hat die Schweizer Künstlerin Milo Moiré am Freitagvormittag mit einer Nacktperformance 
+Cologne,Cologne,Cologne(113).ZIP,Nackt gegen Sexismus.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Nackt gegen Sexismus.PDF,Nackt gegen Sexismus,nackt gegen sexismus,Kölner Stadt-Anzeiger,kölner stadtanzeiger,09. Januar 2016,Foto:Hennes,LO; S. 26,152,1044,f2957bfcbf6f6e6439ee220073011b58b57f38f9,,unique,keep,,no,,no,,,1636,no,,,,,"Im Schatten des Doms hat die Schweizer Künstlerin Milo Moiré am Freitagvormittag mit einer Nacktperformance 
 zu den Übergriffen in der Silvesternacht Stellung genommen. Zehn Minuten lang stand Moiré vollkommen 
 unbekleidet auf der Domplatte und hielt ein Plakat hoch, auf dem stand: ""Respektiert uns! Wir sind kein Freiwild, 
 selbst wenn wir nackt sind."" Damit wollte die in Düsseldorf lebende Künstlerin vermitteln, dass es egal sei, ob 
@@ -4132,7 +4132,7 @@ hatte. ""Es kann nicht sein, dass Frauen sich maßregeln lassen müssen."" Dass 
 mitten in Europa geschehen konnte, sei ihr an Herz und Nieren gegangen. ""Wir können Frauen nicht vermitteln, 
 dass sie etwas falsch gemacht haben. Sie müssen erhobenen Hauptes durch das Leben schreiten können, mit 
 wachsamen Augen, aber selbstbewusst."" (hge) Foto: Hennes"
-Nackte Beleidigung Nach heftiger Kritik verteidigt _Focus_-Chef Reitz sein Cover. Es sei nicht sexis.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Nackte Beleidigung Nach heftiger Kritik verteidigt _Focus_-Chef Reitz sein Cover. Es sei nicht sexis.PDF,"Nackte Beleidigung; Nach heftiger Kritik verteidigt ""Focus""-Chef Reitz sein Cover. Es sei nicht sexistisch und",Der Tagesspiegel,Montag 11. Januar 2016,,MEDIEN; S. 21; Ausg. 22636,694,653,5488,False,,False,,,,,keep,core_event_or_context,6997eb6a874a26ce4810d760b96117a1ccf833d8,"Das Foto zeigt eine blonde, weiße Frau, komplett nackt, auf ihrem Körper sind große, schwarze Handabdrücke 
+Cologne,Cologne,Cologne(113).ZIP,Nackte Beleidigung Nach heftiger Kritik verteidigt _Focus_-Chef Reitz sein Cover. Es sei nicht sexis.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Nackte Beleidigung Nach heftiger Kritik verteidigt _Focus_-Chef Reitz sein Cover. Es sei nicht sexis.PDF,"Nackte Beleidigung; Nach heftiger Kritik verteidigt ""Focus""-Chef Reitz sein Cover. Es sei nicht sexistisch und",nackte beleidigung nach heftiger kritik verteidigt focuschef reitz sein cover es sei nicht sexistisch und,Der Tagesspiegel,der tagesspiegel,Montag 11. Januar 2016,,MEDIEN; S. 21; Ausg. 22636,653,4401,6997eb6a874a26ce4810d760b96117a1ccf833d8,,unique,keep,,no,,no,,,5488,no,,,,,"Das Foto zeigt eine blonde, weiße Frau, komplett nackt, auf ihrem Körper sind große, schwarze Handabdrücke 
 verteilt. ""Frauen klagen an"", heißt es in der Titelzeile, die über ihren Brüsten liegt - es ist das aktuelle Cover des 
 ""Focus"" zu den Übergriffen auf Frauen in der Silvesternacht. Heftig wird das Magazin aus dem Burda-Verlag für 
 diese Optik kritisiert: Sexistisch und rassistisch sei das Titelbild, heißt es in vielen Kommentaren im Netz. 
@@ -4184,10 +4184,10 @@ Foto: Promo
 Der ""Focus""
 Foto: Kai-Uwe Heinrich
 Hatice Akyün"
-No Headline In Original.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\No Headline In Original.PDF,No Headline In Original,Rheinische Post,Freitag 8. Januar 2016,,LAND UND LEUTE,38,33,589,False,,True,very_short,,,,drop,very_short_low_value,bf0db5d489ae24fe8bcd223aede5e92489205524,"Vor dem Kölner Hauptbahnhof hatten sich in der Silvesternacht mehr als 1000 Männer mit Migrationshintergrund 
+Cologne,Cologne,Cologne(113).ZIP,No Headline In Original.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\No Headline In Original.PDF,No Headline In Original,no headline in original,Rheinische Post,rheinische post,Freitag 8. Januar 2016,,LAND UND LEUTE,33,231,bf0db5d489ae24fe8bcd223aede5e92489205524,,unique,drop,malformed,no,,yes,placeholder_title,,589,yes,very_short_low_value,,,,"Vor dem Kölner Hauptbahnhof hatten sich in der Silvesternacht mehr als 1000 Männer mit Migrationshintergrund 
 versammelt. Viele von ihnen bedrängten Frauen: Bislang sind mehr als 120 Anzeigen bei der Polizei eingegangen. 
 Foto: dpa"
-Patriarchat ist weiter die herrschende Kultur.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Patriarchat ist weiter die herrschende Kultur.PDF,Patriarchat ist weiter die herrschende Kultur,Frankfurter Rundschau,Mittwoch 13. Januar 2016,,LESERFORUM; S. 18,954,854,7066,False,,False,,,,,keep,core_event_or_context,9c84b9e415e181e4d7ce818d0fe4c8441495fb9b,"Widmet Euch dem Thema
+Cologne,Cologne,Cologne(113).ZIP,Patriarchat ist weiter die herrschende Kultur.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Patriarchat ist weiter die herrschende Kultur.PDF,Patriarchat ist weiter die herrschende Kultur,patriarchat ist weiter die herrschende kultur,Frankfurter Rundschau,frankfurter rundschau,Mittwoch 13. Januar 2016,,LESERFORUM; S. 18,854,5947,9c84b9e415e181e4d7ce818d0fe4c8441495fb9b,,unique,keep,,no,,no,,,7066,no,,,,,"Widmet Euch dem Thema
 ""Gewalt gegen Frauen""!
 Es ist wirklich unfassbar. Nachdem am 7.1. ein kurzes Interview mit einer Feministin erschien, scheint das Thema 
 Sexismus für die FR abgehakt. Schon am folgenden Tag geht es fast nur noch um die restriktive Politik der 
@@ -4260,7 +4260,7 @@ Patriarchat ist weiter die herrschende Kultur
 Graphic
  
 Demonstration auf der Reeperbahn am 10. Januar. dpa"
-Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(2).PDF,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen -,Kölner Stadt-Anzeiger,05. Januar 2016,CLAUDIA HAUSER,PL; S. 1,433,364,3800,False,,False,,exact_005,,,drop,exact_duplicate,1258b2421aedd2db396520da475dd0c221634774,"VON CLAUDIA HAUSER, FABIAN KLASK UND HELMUT FRANGENBERG 
+Cologne,Cologne,Cologne(113).ZIP,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(2).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(2).PDF,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen -,polizei setzt nun auf abschreckung kölner hauptbahnhof beamte sollen mehr präsenz zeigen,Kölner Stadt-Anzeiger,kölner stadtanzeiger,05. Januar 2016,CLAUDIA HAUSER,PL; S. 1,364,2697,1258b2421aedd2db396520da475dd0c221634774,exact_005,duplicate_exact,review,,no,,no,,,3800,no,,exact_005,,,"VON CLAUDIA HAUSER, FABIAN KLASK UND HELMUT FRANGENBERG 
  Köln. Nach den Ereignissen in der Silvesternacht am Hauptbahnhof sind mittlerweile 60 Anzeigen bei der Polizei 
 eingegangen, es gibt mindestens 80 Geschädigte. Die Zahl dürfte sich in den kommenden Tagen noch erhöhen. 
 Bisher wurden zwar fünf Täter gefasst, keinem von ihnen kann aber eine Beteiligung an den Übergriffen 
@@ -4289,7 +4289,7 @@ miesen Eisberges"". Gewalt gegen Frauen werde in der Gesellschaft zu oft verharm
 gesellschaftliche Verurteilung dieses männlichen Machtmissbrauchs"", so die Ministerin. FDP-Innenpolitiker Marc 
 Lürbke sagte: "" Viele Kriminelle verstehen den fehlenden Kontrolldruck in NRW offenbar als Einladung."" 
  Themen des Tages Seite 3"
-Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(3).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(3).PDF,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen -,Kölner Stadt-Anzeiger,05. Januar 2016,CLAUDIA HAUSER,PL; S. 1,433,364,3800,False,,False,,exact_005,,,drop,exact_duplicate,1258b2421aedd2db396520da475dd0c221634774,"VON CLAUDIA HAUSER, FABIAN KLASK UND HELMUT FRANGENBERG 
+Cologne,Cologne,Cologne(113).ZIP,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(3).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(3).PDF,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen -,polizei setzt nun auf abschreckung kölner hauptbahnhof beamte sollen mehr präsenz zeigen,Kölner Stadt-Anzeiger,kölner stadtanzeiger,05. Januar 2016,CLAUDIA HAUSER,PL; S. 1,364,2697,1258b2421aedd2db396520da475dd0c221634774,exact_005,duplicate_exact,review,,no,,no,,,3800,no,,exact_005,,,"VON CLAUDIA HAUSER, FABIAN KLASK UND HELMUT FRANGENBERG 
  Köln. Nach den Ereignissen in der Silvesternacht am Hauptbahnhof sind mittlerweile 60 Anzeigen bei der Polizei 
 eingegangen, es gibt mindestens 80 Geschädigte. Die Zahl dürfte sich in den kommenden Tagen noch erhöhen. 
 Bisher wurden zwar fünf Täter gefasst, keinem von ihnen kann aber eine Beteiligung an den Übergriffen 
@@ -4318,7 +4318,7 @@ miesen Eisberges"". Gewalt gegen Frauen werde in der Gesellschaft zu oft verharm
 gesellschaftliche Verurteilung dieses männlichen Machtmissbrauchs"", so die Ministerin. FDP-Innenpolitiker Marc 
 Lürbke sagte: "" Viele Kriminelle verstehen den fehlenden Kontrolldruck in NRW offenbar als Einladung."" 
  Themen des Tages Seite 3"
-Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(4).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(4).PDF,Polizei setzt nun auf Abschreckung; KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen -,Kölner Stadt-Anzeiger,05. Januar 2016,CLAUDIA HAUSER,PL; S. 1,433,364,3802,False,,False,,exact_005,,,drop,exact_duplicate,1258b2421aedd2db396520da475dd0c221634774,"VON CLAUDIA HAUSER, FABIAN KLASK UND HELMUT FRANGENBERG 
+Cologne,Cologne,Cologne(113).ZIP,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(4).PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre(4).PDF,Polizei setzt nun auf Abschreckung; KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen -,polizei setzt nun auf abschreckung kölner hauptbahnhof beamte sollen mehr präsenz zeigen,Kölner Stadt-Anzeiger,kölner stadtanzeiger,05. Januar 2016,CLAUDIA HAUSER,PL; S. 1,364,2698,1258b2421aedd2db396520da475dd0c221634774,exact_005,duplicate_exact,review,,no,,no,,,3802,no,,exact_005,,,"VON CLAUDIA HAUSER, FABIAN KLASK UND HELMUT FRANGENBERG 
  Köln. Nach den Ereignissen in der Silvesternacht am Hauptbahnhof sind mittlerweile 60 Anzeigen bei der Polizei 
 eingegangen, es gibt mindestens 80 Geschädigte. Die Zahl dürfte sich in den kommenden Tagen noch erhöhen. 
 Bisher wurden zwar fünf Täter gefasst, keinem von ihnen kann aber eine Beteiligung an den Übergriffen 
@@ -4347,7 +4347,7 @@ miesen Eisberges"". Gewalt gegen Frauen werde in der Gesellschaft zu oft verharm
 gesellschaftliche Verurteilung dieses männlichen Machtmissbrauchs"", so die Ministerin. FDP-Innenpolitiker Marc 
 Lürbke sagte: "" Viele Kriminelle verstehen den fehlenden Kontrolldruck in NRW offenbar als Einladung."" 
  Themen des Tages Seite 3"
-Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre.PDF,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen -,Kölner Stadt-Anzeiger,05. Januar 2016,CLAUDIA HAUSER,PL; S. 1,433,364,3800,False,,False,,exact_005,,,drop,exact_duplicate,1258b2421aedd2db396520da475dd0c221634774,"VON CLAUDIA HAUSER, FABIAN KLASK UND HELMUT FRANGENBERG 
+Cologne,Cologne,Cologne(113).ZIP,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen - Krisentre.PDF,Polizei setzt nun auf Abschreckung KÖLNER HAUPTBAHNHOF Beamte sollen mehr Präsenz zeigen -,polizei setzt nun auf abschreckung kölner hauptbahnhof beamte sollen mehr präsenz zeigen,Kölner Stadt-Anzeiger,kölner stadtanzeiger,05. Januar 2016,CLAUDIA HAUSER,PL; S. 1,364,2697,1258b2421aedd2db396520da475dd0c221634774,exact_005,duplicate_exact,review,,no,,no,,,3800,no,,exact_005,,,"VON CLAUDIA HAUSER, FABIAN KLASK UND HELMUT FRANGENBERG 
  Köln. Nach den Ereignissen in der Silvesternacht am Hauptbahnhof sind mittlerweile 60 Anzeigen bei der Polizei 
 eingegangen, es gibt mindestens 80 Geschädigte. Die Zahl dürfte sich in den kommenden Tagen noch erhöhen. 
 Bisher wurden zwar fünf Täter gefasst, keinem von ihnen kann aber eine Beteiligung an den Übergriffen 
@@ -4376,7 +4376,7 @@ miesen Eisberges"". Gewalt gegen Frauen werde in der Gesellschaft zu oft verharm
 gesellschaftliche Verurteilung dieses männlichen Machtmissbrauchs"", so die Ministerin. FDP-Innenpolitiker Marc 
 Lürbke sagte: "" Viele Kriminelle verstehen den fehlenden Kontrolldruck in NRW offenbar als Einladung."" 
  Themen des Tages Seite 3"
-Polizei_ Keine Toleranz bei Verstößen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei_ Keine Toleranz bei Verstößen.PDF,Polizei: Keine Toleranz bei Verstößen,Rheinische Post,Dienstag 12. Januar 2016,Heinz Schild,LOKALES,540,459,3967,False,,False,,,,,keep,core_event_or_context,068a12e8f5beb6b94ade4794e4a4903a402bf069,"Heinz Schild
+Cologne,Cologne,Cologne(113).ZIP,Polizei_ Keine Toleranz bei Verstößen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei_ Keine Toleranz bei Verstößen.PDF,Polizei: Keine Toleranz bei Verstößen,polizei keine toleranz bei verstössen,Rheinische Post,rheinische post,Dienstag 12. Januar 2016,Heinz Schild,LOKALES,459,3312,068a12e8f5beb6b94ade4794e4a4903a402bf069,,unique,keep,,no,,no,,,3967,no,,,,,"Heinz Schild
 VOERDE Spaß an der Freude, das wollen die Besucher des Voerder Karnevalszuges. Der närrische Lindwurm 
 wird sich am Sonntag, 7. Februar, wieder durch die City schlängeln, tausende Besucher werden dann die Strecke 
 säumen. Stefan Schmitz, Zugorganisator des Voerder Karnevalsvereins (VKV), und Andrea Margraf von der 
@@ -4411,7 +4411,7 @@ Unbeschwertes jeckes Treiben - beim Karnevalsumzug in Voerde, wie hier im Jahre 
 ausgelassen entlang der Zugstrecke. Dass dies so bleibt, dafür wollen Ordnungs- und Sicherheitskräfte sorgen. Die 
 Polizei kündigte an, dass Besucher bei Verstößen oder gar Straftaten keine Toleranz erwarten dürften. RP-
 Archivfoto: Martin Büttner"
-Polizei_ Passanten stoppten Vergewaltigungen in Köln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei_ Passanten stoppten Vergewaltigungen in Köln.PDF,Polizei: Passanten stoppten Vergewaltigungen in Köln,Rheinische Post,Freitag 8. Januar 2016,christian schwerdtfeger und Eva Quadbeck,TITELSEITE,778,650,5710,False,,False,,,,,keep,core_event_or_context,29cd5c9775258d6705a49da9bd2865e0918fa0e9,"christian schwerdtfeger und Eva Quadbeck
+Cologne,Cologne,Cologne(113).ZIP,Polizei_ Passanten stoppten Vergewaltigungen in Köln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizei_ Passanten stoppten Vergewaltigungen in Köln.PDF,Polizei: Passanten stoppten Vergewaltigungen in Köln,polizei passanten stoppten vergewaltigungen in köln,Rheinische Post,rheinische post,Freitag 8. Januar 2016,christian schwerdtfeger und Eva Quadbeck,TITELSEITE,650,4771,29cd5c9775258d6705a49da9bd2865e0918fa0e9,,unique,keep,,no,,no,,,5710,no,,,,,"christian schwerdtfeger und Eva Quadbeck
 Köln/Berlin Gut eine Woche nach den Übergriffen in der Silvesternacht am Kölner Hauptbahnhof verdichten sich 
 Hinweise auf die Identität der dort Versammelten. Aus den Schilderungen von am Einsatz beteiligten Polizisten und 
 aus einem Papier der Führungsstelle der Kölner Polizei sickerte durch, dass bereits in der Silvesternacht rund 100 
@@ -4461,7 +4461,7 @@ der Straße und harte Strafen. Selbstverständlich gehöre dazu auch, dass ausl�
 Straftaten aus Deutschland ausgewiesen würden.
 Leitartikel Seite A 2
 Nordrhein-Westfalen Seite A 3"
-Polizeipräsident Albers muss um seinen Job fürchten NRW-Innenminister Jäger geht auf Distanz zu Köln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizeipräsident Albers muss um seinen Job fürchten NRW-Innenminister Jäger geht auf Distanz zu Köln.PDF,Polizeipräsident Albers muss um seinen Job fürchten NRW-Innenminister Jäger geht auf Distanz zu Kölns,Kölner Stadt-Anzeiger,07. Januar 2016,FABIAN KLASK,BL; S. 3,781,669,6151,False,,False,,,,,keep,core_event_or_context,54215cf50f755b70c250aa07ba7dde2895e797c4,"VON FABIAN KLASK UND TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,Polizeipräsident Albers muss um seinen Job fürchten NRW-Innenminister Jäger geht auf Distanz zu Köln.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Polizeipräsident Albers muss um seinen Job fürchten NRW-Innenminister Jäger geht auf Distanz zu Köln.PDF,Polizeipräsident Albers muss um seinen Job fürchten NRW-Innenminister Jäger geht auf Distanz zu Kölns,polizeipräsident albers muss um seinen job fürchten nrwinnenminister jäger geht auf distanz zu kölns,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,FABIAN KLASK,BL; S. 3,669,4811,54215cf50f755b70c250aa07ba7dde2895e797c4,,unique,keep,,no,,no,,,6151,no,,,,,"VON FABIAN KLASK UND TIM STINAUER 
  Köln/Düsseldorf. Die Ereignisse wiederholen sich, die Worte auch. Die Polizei sei ""gut aufgestellt"" gewesen, 
 betonte Kölns Polizeipräsident Wolfgang Albers nach der Eskalation in der Silvesternacht. Die Bilanz: mehr als 
 hundert überfallene Frauen, keine sofortige Festnahme, die Polizei im Kreuzfeuer der Kritik. 
@@ -4513,12 +4513,12 @@ ertrunken war.
  Albers' Bericht zur Silvesternacht, so die Vermutung vieler in der Düsseldorfer Landespolitik, könnte schon seine 
 letzte Diensthandlung sein 
  Nach den Exzessen von Sexualstraftätern gleicht die Öffentlichkeitsarbeit der Polizei einem Fiasko"
-RHEIN -ERFT.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\RHEIN -ERFT.PDF,RHEIN -ERFT,Kölner Stadt-Anzeiger,09. Januar 2016,,PL; S. 1,54,41,636,False,,True,very_short,,,,drop,very_short_low_value,b506fc8484871ddc460bcd82946cab6479ef438e,"SILVESTERNACHT 
+Cologne,Cologne,Cologne(113).ZIP,RHEIN -ERFT.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\RHEIN -ERFT.PDF,RHEIN -ERFT,rhein erft,Kölner Stadt-Anzeiger,kölner stadtanzeiger,09. Januar 2016,,PL; S. 1,41,309,b506fc8484871ddc460bcd82946cab6479ef438e,,unique,drop,very_short_low_value,no,,no,,,636,yes,very_short_low_value,,,,"SILVESTERNACHT 
  ""Gastrecht darf nicht missbraucht werden"" 
  Klare Worte finden Landrat Michael Kreuzberg und der leitende Polizeidirektor für den Rhein-Erft-Kreis, Roland 
 Küpper, zu den Vorkommnissen in der Silvesternacht am Kölner Hauptbahnhof. Harsche Kritik übt Kreuzberg an 
 der Polizeileitung. Seite 33"
-"Richtiges Opfer, falsche Gründe Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Richtiges Opfer, falsche Gründe Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht.PDF","Richtiges Opfer, falsche Gründe Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht","taz, die tageszeitung",Montag 11. Januar 2016,,MEINUNG UND DISKUSSION; S. 12,752,626,5591,False,,True,opinion_or_commentary,,,,drop,commentary_not_core_event_report,48f13a29c81915829867da751b186d5dcabcbb7f,"Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht
+Cologne,Cologne,Cologne(113).ZIP,"Richtiges Opfer, falsche Gründe Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Richtiges Opfer, falsche Gründe Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht.PDF","Richtiges Opfer, falsche Gründe Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht",richtiges opfer falsche gründe pascal beucker über die konsequenzen der kölner silvesternacht,"taz, die tageszeitung",taz die tageszeitung,Montag 11. Januar 2016,,MEINUNG UND DISKUSSION; S. 12,626,4632,48f13a29c81915829867da751b186d5dcabcbb7f,,unique,drop,commentary_noncore,no,,no,,,5591,yes,commentary_noncore,,,,"Pascal Beucker über die Konsequenzen der Kölner SilvesterNacht
 Schon lange gab es nicht mehr eine solche Übereinstimmung von Öffentlichkeit, Medien und Politik über alle 
 Parteigrenzen hinweg. Dass der Rausschmiss des Polizeipräsidenten von Köln richtig war, darüber sind sich alle 
 einig, die sich sonst so uneinig sind. Das sollte, das muss misstrauisch machen. Nicht wegen der Entscheidung 
@@ -4566,7 +4566,7 @@ aussehen beziehungsweise aus dem mitteleuropäischen Raum stammen. Eine Bestäti
 allerdings noch aus.
 Schwerpunkt 3 SEITE
 Der Abgang des Polizeichefs war nicht zu vermeiden. Aber er hat nicht alles falsch gemacht"
-Schlechte Perspektive Algerien und Marokko sollen sichere Herkunftsländer werden _ Hohe Kriminalität.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Schlechte Perspektive Algerien und Marokko sollen sichere Herkunftsländer werden _ Hohe Kriminalität.PDF,Schlechte Perspektive Algerien und Marokko sollen sichere Herkunftsländer werden / Hohe Kriminalitätsrate,Der Tagesspiegel,Mittwoch 13. Januar 2016,Ulrike Schffer und Nils Wischmeyer,POLITIK; S. 4; Ausg. 22638,658,574,6033,False,,False,,,,,keep,core_event_or_context,7eb4b81840eac50b99978b89aaf54953a738413e,"Berlin - Seit der Silvesternacht in Köln stehen junge Männer aus Marokko und Algerien im Fokus der deutschen 
+Cologne,Cologne,Cologne(113).ZIP,Schlechte Perspektive Algerien und Marokko sollen sichere Herkunftsländer werden _ Hohe Kriminalität.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Schlechte Perspektive Algerien und Marokko sollen sichere Herkunftsländer werden _ Hohe Kriminalität.PDF,Schlechte Perspektive Algerien und Marokko sollen sichere Herkunftsländer werden / Hohe Kriminalitätsrate,schlechte perspektive algerien und marokko sollen sichere herkunftsländer werden  hohe kriminalitätsrate,Der Tagesspiegel,der tagesspiegel,Mittwoch 13. Januar 2016,Ulrike Schffer und Nils Wischmeyer,POLITIK; S. 4; Ausg. 22638,574,4262,7eb4b81840eac50b99978b89aaf54953a738413e,,unique,keep,,no,,no,,,6033,no,,,,,"Berlin - Seit der Silvesternacht in Köln stehen junge Männer aus Marokko und Algerien im Fokus der deutschen 
 Öffentlichkeit. Denn viele der Täter, die zum Jahreswechsel rund um den Kölner Hauptbahnhof Frauen überfallen 
 und sexuell bedrängt haben, stammen nach Erkenntnissen der Polizei aus diesen Ländern. Viele sollen sich illegal 
 in Deutschland aufhalten, aber auch Asylbewerber gehören wohl zu den Tätern. 
@@ -4612,11 +4612,11 @@ Graphic
  
 Warnung. Ein großes Plakat weist in der Kölner Innenstadt Passanten auf die Gefahr durch Taschendiebe hin. 
 Foto: Wolfgang Rattay/Reuters"
-Silvester-Übergriffe_ Telefon-Hotline für Opfer.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Silvester-Übergriffe_ Telefon-Hotline für Opfer.PDF,Silvester-Übergriffe: Telefon-Hotline für Opfer,Rheinische Post,Freitag 8. Januar 2016,,LOKALES,55,46,863,False,,True,very_short; short_regional_brief,,,,drop,very_short_low_value,ad74eadbd269e5ad6cac9a47abe1337e7522dd15,"Leverkusen Der Landschaftsverband Rheinland (LVR) hat eine Hotline für Frauen eingerichtet, die in der 
+Cologne,Cologne,Cologne(113).ZIP,Silvester-Übergriffe_ Telefon-Hotline für Opfer.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Silvester-Übergriffe_ Telefon-Hotline für Opfer.PDF,Silvester-Übergriffe: Telefon-Hotline für Opfer,silvesterübergriffe telefonhotline für opfer,Rheinische Post,rheinische post,Freitag 8. Januar 2016,,LOKALES,46,338,ad74eadbd269e5ad6cac9a47abe1337e7522dd15,,unique,drop,very_short_low_value,no,,no,,,863,yes,very_short_low_value; regional_variant_review,,,,"Leverkusen Der Landschaftsverband Rheinland (LVR) hat eine Hotline für Frauen eingerichtet, die in der 
 Silvesternacht Opfer sexueller Übergriffe oder Gewalt am Kölner Hauptbahnhof geworden sind. Unter 0221 809-
 6777 stehen täglich von 9 bis 17 Uhr (außerhalb der Zeiten läuft ein Anrufbeantworter) Ansprechpartner für 
 Betroffene bereit."
-Silvesterübergriffe_ _Mann fasste mir in den Schritt_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Silvesterübergriffe_ _Mann fasste mir in den Schritt_.PDF,"Silvesterübergriffe: ""Mann fasste mir in den Schritt""",Rheinische Post,Dienstag 12. Januar 2016,Susanne Genath,LOKALES,453,439,3333,False,,False,,,,,keep,core_event_or_context,533182f08f129f380970287ed733f48058adcb22,"Susanne Genath
+Cologne,Cologne,Cologne(113).ZIP,Silvesterübergriffe_ _Mann fasste mir in den Schritt_.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Silvesterübergriffe_ _Mann fasste mir in den Schritt_.PDF,"Silvesterübergriffe: ""Mann fasste mir in den Schritt""",silvesterübergriffe mann fasste mir in den schritt,Rheinische Post,rheinische post,Dienstag 12. Januar 2016,Susanne Genath,LOKALES,439,2805,533182f08f129f380970287ed733f48058adcb22,,unique,keep,,no,,no,,,3333,no,,,,,"Susanne Genath
 Köln/Leverkusen Die Silvesternacht in Köln wird eine 53-jährige Leverkusenerin in schlechter Erinnerung behalten. 
 Zwei Mal wurde sie auf dem Rückweg im Kölner Hauptbahnhof von ausländischen Männern begrapscht, obwohl sie 
 in Begleitung ihres Mannes war. Und nicht nur diese Erlebnisse empören sie, sondern auch die anschließenden 
@@ -4646,7 +4646,7 @@ unbekannten Grapscher nichts. ""Die Polizisten waren nett, haben aber sofort ver
 sich bei den Tätern um Nordafrikaner und nicht um Flüchtlinge handele"", berichtet die Leverkusenerin. Sie ist 
 überzeugt: ""Die haben die Vorgabe, das zu sagen."" Ob sie dieses Jahr an Karneval nach Köln fahren wird, weiß die 
 53-Jährige nicht. ""Ich werde auf jeden Fall nicht den Zug nehmen"", sagt sie."
-So kommunizierte die Polizei die Kölner Exzesse Neujahr werteten Beamte die Lage zu Silvester noch a.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\So kommunizierte die Polizei die Kölner Exzesse Neujahr werteten Beamte die Lage zu Silvester noch a.PDF,So kommunizierte die Polizei die Kölner Exzesse Neujahr werteten Beamte die Lage zu Silvester noch als,Die Welt,Mittwoch 6. Januar 2016,Kristian Frigelj,POLITIK; Politik; S. 4; Ausg. 4,1255,1148,9093,False,,False,,,,,keep,core_event_or_context,aa8ccbcf4412f4f31d8d97a0f876fc47c43c8843,"Nach den sexuellen Übergriffen auf Frauen und den Diebstählen in der Silvesternacht am Kölner Hauptbahnhof 
+Cologne,Cologne,Cologne(113).ZIP,So kommunizierte die Polizei die Kölner Exzesse Neujahr werteten Beamte die Lage zu Silvester noch a.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\So kommunizierte die Polizei die Kölner Exzesse Neujahr werteten Beamte die Lage zu Silvester noch a.PDF,So kommunizierte die Polizei die Kölner Exzesse Neujahr werteten Beamte die Lage zu Silvester noch als,so kommunizierte die polizei die kölner exzesse neujahr werteten beamte die lage zu silvester noch als,Die Welt,die welt,Mittwoch 6. Januar 2016,Kristian Frigelj,POLITIK; Politik; S. 4; Ausg. 4,1148,7904,aa8ccbcf4412f4f31d8d97a0f876fc47c43c8843,,unique,keep,,no,,no,,,9093,no,,,,,"Nach den sexuellen Übergriffen auf Frauen und den Diebstählen in der Silvesternacht am Kölner Hauptbahnhof 
 sind inzwischen 90 Anzeigen eingegangen, wie die Polizei meldete. Die Beamten selbst erfuhren vom Ernst der 
 Lage erst durch diese Anzeigen von belästigten Frauen. Das belegt die folgende Dokumentation der 
 Pressemitteilungen der Kölner Polizei. Deren Handeln wird in den sozialen Netzen kritisch gesehen.
@@ -4734,7 +4734,7 @@ Als die Polizei am 2. Januar um 16.58 Uhr dann auf die Vorfälle einging, war es
 sich viele schon ihre Meinung gebildet.
 Original Gesamtseiten-PDF
 Original Gesamtseiten-PDF"
-Spießrutenlauf durch Männermassen Köln Der interne Bericht eines leitenden Polizeibeamten offenbart.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Spießrutenlauf durch Männermassen Köln Der interne Bericht eines leitenden Polizeibeamten offenbart.PDF,Spießrutenlauf durch Männermassen Köln Der interne Bericht eines leitenden Polizeibeamten offenbart die,"taz, die tageszeitung",Freitag 08. Januar 2016,"Pascal Beucker, Astrid Ehrenhauser",SCHWERPUNKT; S. 4,999,863,7679,False,,False,,,,,keep,core_event_or_context,1710007c36816cd99d9932036fdcf87afae2ab76,"von Pascal Beucker und Astrid Ehrenhauser
+Cologne,Cologne,Cologne(113).ZIP,Spießrutenlauf durch Männermassen Köln Der interne Bericht eines leitenden Polizeibeamten offenbart.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Spießrutenlauf durch Männermassen Köln Der interne Bericht eines leitenden Polizeibeamten offenbart.PDF,Spießrutenlauf durch Männermassen Köln Der interne Bericht eines leitenden Polizeibeamten offenbart die,spiessrutenlauf durch männermassen köln der interne bericht eines leitenden polizeibeamten offenbart die,"taz, die tageszeitung",taz die tageszeitung,Freitag 08. Januar 2016,"Pascal Beucker, Astrid Ehrenhauser",SCHWERPUNKT; S. 4,863,6345,1710007c36816cd99d9932036fdcf87afae2ab76,,unique,keep,,no,,no,,,7679,no,,,,,"von Pascal Beucker und Astrid Ehrenhauser
 Berlin taz | Es ist ein Dokument des Grauens. Der interne Bericht eines Polizeibeamten, der in leitender Funktion 
 am Kölner Hauptbahnhof im Einsatz war, offenbart eine fatale Überforderung der Sicherheitskräfte in der 
 Silvesternacht. Der viel zu geringe Kräfteansatz, fehlende Führungsmittel und Einsatzmittel hätten alle 
@@ -4801,7 +4801,7 @@ Stück für Stück wird deutlicher, was in der Silvesternacht in Köln geschehen
 hinnehmen
 Spießrutenlauf durch Männermassen Köln Der interne Bericht eines leitenden Polizeibeamten offenbart die 
 völlige Überforderung der Polizei, die Aggressivität der...."
-Straßenraub im großen Stil Zahlen &amp; Fakten Was wir inzwischen über die Silvesternacht wissen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Straßenraub im großen Stil Zahlen &amp; Fakten Was wir inzwischen über die Silvesternacht wissen.PDF,Straßenraub im großen Stil Zahlen &amp; Fakten Was wir inzwischen über die Silvesternacht wissen,"taz, die tageszeitung",Dienstag 12. Januar 2016,Daniel Bax,SCHWERPUNKT; S. 3,334,299,3228,False,,False,,,,,keep,core_event_or_context,1ba562afedfd99e82b7faa53c767993a7d941fee,"Berlin taz | Über 500 Strafanzeigen liegen der Bundespolizei und der Polizei in Köln nun vor zum großen Teil von 
+Cologne,Cologne,Cologne(113).ZIP,Straßenraub im großen Stil Zahlen &amp; Fakten Was wir inzwischen über die Silvesternacht wissen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Straßenraub im großen Stil Zahlen &amp; Fakten Was wir inzwischen über die Silvesternacht wissen.PDF,Straßenraub im großen Stil Zahlen &amp; Fakten Was wir inzwischen über die Silvesternacht wissen,strassenraub im grossen stil zahlen amp fakten was wir inzwischen über die silvesternacht wissen,"taz, die tageszeitung",taz die tageszeitung,Dienstag 12. Januar 2016,Daniel Bax,SCHWERPUNKT; S. 3,299,2116,1ba562afedfd99e82b7faa53c767993a7d941fee,,unique,keep,,no,,no,,,3228,no,,,,,"Berlin taz | Über 500 Strafanzeigen liegen der Bundespolizei und der Polizei in Köln nun vor zum großen Teil von 
 Frauen, die in der Silvesternacht am Kölner Hauptbahnhof begrabscht und bestohlen wurden. Von den 516 
 Strafanzeigen betreffen 237 sexuelle Übergriffe, 107 davon in Tateinheit mit Diebstahl. Die übrigen 279 Anzeigen 
 beziehen sich auf klassische Diebstähle und Körperverletzungen.
@@ -4825,7 +4825,7 @@ In Nordrhein-Westfalen klärt sich langsam der Nebel um die Ereignisse an Silves
 Menschenjagd auf Ausländer
 
 Straßenraub im großen Stil Zahlen &amp; Fakten Was wir inzwischen über die Silvesternacht wissen"
-Streit über junge Trickdiebe KRIMINALITÄT Aachens Polizei enttäuscht über Staatsanwaltschaft - Täter.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Streit über junge Trickdiebe KRIMINALITÄT Aachens Polizei enttäuscht über Staatsanwaltschaft - Täter.PDF,Streit über junge Trickdiebe KRIMINALITÄT Aachens Polizei enttäuscht über Staatsanwaltschaft - Täter oft,Kölner Stadt-Anzeiger,16. Januar 2016,DETLEF SCHMALENBERG,RG; S. 8,1310,1085,9110,False,,False,,,,,keep,core_event_or_context,c3e069b668075949bff9530dbb2dbb4d965c213c,"VON DETLEF SCHMALENBERG UND TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,Streit über junge Trickdiebe KRIMINALITÄT Aachens Polizei enttäuscht über Staatsanwaltschaft - Täter.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Streit über junge Trickdiebe KRIMINALITÄT Aachens Polizei enttäuscht über Staatsanwaltschaft - Täter.PDF,Streit über junge Trickdiebe KRIMINALITÄT Aachens Polizei enttäuscht über Staatsanwaltschaft - Täter oft,streit über junge trickdiebe kriminalität aachens polizei enttäuscht über staatsanwaltschaft  täter oft,Kölner Stadt-Anzeiger,kölner stadtanzeiger,16. Januar 2016,DETLEF SCHMALENBERG,RG; S. 8,1085,8046,c3e069b668075949bff9530dbb2dbb4d965c213c,,unique,keep,,no,,no,,,9110,no,,,,,"VON DETLEF SCHMALENBERG UND TIM STINAUER 
  Köln. Der Fall, geschehen am vergangenen Wochenende, sorgte für Aufregung bei der Aachener Polizei. ""Wir 
 hatten erwartet, dass dies von der Staatsanwaltschaft anders entschieden wird"", sagte Behördensprecherin Sandra 
 Schmitz. Es sei ""frustrierend"" für ihre Kollegen, wenn das dann nicht passiere. 
@@ -4910,13 +4910,13 @@ Täterklientel derart ansteigt."" (hsr)
  Wir werden dann erneut prüfen, ob ein Haftbefehl möglich ist 
  Jost Schützeberg, Staatsanwaltschaft Aachen 
  Der Nachweis bandenmäßiger Strukturen ist auch in Köln bisher noch nicht gelungen"
-"verboten Guten Tag,meine Damen und Herren.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\verboten Guten Tag,meine Damen und Herren.PDF","verboten Guten Tag,meine Damen und Herren","taz, die tageszeitung",Mittwoch 06. Januar 2016,,SEITE 1; S. 1,63,52,1016,False,,True,very_short,,,,drop,very_short_low_value,2983f3c97fcc52272ef7832e13bf6538e7151177,"Guten Tag,
+Cologne,Cologne,Cologne(113).ZIP,"verboten Guten Tag,meine Damen und Herren.PDF","C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\verboten Guten Tag,meine Damen und Herren.PDF","verboten Guten Tag,meine Damen und Herren",verboten guten tagmeine damen und herren,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 06. Januar 2016,,SEITE 1; S. 1,52,381,2983f3c97fcc52272ef7832e13bf6538e7151177,,unique,drop,very_short_low_value,no,,no,,,1016,yes,very_short_low_value,,,,"Guten Tag,
 meine Damen und Herren!
 Kanzlerin Angela Merkel hat nach den Vorfällen in der Silvesternacht am Kölner Hauptbahnhof eine harte Antwort 
 des Rechtsstaats angekündigt. Die Schuldigen müssten ohne Ansehen ihrer Herkunft oder ihres Hintergrunds 
 ermittelt und bestraft werden, erklärte Merkel. verboten bangt: Was kann das nur heißen? Wahrscheinlich:
 Alkoholverbot für alle!"
-Verheerendes Polizei-Zeugnis Der Bericht des in der Kritik stehenden NRW-Innenministers Ralf Jäger g.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Verheerendes Polizei-Zeugnis Der Bericht des in der Kritik stehenden NRW-Innenministers Ralf Jäger g.PDF,Verheerendes Polizei-Zeugnis Der Bericht des in der Kritik stehenden NRW-Innenministers Ralf Jäger gibt,Kölner Stadt-Anzeiger,12. Januar 2016,FABIAN KLASK,BL; S. 2,1268,1102,8987,False,,False,,,,,keep,core_event_or_context,dc2122956b4439a1d792227cfdb1aad784bcf33e,"VON FABIAN KLASK UND TIM STINAUER 
+Cologne,Cologne,Cologne(113).ZIP,Verheerendes Polizei-Zeugnis Der Bericht des in der Kritik stehenden NRW-Innenministers Ralf Jäger g.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Verheerendes Polizei-Zeugnis Der Bericht des in der Kritik stehenden NRW-Innenministers Ralf Jäger g.PDF,Verheerendes Polizei-Zeugnis Der Bericht des in der Kritik stehenden NRW-Innenministers Ralf Jäger gibt,verheerendes polizeizeugnis der bericht des in der kritik stehenden nrwinnenministers ralf jäger gibt,Kölner Stadt-Anzeiger,kölner stadtanzeiger,12. Januar 2016,FABIAN KLASK,BL; S. 2,1102,7797,dc2122956b4439a1d792227cfdb1aad784bcf33e,,unique,keep,,no,,no,,,8987,no,,,,,"VON FABIAN KLASK UND TIM STINAUER 
  Düsseldorf/Köln. Der Mann, auf den alle warten, ist überpünktlich. Ralf Jäger, NRW-Innenminister unter 
 Aufklärungsdruck, bemüht sich, so schnell es geht, einen Weg durch den Landtagssaal und zu seinem Platz zu 
 finden - das Manöver gelingt: Immerhin trennt ihn von den Dutzenden Kameras jetzt der schwere Holztisch im 
@@ -5009,7 +5009,7 @@ Selbstkritik und schiebe ""den Schwarzen Peter allein nach Köln"".
 in der Silvesternacht sowie die Anzeigen der Opfer aufgeführt sind. Das Schriftstück wurde am Montag kurz vor der 
 Sitzung des Innenausschusses veröffentlicht. Insgesamt sind bislang 516 Strafanzeigen bei der Bundes- und der 
 Kölner Polizei eingegangen. Die Eintragungen bis zum 8. Januar sind nachzulesen auf. www.ksta.de/listepolizei"
-Von _Madonnen_ und _Huren_ Die fundamentalistischen Varianten des Islam stellen eine große Herausfor.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Von _Madonnen_ und _Huren_ Die fundamentalistischen Varianten des Islam stellen eine große Herausfor.PDF,"Von ""Madonnen"" und ""Huren"" Die fundamentalistischen Varianten des Islam stellen eine große",Kölner Stadt-Anzeiger,07. Januar 2016,LALE AKGÜN,ME; S. 4,1031,874,7494,False,,False,,,,,keep,core_event_or_context,4a8861cb724c66af774e96986453b48dbecb2a1b,"Die entsetzlichen Vorfälle in der Silvesternacht am Kölner Hauptbahnhof zeugen von der fehlenden Einsicht in 
+Cologne,Cologne,Cologne(113).ZIP,Von _Madonnen_ und _Huren_ Die fundamentalistischen Varianten des Islam stellen eine große Herausfor.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Von _Madonnen_ und _Huren_ Die fundamentalistischen Varianten des Islam stellen eine große Herausfor.PDF,"Von ""Madonnen"" und ""Huren"" Die fundamentalistischen Varianten des Islam stellen eine große",von madonnen und huren die fundamentalistischen varianten des islam stellen eine grosse,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,LALE AKGÜN,ME; S. 4,874,6445,4a8861cb724c66af774e96986453b48dbecb2a1b,,unique,keep,,no,,no,,,7494,no,,,,,"Die entsetzlichen Vorfälle in der Silvesternacht am Kölner Hauptbahnhof zeugen von der fehlenden Einsicht in 
 die Rechte von Frauen. Weibliche Feiernde, Reisende oder Passantinnen wurden bedrängt, beraubt, sexuell 
 belästigt und vergewaltigt, weil sie zufällig ihrer Wege gingen. 
  Ohne die Ermittlungsergebnisse vorwegzunehmen: Die Indizien sprechen für junge Männer 
@@ -5080,7 +5080,7 @@ Herausforderung für die Wahrung und Verteidigung der Frauenrechte dar
  Bundestag. Sie ist approbierte Psychotherapeutin und befasst sich seit langem mit Islam und Islamismus 
  Der Cocktail von Moral, Religiosität und pervertierter Sexualität wird vor unserer 
  Haustür gebraut"
-War die Polizei auf den Gewaltexzess vorbereitet_ Nach den Übergriffen am Kölner Hauptbahnhof entbre.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\War die Polizei auf den Gewaltexzess vorbereitet_ Nach den Übergriffen am Kölner Hauptbahnhof entbre.PDF,War die Polizei auf den Gewaltexzess vorbereitet?; Nach den Übergriffen am Kölner Hauptbahnhof entbrennt,Die Welt,Donnerstag 7. Januar 2016,Manuel Bewarder,POLITIK; Politik; S. 5; Ausg. 5,1018,926,7820,False,,False,,,,,keep,core_event_or_context,6abbe3e85ffa3527bce15dfeb8532160bac3ab60,"Die 143 Polizeibeamten und etwa 70 Bundespolizisten waren offensichtlich nicht genug. Sie konnten jedenfalls 
+Cologne,Cologne,Cologne(113).ZIP,War die Polizei auf den Gewaltexzess vorbereitet_ Nach den Übergriffen am Kölner Hauptbahnhof entbre.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\War die Polizei auf den Gewaltexzess vorbereitet_ Nach den Übergriffen am Kölner Hauptbahnhof entbre.PDF,War die Polizei auf den Gewaltexzess vorbereitet?; Nach den Übergriffen am Kölner Hauptbahnhof entbrennt,war die polizei auf den gewaltexzess vorbereitet nach den übergriffen am kölner hauptbahnhof entbrennt,Die Welt,die welt,Donnerstag 7. Januar 2016,Manuel Bewarder,POLITIK; Politik; S. 5; Ausg. 5,926,6665,6abbe3e85ffa3527bce15dfeb8532160bac3ab60,,unique,keep,,no,,no,,,7820,no,,,,,"Die 143 Polizeibeamten und etwa 70 Bundespolizisten waren offensichtlich nicht genug. Sie konnten jedenfalls 
 nicht verhindern, dass die Situation am Kölner Hauptbahnhof in der Silvesternacht völlig außer Kontrolle geriet und 
 offenbar zahlreiche Frauen umringt, bedrängt und teils massiv sexuell belästigt und bestohlen wurden.
 Auch wenn derzeit vor allem die Suche nach den Tätern im Vordergrund steht - kritische Fragen richten sich 
@@ -5152,7 +5152,7 @@ dpa/Markus Boehm
 Tage nach den Vorfällen ist dieses Bild von der Silvesternacht am Platz zwischen Kölner Dom und Hauptbahnhof 
 aufgetaucht
 Markus Boehm"
-Warum Kölns Polizeichef gehen musste.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Warum Kölns Polizeichef gehen musste.PDF,Warum Kölns Polizeichef gehen musste,Kölnische Rundschau,11. Januar 2016,,RRB-LOK; S. 28,157,138,1434,False,,False,,,,,keep,core_event_or_context,a6903f18051025bd820b991f85845c880e74b9fb,"Anna (5) aus Refrath fragt, warum der Kölner Polizeipräsident Wolfgang Albers gehen musste. 
+Cologne,Cologne,Cologne(113).ZIP,Warum Kölns Polizeichef gehen musste.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Warum Kölns Polizeichef gehen musste.PDF,Warum Kölns Polizeichef gehen musste,warum kölns polizeichef gehen musste,Kölnische Rundschau,kölnische rundschau,11. Januar 2016,,RRB-LOK; S. 28,138,928,a6903f18051025bd820b991f85845c880e74b9fb,,unique,keep,,no,,no,,,1434,no,,,,,"Anna (5) aus Refrath fragt, warum der Kölner Polizeipräsident Wolfgang Albers gehen musste. 
  Große Gruppen junger Männer haben in der Silvesternacht am Kölner Hauptbahnhof viele Frauen angefasst, 
 obwohl die das nicht wollten, und ihnen das Portemonnaie oder Handy geraubt. Inzwischen gibt es schon mehr als 
 350 Strafanzeigen deswegen, und es können noch mehr werden. 
@@ -5161,7 +5161,7 @@ nach ein paar Tagen zugegeben, dass die erste Auskunft falsch war. Aber danach g
 weiter. So waren die Angaben der Polizei über die mutmaßlichen Täter zunächst unvollständig und irreführend. Am 
 Freitagabend hat sich der Innenminister entschlossen, den Polizeipräsidenten zu entlassen. Denn es ist sehr 
 wichtig, dass die Menschen der Polizei vertrauen können. Und darum darf man sie nicht an der Nase herumführen."
-Wir müssen Ängste jetzt offen aussprechen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Wir müssen Ängste jetzt offen aussprechen.PDF,Wir müssen Ängste jetzt offen aussprechen,Rheinische Post,Mittwoch 6. Januar 2016,,LAND UND LEUTE,458,412,3558,False,,False,,,,,keep,core_event_or_context,5b0db08c3402460af21f8365156b204c68d9f3f2,"Frauensache
+Cologne,Cologne,Cologne(113).ZIP,Wir müssen Ängste jetzt offen aussprechen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Wir müssen Ängste jetzt offen aussprechen.PDF,Wir müssen Ängste jetzt offen aussprechen,wir müssen ängste jetzt offen aussprechen,Rheinische Post,rheinische post,Mittwoch 6. Januar 2016,,LAND UND LEUTE,412,2821,5b0db08c3402460af21f8365156b204c68d9f3f2,,unique,keep,,no,,no,,,3558,no,,,,,"Frauensache
 Am Kölner Hauptbahnhof sind in der Silvesternacht massenhaft Frauen sexuell belästigt worden. Die Täter sollen 
 laut Polizei ""dem Aussehen nach aus dem arabischen oder nordafrikanischen Raum"" stammen. Auf der Hamburger 
 Reeperbahn hat es offenbar ähnliche Vorfälle gegeben.
@@ -5193,7 +5193,7 @@ sagt: ""Wir schaffen das.""
 Ihre Meinung? Schreiben Sie unserer Autorin: kolumne@rheinische-post.de
 Nach den sexuellen Belästigungen am Kölner Hauptbahnhof wird über die Herkunft der mutmaßlichen Täter 
 diskutiert. Sie darf weder ein Tabu sein noch eine pauschale Vorverurteilung erlauben."
-Wirrwarr um das Einsatzgebiet POLIZEI Behörden widersprechen sich. Die Rechtslage ist eindeutig.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Wirrwarr um das Einsatzgebiet POLIZEI Behörden widersprechen sich. Die Rechtslage ist eindeutig.PDF,Wirrwarr um das Einsatzgebiet POLIZEI Behörden widersprechen sich. Die Rechtslage ist eindeutig,Kölner Stadt-Anzeiger,07. Januar 2016,PETER BERGER,RG; S. 8,431,366,3549,False,,False,,,,,keep,core_event_or_context,8636bdff129702cfbda16b7a61e75f9bea3d55d0,"VON PETER BERGER 
+Cologne,Cologne,Cologne(113).ZIP,Wirrwarr um das Einsatzgebiet POLIZEI Behörden widersprechen sich. Die Rechtslage ist eindeutig.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Wirrwarr um das Einsatzgebiet POLIZEI Behörden widersprechen sich. Die Rechtslage ist eindeutig.PDF,Wirrwarr um das Einsatzgebiet POLIZEI Behörden widersprechen sich. Die Rechtslage ist eindeutig,wirrwarr um das einsatzgebiet polizei behörden widersprechen sich die rechtslage ist eindeutig,Kölner Stadt-Anzeiger,kölner stadtanzeiger,07. Januar 2016,PETER BERGER,RG; S. 8,366,2654,8636bdff129702cfbda16b7a61e75f9bea3d55d0,,unique,keep,,no,,no,,,3549,no,,,,,"VON PETER BERGER 
  Köln. Bei der Polizei weiß offenbar keiner so genau, wer für welchen Bereich des Kölner Hauptbahnhofs 
 zuständig ist. ""Die Bahnhofstüren sind die Grenze"", sagte Kölns Leitender Polizeidirektor Michael Temme am 
 Dienstag bei der Pressekonferenz zu den Vorgängen in der Silvesternacht. Im Bahnhof sei die Bundespolizei, 
@@ -5224,7 +5224,7 @@ Gefahrenabwehr und in Notsituationen müssen die Beamten jederzeit einschreiten.
  zuständig. 
  Bis zu den Stelen 
  Sprecher der Bundespolizei"
-Übergriffe auf Frauen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Übergriffe auf Frauen.PDF,Übergriffe auf Frauen,Frankfurter Rundschau,Dienstag 5. Januar 2016,,PANORAMA; S. 40,354,295,2825,False,,False,,,,,keep,core_event_or_context,06b20e16b611b998a9507b27e16ef00ae95be1c8,"Als ""Straftaten einer völlig neuen Dimension"" hat Polizeipräsident Wolfgang Albers vielfache Übergriffe auf Frauen 
+Cologne,Cologne,Cologne(113).ZIP,Übergriffe auf Frauen.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Übergriffe auf Frauen.PDF,Übergriffe auf Frauen,übergriffe auf frauen,Frankfurter Rundschau,frankfurter rundschau,Dienstag 5. Januar 2016,,PANORAMA; S. 40,295,2146,06b20e16b611b998a9507b27e16ef00ae95be1c8,,unique,keep,,no,,no,,,2825,no,,,,,"Als ""Straftaten einer völlig neuen Dimension"" hat Polizeipräsident Wolfgang Albers vielfache Übergriffe auf Frauen 
 rund um den Kölner Hauptbahnhof in der Silvesternacht bezeichnet. ""Es ist ein unerträglicher Zustand, dass mitten 
 in der Stadt solche Straftaten begangen werden"", sagte er am Montag.
 Am Silvesterabend versammelten sich auf dem Bahnhofsvorplatz nach den Worten des Polizeipräsidenten etwa 
@@ -5246,7 +5246,7 @@ Die GdP reagierte entsetzt auf die Vorfälle. ""So etwas kennen wir bisher nicht
 der GdP, Arnold Plickert, am Montag. Die stark alkoholisierten Täter seien ""völlig enthemmt und gewaltvoll"" 
 vorgegangen. ""Ein Täter hat einer Zivilpolizistin in die Hose gefasst"", berichtete Plickert. Bei den am Einsatz 
 beteiligten Polizeibeamten herrsche eine ""tiefe Betroffenheit"". dpa/afp"
-Übergriffe in der Silvesternacht werfen viele Fragen auf.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Übergriffe in der Silvesternacht werfen viele Fragen auf.PDF,Übergriffe in der Silvesternacht werfen viele Fragen auf,Kölnische Rundschau,08. Januar 2016,,BR; S. 14,878,744,6029,False,,False,,,,,keep,core_event_or_context,a1d64f2544304f0348b22dc12059192357bad57e,"Weitere Stimmen zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof und zum 
+Cologne,Cologne,Cologne(113).ZIP,Übergriffe in der Silvesternacht werfen viele Fragen auf.PDF,C:\PythonProjects\AfD-project\Corpora\Cologne\raw_unarchive\Übergriffe in der Silvesternacht werfen viele Fragen auf.PDF,Übergriffe in der Silvesternacht werfen viele Fragen auf,übergriffe in der silvesternacht werfen viele fragen auf,Kölnische Rundschau,kölnische rundschau,08. Januar 2016,,BR; S. 14,744,5249,a1d64f2544304f0348b22dc12059192357bad57e,,unique,keep,,no,,no,,,6029,no,,,,,"Weitere Stimmen zu den Berichten über die Ereignisse in der Silvesternacht am Kölner Hauptbahnhof und zum 
 Kommentar ""Es geht nicht nur um Köln"" von Cordula von Wysocki zu den Konsequenzen. 
  Dem Kommentar von Frau von Wysocki kann nur in vollem Umfange beigepflichtet werden. Die Hilflosigkeit der 
 Polizei ist beängstigend. Gleichwohl kann sich die Polizeiadministration meines Erachtens nicht darauf berufen, von 

@@ -3,15 +3,14 @@
 ## Overall
 
 - Total file count: 22
-- Unique article count after exact-duplicate collapse: 19
+- Unique article count after duplicate collapse: 18
 - Exact duplicate groups: 3
 - Suspicious near-duplicate groups: 1
 - Repeated regional-edition variant groups: 1
-- Empty or malformed records: 0
-- Low-value / commentary / reader-letter / very short items flagged: 3
+- Malformed records: 0
 - Keep: 13
-- Review: 2
-- Drop: 7
+- Review: 8
+- Drop: 1
 
 ## Outlet Frequency
 
