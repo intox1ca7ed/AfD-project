@@ -1,0 +1,51 @@
+﻿file_name,decision,reason,duplicate_group,notes
+_Als hätte jemand einen Schalter umgelegt_ Plötzlich kommen deutlich mehr Flüchtlinge an. Die Polize.PDF,keep,,,
+"_Das grenzt an Heuchelei_ Straftäter weiter nach Afghanistan abschieben_ Union und FDP sind dafür, S.PDF",keep,,,
+_Konzertierte Angriffe gegen das Privateigentum_ Linda Teuteberg (FDP) hat Zweifel an einer mögliche.PDF,keep,,,
+Afghanistan reißt in der EU alte Wunden auf Mitgliedsländer streiten über Aufnahme von Geflüchteten.PDF,keep,,,
+Berlin will Kabul-Flüchtlinge aufnehmen Innensenator fordert schnelle Regierungsentscheidung _ Bunde.PDF,keep,,,
+"Brand im Flüchtlingsheim An zwei Stellen in Goch hat es gebrannt, und auch in Bedburg-Hau war die Fe.PDF",drop,duplicate_near,near_001,"Dropped in favor of representative file: Flüchtlinge müssen nach Brand ihre Wohnungen verlassen An zwei Stellen in Goch hat es gebrannt, und.PDF (near_001)."
+CDU-Ratsherr mahnt Bau von Schul-Ersatz an.PDF,keep,,,
+Das auffällig häufige Versagen der Politik(2).PDF,drop,duplicate_exact,exact_001,Dropped in favor of representative file: Das auffällig häufige Versagen der Politik.PDF (exact_001).
+Das auffällig häufige Versagen der Politik.PDF,keep,,exact_001,Representative kept for exact_001.
+"Der blinde Syrer von Oberhatzkofen Integration Mheddin Saho ist bestens integriert, schreibt an sein.PDF",keep,,,
+Deutschland schiebt vorerst nicht mehr nach Afghanistan ab Innenminister Seehofer verweist auf die S.PDF,keep,,,
+Die Angst vor einem neuen 2015 Analyse Riesige Flüchtlingsbewegungen wie vor sechs Jahren sind aus A(2).PDF,drop,regional_variant,variant_001,Dropped in favor of representative file: Die Angst vor einem neuen 2015 Analyse Riesige Flüchtlingsbewegungen wie vor sechs Jahren sind aus A.PDF (variant_001).
+Die Angst vor einem neuen 2015 Analyse Riesige Flüchtlingsbewegungen wie vor sechs Jahren sind aus A.PDF,keep,,variant_001,Representative kept for variant_001.
+Die halbe Wahrheit.PDF,keep,,,
+Ein auffälliges Versagen(2).PDF,drop,duplicate_exact,exact_002,Dropped in favor of representative file: Ein auffälliges Versagen.PDF (exact_002).
+Ein auffälliges Versagen.PDF,keep,,exact_002,Representative kept for exact_002.
+"Erste Evakuierte aus Afghanistan in Viersen 39 Männer, Frauen und Kinder kamen am Dienstagmorgen in.PDF",keep,,,
+"Es ist unerträglich, nicht helfen zu dürfen.PDF",keep,,,
+"EU streitet um Aufnahme von Flüchtlingen aus Kabul Afghanistan Österreich lehnt Aufnahme ab, Baden-W.PDF",keep,,,
+Flucht nimmt zu.PDF,keep,,,
+"Flüchtlinge müssen nach Brand ihre Wohnungen verlassen An zwei Stellen in Goch hat es gebrannt, und.PDF",keep,,near_001,Representative kept for near_001.
+Gefangen an der grünen Grenze.PDF,keep,,,
+Hilfe statt Angst.PDF,drop,commentary_noncore,,
+Hilfsprogramm für Flüchtlinge unterfinanziert Nicht mal die Hälfte der Summe bisher bereitgestellt.PDF,keep,,,
+"Horst Seehofers späte Kehrtwende Vor einem Monat bat die afghanische Regierung Deutschland, Abschieb.PDF",keep,,,
+Im Februar hat Hamburg ihn abgeschoben. Jetzt ist er tot Said Almas H. kam als Flüchtling aus Afghan(2).PDF,drop,regional_variant,variant_002,Dropped in favor of representative file: Im Februar hat Hamburg ihn abgeschoben. Jetzt ist er tot Said Almas H. kam als Flüchtling aus Afghan.PDF (variant_002).
+Im Februar hat Hamburg ihn abgeschoben. Jetzt ist er tot Said Almas H. kam als Flüchtling aus Afghan.PDF,keep,,variant_002,Representative kept for variant_002.
+"Kommen die jetzt alle zu uns_ Nein, denn die Fluchtwege aus Afghanistan sind versperrt.PDF",keep,,,
+Kurden droht Abschiebung Seit Mitte Juli sitzt eine Familie im BER-Transitbereich fest. Freitag soll.PDF,keep,,,
+Laschet warnt vor 2015-Szenario.PDF,keep,,,
+Laschets Schreckgespenst 2015 darf sich nicht wiederholen _ Armin Laschet reagiert mit einem konserv.PDF,keep,,,
+Migrationsdruck wird zunehmen.PDF,keep,,,
+"Schuld sind immer die anderen Afghanistan gilt als unsicherstes Land der Welt, trotzdem schiebt Deut.PDF",keep,,,
+Schutzbedürftig Hunderttausende könnten Afghanistan verlassen - wie viele Flüchtende wird Deutschlan.PDF,keep,,,
+Schutzlos in Deutschland Die Bundesregierung kennt die desaströse Menschenrechte in China. Doch in D.PDF,keep,,,
+Senat verschweigt Zahlen zu Flüchtlingsheimen In Hamburger Unterkünften haben viele Geflüchtete vers.PDF,keep,,,
+Signal der Härte Abschiebungen nach Afghanistan sollen weiter möglich sein - das fordern Deutschland.PDF,keep,,,
+Stadt will Flüchtlinge aus Afghanistan aufnehmen.PDF,keep,,,
+"Streit um Abschiebung Im Prinzip ja, zurzeit nein Von Malte Lehming.PDF",keep,,,
+Unerträgliche Bigotterie Innenminister Seehofer stoppt vorerst Abschiebungen nach Afghanistan . Endl.PDF,keep,,,
+Uno rechnet mit vielen Flüchtlingen aus Afghanistan Krisengebiet Terror und Islamismus könnten mehr.PDF,keep,,,
+Vom Kriegsland nach Friedland Die Flüchtlingsräte in Niedersachsen und Bremen fordern eigene Landesa.PDF,keep,,,
+"Was sagen die Parteien zur Migration_ Die Zahl der Menschen, die Schutz in Europa suchen, nimmt wied.PDF",keep,,,
+Was wir von Kanada lernen können - und was nicht Unterstützt von der Bevölkerung treibt das Land die.PDF,keep,,,
+Wie die Taliban der AfD im Wahlkampf helfen Andreas Speit Der rechte Rand.PDF,keep,,,
+Wie offen soll das Land sein_.PDF,keep,,,
+Zuwanderung steuern.PDF,drop,commentary_noncore,,
+„Symbolpolitik ist jetzt fehl am Platz“.PDF,keep,,,
+"„Tod, Folter, Hinrichtung“ Über Abschiebungen nach Afghanistan ist ein heftiger Streit entbrannt. SP(2).PDF",drop,duplicate_exact,exact_003,"Dropped in favor of representative file: „Tod, Folter, Hinrichtung“ Über Abschiebungen nach Afghanistan ist ein heftiger Streit entbrannt. SP.PDF (exact_003)."
+"„Tod, Folter, Hinrichtung“ Über Abschiebungen nach Afghanistan ist ein heftiger Streit entbrannt. SP.PDF",keep,,exact_003,Representative kept for exact_003.

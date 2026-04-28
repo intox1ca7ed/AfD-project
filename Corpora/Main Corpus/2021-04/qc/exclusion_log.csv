@@ -1,0 +1,51 @@
+﻿file_name,decision,reason,duplicate_group,notes
+"Abgeschnitten von der Außenwelt Dass Flüchtlinge in „Ankerzentren“ untergebracht werden, ist eine ba.PDF",keep,,,
+Abschiebung soll geprüft werden Der Auszubildende soll ausgewiesen werden – OB Heinrichs setzt sich.PDF,keep,,,
+Abschreckung statt Integration.PDF,keep,,,
+Asylheim gilt nicht mehr als Brennpunkt Flüchtlinge 23-Jähriger greift Mann mit Flasche an. Davon ab.PDF,keep,,,
+Berlin bietet Athen Übernahme von Flüchtlingskosten an Damit Deutschland ursprünglich in Griechenlan.PDF,keep,,,
+Besonders Elektronik hat es ihm angetan Frieslandtechnik Landeswarfen Mahdi Besharati arbeitet an se.PDF,keep,,,
+"Bäckerei Schüren beschäftigt zwölf Geflüchtete Sie stammen aus Albanien, Syrien oder Afghanistan und(2).PDF",drop,duplicate_exact,exact_001,"Dropped in favor of representative file: Bäckerei Schüren beschäftigt zwölf Geflüchtete Sie stammen aus Albanien, Syrien oder Afghanistan und.PDF (exact_001)."
+"Bäckerei Schüren beschäftigt zwölf Geflüchtete Sie stammen aus Albanien, Syrien oder Afghanistan und.PDF",keep,,exact_001,Representative kept for exact_001.
+"Der lange Weg zu einer eigenen Wohnung Sie fliehen vor Krieg und Mord, durchqueren Wüsten und Meere.PDF",keep,,,
+"Der Skandal, der keiner wurde.PDF",keep,,,
+Die Ablehnung Ein Syrer mit festem Arbeitsvertrag will dauerhaft in Deutschland bleiben. Die Behörde.PDF,keep,,,
+Die Bibel ist kein Märchenbuch Als Christ und Regimegegner drohen Mohammad Jaffari im Iran Haft und.PDF,keep,,,
+Die meisten müssen bleiben.PDF,keep,,,
+Ein neues Leben in Golzheim Viele Bewohner des illegalen Roma-Camps wurden in einer ehemaligen Flüch(2).PDF,drop,duplicate_exact,exact_002,Dropped in favor of representative file: Ein neues Leben in Golzheim Viele Bewohner des illegalen Roma-Camps wurden in einer ehemaligen Flüch.PDF (exact_002).
+Ein neues Leben in Golzheim Viele Bewohner des illegalen Roma-Camps wurden in einer ehemaligen Flüch.PDF,keep,,exact_002,Representative kept for exact_002.
+"Einwanderung in Hartz IV Die Grünen wollen es Unqualifizierten leichter machen, nach Deutschland zu.PDF",keep,,,
+Es waren zwei verlorene Lebensjahre Vier Menschen aus den  Camps  erzählen von ihrer Lage. Die meist.PDF,keep,,,
+FDP will schneller als Grüne Einbürgerungen ermöglichen In ihrem Wahlprogramm wollen die Liberalen z.PDF,keep,,,
+"Flucht nach vorn Zwei syrische Geschwister werden mit ihrer Mutter nach Bulgarien abgeschoben, obwoh.PDF",keep,,,
+Flüchtlingsprojekt mit Vorbildcharakter Dörte Dreher-Peiß brachte Zugewanderte in einem Theaterstück.PDF,keep,,,
+Geflüchtete Frauen bleiben Arbeitsmarkt meist fern Nach fünf Jahren Aufenthalt in Deutschland sind n.PDF,keep,,,
+Gefährliche Asylpraxis.PDF,drop,commentary_noncore,,
+Hier stehts! Wenn Sie nur ein Buch über Integration lesen könnten(2).PDF,drop,regional_variant,variant_001,Dropped in favor of representative file: Hier stehts! Wenn Sie nur ein Buch über Integration lesen könnten.PDF (variant_001).
+Hier stehts! Wenn Sie nur ein Buch über Integration lesen könnten.PDF,keep,,variant_001,Representative kept for variant_001.
+Hilfe für Flüchtlinge in Calais soll fortgesetzt werden Vier Tonnen Sachspenden wurden bereits nach(2).PDF,drop,duplicate_exact,exact_003,Dropped in favor of representative file: Hilfe für Flüchtlinge in Calais soll fortgesetzt werden Vier Tonnen Sachspenden wurden bereits nach.PDF (exact_003).
+Hilfe für Flüchtlinge in Calais soll fortgesetzt werden Vier Tonnen Sachspenden wurden bereits nach.PDF,keep,,exact_003,Representative kept for exact_003.
+"Höckes Parteitag Beim AfD-Delegiertentreffen in Dresden macht der Thüringer Parteichef deutlich, wie(2).PDF",drop,duplicate_exact,exact_004,"Dropped in favor of representative file: Höckes Parteitag Beim AfD-Delegiertentreffen in Dresden macht der Thüringer Parteichef deutlich, wie.PDF (exact_004)."
+"Höckes Parteitag Beim AfD-Delegiertentreffen in Dresden macht der Thüringer Parteichef deutlich, wie.PDF",keep,,exact_004,Representative kept for exact_004.
+In der Erstaufnahme angesteckt.PDF,keep,,,
+Integration als wichtige Aufgabe Geflüchtete Die 27 Integrationsmanager im Kreis haben 43 000 Beratu.PDF,keep,,,
+Integration_ Stadt Rees will Stelle erhalten Ellen Lukas koordiniert ehrenamtliche Arbeit mit Flücht.PDF,keep,,,
+Leben in der Klinik Der Stadtentwicklungssenat bleibt dabei_ Heckeshorn soll künftig dauerhaft für d.PDF,keep,,,
+Letzter Flug mit Flüchtlingen aus Griechenland(2).PDF,drop,duplicate_exact,exact_005,Dropped in favor of representative file: Letzter Flug mit Flüchtlingen aus Griechenland.PDF (exact_005).
+Letzter Flug mit Flüchtlingen aus Griechenland.PDF,keep,,exact_005,Representative kept for exact_005.
+Mehr Geld für die Meerbuscher Flüchtlingshilfe Verschiedene Träger werden durch das Programm „Komm-a.PDF,keep,,,
+Mehr Polizeieinsätze in der Erstaufnahme.PDF,keep,,,
+NACHRICHTEN(2).PDF,keep,,,
+NACHRICHTEN.PDF,keep,,,
+Religiosität ist kein Hindernis für Integration.PDF,keep,,,
+"Schuld und Sühne Die Berlinerin Zeynep G. heiratete einen IS-Mann. Es war der Fehler ihres Lebens, s.PDF",keep,,,
+Schutzstatus durch Gerichte Bundesamt lehnte 21.224 Asylanträge zu Unrecht ab.PDF,keep,,,
+"Schüren beschäftigt zwölf Geflüchtete Sie stammen aus Albanien, Syrien oder Afghanistan und machen e(2).PDF",keep,,,
+"Schüren beschäftigt zwölf Geflüchtete Sie stammen aus Albanien, Syrien oder Afghanistan und machen e.PDF",keep,,,
+Staatliches Interesse an den „Querdenkern“.PDF,keep,,,
+Ulrike B. ist unschuldig Das Verfahren um den vermeintlichen Bremer Bamf-Skandal ist vom Landgericht.PDF,keep,,,
+"Voerde wird kein Sicherer Hafen Jetzt ist auch Die Partei mit dem Antrag gescheitert, dass die Stadt.PDF",keep,,,
+Vorsterin unterstützt Familie aus Afghanistan Die Vorsterin Monika Knedel von der ehrenamtlichen Flü.PDF,keep,,,
+"Wolkige Kriterien Nach einer schriftlichen Anfrage der Linken zu einer guineischen Delegation, die i.PDF",keep,,,
+Zurück in keine Heimat Dänemarks Regierung will syrische Flüchtlinge abschieben. Bislang galt das al(2).PDF,drop,regional_variant,variant_002,Dropped in favor of representative file: Zurück in keine Heimat Dänemarks Regierung will syrische Flüchtlinge abschieben. Bislang galt das al.PDF (variant_002).
+Zurück in keine Heimat Dänemarks Regierung will syrische Flüchtlinge abschieben. Bislang galt das al.PDF,keep,,variant_002,Representative kept for variant_002.

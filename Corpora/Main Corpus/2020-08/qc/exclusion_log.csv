@@ -1,0 +1,51 @@
+﻿file_name,decision,reason,duplicate_group,notes
+_Die Hilfsbereitschaft ist ungebrochen_ UNHCR-Repräsentant Frank Remus über zivilgesellschaftliches.PDF,keep,,,
+_Ein Fanal der Zuversicht_.PDF,keep,,,
+Abschiebung des Auto-Attentäters war ausgesetzt Anschlag Berliner Polizei ermittelt wegen versuchten.PDF,keep,,,
+"An der Grenze Vor fünf Jahren entschied Angela Merkel, mehrere Hunderttausend Flüchtlinge ins Land z.PDF",keep,,,
+Bei vielen ist Asylstatus noch ungeklärt In den Langenfelder Unterkünften leben noch 442 Flüchtlinge.PDF,keep,,,
+Chronik.PDF,keep,,,
+Dank  Mamas  Hilfe in Deutschland angekommen Migration Mohammad Nabizadeh hatte bei der Ankunft kein.PDF,keep,,,
+"Der entrückte Minister Er galt als Flüchtlingsgegner, jetzt holt er Flüchtlinge ins Land. Im Herbst(2).PDF",drop,regional_variant,variant_001,"Dropped in favor of representative file: Der entrückte Minister Er galt als Flüchtlingsgegner, jetzt holt er Flüchtlinge ins Land. Im Herbst.PDF (variant_001)."
+"Der entrückte Minister Er galt als Flüchtlingsgegner, jetzt holt er Flüchtlinge ins Land. Im Herbst.PDF",keep,,variant_001,Representative kept for variant_001.
+Der Flüchtling mit zwei Namen(2).PDF,drop,duplicate_exact,exact_001,Dropped in favor of representative file: Der Flüchtling mit zwei Namen.PDF (exact_001).
+Der Flüchtling mit zwei Namen.PDF,keep,,exact_001,Representative kept for exact_001.
+Die große Integrations-Bilanz Insgesamt lief die Eingliederung der Flüchtlinge in den Arbeitsmarkt b.PDF,keep,,,
+Die Legende vom liberalen Laschet.PDF,keep,,,
+Die meisten kommen aus Syrien.PDF,keep,,,
+Die Richtung stimmt Ein aktueller Bericht zeigt_ Die Integration von jungen Flüchtlingen funktionier.PDF,keep,,,
+Die Zahl der Flüchtlinge steigt wieder Mehr als 2000 Asylbewerber wurden seit Beginn der Pandemie in(2).PDF,drop,duplicate_exact,exact_002,Dropped in favor of representative file: Die Zahl der Flüchtlinge steigt wieder Mehr als 2000 Asylbewerber wurden seit Beginn der Pandemie in.PDF (exact_002).
+Die Zahl der Flüchtlinge steigt wieder Mehr als 2000 Asylbewerber wurden seit Beginn der Pandemie in.PDF,keep,,exact_002,Representative kept for exact_002.
+"Ein Satz für die Geschichtsbücher _Wir schaffen das_, sagte die Kanzlerin zu Beginn der Flüchtlingsk.PDF",keep,,,
+Ein Satz und seine Karriere.PDF,keep,,,
+Flüchtlingsunterkunft steht zum Verkauf.PDF,keep,,,
+Gefährliches Schweigen Horst Seehofer und die AfD warnten vor der  Herrschaft des Unrechts    weil d.PDF,keep,,,
+Haben wir es geschafft_ Migration Fünf Jahre nach der Flüchtlingswelle   Wie gut gelang die Integrat.PDF,keep,,,
+Hier gibt es auch syrische Spezialitäten Flüchtlinge In Hude Mohamad Almurad baut sich eine neue Exi.PDF,keep,,,
+Kaum Chancen auf Schutz.PDF,keep,,,
+Khairul ist jetzt Mühlen-Koch Als Khairul Bepari vor vier Jahren als Flüchtling nach Deutschland kam.PDF,keep,,,
+Laschet in der „Hölle“ Flüchtlinge NRW-Ministerpräsident hört „Aufschrei der Verzweifelten“ im griec.PDF,keep,,,
+Mehr als 1700 minderjährige Flüchtlinge werden in Deutschland vermisst Wo sind sie_.PDF,keep,,,
+"Mehr Sprachkurse, weniger Bürokratie Erkelenzer Unternehmen fordern bessere Bedingungen für die Eins.PDF",keep,,,
+Merkels selbstbefreites Regieren(2).PDF,drop,duplicate_exact,exact_003,Dropped in favor of representative file: Merkels selbstbefreites Regieren.PDF (exact_003).
+Merkels selbstbefreites Regieren.PDF,keep,,exact_003,Representative kept for exact_003.
+NACHRICHTEN(2).PDF,keep,,,
+NACHRICHTEN.PDF,keep,,,
+Saudische Geflüchtete brauchen mehr Schutz.PDF,keep,,,
+Schmeckt nach Heimat Das Essen in Deutschland ist seit dem Flüchtlingssommer 2015 vielfältiger gewor(2).PDF,drop,duplicate_exact,exact_004,Dropped in favor of representative file: Schmeckt nach Heimat Das Essen in Deutschland ist seit dem Flüchtlingssommer 2015 vielfältiger gewor.PDF (exact_004).
+Schmeckt nach Heimat Das Essen in Deutschland ist seit dem Flüchtlingssommer 2015 vielfältiger gewor.PDF,keep,,exact_004,Representative kept for exact_004.
+Schmerzgriffe nur mit Ansage Gerichte erklären Göttinger Polizeieinsatz für rechtswidrig.PDF,keep,,,
+"Schwächen der Migrationspolitik Ein Gemisch aus Abschiebungsdefizit, mangelnder Einreisesteuerung un.PDF",keep,,,
+Sehenden Auges in die Krise Flüchtlinge Als vor fünf Jahren immer mehr Menschen nach Deutschland str.PDF,keep,,,
+Sein Chef gibt ihn so schnell nicht wieder her Flüchtlinge In Hude Mohamad Hosaini ist Schuhmacher a.PDF,keep,,,
+Unter einem Dach Wer kümmert sich künftig um Wohnungslose_ Streit um Standort für gesamtstädtische S.PDF,keep,,,
+"Von Willkommensein bis Obergrenze Migration Auch wenn der humanitäre Anspruch eingelöst wurde, bleib.PDF",keep,,,
+Wer ist _Wir__.PDF,drop,commentary_noncore,,
+Wer kanns besser_ LAF oder Lageso_ Rot-Rot-Grün will die Unterbringung von Flüchtlingen und Wohnungs.PDF,keep,,,
+Wie gut Geflüchtete integriert sind.PDF,keep,,,
+Wir waren auf so gutem Wege Analyse Angela Merkels Satz „Wir schaffen das!“ ist fünf Jahre her. In l(2).PDF,drop,duplicate_exact,exact_005,Dropped in favor of representative file: Wir waren auf so gutem Wege Analyse Angela Merkels Satz „Wir schaffen das!“ ist fünf Jahre her. In l.PDF (exact_005).
+Wir waren auf so gutem Wege Analyse Angela Merkels Satz „Wir schaffen das!“ ist fünf Jahre her. In l.PDF,keep,,exact_005,Representative kept for exact_005.
+Wo wir fünf Jahre nach der Flüchtlingskrise stehen Am 31. August 2015 sagte Kanzlerin Merkel den Sat.PDF,keep,,,
+Wohnzimmer bleibt Schutzraum Nächtliche Polizeiaktionen in Unterkünften für Geflüchtete sind ohne Du.PDF,keep,,,
+ Jagende AfD ohne Beute ANALYSE Die 2015 noch junge AfD bekam durch die Flüchtlingskrise erst richti(2).PDF,drop,regional_variant,variant_002,Dropped in favor of representative file:  Jagende AfD ohne Beute ANALYSE Die 2015 noch junge AfD bekam durch die Flüchtlingskrise erst richti.PDF (variant_002).
+ Jagende AfD ohne Beute ANALYSE Die 2015 noch junge AfD bekam durch die Flüchtlingskrise erst richti.PDF,keep,,variant_002,Representative kept for variant_002.

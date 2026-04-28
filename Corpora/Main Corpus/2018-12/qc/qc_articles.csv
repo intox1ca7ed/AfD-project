@@ -1,0 +1,1746 @@
+﻿batch_id,corpus_name,source_archive,file_name,file_path,title_original,title_normalized,publication,publication_normalized,date,byline,section,word_count,body_char_count,body_hash_exact,duplicate_group_id,duplicate_category,keep_drop_review,drop_reason,kept_representative_of_group,representative_selection_reason,malformed_flag,malformed_reason,notes,raw_text_chars,low_value_flag,low_value_reason,exact_duplicate_group,near_duplicate_group,repeated_variant_group,body_text
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(10).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(10).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3280,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(11).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(11).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3281,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(12).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(12).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3286,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(13).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(13).PDF,181 UN-Mitgliedstaaten stimmen für Flüchtlingspakt,181 unmitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2509,ca71e4168c42ebfc51c2e7e3004dccaacbfc608a,exact_002,duplicate_exact,review,,no,,no,,,3277,no,,exact_002,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN-Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(14).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(14).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3280,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(15).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(15).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3283,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(16).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(16).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3293,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(17).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(17).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3282,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(18).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(18).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3281,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(19).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(19).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3289,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(2).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3282,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(20).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(20).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3284,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(21).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(21).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3278,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(22).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(22).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3282,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(23).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(23).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3279,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(24).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(24).PDF,181 UN-Mitgliedstaaten stimmen für Flüchtlingspakt,181 unmitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2509,ca71e4168c42ebfc51c2e7e3004dccaacbfc608a,exact_002,duplicate_exact,review,,no,,no,,,3286,no,,exact_002,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN-Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(3).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(3).PDF,181 UN-Mitgliedstaaten stimmen für Flüchtlingspakt,181 unmitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2509,ca71e4168c42ebfc51c2e7e3004dccaacbfc608a,exact_002,duplicate_exact,review,,no,,no,,,3280,no,,exact_002,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN-Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(4).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(4).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3295,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(5).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(5).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3282,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(6).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(6).PDF,181 UN-Mitgliedstaaten stimmen für Flüchtlingspakt,181 unmitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2509,ca71e4168c42ebfc51c2e7e3004dccaacbfc608a,exact_002,duplicate_exact,review,,no,,no,,,3292,no,,exact_002,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN-Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(7).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(7).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3279,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(8).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(8).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3281,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(9).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt(9).PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3280,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt.PDF,181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt,181 un mitgliedstaaten stimmen für flüchtlingspakt,Rheinische Post,rheinische post,Dienstag 18. Dezember 2018,,S. 5,345,2510,ec6145fd7d07e73c0a7ef469e45f1792ef3c24d0,exact_001,duplicate_exact,review,,no,,no,,,3282,no,,exact_001,near_001,variant_001,"New York (epd) Die UN-Vollversammlung hat erwartungsgemäß mit großer Mehrheit den Globalen Pakt für 
+Flüchtlinge angenommen. 181 Länder, darunter Deutschland, stimmten am Montag für das rechtlich nicht bindende 
+Abkommen. Nur die USA und Ungarn votierten dagegen. Drei Staaten enthielten sich der Stimme: die 
+Dominikanische Republik, Eritrea und Libyen.
+Der UN-Hochkommissar für Flüchtlinge, Filippo Grandi, sagte, alle Staaten müssten sich zusammen um die Lösung 
+der Flüchtlingskrisen bemühen. Das Ja zu dem Abkommen stärke die Kooperation in einer zersplitterten Welt. Die 
+UN wollten mit dem Pakt die Lasten der vielen Flüchtlingskrisen „besser, fairer und gerechter“ verteilen, betonte 
+Grandi. Fast 70 Millionen Menschen befinden sich nach UN-Angaben auf der Flucht; das sei der höchste Stand seit 
+dem Zweiten Weltkrieg. Die große Mehrheit hat den Angaben nach in armen Ländern Schutz gefunden.
+Der Pakt gibt nun vier konkrete Ziele vor, die alle freiwillig erreicht werden sollen. Reiche Länder sollen finanzielle 
+und andere Hilfen für schwache Länder bereitstellen, die viele Flüchtlinge aufgenommen haben. Flüchtlinge sollen 
+leichter etwa Zugang zu Bildungs- und Gesundheitssystemen in den Aufnahmeländern erhalten. Besonders 
+Hilfsbedürftige unter den Flüchtlingen, etwa alleinstehende Mütter mit Kindern, sollen vermehrt durch 
+Härtefallaufnahme in sichere Länder gebracht werden. Durch diese Programme siedeln Flüchtlinge vor allem in 
+wohlhabende Staaten um. Zudem sollen Flüchtlinge freiwillig und sicher in ihre Heimatstaaten zurückkehren 
+können, sofern die Voraussetzungen dafür erfüllt sind.
+Der Pakt sieht außerdem vor, dass von 2019 an alle vier Jahre ein Globales Flüchtlingsforum auf Ministerebene 
+stattfindet; dort werden nach den Plänen finanzielle und andere Zusagen gemacht.
+Zu unterscheiden vom Globalen Pakt für Flüchtlinge ist der Globale Pakt für eine sichere, geordnete und reguläre 
+Migration. Beide Pakte gehen auf die New Yorker Erklärung von 2016 der Vereinten Nationen zurück, sie richten 
+sich aber an unterschiedliche Zielgruppen. Auf der einen Seite die Flüchtlinge: Sie fliehen vor Gewalt, Konflikt und 
+Unterdrückung aus ihren Ländern. Auf der anderen Seite Migranten: Sie wandern aus wirtschaftlichen Gründen in 
+andere Staaten aus. Während der Migrationspakt, der vergangene Woche in Marrakesch angenommen wurde, 
+heftige Debatten auslöste, verlief die Diskussion über den Flüchtlingspakt weitgehend sachlich.
+
+181 UN -Mitgliedstaaten stimmen für Flüchtlingspakt"
+2018-12,Main Corpus,2018-12(50).ZIP,_Der Flüchtlingspakt ist in Deutschlands Interesse_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\_Der Flüchtlingspakt ist in Deutschlands Interesse_.PDF,"""Der Flüchtlingspakt ist in Deutschlands Interesse""",der flüchtlingspakt ist in deutschlands interesse,Frankfurter Rundschau,frankfurter rundschau,Montag 17. Dezember 2018,,POLITIK; S. 4,468,3220,f08140815b961b705ad5cacde6c7fd5e8a0a4a55,,unique,keep,,no,,no,,,4109,no,,,,,"Am heutigen Montag soll der ""Globale Flüchtlingspakt"" in New York durch die UN-Mitgliedstaaten unterzeichnet 
+werden. Aus Sicht der UN-Flüchtlingshilfe stellt er eine historische Chance für den weltweiten Flüchtlingsschutz dar. 
+Mit ihm soll die Hilfe für Menschen, die vor Krieg, Verfolgung und Menschenrechtsverletzungen fliehen müssen, 
+effizienter, fairer und schneller werden. Ende 2017 waren 68,5 Millionen Menschen weltweit auf der Flucht. Fragen 
+an Dominik Bartsch, der das UN-Flüchtlingshilfswerk in Deutschland repräsentiert.
+Herr Bartsch, bis zum Schluss wurde in Deutschland die Debatte über den Migrationspakt und den Pakt für 
+Flüchtlinge heftig geführt. Viele kritisierten fehlende Informationen oder argwöhnten, hier würden geheime Verträge 
+geschlossen. Können Sie das verstehen?
+Nein, eigentlich nicht. Natürlich geht es um enorm wichtige Themen, gar keine Frage. Aber das Abkommen, das ja 
+nicht verbindlich ist, wurde über zwei Jahre ausgehandelt. Es wurden zwischen den Staaten viele, viele 
+Kompromisse gemacht und letztlich haben sich fast alle geeinigt. Und dann kommt kurz vor Schluss jemand, redet 
+von ""Geheimvertrag"" und ""verborgen von der Öffentlichkeit"", obwohl das alles ein völlig offener, transparenter 
+Prozess war. Und wenn man die Kritiker hört, denkt man, da hat die Welt einen Vertrag mit Deutschland 
+geschlossen. Nein, da hat die Welt, und zwar nahezu alle Staaten, einen Plan gemacht, wie sie mit Situationen wie 
+der von 2015 künftig umgehen will.
+Was kommt nun auf die Deutschen zu?
+Deutschland macht schon sehr viel. Es unterstützt nicht nur unsere weltweite Arbeit, sondern ist dazu noch ein 
+wichtiges Gastland für Flüchtlinge. Deutschland ist aber auch ein starkes und reiches Land. Bangladesch zum 
+Beispiel ist das nicht, hat aber fast ebenso viele Flüchtlinge aufgenommen. Und im Libanon ist jetzt jeder sechste 
+Einwohner ein Flüchtling. Da soll der Flüchtlingspakt helfen.
+Es ändert sich aber im Grunde nichts?
+Doch, sogar etwas ganz Entscheidendes. Viele Familien, die heute auch in Deutschland sind, waren von der 
+Verzweiflung getrieben, weil in den Flüchtlingscamps in Jordanien oder Libanon die Versorgung schlecht war und 
+sie zusehen mussten, wie ohne Bildung die Zukunft ihrer Kinder auf dem Spiel stand. Der Pakt soll helfen, dass es 
+
+""Der Flüchtlingspakt ist in Deutschlands Interesse""
+diesen Menschen schon dort besser geht, nicht erst in Europa. Das muss auch in Deutschlands, in Europas 
+Interesse sein.
+Warum gibt es einen Pakt für Migranten und einen für Flüchtlinge? Es geht doch in beiden Fällen um Menschen, 
+die ihre Heimat verlassen.
+Migranten verlassen mehr oder weniger freiwillig ihre Heimat, weil sie anderswo ein besseres Leben erhoffen. 
+Deshalb ist Migration im gewissen Sinne steuerbar. Flüchtlinge hatten hingegen keine Wahl, sie haben in der Regel 
+schlicht ihr Leben gerettet. Und sie können auch nicht in ihre Heimat zurück, zumindest so lange dort noch Krieg 
+oder Verfolgung drohen. Deshalb genießen Flüchtlinge, anders als Migranten, auch den besonderen Schutz des 
+Völkerrechts durch die Genfer Flüchtlingskonvention.
+Interview: Thoralf Cleven
+Graphic
+ 
+Dominik Bartschvertritt das UN-Flüchtlingskommissariat in Deutschland. unhcr"
+2018-12,Main Corpus,2018-12(50).ZIP,_Der UN -Flüchtlingspakt ist in deutschem Interesse_ UNHCR-Vertreter Dominik Bartsch verteidigt die.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\_Der UN -Flüchtlingspakt ist in deutschem Interesse_ UNHCR-Vertreter Dominik Bartsch verteidigt die.PDF,"""Der UN -Flüchtlingspakt ist in deutschem Interesse"" UNHCR-Vertreter Dominik Bartsch verteidigt die Einigung",der un flüchtlingspakt ist in deutschem interesse unhcrvertreter dominik bartsch verteidigt die einigung,Berliner Zeitung,berliner zeitung,17. Dezember 2018,Thoralf Cleven,POL; S. 5; Ausg. 294,478,3308,d4c8c0d1b8ab6af41d054095800f94dbee3aedf2,,unique,keep,,no,,no,,,4197,no,,,,,"Am Montag soll der Globale Flüchtlingspakt in New York durch die UN-Mitgliedstaaten unterzeichnet werden. Aus 
+Sicht der UNO-Flüchtlingshilfe stellt er eine historische Chance für den weltweiten Flüchtlingsschutz dar. Mit ihm 
+soll die Flüchtlingshilfe effizienter, fairer und schneller werden, sodass Menschen besser geholfen wird, die vor 
+Krieg, Verfolgung und Menschenrechtsverletzung fliehen müssen. Ende 2017 waren 68,5 Millionen Menschen 
+weltweit auf der Flucht, Tendenz steigend. Dominik Bartsch repräsentiert das UN-Flüchtlingshilfswerk in 
+Deutschland. Er sagt: Der Pakt ist in deutschem Interesse. 
+ Herr Bartsch, bis zum Schluss wurde in Deutschland die Debatte um den Migrationspakt und den Pakt für 
+Flüchtlinge heftig geführt. Viele kritisierten fehlende Informationen oder argwöhnten, hier würden geheime Verträge 
+geschlossen. Können Sie das verstehen? 
+ Nein, eigentlich nicht. Natürlich geht es um enorm wichtige Themen, gar keine Frage. Aber das Abkommen, das 
+ja nicht verbindlich ist, wurde über zwei Jahre ausgehandelt. Es wurden zwischen den Staaten viele, viele 
+Kompromisse gemacht und letztlich haben sich fast alle geeinigt. Und dann kommt kurz vor Schluss jemand, redet 
+von ""Geheimvertrag"" und ""verborgen vor der Öffentlichkeit"", obwohl das alles ein völlig offener, transparenter 
+Prozess war. Und wenn man die Kritiker hört, denkt man, da hat die Welt einen Vertrag mit Deutschland 
+geschlossen. Nein, da hat die Welt, und zwar nahezu alle Staaten miteinander, einen Plan gemacht, wie sie mit 
+Situationen wie der von 2015 künftig umgehen will. 
+ Was kommt nun auf die Deutschen zu? 
+ Deutschland macht schon sehr viel. Es unterstützt nicht nur unsere weltweite Arbeit, sondern ist dazu noch ein 
+wichtiges Gastland für Flüchtlinge. Deutschland ist aber auch ein starkes und reiches Land. Bangladesch zum 
+Beispiel ist das nicht, hat aber fast ebenso viele Flüchtlinge aufgenommen. Und im Libanon ist jetzt jeder sechste 
+Einwohner ein Flüchtling. Da soll der Flüchtlingspakt helfen. 
+ Es ändert sich nichts? 
+ Doch, sogar etwas ganz Entscheidendes. Viele Familien, die heute auch in Deutschland sind, waren von der 
+Verzweiflung getrieben, weil in den Flüchtlingscamps in Jordanien oder Libanon die Versorgung schlecht war und 
+
+""Der UN -Flüchtlingspakt ist in deutschem Interesse"" UNHCR-Vertreter Dominik Bartsch verteidigt die Einigung
+sie zusehen mussten, wie ohne Bildung die Zukunft ihrer Kinder auf dem Spiel stand. Der Pakt soll helfen, dass es 
+diesen Menschen schon dort besser geht, nicht erst in Europa. Das muss auch in Deutschlands, in Europas 
+Interesse sein. 
+ Warum gibt es einen Pakt für Migranten und einen für Flüchtlinge? Es geht doch in beiden Fällen um Menschen, 
+die ihre Heimat verlassen. 
+ Migranten verlassen mehr oder weniger freiwillig ihre Heimat, weil sie anderswo ein besseres Leben erhoffen. 
+Deshalb ist Migration im gewissen Sinne steuerbar. Flüchtlinge hatten hingegen keine Wahl, sie haben in der Regel 
+schlicht ihr Leben gerettet. Und sie können auch nicht in ihre Heimat zurück, zumindest solange dort noch Krieg 
+oder Verfolgung drohen. Deshalb genießen Flüchtlinge, anders als Migranten, auch den besonderen Schutz des 
+Völkerrechts durch die Genfer Flüchtlingskonvention. 
+ Das Gespräch führte 
+ Thoralf Cleven. 
+ UNHCR/M. GAMBARINI"
+2018-12,Main Corpus,2018-12(50).ZIP,Abschiebestopp bleibt in Kraft Innenminister verlängern Stopp von Abschiebungen nach Syrien zunächst.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Abschiebestopp bleibt in Kraft Innenminister verlängern Stopp von Abschiebungen nach Syrien zunächst.PDF,Abschiebestopp bleibt in Kraft; Innenminister verlängern Stopp von Abschiebungen nach Syrien zunächst für,abschiebestopp bleibt in kraft innenminister verlängern stopp von abschiebungen nach syrien zunächst für,"taz, die tageszeitung",taz die tageszeitung,Samstag 01. Dezember 2018,Konrad Litschko,AKTUELLES; S. 6,392,2949,30d8ee199a6a65578021413993bdd634e499f7a2,,unique,keep,,no,,no,,,4411,no,,,,,"Von Konrad Litschko
+Das Verbot von Abschiebungen aus Deutschland nach Syrien bleibt bestehen. Darauf einigten sich die 
+Innenminister von Bund und Ländern in Magdeburg auf ihrer Halbjahreskonferenz, die am Freitag endete. Die 
+derzeitige Lage in Syrien schließe es aus, Menschen dorthin abzuschieben, sagte Boris Pistorius (SPD), 
+Niedersachsens Innenminister. Das wird auch absehbar nicht möglich sein. 
+Das bisherige Abschiebeverbot wäre zum Jahresende abgelaufen. Einige Minister hatten gefordert, zumindest 
+Intensivtäter und Gefährder wieder nach Syrien abzuschieben. Ein aktueller Lagebericht des Auswärtigen Amtes 
+aber schildert die Lage dort weiter düster: Der Bürgerkrieg sei keineswegs vorbei, Rückkehrern drohten Haft und 
+Folter.
+Der Abschiebestopp werde nun bis Ende Juni 2019 verlängert, sagte Holger Stahlknecht (CDU), Vorsitzender der 
+Innenministerkonferenz. Bei unveränderter Lage verlängere er sich danach automatisch bis zum Jahresende 2019.
+Über Abschiebungen nach Afghanistan konnten sich die Länder nicht einigen. Dorthin werden bereits heute 
+Intensivtäter und Gefährder abgeschoben trotz der schwierigen Lage in dem Land. Gegen eine Ausweitung der 
+Abschiebungen auf weitere afghanische Flüchtlinge, wie von den Unions-Ministern gefordert, sperrte sich die SPD. 
+Nun bleibt es beim Status quo.
+Für sogenannte Dublin-Abschiebungen also Zurückweisungen von Asylbewerbern in andere EU-Länder, in denen 
+sie zuvor schon registriert wurden sicherte Bundesinnenminister Horst Seehofer (CSU) den Ländern wiederum zu, 
+dass diese fortan der Bund übernimmt. Auch was die umstrittenen Ankerzentren angeht, lenkte Seehofer ein. Die 
+Länder waren aufgefordert, diese einzurichten, um dort Asylabläufe zu sammeln und zu straffen. Da alle Länder 
+inzwischen dargelegt hätten, dass sie Einrichtungen besäßen, in denen schnellere Verfahren und Abschiebungen 
+stattfänden, reiche dies aus, sagte Seehofer. Man müsse sich nicht über ein Namensschild streiten.
+
+Abschiebestopp bleibt in Kraft; Innenminister verlängern Stopp von Abschiebungen nach Syrien zunächst für 
+ein halbes Jahr
+Die Minister diskutierten auch über ein neues Punktesystem für Intensivstraftäter unter Asylbewerbern. Den 
+Vorschlag legte kürzlich das Bundeskriminalamt vor. Demnach könnten die Polizeibehörden eine zentrale 
+Intensivtäterdatei anlegen, in der die Gelisteten Punkte für Straftaten bekämen. Für einfache Delikte gäbe es einen 
+Punkt, für Freiheitsstrafen von mindestens einem Jahr 10 Punkte, für Mord 70 Punkte. Ab 60 Punkten würde eine 
+Ausweisung aus Deutschland erfolgen.
+Seehofer nannte das einen klugen Vorschlag , die Länderminister stimmten zu. Nun aber müssten offene Fragen 
+geklärt werden. Wohin etwa sollen straffällige Syrer abgeschoben werden? Beträfe der Punktekatalog auch 
+anerkannte Flüchtlinge? Seehofer sprach von einem notwendigen Vorstoß und verwies auf schwere Verbrechen 
+etwa von syrischen Tätern in Chemnitz und jüngst in Freiburg."
+2018-12,Main Corpus,2018-12(50).ZIP,Abschiebestopp nach Syrien bleibt Innenministerkonferenz verweisen auf Lagebericht.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Abschiebestopp nach Syrien bleibt Innenministerkonferenz verweisen auf Lagebericht.PDF,Abschiebestopp nach Syrien bleibt Innenministerkonferenz verweisen auf Lagebericht,abschiebestopp nach syrien bleibt innenministerkonferenz verweisen auf lagebericht,Berliner Zeitung,berliner zeitung,01. Dezember 2018,Markus Decker,POL; S. 5; Ausg. 281,417,3233,cf3961f1e08694e4cc6d7fadeefc92d90fb9214e,,unique,keep,,no,,no,,,4307,no,,,,,"VON MARKUS DECKER 
+ Aus Deutschland sollen weiterhin keine Flüchtlinge nach Syrien abgeschoben werden, auch keine schweren 
+Straftäter und terroristischen Gefährder. Darauf haben sich die Innenminister der 16 Bundesländer bei ihrer 
+Konferenz am Freitag in Magdeburg verständigt. Sachsen-Anhalts Innenminister Holger Stahlknecht (CDU) sagte, 
+der herrschende Abschiebestopp werde bis zum 30. Juni nächsten Jahres verlängert. Sollte sich zum aktuellen 
+Bericht keine Veränderung ergeben, gelte der Abschiebestopp automatisch bis Ende 2019 weiter. 
+ Grund der Verlängerung ist ein Lagebericht des Auswärtigen Amts vom 13. November, in dem steht, dass es in 
+dem Land keine Sicherheit gebe und nicht zuletzt zurückkehrende Flüchtlinge gefährdet seien, weil sie von den 
+syrischen Sicherheitskräften oft als Oppositionelle betrachtet würden und mit Inhaftierung und Folter rechnen 
+müssten. Bundesinnenminister Horst Seehofer (CSU) hatte bereits nach Bekanntwerden des Lageberichts gesagt: 
+""Im Moment kann in keine Region Syriens abgeschoben werden, das gilt auch für Kriminelle."" 
+ Keine Einigkeit gibt es hingegen bei der Frage von Abschiebungen nach Afghanistan. Das Thema sei lediglich 
+erörtert worden, so Stahlknecht. Er verwies auf einen weiteren Lagebericht des Auswärtigen Amtes vom Mai, 
+wonach Abschiebungen an den Hindukusch möglich seien. Gleichwohl handhaben die Länder Abschiebungen 
+dorthin unterschiedlich. Niedersachsens Innenminister Boris Pistorius (SPD) fügte als Sprecher für die SPD-
+geführten Länder hinzu, es werde für ihn bei der bisherigen Praxis bleiben, ausschließlich Gefährder und Straftäter 
+abzuschieben und keine Familien mit Kindern. 
+ Geprüft wird eine Idee des Bundeskriminalamtes (BKA), wonach kriminelle Zuwanderer ähnlich der Flensburger 
+Verkehrssünderdatei in einem Punktesystem erfasst und bei Erreichen von mindestens 60 Punkten ausgewiesen 
+werden sollen. Hier sehen die Länder-Innenminister großen Klärungsbedarf. Seehofer erklärte ebenfalls, die Sache 
+sei ""nicht ganz einfach"". So müssten noch ein Kriterienkatalog, behördliche Zuständigkeiten und ein 
+Datenschutzkonzept erarbeitet werden. 
+ Unterdessen lobten Teilnehmer die gute Atmosphäre der Konferenz und meinten damit nicht zuletzt den 
+Bundesinnenminister. ""Wir fanden erstaunlich, wie positiv die Gespräche waren"", hieß es. ""Die Politik hat zur 
+Vernunft gefunden."" Seehofer sei anders als bisher in seiner Funktion sehr konziliant aufgetreten. 
+
+Abschiebestopp nach Syrien bleibt Innenministerkonferenz verweisen auf Lagebericht
+ Das zeigte sich auch beim nun offenbar beigelegten Streit um Ankerzentren, in denen Asylbewerber von der 
+Ankunft bis zur Entscheidung über ihre Zukunft untergebracht werden sollen. Inzwischen gebe es in alle 
+Bundesländern ""funktionsgleiche Einrichtungen"", die wichtige Funktionen wie die Bündelung der Behörden unter 
+einem Dach, straffere Verfahren und eine schnellere Abschiebung erfüllten, sagte Seehofer. Dabei sei es 
+unerheblich, ob die Einrichtung Ankerzentrum heiße oder nicht. 
+ ""An einer Verlängerung des Abschiebestopps nach Syrien, auch für Kriminelle und Gefährder, führt aktuell kein 
+Weg vorbei."" 
+ Holger Stahlknecht, 
+ Vorsitzender der Innenministerkonferenz (CDU/Sachsen-Anhalt)"
+2018-12,Main Corpus,2018-12(50).ZIP,Abschiebung_ Kameruner ist wieder zurück Alassa M. hatte eine Demo gegen den Polizeieinsatz in Ellwa.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Abschiebung_ Kameruner ist wieder zurück Alassa M. hatte eine Demo gegen den Polizeieinsatz in Ellwa.PDF,Abschiebung: Kameruner ist wieder zurück Alassa M. hatte eine Demo gegen den Polizeieinsatz in Ellwangen,abschiebung kameruner ist wieder zurück alassa m hatte eine demo gegen den polizeieinsatz in ellwangen,Südwest Presse,südwest presse,Montag 31. Dezember 2018,,Südwestumschau,334,2379,a00b8e2909f5dae89a9b82c46fa9c9fd258cf7f4,,unique,keep,,no,,no,,,3468,no,,,,,"Obwohl er im Juni 2018 aus der Landeserstaufnahmestelle (Lea) in Ellwangen nach Italien abgeschoben worden 
+war, ist der Kameruner Alassa M. wieder in Deutschland. Er habe in Ellwangen erneut einen Asylantrag gestellt, 
+teilte der ""Freundeskreis Alassa"" mit. Das Regierungspräsidium Stuttgart bestätigte die Angaben auf Anfrage 
+unserer Zeitung. Das Bundesamt für Migration und Flüchtlinge (Bamf) prüfe nun den Antrag. Ein Asylfolgeantrag 
+sei grundsätzlich rechtlich möglich. Ein neues Verfahren komme aber laut RP nur in Frage, wenn sich die ""Sach- 
+und Rechtslage zugunsten des Asylbewerbers geändert hat"" oder neue Beweise vorlägen.
+In sozialen Netzwerken wird der Fall sehr kritisch kommentiert, AfD-Politiker sprachen auf Twitter von ""unhaltbaren 
+Zuständen"". Ein gescheiterter Polizeieinsatz in der Ellwanger Lea Ende April 2018 hatte bundesweit Schlagzeilen 
+ausgelöst. Damals sollte ein Mann aus Togo abgeschoben werden, doch eine Menge aus rund 150 Flüchtlingen 
+stellte sich der Polizei entgegen, die den Einsatz abbrechen musste. Drei Tage später folgte eine Großrazzia mit 
+hunderten Polizisten auf dem Gelände, der Togoer landete in Abschiebehaft. 17 weitere Asylbewerber wurden als 
+""Unruhestifter"" identifiziert; darunter offenbar auch Alassa M.. Seine Unterstützer betonen jedoch, er habe seinen 
+Protest stets friedlich geäußert. In der Zeit nach der Razzia trat M. als Wortführer der Flüchtlinge auf und 
+organisierte mit anderen eine Demonstration gegen den ""überzogenen"" Polizeieinsatz. Ende Juni wurde Alassa M. 
+nach Italien abgeschoben.
+Der ""Freundeskreis Alassa"", der sich für ein Bleiberecht für den Kameruner einsetzt und 20 000 Unterschriften für 
+eine Petition sammelte, bezeichnet seine Rückkehr als ""Weihnachtsgeschenk"" und ""tollen Erfolg"". Sein Anwalt 
+Roland Meister betont in einer Stellungnahme, die Lage der Flüchtlinge in Italien habe sich durch die neue 
+Regierung ""dramatisch verschlechtert"", ein Asylverfahren sei dort nicht mehr gewährleistet. Sein Mandant sei in die 
+""Recht- und Obdachlosigkeit entlassen"" worden. Laut RP wartet Alassa M. nun in der Lea in Karlsruhe auf die 
+Entscheidung des Bamf. eb/fo
+Graphic
+ 
+
+Abschiebung: Kameruner ist wieder zurück Alassa M. hatte eine Demo gegen den Polizeieinsatz in Ellwangen 
+organisiert. Nun stellt er erneut Asylantrag.
+Polizeieinsatz im Mai in der Lea Ellwangen. Foto: Stefan Puchner/dpa"
+2018-12,Main Corpus,2018-12(50).ZIP,"Einer, der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge nach Tönisvorst gekommen(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Einer, der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge nach Tönisvorst gekommen(2).PDF","Einer, der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge nach Tönisvorst gekommen.",einer der auszog das glück zu suchen seit 2015 sind rund 800 flüchtlinge nach tönisvorst gekommen,Rheinische Post,rheinische post,Samstag 15. Dezember 2018,"Wickerath, Stephanie",S. 15,664,4575,cf8501d900e752bc12be0a7ea422459165549c25,exact_003,duplicate_exact,review,,no,,no,,,6155,no,,exact_003,near_002,variant_002,"Stephanie Wickerath
+Tönisvorst Besim Elezaj verfolgt derzeit besonders aufmerksam die Nachrichten, denn kürzlich hat sich die große 
+Koalition auf ein Einwanderungsgesetz geeinigt. Für Besim Elezaj ein erster Schritt in die richtige Richtung. Der 30-
+jährige Albaner hat viel Zeit verloren, weil er als Nicht-EU-Bürger in Deutschland keine Arbeit annehmen durfte. 
+Dabei hatte er einen Vertrag als Möbelmonteur bereits in der Tasche. Aber ohne Einwanderungsgesetz ist es 
+schwer für Ausländer, in Deutschland zu arbeiten.
+Schon als der Albaner 2015 nach Deutschland kommt, versteht er sich nicht als Flüchtling, sondern als 
+arbeitswilliger Einwanderer. „Ich wollte hier Geld verdienen, um mich zu finanzieren und meine Eltern zu 
+unterstützen“, erzählt der junge Mann. Bereits als 16-Jähriger hat Elezaj seine Heimat verlassen, um im 
+benachbarten Griechenland zu arbeiten. Als Tellerwäscher und Kellner im Restaurant, als Erntehelfer beim Bauern, 
+als Aushilfe beim Schreiner hat er gejobbt. „In Griechenland haben damals etliche Ausländer als Aushilfen 
+gearbeitet“, erzählt der 30-Jährige. Auch viele Albaner seien darunter gewesen. „In Albanien gibt es kaum Arbeit, 
+und wenn, ist sie sehr schlecht bezahlt oder illegal“, sagt der junge Mann.
+Aber mit der Griechenlandkrise wurde es vor allem für die Menschen aus den Nicht-EU-Ländern schwerer, Arbeit 
+zu finden. Also beschließt Elezaj, weiter zu ziehen und in Deutschland sein Glück zu suchen. Von München geht es 
+Anfang 2015 über Auffanglager in Dortmund und Detmold nach Tönisvorst, wo Besim Elesaj gleich ein griechisches 
+Restaurant aufsucht und nach Arbeit fragt. Tatsächlich wollen die Betreiber den Albaner, der griechisch spricht und 
+Erfahrungen in der Gastronomie mitbringt, einstellen, aber als Flüchtling mit unsicherem Bleibestatus bekommt er 
+keine Arbeitserlaubnis. „Statt selber Geld zu verdienen, bekam ich Sozialleistungen“, sagt der junge Mann und 
+schüttelt den Kopf über diesen Widersinn.
+
+Einer, der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge nach Tönisvorst gekommen. 
+Besim Elezaj aus Albanien ist einer von ihnen.
+Besim Elesaj fällt in ein Loch. Das Leben in der Turnhalle, die zur Notunterkunft umfunktioniert worden war, 
+gestaltet sich schwierig. Der Plan, in Deutschland leben und arbeiten zu können, scheint gescheitert, die 
+Abschiebung vermutlich nur eine Frage der Zeit. Aber der junge Mann berappelt sich wieder. Bei der 
+Flüchtlingshilfe Tönisvorst lernt er deutsch, die Ehrenamtler vermitteln ihm ein Praktikum in einer Möbelfirma, wo er 
+einen Arbeitsvertrag angeboten bekommt, und er verliebt sich in eine junge Frau. „Dann aber kam gleichzeitig mit 
+dem Arbeitsvertrag als Monteur meine Ausweisung“, erinnert er sich.
+Elesaj beschließt, nach Tirana zu fliegen und in der Botschaft ein Arbeitsvisum zu beantragen. Das kostet viel Geld 
+und dauert. Nach vier Monaten erfährt er, dass er in den nächsten zwei Jahren nicht in Deutschland arbeiten darf, 
+weil er Sozialleistungen bezogen hat. Wieder hängt der junge Mann in der Luft, diesmal in Albanien. Die Familie 
+seiner deutschen Freundin schaltet sich ein. Sie besorgt Elesaj einen Ausbildungsplatz bei einem Schreiner. 
+Lehrstellen sind vom Arbeitsverbot nach dem Bezug von Sozialleistungen nämlich ausgenommen.
+Endlich scheint alles gut zu werden, bis sich herausstellt, dass Schreiner kein Engpassberuf ist und es genügend 
+Deutsche gibt, die als Lehrlinge zur Verfügung stehen. Dass der Schreiner, der den Albaner einstellen wollte, seit 
+zwei Jahren keinen Lehrling gefunden hat, spielt dabei keine Rolle. Aber noch einmal wendet sich das Blatt, denn 
+es findet sich ein anderer Lehrherr. Kfz-Meister Christoph Kohnen aus St. Tönis bietet dem jungen Mann eine 
+Lehrstelle an. Da der Beruf des Automechatronikers zu den Engpassberufen gehört, passt es.
+Elezaj unternimmt einen weiteren Anlauf bei der Visumsstelle - und wird abgelehnt. Doch sein zukünftiger Chef gibt 
+nicht auf. Er fragt sich durch sämtliche Ämter und Behörden, bis sich ein Beamter findet, der sich kümmert. Seit 
+Ende August ist Besim Elezaj Lehrling in der Autowerkstatt Kohnen. Seine Aufenthaltserlaubnis ist auf zwei Jahre 
+begrenzt, aber gewöhnlich werden ausländische Lehrlinge nicht abgeschoben. Auch im Entwurf des 
+Einwanderungsgesetzes ist dieser Punkt aufgeführt. Außerdem heißt es dort, dass für Flüchtlinge, deren 
+Abschiebung „ausgesetzt“ ist, klare Kriterien für einen verlässlichen Status geschafft werden sollen, wenn sie ihren 
+Lebensunterhalt selbst bestreiten. Jetzt muss das Gesetz nur noch verabschiedet werden."
+2018-12,Main Corpus,2018-12(50).ZIP,"Einer, der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge nach Tönisvorst gekommen.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Einer, der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge nach Tönisvorst gekommen.PDF","Einer, der auszog, das Glück zu suchen; Seit 2015 sind rund 800 Flüchtlinge nach Tönisvorst gekommen.",einer der auszog das glück zu suchen seit 2015 sind rund 800 flüchtlinge nach tönisvorst gekommen,Rheinische Post,rheinische post,Samstag 15. Dezember 2018,"Wickerath, Stephanie",S. 15,664,4576,cf8501d900e752bc12be0a7ea422459165549c25,exact_003,duplicate_exact,review,,no,,no,,,6158,no,,exact_003,near_002,variant_002,"Stephanie Wickerath
+Tönisvorst Besim Elezaj verfolgt derzeit besonders aufmerksam die Nachrichten, denn kürzlich hat sich die große 
+Koalition auf ein Einwanderungsgesetz geeinigt. Für Besim Elezaj ein erster Schritt in die richtige Richtung. Der 30-
+jährige Albaner hat viel Zeit verloren, weil er als Nicht-EU-Bürger in Deutschland keine Arbeit annehmen durfte. 
+Dabei hatte er einen Vertrag als Möbelmonteur bereits in der Tasche. Aber ohne Einwanderungsgesetz ist es 
+schwer für Ausländer, in Deutschland zu arbeiten.
+Schon als der Albaner 2015 nach Deutschland kommt, versteht er sich nicht als Flüchtling, sondern als 
+arbeitswilliger Einwanderer. „Ich wollte hier Geld verdienen, um mich zu finanzieren und meine Eltern zu 
+unterstützen“, erzählt der junge Mann. Bereits als 16-Jähriger hat Elezaj seine Heimat verlassen, um im 
+benachbarten Griechenland zu arbeiten. Als Tellerwäscher und Kellner im Restaurant, als Erntehelfer beim Bauern, 
+als Aushilfe beim Schreiner hat er gejobbt. „In Griechenland haben damals etliche Ausländer als Aushilfen 
+gearbeitet“, erzählt der 30-Jährige. Auch viele Albaner seien darunter gewesen. „In Albanien gibt es kaum Arbeit, 
+und wenn, ist sie sehr schlecht bezahlt oder illegal“, sagt der junge Mann.
+Aber mit der Griechenlandkrise wurde es vor allem für die Menschen aus den Nicht-EU-Ländern schwerer, Arbeit 
+zu finden. Also beschließt Elezaj, weiter zu ziehen und in Deutschland sein Glück zu suchen. Von München geht es 
+Anfang 2015 über Auffanglager in Dortmund und Detmold nach Tönisvorst, wo Besim Elesaj gleich ein griechisches 
+Restaurant aufsucht und nach Arbeit fragt. Tatsächlich wollen die Betreiber den Albaner, der griechisch spricht und 
+Erfahrungen in der Gastronomie mitbringt, einstellen, aber als Flüchtling mit unsicherem Bleibestatus bekommt er 
+keine Arbeitserlaubnis. „Statt selber Geld zu verdienen, bekam ich Sozialleistungen“, sagt der junge Mann und 
+schüttelt den Kopf über diesen Widersinn.
+
+Einer, der auszog, das Glück zu suchen; Seit 2015 sind rund 800 Flüchtlinge nach Tönisvorst gekommen. 
+Besim Elezaj aus Albanien ist einer von ihnen.
+Besim Elesaj fällt in ein Loch. Das Leben in der Turnhalle, die zur Notunterkunft umfunktioniert worden war, 
+gestaltet sich schwierig. Der Plan, in Deutschland leben und arbeiten zu können, scheint gescheitert, die 
+Abschiebung vermutlich nur eine Frage der Zeit. Aber der junge Mann berappelt sich wieder. Bei der 
+Flüchtlingshilfe Tönisvorst lernt er deutsch, die Ehrenamtler vermitteln ihm ein Praktikum in einer Möbelfirma, wo er 
+einen Arbeitsvertrag angeboten bekommt, und er verliebt sich in eine junge Frau. „Dann aber kam gleichzeitig mit 
+dem Arbeitsvertrag als Monteur meine Ausweisung“, erinnert er sich.
+Elesaj beschließt, nach Tirana zu fliegen und in der Botschaft ein Arbeitsvisum zu beantragen. Das kostet viel Geld 
+und dauert. Nach vier Monaten erfährt er, dass er in den nächsten zwei Jahren nicht in Deutschland arbeiten darf, 
+weil er Sozialleistungen bezogen hat. Wieder hängt der junge Mann in der Luft, diesmal in Albanien. Die Familie 
+seiner deutschen Freundin schaltet sich ein. Sie besorgt Elesaj einen Ausbildungsplatz bei einem Schreiner. 
+Lehrstellen sind vom Arbeitsverbot nach dem Bezug von Sozialleistungen nämlich ausgenommen.
+Endlich scheint alles gut zu werden, bis sich herausstellt, dass Schreiner kein Engpassberuf ist und es genügend 
+Deutsche gibt, die als Lehrlinge zur Verfügung stehen. Dass der Schreiner, der den Albaner einstellen wollte, seit 
+zwei Jahren keinen Lehrling gefunden hat, spielt dabei keine Rolle. Aber noch einmal wendet sich das Blatt, denn 
+es findet sich ein anderer Lehrherr. Kfz-Meister Christoph Kohnen aus St. Tönis bietet dem jungen Mann eine 
+Lehrstelle an. Da der Beruf des Automechatronikers zu den Engpassberufen gehört, passt es.
+Elezaj unternimmt einen weiteren Anlauf bei der Visumsstelle - und wird abgelehnt. Doch sein zukünftiger Chef gibt 
+nicht auf. Er fragt sich durch sämtliche Ämter und Behörden, bis sich ein Beamter findet, der sich kümmert. Seit 
+Ende August ist Besim Elezaj Lehrling in der Autowerkstatt Kohnen. Seine Aufenthaltserlaubnis ist auf zwei Jahre 
+begrenzt, aber gewöhnlich werden ausländische Lehrlinge nicht abgeschoben. Auch im Entwurf des 
+Einwanderungsgesetzes ist dieser Punkt aufgeführt. Außerdem heißt es dort, dass für Flüchtlinge, deren 
+Abschiebung „ausgesetzt“ ist, klare Kriterien für einen verlässlichen Status geschafft werden sollen, wenn sie ihren 
+Lebensunterhalt selbst bestreiten. Jetzt muss das Gesetz nur noch verabschiedet werden."
+2018-12,Main Corpus,2018-12(50).ZIP,"Eskalation im Ankerzentrum Kritiker werfen dem Freistaat vor, die Integration der Asylbewerber zu er.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Eskalation im Ankerzentrum Kritiker werfen dem Freistaat vor, die Integration der Asylbewerber zu er.PDF","Eskalation im Ankerzentrum Kritiker werfen dem Freistaat vor, die Integration der Asylbewerber zu erschweren.",eskalation im ankerzentrum kritiker werfen dem freistaat vor die integration der asylbewerber zu erschweren,Südwest Presse,südwest presse,Mittwoch 12. Dezember 2018,,Politik,384,2802,75a17c768e80e6f4c365c062e16b467f2b2d6c1e,,unique,keep,,no,,no,,,3856,no,,,,,"Die bayerischen Ankerzentren sind weiter Orte, an denen es leicht zu Eskalationen kommen kann. So gab es in 
+Bamberg am Dienstag gegen 0.45 Uhr einen massiven Zusammenstoß zwischen der Polizei und Asylbewerbern, 
+die in dem Zentrum untergebracht sind, mit Festnahmen und Verletzten. Laut Polizei wollte der Sicherheitsdienst 
+der Anlage in einer von Eritreern bewohnten Wohnung wegen Ruhestörung einschreiten. Die Security sei attackiert 
+worden, die Flüchtlinge hätten sich dann verbarrikadiert.
+Die Polizei kam mit 100 Beamten und sei mit Gegenständen beworfen worden. Fensterscheiben wurden 
+eingeworfen. Es brach in der Wohnung Feuer aus, das von der Feuerwehr gelöscht werden musste. Bewohner im 
+Stockwerk über der Wohnung wurden in Sicherheit gebracht.
+Neun Menschen erlitten Rauchvergiftungen und mussten behandelt werden, ein Polizist wurde leicht verletzt. 
+Vorläufig festgenommen wurden neun Flüchtlinge, allesamt Eritreer. Sie sind, wie ein Polizeisprecher gegenüber 
+der ""taz"" berichtete, zwischen 16 und 28 Jahre alt. Gegen sie wird wegen Landfriedensbruch und schwerer 
+Brandstiftung ermittelt. Der Sachschaden wird auf 100 000 Euro geschätzt.
+Lagerähnliche Unterkünfte
+Seit August werden alle in Bayern neu ankommenden Flüchtlinge zentral in den sieben Ankerzentren des 
+Freistaats untergebracht. Dort müssen sie bleiben, bis ihr Status geklärt ist. Kritiker wie die Grünen sehen in den 
+Zentren lagerähnliche Unterkünften, die Integration verhindern.
+""12 bis 15 Personen leben in Bamberg in einer Wohnung auf engstem Raum zusammen"", sagt Thomas Bollheim, 
+Mitarbeiter des Bayerischen Flüchtlingsrats, der ""taz"". Einer der Eritreer hätte nach dem Vorfall ausgesagt, ein 
+Security-Mitarbeiter habe zuerst einen Asylbewerber geschlagen - daraufhin sei die Lage eskaliert. Die Stimmung 
+in der Unterkunft beschreibt Bollheim als ""gereizt"", vor allem in der Nacht. Die Flüchtlinge schliefen kaum, auch aus 
+Angst vor Abschiebungen.
+Regelmäßig kommt es in Bayern zu teils schweren Zwischenfällen. Vor sechs Wochen brachen in einer Unterkunft 
+im niederbayerischen Stephansposching, das zum Ankerzentrum Deggendorf gehört, Randale und Protest aus, 
+
+Eskalation im Ankerzentrum Kritiker werfen dem Freistaat vor, die Integration der Asylbewerber zu erschweren. 
+Gewaltsame Vorfälle häufen sich.
+weil ein Flüchtling aus Sierra Leone abgeschoben werden sollte. Es folgten Verhaftungen von Männern aus 
+Nigeria. Aus einer Unterkunft in Schweinfurt wurde über Messerstechereien berichtet.
+Im Ankerzentrum Bamberg, wo Wohnhäuser eines Ex-US-Militärstützpunktes genutzt werden, sind derzeit 1268 
+Personen untergebracht. Sie stammen aus 28 Ländern, von Afghanistan über Marokko bis zu Togo. Unter den 
+jetzigen Flüchtlingen sind 483 Frauen, 291 Kinder und Jugendliche unter 18 Jahren.
+Patrick Guyton"
+2018-12,Main Corpus,2018-12(50).ZIP,"Flüchtlingsabwehr sorgt für Streit Kroatien reagiert empört auf die Vorwürfe, es zwinge Flüchtlinge.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Flüchtlingsabwehr sorgt für Streit Kroatien reagiert empört auf die Vorwürfe, es zwinge Flüchtlinge.PDF","Flüchtlingsabwehr sorgt für Streit Kroatien reagiert empört auf die Vorwürfe, es zwinge Flüchtlinge an der",flüchtlingsabwehr sorgt für streit kroatien reagiert empört auf die vorwürfe es zwinge flüchtlinge an der,"taz, die tageszeitung",taz die tageszeitung,Dienstag 18. Dezember 2018,Christian Jakob,AUSLAND; S. 10,494,3710,55ac96646a869ca8ceed00e667b7e70eeb0a5b09,,unique,keep,,no,,no,,,5615,no,,,,,"Von Christian Jakob
+Das kroatische Innenministerium hat Vorwürfe entschieden zurückgewiesen, Flüchtlinge illegal nach Bosnien 
+zurückzudrängen. Bei den Handlungen der kroatischen Polizei unmittelbar an der grünen Grenze handle sich um 
+Einreiseverweigerung gemäß des Schengener Grenzkodex , erklärte das Ministerium.
+Am Wochenende hatten die AktivistInnengruppe Border Violence Monitoring über 130 Aufnahmen von versteckten 
+Kameras vorgelegt, die offenbar zeigen, wie kroatische Polizisten mit schweren Waffen Flüchtlinge an einem 
+Waldstück über die Grenze zurück nach Bosnien schicken. Solche direkten Zurückweisungen ohne Asylverfahren 
+sind nach EU-Recht illegal.
+Die Aufnahmen würden keine Abschiebungen von Hunderten von Migranten nach Bosnien-Herzegowina zeigen, 
+sondern zulässige Einreiseverweigerungen , heißt es in der Erklärung des kroatischen Innenministeriums. Das ist 
+eine rechtmäßige Maßnahme, welche der Grenzpolizei in den EU-Ländern zur Verfügung steht und wird gegen 
+jene Personen angewendet, die versuchen fernab von Grenzübergängen in ein Land einzureisen , heißt es.
+Zwar existiert eine entsprechende Bestimmung im Schengener Grenzkodex. Sie greift aber nicht, wenn Eingereiste 
+einen Asylantrag stellen wollen. Der muss in jedem Fall geprüft werden. Genau das tut Kroatien schon seit Langem 
+nicht, entsprechende Berichte häufen sich seit etwa zwei Jahren.
+Es sei eine Schande für einen EU-Mitgliedsstaat, dass seine Polizei am Schmuggel von Migranten beteiligt ist 
+und sie zu illegaler Migration zwingt , sagte der bosnische Sicherheitsminister Dragan Mekti am Sonntag dem 
+
+Flüchtlingsabwehr sorgt für Streit Kroatien reagiert empört auf die Vorwürfe, es zwinge Flüchtlinge an der 
+Grenze illegal nach Bosnien zurück: Das ist eine rec....
+serbischen Sender N1 Info. Bosnien habe in der Vergangenheit mehrfach vor diesen Praktiken gewarnt. Wir haben 
+Beweise dafür, dass sie Migranten körperlich misshandeln und schlagen. 
+Auch Ivan Zvonimir i ak, der Direktor der Menschenrechtsorganisation Helsinki Comittee in Zagreb, sagte der taz, 
+die Videoaufnahmen seien absolut glaubhaft . Die gezeigten Vorfälle deckten sich mit den Recherchen des 
+Kommittees. i ak sagte, er wolle mit den Innenministern von Bosnien und Kroatien über die Vorfälle sprechen. In 
+Kroatien sei eine schreckliche Atmosphäre gegenüber Flüchtlingen und MigrantInnen geschaffen worden . Die 
+meisten seien Muslime und Muslime sind Terroristen, so stellen viele Medien es dar , sagt i ak. Den 
+Ankommenden werde vorgeworfen, in Kroatien Asyl zu beantragen, um dann in andere EU-Staaten 
+weiterzuziehen.
+Das UN-Flüchtlingshilfswerk UNHCR hatte allein im ersten Halbjahr 2018 in Bosnien Aussagen von 1.954 
+Flüchtlingen dokumentiert. Alle haben angegeben, von der kroatischen Polizei ohne die Möglichkeit einer 
+Asylantragstellung nach Bosnien zurück gedrängt worden zu sein.
+ Ich habe die kroatischen Behörden bereits im September nachdrücklich aufgefordert, die mutmaßlichen 
+Kollektivvertreibungen aus Kroatien nach Serbien und Bosnien und Herzegowina und Polizeigewalt gegen 
+MigrantInnen zu untersuchen , sagte Dunja Mijatovi , die Menschenrechtskommissarin des Europarates, der taz. 
+Sie sei besorgt, dass Kroatien der nationalen Bürgerrechtsbeauftragten keinen Zugang zu Polizeiakten gewährt, um 
+Ermittlungen dazu durchzuführen.
+ Wir kennen die Videos , sagt der Sprecher des UN-Flüchtlingswerks UNHCR in Kroatien, Jan Kapic. Die 
+mutmaßliche Gewaltanwendung der Polizei nehmen wir sehr ernst. Wir haben unsere Bedenken den kroatischen 
+Behörden mitgeteilt und sie aufgefordert, alle gemeldeten Fälle zu untersuchen und von Gewaltanwendung 
+abzusehen. 
+ Wir haben Beweise dafür, dass sie Migranten schlagen"
+2018-12,Main Corpus,2018-12(50).ZIP,Gift für die Integration.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Gift für die Integration.PDF,Gift für die Integration,gift für die integration,Frankfurter Rundschau,frankfurter rundschau,Dienstag 4. Dezember 2018,,LESERFORUM; S. 19,340,2570,780cee9a073e1d173d929f3dd302762dc2b38bcf,,unique,keep,,no,,no,,,3233,no,,,,,"Im Untertitel heißt es: ""Zum Auftakt der Islamkonferenz kündigt Seehofer ein Förderprogramm für Integration an"". 
+So so, Seehofer und Integrationsförderung! Fast alles, was er bisher in der Migrations- und Integrationspolitik getan 
+hat, war - gewollt oder ungewollt - gegen die Integration gerichtet. Er signalisiert mit beinahe jeder Äußerung zu 
+diesem Thema, dass Schutzsuchende und andere Einwanderer hier nicht willkommen sind. Die Diskussion über 
+Obergrenzen, die Verschärfungen in der Asylpolitik, die Abschottungs- und Abschreckungsmaßnahmen sind Gift für 
+die Integrationsbereitschaft und -fähigkeit der leidgeplagten Menschen, die bei uns Schutz und ein 
+menschenwürdiges Leben suchen. An diesen Entwicklungen war Herr Seehofer maßgeblich beteiligt, wenn nicht 
+sogar die treibende Kraft.
+Wir, die ehrenamtlichen Helfer*innen in der Flüchtlingshilfe, setzen uns für die Förderung der Integration ein, indem 
+wir die Geflüchteten bei der Lösung ihrer Probleme unterstützen und ihnen helfen, sich mit unseren Werten und 
+Normen vertraut zu machen, damit sie sich als gleichberechtigte Mitglieder in unsere Gesellschaft einbringen. 
+Diese Integrationsbemühungen werden immer wieder konterkariert durch Aussagen aus der Politik, insbesondere 
+von Herrn Seehofer und seinen Freunden aus der CSU. Die fast vollständige Einstellung des Familiennachzugs, 
+Äußerungen wie ""Asyltourismus"", ""Mutter aller Probleme"", die
+vermehrten Abschiebungen usw. sind nur einige Beispiele.
+Die jüngste Aktion des Innenministeriums, die großen Plakate für die ""freiwillige Rückkehr"", ist ein weiteres starkes 
+Gift für die Integration. Ist Seehofer nicht in der Lage zu erkennen, welche Wirkung eine solche Kampagne auf 
+Geflüchtete und ihre Integrationsbereitschaft und -fähigkeit hat?
+Wie soll jemand, der nach schrecklichen Erlebnissen der Flucht und Verlusten unter seinen Angehörigen endlich 
+zur Ruhe gekommen ist, trotz solcher Signale seine Hoffnung auf ein menschenwürdiges Leben in Deutschland 
+aufrechterhalten und seine Integrationsbemühungen fortsetzen können?. Wir ehrenamtlichen Helfer*innen müssen 
+ständig unseren Einsatz verstärken, um die Kollateralschäden der Herren Seehofer und Co. zu beheben.
+Eine Grundvoraussetzung für das Gelingen der Integration ist, dass die negativen Signale aus der Politik 
+unterbleiben. Das passiert am besten, wenn Politiker wie Seehofer Platz machen für andere, die sich aus 
+
+Gift für die Integration
+Überzeugung für Integration und somit für die Erhaltung des gesellschaftlichen Zusammenhalts einsetzen. Yousif 
+S. Toma, Frankfurt"
+2018-12,Main Corpus,2018-12(50).ZIP,Hessen lehnt Abschiebestopp ab.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Hessen lehnt Abschiebestopp ab.PDF,Hessen lehnt Abschiebestopp ab,hessen lehnt abschiebestopp ab,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 6. Dezember 2018,,FRANKFURT; S. F1,543,3983,f483d393ef8fe423b6c471e7765afde8454e330a,,unique,keep,,no,,no,,,4987,no,,,,,"VON PITT VON BEBENBURG
+T rotz Protesten von Flüchtlingshelfern und Menschenrechtlern hat Hessen erneut zwei Männer aus Afghanistan in 
+ihr Heimatland abgeschoben. Innenminister Peter Beuth (CDU) sagte am Mittwoch im Landtag, die Betroffenen 
+seien bei dem Abschiebeflug an Bord gewesen, der am Dienstagabend vom Frankfurter Flughafen in Richtung 
+Kabul gestartet war. Insgesamt waren nach Behördenangaben 14 Afghanen aus Deutschland abgeschoben 
+worden.
+Beuth berichtete, Hessen habe zuvor in diesem Jahr zwölf Straftäter und Gefährder nach Afghanistan ausgeflogen. 
+Auch die am Dienstag abgeschobenen Männer zählten zu dieser Gruppe. Sie seien ""aus der Haft heraus"" 
+abgeschoben worden.
+Der Landtag lehnte es mit der Mehrheit von CDU, Grünen und FDP ab, einen generellen Abschiebestopp für 
+Afghanistan auszusprechen. Die Linke hatte beantragt, den Menschen aus dem Bürgerkriegsland einen sicheren 
+Aufenthaltsstatus zu gewähren. Linken-Fraktionschefin Janine Wissler beklagte, dass Menschen aus Afghanistan 
+wegen der drohenden Abschiebung in Angst lebten, darunter auch viele Schülerinnen und Schüler. Die SPD und 
+die fraktionslose Abgeordnete Mürvet Öztürk stimmten der Linken-Initiative zu. Der SPD-Abgeordnete Ernst-Ewald 
+Roth sagte, es wäre ""nicht falsch"", gerade angesichts von rechten Tendenzen ""alle Spielräume"" im Sinne der 
+Menschen aus Afghanistan auszunutzen.
+Die CDU-Politikerin Astrid Wallmann warf der Linken vor, sie verunsichere die jungen Afghanen. Die Schülerinnen 
+und Schüler, von denen Wissler spreche, fielen nicht in den Kreis der Straftäter und Gefährder, die von 
+Abschiebung bedroht seien.
+""Vorrangig"" Straftäter
+Wissler erwiderte, nicht ihre Initiative beunruhige die Betroffenen, sondern bedrohliche Schreiben der Behörden. 
+Sie zitierte aus dem Brief an einen 18-Jährigen, wonach seine Abschiebung ""ohne weitere Ankündigung"" eingeleitet 
+werde. CDU und Grüne berichteten, dass in den Jahren 2017 und 2018 ausschließlich Straftäter und Menschen, 
+die als Gefährder gelten, nach Afghanistan abgeschoben worden seien. Sie gaben aber keine Zusicherung, dass 
+sich die Zwangsrückführungen weiter auf diese Gruppe beschränken.
+
+Hessen lehnt Abschiebestopp ab
+Vielmehr zitierten Minister Beuth und die schwarz-grünen Abgeordneten den Erlass des Ministers vom Februar 
+2017, wonach ""vorrangig"" Straftäter und Gefährder abgeschoben werden sollte. Die Frage von Linken und SPD, 
+was ""vorrangig"" bedeute und welchen anderen Personen die Abschiebung drohe, wurde in der Debatte nicht 
+beantwortet. Empörung erntete der Linken-Abgeordnete Ulrich Wilken für seine Äußerung, dass die Hessische 
+Landesregierung nicht human handele und sich ""einer flüchtlingsfeindlichen Stimmung"" beuge. CDU-Politikerin 
+Wallmann nannte das ""maßlos"" und ""frech"". Sie fügte hinzu: ""Kein anderes Land hat ein solch humanitäres Gesicht 
+gezeigt wie Deutschland.""
+Der Grüne Marcus Bocklet wies Wilkens Worte als ""unverschämt"" zurück. Damit diskreditiere er die Arbeit der 
+hauptamtlichen und ehrenamtlichen Helfer, die Flüchtlinge unterstützt hätten.
+""Wie wollen eine humane Flüchtlingspolitik"", betonte Bocklet. Die Grünen stünden zur Flüchtlingskonvention der 
+Vereinten Nationen (UN). Dort stehe aber auch, dass Straftäter und Menschen, die ""aus schwerwiegenden 
+Gründen als eine Gefahr für die Sicherheit des Landes anzusehen"" seien, keinen Schutz genießen könnten.
+Ähnlich argumentierte der FDP-Fraktionsvorsitzende René Rock. ""Es gibt auch unter den Menschen aus 
+Afghanistan Menschen, die ich in diesem Land nicht will"", stellte er fest.
+UN-KONVENTION
+In der
+UN-Flüchtlingskonvention heißt es: ""Auf die Vergünstigung dieser Vorschrift kann sich jedoch ein Flüchtling nicht 
+berufen, der aus schwerwiegenden Gründen als eine Gefahr für die Sicherheit des Landes anzusehen ist, in dem er 
+sich befindet, oder der eine Gefahr für die Allgemeinheit dieses Staates bedeutet, weil er wegen eines Verbrechens 
+oder eines besonders schweren Vergehens rechtskräftig verurteilt wurde."" FR"
+2018-12,Main Corpus,2018-12(50).ZIP,Innenminister wollen nicht nach Syrien abschieben.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Innenminister wollen nicht nach Syrien abschieben.PDF,Innenminister wollen nicht nach Syrien abschieben,innenminister wollen nicht nach syrien abschieben,Frankfurter Rundschau,frankfurter rundschau,Samstag 1. Dezember 2018,,POLITIK; S. 6,342,2591,20afae181365d68588cd52fcdb395161deb7a56a,,unique,keep,,no,,no,,,3600,no,,,,,"Von Markus Decker
+A us Deutschland sollen weiterhin keine Flüchtlinge nach Syrien abgeschoben werden, auch keine schweren 
+Straftäter und terroristischen Gefährder. Darauf haben sich die Innenminister der 16 Bundesländer bei ihrer 
+Konferenz in Magdeburg verständigt. Sachsen-Anhalts Innenminister Holger Stahlknecht (CDU) sagte, der 
+herrschende Abschiebestopp werde bis zum 30. Juni nächsten Jahres verlängert. Sollte sich zum aktuellen Bericht 
+keine Veränderung ergeben, gelte der Abschiebestopp automatisch bis Ende 2019 weiter.
+Grund der Verlängerung ist ein Lagebericht des Auswärtigen Amts vom 13. November, in dem steht, dass es in 
+dem Land keine Sicherheit gebe und zurückkehrende Flüchtlinge gefährdet seien, weil sie von den syrischen 
+Sicherheitskräften oft als Oppositionelle betrachtet würden und mit Inhaftierung und Folter rechnen müssten. 
+Bundesinnenminister Horst Seehofer (CSU) hatte bereits nach Bekanntwerden des Lageberichts vor einer Woche 
+gesagt: ""Im Moment kann in keine Region Syriens abgeschoben werden, das gilt auch für Kriminelle.""
+Keine Einigkeit gibt es hingegen bei der Frage von Abschiebungen nach Afghanistan. Das Thema sei lediglich 
+erörtert worden, so Stahlknecht. Er verwies auf einen weiteren Lagebericht des Auswärtigen Amtes vom Mai, 
+wonach Abschiebungen an den Hindukusch möglich seien. Gleichwohl handhaben die Länder Abschiebungen 
+dorthin unterschiedlich. Niedersachsens Innenminister Boris Pistorius (SPD) fügte als Sprecher für die SPD-
+geführten Länder hinzu, es werde für ihn bei der bisherigen Praxis bleiben, ausschließlich Gefährder und Straftäter 
+abzuschieben und keine Familien mit Kindern.
+Geprüft wird eine Idee des Bundeskriminalamtes (BKA), wonach kriminelle Zuwanderer ähnlich der Flensburger 
+Verkehrssünderdatei in einem Punktesystem erfasst und bei Erreichen von mindestens 60 Punkten ausgewiesen 
+werden sollen. Hier sehen die Länder-Innenminister großen Klärungsbedarf. Seehofer sagte ebenfalls, die Sache 
+sei ""nicht ganz einfach"". So müssten noch ein Kriterienkatalog, behördliche Zuständigkeiten und ein 
+Datenschutzkonzept erarbeitet werden.
+Unterdessen lobten Teilnehmer die gute Arbeitsatmosphäre der Konferenz und meinten damit nicht zuletzt den 
+Bundesinnenminister. ""Wir fanden erstaunlich, wie positiv die Gespräche waren"", hieß es. ""Die Politik hat zur 
+
+Innenminister wollen nicht nach Syrien abschieben
+Vernunft gefunden."" Seehofer sei anders als bisher in seiner Funktion sehr konziliant aufgetreten. ""Es hat richtig 
+Spaß gemacht"", sagte ein Teilnehmer in Magdeburg.
+Kommentar S. 11, weitere Meldung S. 29"
+2018-12,Main Corpus,2018-12(50).ZIP,Kroatische Polizei zwingt Flüchtlinge nach Bosnien zurück Eine internationale Aktivistengruppe legt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Kroatische Polizei zwingt Flüchtlinge nach Bosnien zurück Eine internationale Aktivistengruppe legt.PDF,Kroatische Polizei zwingt Flüchtlinge nach Bosnien zurück Eine internationale Aktivistengruppe legt Aufnahmen,kroatische polizei zwingt flüchtlinge nach bosnien zurück eine internationale aktivistengruppe legt aufnahmen,"taz, die tageszeitung",taz die tageszeitung,Montag 17. Dezember 2018,"Christian Jakob, Erich Rathfelder",AUSLAND; S. 11,580,4173,d71b945f38aa5a1a5c31aeebd86dfa33648aec37,,unique,keep,,no,,no,,,6077,no,,,,,"Von Christian Jakob und Erich Rathfelder
+Mit versteckten Kameras haben AktivistInnen gefilmt, wie kroatische Polizisten offenbar Flüchtlinge über die Grenze 
+zurück nach Bosnien schicken. Die Gruppe Border Violence Monitoring gab am Wochenende 6 Gigabyte 
+entsprechendes Material mit 113 Videos an Medien weiter. Die Aufnahmen sollen zwischen dem 29. September 
+und dem 10. Oktober 2018 in einem Wald bei der bosnischen Stadt Lohovo entstanden sein, 150 Kilometer südlich 
+von Zagreb.
+Die AktivistInnen hatten Kameras an einem Waldweg montiert. 54 verschiedene Situationen sind darauf zu sehen. 
+Insgesamt laufen etwa 350 Menschen, darunter Kinder, durch das Waldstück, begleitet von kroatischen Polizisten, 
+teils am Tag, teils in der Nacht. Manche sind in Decken gehüllt, tragen Plastiktüten oder Taschen. Einige kroatische 
+Polizisten haben automatische Waffen, andere Schlagstöcke. Sie fordern die Menschen auf, in einer Reihe zu 
+laufen, durchsuchen sie, schubsen oder treten sie dabei.
+Die Aktivistengruppe Border Violence Monitoring, an der auch Deutsche beteiligt sind, will die Aufnahmen anonym 
+zugespielt bekommen haben. Wir wissen nicht, wer sie gemacht hat , sagt Sprecher Max Büttner der taz. Die 
+Absender wollen anonym bleiben, um sich zu schützen. 
+Das kroatische Innenministerium in Zagreb wollte am Sonntag gegenüber der taz nicht Stellung nehmen. Die 
+genauen Umstände, unter denen die Videos entstanden, sind nicht zu überprüfen. Die AktivistInnen haben auf 
+einigen markante Punkte der Umgebung gefilmt, die den Aufnahmeort bei Lohovo belegen sollen. Das Dorf liegt 
+
+Kroatische Polizei zwingt Flüchtlinge nach Bosnien zurück Eine internationale Aktivistengruppe legt Aufnahmen 
+vor, die erstmals belegen sollen, wie die kroatisc....
+direkt an der Grenze von Bosnien und Kroatien, eine halbe Stunde südlich des Nationalparks Plitvicer Seen. Dort 
+ist kein offizieller Übergang.
+Kroatien ist als EU-Mitglied verpflichtet, Asylanträge von Ankommenden vor einer Abschiebung zu prüfen. Seit 
+2016 gibt es Berichte, dass Kroatiens Polizei dieser Pflicht nicht nachkommt und Ankommende zum Teil gewaltsam 
+zur Grenze zurückbringt und zwingt, zurück nach Bosnien oder an anderer Stelle nach Serbien zu gehen. Das UN-
+Flüchtlingshilfswerk hat entsprechende Aussagen Tausender Flüchtlinge in Bosnien und Serbien gesammelt und 
+allein in der ersten Hälfte 2018 1.954 Zurückweisungen aus Kroatien dokumentiert. Auch der Europarat hat die 
+Vorwürfe untersucht und im September 2018 von Kroatiens Premierminister Andrej Plenkovi Ermittlungen verlangt.
+Der UNHCR stuft Bosnien und Herzegowina sowie Serbien als nicht sicher ein. Dort gibt es noch kein 
+Asylsystem. In Kroatien schon , sagte UNHCR-Sprecher Jan Kapic der taz. Deshalb dürfe Kroatien 
+Schutzsuchende nicht sofort zurückschicken. Im Norden Bosniens sitzen deshalb seit dem Sommer Tausende 
+Flüchtlinge fest. Vor allem im Winter ist ihre Lage sehr prekär, ihre Versorgung nicht gewährleistet. Zwar werden 
+jetzt einige winterfeste Unterkünfte weiter südlich errichtet, doch der Bedarf wird nicht gedeckt.
+Der Kanton Biha , wo sich die Flüchtlinge konzentrieren, versuchte verzweifelt, Hilfe von der Regierung in Sarajevo 
+zu erhalten. Doch nur wenig ist geschehen. Die Bahn- und Busverbindungen zwischen Sarajevo oder anderen 
+Teilen Bosnien und Herzegowinas werden jetzt durch bosnische Polizisten kontrolliert. Flüchtlinge werden an der 
+Fahrt nach Biha gehindert, Busfirmen dürfen keine Flüchtlinge dorthin bringen.
+Kroatien hat Vorwürfe von Polizeiübergriffen und Zurückweisungen stets zurückgewiesen, Beweisfotos gab es 
+bisher nicht. Flüchtlinge berichten seit Monaten aber übereinstimmend, dass die kroatische Polizei ihnen bei 
+Zurückweisungen auch Handys und Geld abgenommen hat. Kroatien ist seit 2013 Mitglied der EU, aber noch kein 
+Mitglied im Schengenraum. Die Regierung in Zagreb strebt die Aufnahme für 2019 an. Bisher war ein wichtiges 
+Kriterium für die Aufnahme neuer Mitglieder in den Schengenraum, ob diese die EU-Außengrenzen auf ihrem 
+Territorium sichern können. Bulgarien etwa wurde deshalb nicht aufgenommen. Die EU-Kommission fördert den 
+Ausbau des kroatischen Grenzschutzes."
+2018-12,Main Corpus,2018-12(50).ZIP,Neue Regeln für die Zuwanderung Das Kabinett beschließt ein Gesetz für ausländische Fachkräfte. Dies.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Neue Regeln für die Zuwanderung Das Kabinett beschließt ein Gesetz für ausländische Fachkräfte. Dies.PDF,Neue Regeln für die Zuwanderung Das Kabinett beschließt ein Gesetz für ausländische Fachkräfte. Diese,neue regeln für die zuwanderung das kabinett beschliesst ein gesetz für ausländische fachkräfte diese,Berliner Zeitung,berliner zeitung,20. Dezember 2018,ANDREAS NIESMANN,POL; S. 4; Ausg. 297,573,4348,df803a2b38c0499940a2320cc0c48a5806e90554,,unique,keep,,no,,no,,,5678,no,,,,,"VON ANDREAS NIESMANN 
+ Die Stimmung ist gelöst wie selten, als Arbeitsminister Hubertus Heil (SPD) und Innenminister Horst Seehofer 
+(CSU) am Mittwoch im Beisein von Wirtschaftsminister Peter Altmaier (CDU) verkünden, was in den 
+Koalitionsverhandlungen beschlossen wurde, aber dennoch bis zuletzt strittig war: Deutschland bekommt ein 
+Einwanderungsgesetz. 
+ Am Tag des Kabinettsbeschlusses ist den beteiligten Ministern kaum eine Kategorie zu groß. Kein anderes 
+Einwanderungsrecht auf der Welt sei ""so modern und unbürokratisch"", rühmt Seehofer. Eine 20 Jahre währende 
+Debatte ende nun mit einem ""riesigen Schritt nach vorn"", jubelt Heil. Und Peter Altmaier schwärmt von einer 
+Regelung, die im ""nationalen und wirtschaftlichen Interesse von 82 Millionen Menschen in Deutschland"" sei. 
+Zwischen 0,5 und einem Prozent mehr Wirtschaftswachstum sei drin, wenn alle offenen Stellen durch Zuwanderer 
+besetzt würden, so Altmaier. 
+ Interessen der Wirtschaft 
+ Nach Monaten des Streits ist die große Koalition auf einmal ziemlich zufrieden mit sich. Vor allem Dauerquerulant 
+Horst Seehofer ist auffallend milde gestimmt. Gut seien die Verhandlungen zwischen den Ministern gewesen, 
+betont er, manchmal auch eine Geduldsprobe, aber immer am Ergebnis orientiert. Man habe nun eine ""saubere 
+Rechtsgrundlage"", in der die berechtigten Interessen der Wirtschaft nach Fachkräften und der Menschen nach 
+Sicherheit fein austariert sein. Konkret hat sich die Koalition auf zwei Gesetzentwürfe geeinigt, die zwar juristisch 
+unabhängig voneinander sind, aber gemeinsam das parlamentarische Verfahren durchlaufen sollen: Das eine ist 
+das Fachkräfteeinwanderungsgesetz und das andere das Gesetz zur Duldung bei Ausbildung und Beschäftigung. 
+ Das Fachkräfteeinwanderungsgesetz soll Ausländern mit Berufsabschluss erlauben, in Deutschland zu arbeiten. 
+Bislang war das nur für Universitätsabsolventen oder Fachkräften in sogenannten Mangelberufen möglich. Diese 
+Beschränkung fällt künftig weg, genauso wie die verpflichtende ""Vorrangprüfung"", ob eine Stelle durch einen gleich 
+qualifizierten Deutschen oder EU-Bürger besetzt werden kann. Außerdem erlaubt das Gesetz ausländischen 
+
+Neue Regeln für die Zuwanderung Das Kabinett beschließt ein Gesetz für ausländische Fachkräfte. Diese 
+sollen es künftig leichter haben
+Fachkräften ein halbes Jahr zur Jobsuche nach Deutschland zu kommen, wenn sie Deutschkenntnisse nachweisen 
+können. ""Damit stellen wir die berufliche Qualifikation der Hochschulbildung gleich"", sagte Seehofer. 
+ Während das Fachkräfteeinwanderungsgesetz qualifizierte Berufstätige im Ausland ansprechen soll, betrifft das 
+Gesetz zur Duldung bei Ausbildung und Beschäftigung Menschen, die bereits in Deutschland sind. Es geht um 
+abgelehnte Asylbewerber, die aus persönlichen oder anderen Gründen nicht abgeschoben werden können. Sie 
+sollen eine 30-monatige Duldung bekommen, wenn sie bereits 18 Monate in Deutschland gearbeitet haben, ihren 
+Lebensunterhalt selbst bestreiten können, Sprachkenntnisse erworben haben, straffrei sind, eine zweifelsfrei 
+geklärte Identität vorweisen können und ihre Kinder zur Schule schicken. Nach den 30 Monaten winkt eine 
+unbefristete Aufenthaltsgenehmigung, wenn eine weitgehend lückenlose Beschäftigung in dieser Zeit 
+nachgewiesen werden kann. ""Wir wollen damit erreichen, dass wir nicht mehr die Falschen abschieben"", sagt 
+Arbeitsminister Heil. Wer in Lohn und Brot stehe, sich an die Regeln halte und sich integriere, verdiene eine 
+Chance. Etwa 180 000 Flüchtlinge sollen von dieser Regelung betroffen sein. 
+ Unbehagen bei der Unionsfraktion 
+ Vor allem die Duldungsregelung war bis zuletzt umstritten. Die SPD hatte auf einen ""Spurwechsel"" von der Asyl- 
+in die Arbeitsmigration gedrängt, die Union war strikt dagegen. In CDU und CSU gibt es die Befürchtung, dass 
+Schlepper eine solche Regelung nutzen könnten, um Flüchtlinge zur Reise nach Deutschland zu animieren. Der 
+Kompromiss vermeidet das Wort Spurwechsel nun. 
+ Dennoch gibt es in der Unionsfraktion weiter Unbehagen. Fraktionschef Ralph Brinkhaus (CDU) meldet bereits 
+unmittelbar nach dem Kabinettsbeschluss Gesprächsbedarf an. ""Die Vorlage der Bundesregierung wird im neuen 
+Jahr in der Unionsfraktion intensiv diskutiert werden"", sagt er am Mittwochmittag. Im parlamentarischen Verfahren 
+sollen die offenen Fragen geklärt werden."
+2018-12,Main Corpus,2018-12(50).ZIP,Rheurdt beherbergt zurzeit 115 geflüchtete Menschen Unterbringung in Gemeinschaftsunterkünften und a.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Rheurdt beherbergt zurzeit 115 geflüchtete Menschen Unterbringung in Gemeinschaftsunterkünften und a.PDF,Rheurdt beherbergt zurzeit 115 geflüchtete Menschen Unterbringung in Gemeinschaftsunterkünften und,rheurdt beherbergt zurzeit 115 geflüchtete menschen unterbringung in gemeinschaftsunterkünften und,Rheinische Post,rheinische post,Samstag 8. Dezember 2018,"Neubauer, Dirk",S. 19,264,2115,da7c1cd6e5fff44e84cea3a6cd3ac84452f735b9,,unique,keep,,no,,no,,,2844,no,,,,,"Rheurdt (dne) Zur Sitzung des Sozialausschusses am Donnerstagabend hat die Verwaltung Zahlen über die 
+Flüchtlingssituation in der Gemeinde vorgelegt. In Rheurdt leben zurzeit 115 Flüchtlinge. Von ihnen beziehen 58 
+Personen Leistungen nach dem Asylbewerberleistungsgesetz und 57 Personen Leistungen nach dem SGB II, 
+umgangssprachlich Hartz IV genannt.
+Die Gemeinde hat die Flüchtlinge sowohl in eigens angemieteten Wohnungen, als auch in 
+Gemeinschaftsunterkünften untergebracht. Aktuell habe die Gemeinde Rheurdt sechs Wohnungen und ein Haus 
+angemietet. Im laufenden Jahr konnten zehn Personen und Familien eigene Wohnungen in Rheurdt anmieten. Das 
+wird als kleiner Erfolg angesehen. Die Verwaltung sucht jedoch weiterhin Wohnraum für Einzelpersonen und 
+Familien zur Anmietung.
+Geflüchtete, die noch in einer Aufnahmeeinrichtung des Landes Nordrhein-Westfalen oder einer anderen 
+vorübergehenden Unterkunft leben, können durch das Bundesland innerhalb von sechs Monaten nach 
+Anerkennung verpflichtet werden, ihren Wohnsitz an einem bestimmten Ort zu nehmen; dies wird im Amtsdeutsch 
+„Wohnsitzzuweisung“ genannt. Dies soll der Versorgung mit angemessenem Wohnraum dienen. Die 
+Erfüllungsquote liegt laut Mitteilung der Bezirksregierung Arnsberg aktuell bei noch 56 Personen mit einer 
+Wohnsitzzuweisung und fünf Personen nach dem Flüchtlingsaufnahmegesetz, so die Rheurdter Verwaltung. 
+Insgesamt seien die Flüchtlingszahlen rückläufig.
+Mit Blick auf eine Integration haben zahlreiche Flüchtlinge erfolgreich den entsprechenden Kurs absolviert und das 
+Sprachniveau B1 erreicht. Dies bedeutet, sie können sichauf einem fortgeschrittenen Niveau die Sprache 
+anwenden. Einige Flüchtlinge besuchen im Anschluss an den Integrationskurs den Sprachkurs mit dem Ziel das 
+
+Rheurdt beherbergt zurzeit 115 geflüchtete Menschen Unterbringung in Gemeinschaftsunterkünften und 
+angemieteten Wohnungen. Erste Jobs vermittelt.
+Sprachniveau B2, selbständige Sprachverwendung. Eine sozialversicherungspflichtige Tätigkeit konnte bislang an 
+sieben Personen und die Aufnahme eines Minijobs an zwei Personen vermittelt werden."
+2018-12,Main Corpus,2018-12(50).ZIP,Rot-Rot-Grüns größter Schandfleck Kommentar von Malene Gürgen zu den Zuständen im Flüchtlingshangar.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Rot-Rot-Grüns größter Schandfleck Kommentar von Malene Gürgen zu den Zuständen im Flüchtlingshangar.PDF,Rot-Rot-Grüns größter Schandfleck Kommentar von Malene Gürgen zu den Zuständen im Flüchtlingshangar,rotrotgrüns grösster schandfleck kommentar von malene gürgen zu den zuständen im flüchtlingshangar,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 12. Dezember 2018,Malene Gürgen,BERLIN AKTUELL; S. 22,283,2061,01f1d04633716181f2a933b39638f526a23b6048,,unique,drop,commentary_noncore,no,,no,,,2745,yes,commentary_noncore,,,,"Kommentar von Malene Gürgen zu den Zuständen im Flüchtlingshangar
+Unterbringung in nach oben offenen Parzellen, mit dünnen Stellwänden abgetrennt. Acht Menschen auf 25 
+Quadratmetern, 3 Quadratmeter pro Person. Keine Tür, keine Privatsphäre, keine Rückzugsmöglichkeit. 
+Nächtliches Frieren in den riesigen, zugigen Hallen der Flughafenhangars. Wochenlanges Warten auf die 
+Registrierung, ohne Geld, ohne Zugang zu vernünftiger medizinischer Versorgung oder asylrechtlicher Beratung.
+Klingt nach 2015? Stimmt. Als damals die Hangars im ehemaligen Flughafen Tempelhof zur Notunterkunft für 
+Flüchtlinge umfunktioniert wurden, galt das als Notlösung: für ein paar Wochen, höchstens Monate.
+Heute, drei Jahre später, ist auch in Berlin die Zahl der neu ankommenden Flüchtlinge auf ein Bruchteil der Zahlen 
+von 2015 gesunken. Viele damals eröffnete Notunterkünfte wurden längst wieder geschlossen, in anderen gibt es 
+freie Plätze. Doch der Hangar 2 in Tempelhof ist auf einmal wieder voll.
+Wochenlanges Ausharren
+Noch immer findet hier die Erstregistrierung von Neuankömmlingen statt. Eigentlich sollen sie binnen zwei bis drei 
+Tagen von dort auf andere Unterkünfte weiter verteilt werden, doch schon seit Mai klappt das nicht mehr. 
+Personelle Engpässe beim Landesamt für Flüchtlinge seien schuld, heißt es in der zuständigen Senatsverwaltung 
+welchen Grund diese hätten und wie und wann sie zu beheben seien, darüber gibt es keine Auskunft.
+Mehrere hundert Flüchtlinge harren nun also wieder in Tempelhof aus, teilweise wochenlang. Dass der Senat diese 
+Situation nicht in den Griff bekommt trotz Umstrukturierung des Registrierungsprozesses, trotz Gründung eines 
+landeseigenen Betriebs zur Flüchtlingsunterbringung, trotz zahlreicher neu gebauter Unterkünfte: Es ist der größte 
+Schandfleck der rot-rot-grünen Regierungszeit. Diese Zustände waren schon 2015 nicht zu rechtfertigen. 2018 sind 
+sie es erst recht nicht.
+Malene Gürgen
+
+Rot-Rot-Grüns größter Schandfleck Kommentar von Malene Gürgen zu den Zuständen im Flüchtlingshangar
+Redakteurin bei taz.berlin"
+2018-12,Main Corpus,2018-12(50).ZIP,Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden   Aktuell ist l(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden   Aktuell ist l(2).PDF,Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich,unterbringung war eine herausforderung asyl 2016 mussten noch zelte aufgebaut werden aktuell ist lediglich,Nordwest-Zeitung,nordwestzeitung,12. Dezember 2018,,OLDENBURG; S. 32,663,4911,6e44b22d65041b12cc42a0cae86d5f6a6140496d,,unique,keep,,no,,no,,,6052,no,,,,,"Oldenburg - Wir schaffen das! sagte Bundeskanzlerin Angela Merkel 2015 zu den Hochzeiten der 
+Flüchtlingskrise in Europa. Die Realität vor Ort in den einzelnen Städten und Kommunen sah allerdings oft sehr 
+schwierig aus. So auch in Oldenburg, wo es zu diesem Zeitpunkt neben den sogenannten Kommunalen 
+Gemeinschaftsunterkünften (KGU) auch Notunterkünfte (NU) in Hallen sowie Unterbringung in Containern gab. 
+Alle bisherigen Unterbringungskapazitäten der Stadt Oldenburg sind nahezu vollständig erschöpft , heißt es am 23. 
+November im Bericht der Stadt. Es folgte eine Aufstockung von Plätzen an der ehemaligen BBS III, die Öffnung der 
+NU Schlachthofstraße sowie die Vorbereitung einer Containeranlage.
+Zu diesem Zeitpunkt wurden wöchentlich 40 neue Flüchtlinge für Oldenburg angekündigt, eine Zahl, die sich bis 
+zum Februar 2016 auf 80 verdoppeln sollte. 1677 Flüchtlinge befanden sich zu diesem Zeitpunkt in der Obhut der 
+Stadt. Im Kloster Blankenburg, welches von der Landesaufnahmebehörde Niedersachsen betrieben wird, waren 
+noch einmal 700 weitere Personen untergebracht.
+Hochphase im Juli
+Im März 2016 mussten Flüchtlinge in der NU Schlachthofstraße gar zum ersten Mal in Großzelten untergebracht 
+werden was die Stadt bis dato vermeiden konnte. Aber: Die bisher zur Verfügung stehenden 
+Unterbringungsmöglichkeiten sind nahezu ausgeschöpft , steht es im städtischen Bericht, die Platznot war also seit 
+Monaten ungebrochen.
+
+Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich 
+eine Unterkunft in Betrieb
+Insgesamt zwölf offizielle Unterkünfte mit rund 1700 Plätzen wurden im Verlauf der Flüchtlingskrise seitens der 
+Stadt Oldenburg eingerichtet, sogar 13, wenn man die genutzten Plätze in der (ehemaligen) Jugendherberge 
+mitzählt. Die Not machte erfinderisch: Ehemalige Schulgebäude, Kasernen, Geschäftshallen, Container, keine Art 
+von Unterkunft blieb ungenutzt. Zusätzlich mietete die Stadt sogenannte dezentrale Unterbringungsobjekte an, 
+deren Zahl im Juli 2016 mit 193 ihren Höhepunkt erreichte.
+Doch schon einen Monat später flaute der Strom an Zuweisungen für Oldenburg ab, die Belegungszahlen in den 
+Unterkünften entspannten sich. Im Bericht der Stadt vom 9. August heißt es: Die Unterbringung im Gebäude der 
+ehemaligen BBS und der Halle des Post SV ist beendet. Die Unterkünfte sind geschlossen und zurückgebaut. 
+Zudem blickte man zu diesem Zeitpunkt verstärkt über die reine notfallmäßige Unterbringung hinaus auf die 
+Integration: Die Verwaltung erarbeitet aktuell eine Konzeption zur Umwandlung kommunaler 
+Gemeinschaftsunterkünfte in Flüchtlingswohnheime. Das Ziel ist die Schaffung von geräumigeren und 
+selbstständigeren Wohnsituationen für Flüchtlinge mit Aufenthaltsgestattung, [...] , heißt es da. Im September 2016 
+musste Oldenburg dann lediglich vier neue Flüchtlinge unterbringen der große Zustrom war zu Ende.
+ Ich bin sehr zufrieden, dass wir in Oldenburg die Unterbringung der zugewanderten Menschen weitgehend mit 
+großer Umsicht und verantwortungsvoll lösen konnten. Neben der Verwaltung haben dazu auch der Rat der Stadt 
+Oldenburg, sehr viele soziale Organisationen sowie unzählige ehrenamtliche Helferinnen und Helfer beigetragen , 
+sagte Sozialdezernentin Dagmar Sachse rückblickend.
+Wie es jetzt weitergeht
+Derzeit unterhält die Stadt Oldenburg nur noch eine KGU am Pophankenweg, mit 77 belegten Plätzen von 148 
+Plätzen insgesamt. Diese Unterkunft wird zum Jahresende schließen ungenutzt bleibt der Platz aber nicht: Das 
+Gebäude soll rückgebaut und auf dem Gelände eine Kita errichtet werden. Die betroffenen Bewohner werden zum 
+Teil in eigene Wohnungen umziehen, die übrigen werden in die demnächst wieder in Betrieb gehende KGU 
+Gaußstraße umziehen. Diese war im Dezember 2016 geschlossen worden, 2017 wurden Teile der Einrichtung als 
+Wohnheim wiedereröffnet.
+Ab Januar 2019 wird in der Gaußstraße die neueste und zugleich letzte KGU unter Leitung des Amts für 
+Zuwanderung und Integration ihre Pforten öffnen. Bewohnern mit einem Aufenthaltstitel soll aktiv geholfen werden, 
+eine eigene Wohnung zu finden. Amtsleiter Ingo Tulodetzki erklärte: Hier unterstützt das Amt bei der 
+Wohnungssuche, bei Vermietergesprächen, bei Behördengängen und beim Auszug aus der städtischen 
+Unterbringung. 
+In Blankenburg sind derzeit noch rund 350 Menschen untergebracht. Die Auslastung dieser Einrichtung ist von den 
+Zugangszahlen von Asylbegehrenden in Niedersachsen abhängig.
+PDF-Datei dieses Dokuments
+Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich 
+eine Unterkunft in Betrieb
+
+Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich 
+eine Unterkunft in Betrieb
+
+Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich 
+eine Unterkunft in Betrieb"
+2018-12,Main Corpus,2018-12(50).ZIP,Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden   Aktuell ist l(3).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden   Aktuell ist l(3).PDF,Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich,unterbringung war eine herausforderung asyl 2016 mussten noch zelte aufgebaut werden aktuell ist lediglich,Nordwest-Zeitung,nordwestzeitung,13. Dezember 2018,,EXTRA-MÜNSTERLAND; S. 36,681,5047,5cba19340a9e28b887c9a25c1cae2682e3b4a407,exact_004,duplicate_exact,review,,no,,no,,,6332,no,,exact_004,,,"Oldenburg - Wir schaffen das! sagte Bundeskanzlerin Angela Merkel 2015 zu den Hochzeiten der 
+Flüchtlingskrise in Europa. Die Realität vor Ort in den einzelnen Städten und Kommunen sah allerdings oft sehr 
+schwierig aus. So auch in Oldenburg, wo es zu diesem Zeitpunkt neben den sogenannten Kommunalen 
+Gemeinschaftsunterkünften (KGU) auch Notunterkünfte (NU) in Hallen sowie Unterbringung in Containern gab. 
+Alle bisherigen Unterbringungskapazitäten der Stadt Oldenburg sind nahezu vollständig erschöpft , heißt es am 23. 
+November im Bericht der Stadt. Es folgte eine Aufstockung von Plätzen an der ehemaligen BBS III, die Öffnung der 
+NU Schlachthofstraße sowie die Vorbereitung einer Containeranlage.
+Zu diesem Zeitpunkt wurden wöchentlich 40 neue Flüchtlinge für Oldenburg angekündigt, eine Zahl, die sich bis 
+zum Februar 2016 auf 80 verdoppeln sollte. 1677 Flüchtlinge befanden sich zu diesem Zeitpunkt in der Obhut der 
+Stadt. Im Kloster Blankenburg, welches von der Landesaufnahmebehörde Niedersachsen betrieben wird, waren 
+noch einmal 700 weitere Personen untergebracht.
+Hochphase im Juli
+Im März 2016 mussten Flüchtlinge in der NU Schlachthofstraße gar zum ersten Mal in Großzelten untergebracht 
+werden was die Stadt bis dato vermeiden konnte. Aber: Die bisher zur Verfügung stehenden 
+Unterbringungsmöglichkeiten sind nahezu ausgeschöpft , steht es im städtischen Bericht, die Platznot war also seit 
+Monaten ungebrochen.
+
+Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich 
+eine Unterkunft in Betrieb
+Insgesamt zwölf offizielle Unterkünfte mit rund 1700 Plätzen wurden im Verlauf der Flüchtlingskrise seitens der 
+Stadt Oldenburg eingerichtet, sogar 13, wenn man die genutzten Plätze in der (ehemaligen) Jugendherberge 
+mitzählt. Die Not machte erfinderisch: Ehemalige Schulgebäude, Kasernen, Geschäftshallen, Container, keine Art 
+von Unterkunft blieb ungenutzt. Zusätzlich mietete die Stadt sogenannte dezentrale Unterbringungsobjekte an, 
+deren Zahl im Juli 2016 mit 193 ihren Höhepunkt erreichte.
+Doch schon einen Monat später flaute der Strom an Zuweisungen für Oldenburg ab, die Belegungszahlen in den 
+Unterkünften entspannten sich. Im Bericht der Stadt vom 9. August heißt es: Die Unterbringung im Gebäude der 
+ehemaligen BBS und der Halle des Post SV ist beendet. Die Unterkünfte sind geschlossen und zurückgebaut. 
+Zudem blickte man zu diesem Zeitpunkt verstärkt über die reine notfallmäßige Unterbringung hinaus auf die 
+Integration: Die Verwaltung erarbeitet aktuell eine Konzeption zur Umwandlung kommunaler 
+Gemeinschaftsunterkünfte in Flüchtlingswohnheime. Das Ziel ist die Schaffung von geräumigeren und 
+selbstständigeren Wohnsituationen für Flüchtlinge mit Aufenthaltsgestattung, [...] , heißt es da. Im September 2016 
+musste Oldenburg dann lediglich vier neue Flüchtlinge unterbringen der große Zustrom war zu Ende.
+ Ich bin sehr zufrieden, dass wir in Oldenburg die Unterbringung der zugewanderten Menschen weitgehend mit 
+großer Umsicht und verantwortungsvoll lösen konnten. Neben der Verwaltung haben dazu auch der Rat der Stadt 
+Oldenburg, sehr viele soziale Organisationen sowie unzählige ehrenamtliche Helferinnen und Helfer beigetragen , 
+sagte Sozialdezernentin Dagmar Sachse rückblickend.
+Wie es jetzt weitergeht
+Derzeit unterhält die Stadt Oldenburg nur noch eine KGU am Pophankenweg, mit 77 belegten Plätzen von 148 
+Plätzen insgesamt. Diese Unterkunft wird zum Jahresende schließen ungenutzt bleibt der Platz aber nicht: Das 
+Gebäude soll rückgebaut und auf dem Gelände eine Kita errichtet werden. Die betroffenen Bewohner werden zum 
+Teil in eigene Wohnungen umziehen, die übrigen werden in die demnächst wieder in Betrieb gehende KGU 
+Gaußstraße umziehen. Diese war im Dezember 2016 geschlossen worden, 2017 wurden Teile der Einrichtung als 
+Wohnheim wiedereröffnet.
+Ab Januar 2019 wird in der Gaußstraße die neueste und zugleich letzte KGU unter Leitung des Amts für 
+Zuwanderung und Integration ihre Pforten öffnen. Bewohnern mit einem Aufenthaltstitel soll aktiv geholfen werden, 
+eine eigene Wohnung zu finden. Amtsleiter Ingo Tulodetzki erklärte: Hier unterstützt das Amt bei der 
+Wohnungssuche, bei Vermietergesprächen, bei Behördengängen und beim Auszug aus der städtischen 
+Unterbringung. 
+In Blankenburg sind derzeit noch rund 350 Menschen untergebracht. Die Auslastung dieser Einrichtung ist von den 
+Zugangszahlen von Asylbegehrenden in Niedersachsen abhängig.
+PDF-Datei dieses Dokuments
+Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich 
+eine Unterkunft in Betrieb
+
+Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich 
+eine Unterkunft in Betrieb
+
+Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich 
+eine Unterkunft in Betrieb
+
+Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist lediglich 
+eine Unterkunft in Betrieb"
+2018-12,Main Corpus,2018-12(50).ZIP,Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden   Aktuell ist l.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Unterbringung war eine Herausforderung Asyl 2016 mussten noch Zelte aufgebaut werden   Aktuell ist l.PDF,Unterbringung war eine Herausforderung; Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist,unterbringung war eine herausforderung asyl 2016 mussten noch zelte aufgebaut werden aktuell ist,Nordwest-Zeitung,nordwestzeitung,13. Dezember 2018,,EXTRA-AMMERLAND; S. 34,681,5052,5cba19340a9e28b887c9a25c1cae2682e3b4a407,exact_004,duplicate_exact,review,,no,,no,,,6337,no,,exact_004,,,"Oldenburg - Wir schaffen das! sagte Bundeskanzlerin Angela Merkel 2015 zu den Hochzeiten der 
+Flüchtlingskrise in Europa. Die Realität vor Ort in den einzelnen Städten und Kommunen sah allerdings oft sehr 
+schwierig aus. So auch in Oldenburg, wo es zu diesem Zeitpunkt neben den sogenannten Kommunalen 
+Gemeinschaftsunterkünften (KGU) auch Notunterkünfte (NU) in Hallen sowie Unterbringung in Containern gab. 
+Alle bisherigen Unterbringungskapazitäten der Stadt Oldenburg sind nahezu vollständig erschöpft , heißt es am 23. 
+November im Bericht der Stadt. Es folgte eine Aufstockung von Plätzen an der ehemaligen BBS III, die Öffnung der 
+NU Schlachthofstraße sowie die Vorbereitung einer Containeranlage.
+Zu diesem Zeitpunkt wurden wöchentlich 40 neue Flüchtlinge für Oldenburg angekündigt, eine Zahl, die sich bis 
+zum Februar 2016 auf 80 verdoppeln sollte. 1677 Flüchtlinge befanden sich zu diesem Zeitpunkt in der Obhut der 
+Stadt. Im Kloster Blankenburg, welches von der Landesaufnahmebehörde Niedersachsen betrieben wird, waren 
+noch einmal 700 weitere Personen untergebracht.
+Hochphase im Juli
+Im März 2016 mussten Flüchtlinge in der NU Schlachthofstraße gar zum ersten Mal in Großzelten untergebracht 
+werden was die Stadt bis dato vermeiden konnte. Aber: Die bisher zur Verfügung stehenden 
+Unterbringungsmöglichkeiten sind nahezu ausgeschöpft , steht es im städtischen Bericht, die Platznot war also seit 
+Monaten ungebrochen.
+
+Unterbringung war eine Herausforderung; Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist 
+lediglich eine Unterkunft in Betrieb
+Insgesamt zwölf offizielle Unterkünfte mit rund 1700 Plätzen wurden im Verlauf der Flüchtlingskrise seitens der 
+Stadt Oldenburg eingerichtet, sogar 13, wenn man die genutzten Plätze in der (ehemaligen) Jugendherberge 
+mitzählt. Die Not machte erfinderisch: Ehemalige Schulgebäude, Kasernen, Geschäftshallen, Container, keine Art 
+von Unterkunft blieb ungenutzt. Zusätzlich mietete die Stadt sogenannte dezentrale Unterbringungsobjekte an, 
+deren Zahl im Juli 2016 mit 193 ihren Höhepunkt erreichte.
+Doch schon einen Monat später flaute der Strom an Zuweisungen für Oldenburg ab, die Belegungszahlen in den 
+Unterkünften entspannten sich. Im Bericht der Stadt vom 9. August heißt es: Die Unterbringung im Gebäude der 
+ehemaligen BBS und der Halle des Post SV ist beendet. Die Unterkünfte sind geschlossen und zurückgebaut. 
+Zudem blickte man zu diesem Zeitpunkt verstärkt über die reine notfallmäßige Unterbringung hinaus auf die 
+Integration: Die Verwaltung erarbeitet aktuell eine Konzeption zur Umwandlung kommunaler 
+Gemeinschaftsunterkünfte in Flüchtlingswohnheime. Das Ziel ist die Schaffung von geräumigeren und 
+selbstständigeren Wohnsituationen für Flüchtlinge mit Aufenthaltsgestattung, [...] , heißt es da. Im September 2016 
+musste Oldenburg dann lediglich vier neue Flüchtlinge unterbringen der große Zustrom war zu Ende.
+ Ich bin sehr zufrieden, dass wir in Oldenburg die Unterbringung der zugewanderten Menschen weitgehend mit 
+großer Umsicht und verantwortungsvoll lösen konnten. Neben der Verwaltung haben dazu auch der Rat der Stadt 
+Oldenburg, sehr viele soziale Organisationen sowie unzählige ehrenamtliche Helferinnen und Helfer beigetragen , 
+sagte Sozialdezernentin Dagmar Sachse rückblickend.
+Wie es jetzt weitergeht
+Derzeit unterhält die Stadt Oldenburg nur noch eine KGU am Pophankenweg, mit 77 belegten Plätzen von 148 
+Plätzen insgesamt. Diese Unterkunft wird zum Jahresende schließen ungenutzt bleibt der Platz aber nicht: Das 
+Gebäude soll rückgebaut und auf dem Gelände eine Kita errichtet werden. Die betroffenen Bewohner werden zum 
+Teil in eigene Wohnungen umziehen, die übrigen werden in die demnächst wieder in Betrieb gehende KGU 
+Gaußstraße umziehen. Diese war im Dezember 2016 geschlossen worden, 2017 wurden Teile der Einrichtung als 
+Wohnheim wiedereröffnet.
+Ab Januar 2019 wird in der Gaußstraße die neueste und zugleich letzte KGU unter Leitung des Amts für 
+Zuwanderung und Integration ihre Pforten öffnen. Bewohnern mit einem Aufenthaltstitel soll aktiv geholfen werden, 
+eine eigene Wohnung zu finden. Amtsleiter Ingo Tulodetzki erklärte: Hier unterstützt das Amt bei der 
+Wohnungssuche, bei Vermietergesprächen, bei Behördengängen und beim Auszug aus der städtischen 
+Unterbringung. 
+In Blankenburg sind derzeit noch rund 350 Menschen untergebracht. Die Auslastung dieser Einrichtung ist von den 
+Zugangszahlen von Asylbegehrenden in Niedersachsen abhängig.
+PDF-Datei dieses Dokuments
+Unterbringung war eine Herausforderung; Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist 
+lediglich eine Unterkunft in Betrieb
+
+Unterbringung war eine Herausforderung; Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist 
+lediglich eine Unterkunft in Betrieb
+
+Unterbringung war eine Herausforderung; Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist 
+lediglich eine Unterkunft in Betrieb
+
+Unterbringung war eine Herausforderung; Asyl 2016 mussten noch Zelte aufgebaut werden Aktuell ist 
+lediglich eine Unterkunft in Betrieb"
+2018-12,Main Corpus,2018-12(50).ZIP,Vieles ist geschafft.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Vieles ist geschafft.PDF,Vieles ist geschafft,vieles ist geschafft,Berliner Zeitung,berliner zeitung,15. Dezember 2018,RASMUS BUCHSTEINER,MEINUNG; S. 8; Ausg. 293,596,4196,fb4bebb0ee549b17b9512fdeecb756c91566d635,,unique,drop,commentary_noncore,no,,no,,,5024,yes,commentary_noncore,,,,"RASMUS BUCHSTEINER 
+ findet, dass Flüchtlinge, die einen Job oder Ausbildungsplatz haben, es verdient haben, hierzubleiben. 
+ Plötzlich waren sie da, Hunderttausende Flüchtlinge. Deutschland war das Land ihrer Träume. Es bis hierher 
+geschafft zu haben, versprach neben Sicherheit auch die Aussicht auf ein Leben mit mehr Wohlstand als dort, wo 
+sie sich aufgemacht hatten. Von Anfang an stellte sich die Frage, was das alles für Arbeitsmarkt und Sozialstaat in 
+Deutschland bedeuten würde. Von Anfang an gab es in dieser Frage die Skeptiker und die Optimisten. Und so ist 
+es noch heute. 
+ Zu denjenigen, die zunächst geradezu euphorisch reagierten, gehörten ausgerechnet die Bosse großer 
+Konzerne. Da schwärmte Daimler-Chef Dieter Zetsche, der Flüchtlingszustrom könne die Basis für das nächste 
+deutsche Wirtschaftswunder sein. Oder Post-Chef Frank Appel, der meinte, die Flüchtlingshilfe, die heute geleistet 
+werde, würde keine verlorenen Kosten darstellen, sondern eine langfristige Investition in die Zukunft des 
+Wirtschaftsstandorts. Das war die Stimmung, damals im Frühherbst 2015. Sie hielt nicht lange an. 
+ Willkommenskultur und Euphorie wichen der Ernüchterung: Es waren eben nicht nur der Arzt aus Aleppo oder 
+der versierte Handwerker aus dem Irak gekommen, sondern auch viele Analphabeten und jede Menge Ungelernte. 
+Sie zu integrieren und in Arbeit zu bringen, noch dazu in kurzer Zeit, erschien selbst wohlmeinenden Experten als 
+aussichtslos. Es fehlte an Sprachkursen. Und die Hartz-IV-Quote bei Flüchtlingen schnellte in die Höhe. Heute lässt 
+sich sagen: Weder die Schwarzmaler noch die Schönfärber haben recht behalten. 
+ Die Bilanz kann sich durchaus sehen lassen. Die gewaltige Kraftanstrengung der zurückliegenden drei Jahre - 
+geleistet nicht unbedingt von den Konzernen, sondern eher von kleinen und mittleren Betrieben, hat sich gelohnt. 
+Mehr als 350 000 Flüchtlinge haben bereits einen Job oder sind in Ausbildung. Das ist deutlich mehr als erwartet. 
+Wenn Arbeitgeberpräsident Ingo Kramer nun erklärt, Angela Merkel habe mit ihrem ""Wir schaffen das"" richtig 
+gelegen, hat er recht. Es ist viel geschafft worden. Und die Chancen, dass noch mehr geschafft wird, stehen gut. 
+ Integration ist aber kein Selbstläufer, sondern harte Arbeit für alle Beteiligten, immer verbunden mit der Gefahr 
+des Scheiterns. Inzwischen gibt es auch Geschichten von Lehrlingen, die ihre Ausbildung abbrechen, sobald es 
+
+Vieles ist geschafft
+schwierig wird. Geschichten von Überforderung und von durchaus wohlwollenden Arbeitgebern, die über 
+mangelnde Zuverlässigkeit und Disziplin enttäuscht sind. 
+ Zur Realität gehört allerdings auch, dass die Erwerbslosigkeit von Flüchtlingen inzwischen in nicht wenigen 
+Jobcenter-Bezirken rascher sinkt als die von Deutschen ohne Migrationshintergrund. Das alles wird von einer 
+Arbeitsmarktlage begünstigt, die kaum besser sein könnte. Hilfreich war auch, dass das Gros der Flüchtlinge jünger 
+war als 30 Jahre - eine Lebensphase, in der man sich leichter damit tut, eine neue Sprache zu lernen. 
+ Deutschland 2018 ist ein Land, in dem der Mangel an qualifizierten Beschäftigten zur Wachstumsbremse 
+geworden ist. Dabei geht es längst nicht nur um Top-Forscher und IT-Experten. Die Autowerkstatt um die Ecke, der 
+mittelständische Metallbauer oder der Malermeister in der Kleinstadt - sie alle haben Mühe, gute Nachwuchskräfte 
+zu finden. Ist es ihnen gelungen, empfinden sie es als Zumutung, wenn die Ausländerbehörde plötzlich doch den 
+Abschiebe-Bescheid zustellen lässt. Der Frust darüber ist berechtigt. 
+ Diejenigen, die jetzt im Land sind mit Job oder Ausbildungsplatz, haben es verdient, hierzubleiben. Ganz 
+offensichtlich werden sie gebraucht. 2015/16 - das war ungesteuerte Zuwanderung, von der Kanzlerin zugelassen 
+aus humanitären Gründen. Es ist eine Illusion gewesen, dass Deutschland mit so vielen Flüchtlingen auf dem 
+Arbeitsmarkt das Fachkräfteproblem lösen könne. Dazu wäre weit mehr erforderlich, zum Beispiel Steuerung oder 
+gezieltes Werben. Das Zuwanderungsgesetz der großen Koalition, das eigentlich nächste Woche vom Kabinett auf 
+den Weg gebracht werden soll, ist da zumindest ein Schritt in die richtige Richtung."
+2018-12,Main Corpus,2018-12(50).ZIP,"Von einem der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge aus 30 Ländern nach Tö(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Von einem der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge aus 30 Ländern nach Tö(2).PDF","Von einem der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge aus 30 Ländern nach",von einem der auszog das glück zu suchen seit 2015 sind rund 800 flüchtlinge aus 30 ländern nach,Rheinische Post,rheinische post,Samstag 15. Dezember 2018,"Wickerath, Stephanie",S. 17,739,5140,e5533a109b8ff9fd5b21f21df0c6b1f4ecee30e4,variant_002,regional_variant,review,,no,,no,,,6767,no,,,near_002,variant_002,"Stephanie Wickerath
+Tönisvorst Besim Elezaj verfolgt derzeit besonders aufmerksam die Nachrichten, denn kürzlich hat sich die große 
+Koalition auf ein Einwanderungsgesetz geeinigt. Für Besim Elezaj ein erster Schritt in die richtige Richtung. Der 30-
+jährige Albaner hat viel Zeit verloren, weil er als Nicht-EU-Bürger in Deutschland keine Arbeit annehmen durfte. 
+Dabei hatte er einen Vertrag als Möbelmonteur bereits in der Tasche. Aber ohne Einwanderungsgesetz ist es 
+schwer für Ausländer, in Deutschland zu arbeiten.
+Schon als der Albaner 2015 nach Deutschland kommt, versteht er sich nicht als Flüchtling, sondern als 
+arbeitswilliger Einwanderer. „Ich wollte hier Geld verdienen, um mich zu finanzieren und meine Eltern zu 
+unterstützen“, erzählt der junge Mann. Bereits als 16-Jähriger hat Elezaj seine Heimat verlassen, um im 
+benachbarten Griechenland zu arbeiten. Als Tellerwäscher und Kellner im Restaurant, als Erntehelfer beim Bauern, 
+als Aushilfe beim Schreiner hat er gejobbt. „In Griechenland haben damals etliche Ausländer als Aushilfen 
+gearbeitet“, erzählt der 30-Jährige. Auch viele Albaner seien darunter gewesen. „In Albanien gibt es kaum Arbeit, 
+und wenn, ist sie sehr schlecht bezahlt oder illegal“, sagt der junge Mann.
+Aber mit der Griechenlandkrise wurde es vor allem für die Menschen aus den Nicht-EU-Ländern schwerer, Arbeit 
+zu finden. Also beschließt Elezaj, weiter zu ziehen und in Deutschland sein Glück zu suchen. Von München geht es 
+Anfang 2015 über Auffanglager in Dortmund und Detmold nach Tönisvorst, wo Besim Elesaj gleich ein griechisches 
+Restaurant aufsucht und nach Arbeit fragt. Tatsächlich wollen die Betreiber den Albaner, der griechisch spricht und 
+Erfahrungen in der Gastronomie mitbringt, einstellen, aber als Flüchtling mit unsicherem Bleibestatus bekommt er 
+keine Arbeitserlaubnis. „Statt selber Geld zu verdienen, bekam ich Sozialleistungen“, sagt der junge Mann und 
+schüttelt den Kopf über diesen Widersinn.
+
+Von einem der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge aus 30 Ländern nach 
+Tönisvorst gekommen. Besim Elezaj aus Albanien ist einer von i....
+Besim Elesaj fällt in ein Loch. Das Leben in der Turnhalle, die zur Notunterkunft umfunktioniert worden war, 
+gestaltet sich schwierig. Der Plan, in Deutschland leben und arbeiten zu können, scheint gescheitert, die 
+Abschiebung vermutlich nur eine Frage der Zeit. Aber der junge Mann berappelt sich wieder. Bei der 
+Flüchtlingshilfe Tönisvorst lernt er deutsch, die Ehrenamtler vermitteln ihm ein Praktikum in einer Möbelfirma, wo er 
+einen Arbeitsvertrag angeboten bekommt, und er verliebt sich in eine junge Frau. „Dann aber kam gleichzeitig mit 
+dem Arbeitsvertrag als Monteur meine Ausweisung“, erinnert er sich.
+Elesaj beschließt, nach Tirana zu fliegen und in der Botschaft ein Arbeitsvisum zu beantragen. Das kostet viel Geld 
+und dauert. Nach vier Monaten erfährt er, dass er in den nächsten zwei Jahren nicht in Deutschland arbeiten darf, 
+weil er Sozialleistungen bezogen hat. Wieder hängt der junge Mann in der Luft, diesmal in Albanien. Die Familie 
+seiner deutschen Freundin schaltet sich ein. Sie besorgt Elesaj einen Ausbildungsplatz bei einem Schreiner. 
+Lehrstellen sind vom Arbeitsverbot nach dem Bezug von Sozialleistungen nämlich ausgenommen.
+Endlich scheint alles gut zu werden, bis sich herausstellt, dass Schreiner kein Engpassberuf ist und es genügend 
+Deutsche gibt, die als Lehrlinge zur Verfügung stehen. Dass der Schreiner, der den Albaner einstellen wollte, seit 
+zwei Jahren keinen Lehrling gefunden hat, spielt dabei keine Rolle. Aber noch einmal wendet sich das Blatt, denn 
+es findet sich ein anderer Lehrherr. Kfz-Meister Christoph Kohnen aus St. Tönis bietet dem jungen Mann eine 
+Lehrstelle an. Da der Beruf des Automechatronikers zu den Engpassberufen gehört, passt es.
+Elezaj unternimmt einen weiteren Anlauf bei der Visumsstelle - und wird abgelehnt. Doch sein zukünftiger Chef gibt 
+nicht auf. Er fragt sich durch sämtliche Ämter und Behörden, bis sich ein Beamter findet, der sich kümmert. Seit 
+Ende August ist Besim Elezaj Lehrling in der Autowerkstatt Kohnen in St. Tönis. Seine Aufenthaltserlaubnis ist 
+zunächst auf zwei Jahre begrenzt, aber gewöhnlich werden ausländische Lehrlinge nicht abgeschoben. Auch im 
+Entwurf des Einwanderungsgesetzes ist dieser Punkt aufgeführt. Außerdem heißt es dort, dass für Flüchtlinge, 
+deren Abschiebung „ausgesetzt“ ist, klare Kriterien für einen verlässlichen Status geschafft werden sollen, wenn sie 
+arbeiten und ihren Lebensunterhalt selbst bestreiten.
+Jetzt muss das Gesetz nur noch verabschiedet werden.
+Flüchtlingshilfe sucht Ehrenamtler
+Immer noch kommen Flüchtlinge nach Deutschland, die Unterstützung brauchen. Die Flüchtlingshilfe Tönisvorst 
+sucht deshalb Menschen, die bereit sind, Patenschaften zu übernehmen, Geflüchtete zu Ämtern zu begleiten, dabei 
+helfen, Bewerbungen zu schreiben, eine Wohnung zu finden und ähnliches. Interessierte können sich an den 
+Ehrenamts-Koordinator Peter Hohlweger wenden (telefonisch unter 02151-367 84 19, per E-Mail unter 
+peter.hohlweger@fluechtlingshilfe-toenisvorst.de)."
+2018-12,Main Corpus,2018-12(50).ZIP,"Von einem der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge aus 30 Ländern nach Tö.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Von einem der auszog, das Glück zu suchen Seit 2015 sind rund 800 Flüchtlinge aus 30 Ländern nach Tö.PDF","Von einem der auszog, das Glück zu suchen; Seit 2015 sind rund 800 Flüchtlinge aus 30 Ländern nach",von einem der auszog das glück zu suchen seit 2015 sind rund 800 flüchtlinge aus 30 ländern nach,Rheinische Post,rheinische post,Samstag 15. Dezember 2018,"Wickerath, Stephanie",S. 17,738,5140,0fd644986c9895fe15341145f8726d3eba2182c8,variant_002,regional_variant,review,,no,,no,,,6767,no,,,near_002,variant_002,"Stephanie Wickerath
+Tönisvorst Besim Elezaj verfolgt derzeit besonders aufmerksam die Nachrichten, denn kürzlich hat sich die große 
+Koalition auf ein Einwanderungsgesetz geeinigt. Für Besim Elezaj ein erster Schritt in die richtige Richtung. Der 30-
+jährige Albaner hat viel Zeit verloren, weil er als Nicht-EU-Bürger in Deutschland keine Arbeit annehmen durfte. 
+Dabei hatte er einen Vertrag als Möbelmonteur bereits in der Tasche. Aber ohne Einwanderungsgesetz ist es 
+schwer für Ausländer, in Deutschland zu arbeiten.
+Schon als der Albaner 2015 nach Deutschland kommt, versteht er sich nicht als Flüchtling, sondern als 
+arbeitswilliger Einwanderer. „Ich wollte hier Geld verdienen, um mich zu finanzieren und meine Eltern zu 
+unterstützen“, erzählt der junge Mann. Bereits als 16-Jähriger hat Elezaj seine Heimat verlassen, um im 
+benachbarten Griechenland zu arbeiten. Als Tellerwäscher und Kellner im Restaurant, als Erntehelfer beim Bauern, 
+als Aushilfe beim Schreiner hat er gejobbt. „In Griechenland haben damals etliche Ausländer als Aushilfen 
+gearbeitet“, erzählt der 30-Jährige. Auch viele Albaner seien darunter gewesen. „In Albanien gibt es kaum Arbeit, 
+und wenn, ist sie sehr schlecht bezahlt oder illegal“, sagt der junge Mann.
+Aber mit der Griechenlandkrise wurde es vor allem für die Menschen aus den Nicht-EU-Ländern schwerer, Arbeit 
+zu finden. Also beschließt Elezaj, weiter zu ziehen und in Deutschland sein Glück zu suchen. Von München geht es 
+Anfang 2015 über Auffanglager in Dortmund und Detmold nach Tönisvorst, wo Besim Elesaj gleich ein griechisches 
+Restaurant aufsucht und nach Arbeit fragt. Tatsächlich wollen die Betreiber den Albaner, der griechisch spricht und 
+Erfahrungen in der Gastronomie mitbringt, einstellen, aber als Flüchtling mit unsicherem Bleibestatus bekommt er 
+keine Arbeitserlaubnis. „Statt selber Geld zu verdienen, bekam ich Sozialleistungen“, sagt der junge Mann und 
+schüttelt den Kopf über diesen Widersinn.
+
+Von einem der auszog, das Glück zu suchen; Seit 2015 sind rund 800 Flüchtlinge aus 30 Ländern nach 
+Tönisvorst gekommen. Besim Elezaj aus Albanien ist einer von ....
+Besim Elesaj fällt in ein Loch. Das Leben in der Turnhalle, die zur Notunterkunft umfunktioniert worden war, 
+gestaltet sich schwierig. Der Plan, in Deutschland leben und arbeiten zu können, scheint gescheitert, die 
+Abschiebung vermutlich nur eine Frage der Zeit. Aber der junge Mann berappelt sich wieder. Bei der 
+Flüchtlingshilfe Tönisvorst lernt er deutsch, die Ehrenamtler vermitteln ihm ein Praktikum in einer Möbelfirma, wo er 
+einen Arbeitsvertrag angeboten bekommt, und er verliebt sich in eine junge Frau. „Dann aber kam gleichzeitig mit 
+dem Arbeitsvertrag als Monteur meine Ausweisung“, erinnert er sich.
+Elesaj beschließt, nach Tirana zu fliegen und in der Botschaft ein Arbeitsvisum zu beantragen. Das kostet viel Geld 
+und dauert. Nach vier Monaten erfährt er, dass er in den nächsten zwei Jahren nicht in Deutschland arbeiten darf, 
+weil er Sozialleistungen bezogen hat. Wieder hängt der junge Mann in der Luft, diesmal in Albanien. Die Familie 
+seiner deutschen Freundin schaltet sich ein. Sie besorgt Elesaj einen Ausbildungsplatz bei einem Schreiner. 
+Lehrstellen sind vom Arbeitsverbot nach dem Bezug von Sozialleistungen nämlich ausgenommen.
+Endlich scheint alles gut zu werden, bis sich herausstellt, dass Schreiner kein Engpassberuf ist und es genügend 
+Deutsche gibt, die als Lehrlinge zur Verfügung stehen. Dass der Schreiner, der den Albaner einstellen wollte, seit 
+zwei Jahren keinen Lehrling gefunden hat, spielt dabei keine Rolle. Aber noch einmal wendet sich das Blatt, denn 
+es findet sich ein anderer Lehrherr. Kfz-Meister Christoph Kohnen aus St. Tönis bietet dem jungen Mann eine 
+Lehrstelle an. Da der Beruf des Automechatronikers zu den Engpassberufen gehört, passt es.
+Elezaj unternimmt einen weiteren Anlauf bei der Visumsstelle - und wird abgelehnt. Doch sein zukünftiger Chef gibt 
+nicht auf. Er fragt sich durch sämtliche Ämter und Behörden, bis sich ein Beamter findet, der sich kümmert. Seit 
+Ende August ist Besim Elezaj Lehrling in der Autowerkstatt Kohnen in St. Tönis. Seine Aufenthaltserlaubnis ist 
+zunächst auf zwei Jahre begrenzt, aber gewöhnlich werden ausländische Lehrlinge nicht abgeschoben. Auch im 
+Entwurf des Einwanderungsgesetzes ist dieser Punkt aufgeführt. Außerdem heißt es dort, dass für Flüchtlinge, 
+deren Abschiebung „ausgesetzt“ ist, klare Kriterien für einen verlässlichen Status geschafft werden sollen, wenn sie 
+arbeiten und ihren Lebensunterhalt selbst bestreiten.
+Jetzt muss das Gesetz nur noch verabschiedet werden.
+Flüchtlingshilfe sucht Ehrenamtler
+Immer noch kommen Flüchtlinge nach Deutschland, die Unterstützung brauchen. Die Flüchtlingshilfe Tönisvorst 
+sucht deshalb Menschen, die bereit sind, Patenschaften zu übernehmen, Geflüchtete zu Ämtern zu begleiten, dabei 
+helfen, Bewerbungen zu schreiben, eine Wohnung zu finden und ähnliches. Interessierte können sich an den 
+Ehrenamts-Koordinator Peter Hohlweger wenden (telefonisch unter 02151-367 84 19, per E-Mail unter 
+peter.hohlweger@fluechtlingshilfe-toenisvorst.de)."
+2018-12,Main Corpus,2018-12(50).ZIP,"Wer etwas kann, ist willkommen.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Wer etwas kann, ist willkommen.PDF","Wer etwas kann, ist willkommen",wer etwas kann ist willkommen,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 20. Dezember 2018,,WIRTSCHAFT; S. 12,742,5611,0624b85867d430aa0c46783c32afb6f10dcc8ca5,,unique,keep,,no,,no,,,6696,no,,,,,"VON ANDREAS NIESMANN
+A m Ende sind die Herren sogar zu Scherzen aufgelegt. Arbeitsminister Hubertus Heil hat gerade eine ganze 
+Litanei an SPD-Politikern heruntergebetet, die für ein Einwanderungsgesetz gekämpft hätten, da will Horst 
+Seehofer unbedingt ein paar Christsoziale hinzufügen. Doch Heil ist schneller. ""Im Himmel"", sagt er, ""herrscht mehr 
+Freude über einen reuigen Sünder als über 100 Gerechte.""
+Ob es der Vorfreude auf das nahende Weihnachtsfest geschuldet ist? Der Erleichterung darüber, am Ende eines 
+turbulenten politisches Jahres noch Minister zu sein? Oder gar dem Bewusstsein, vor einer historischen politischen 
+Einigung zu stehen? Auf jeden Fall ist die Stimmung gelöst wie selten, als Heil und Seehofer am Mittwoch im 
+Beisein von Wirtschaftsminister Peter Altmaier (CDU) verkünden, was in den Koalitionsverhandlungen 
+beschlossen, aber dennoch bis zuletzt strittig war: Deutschland bekommt ein Einwanderungsgesetz.
+Am Tag des Kabinettsbeschlusses ist den beteiligten Ministern kaum eine Kategorie zu groß. Kein anderes 
+Einwanderungsrecht auf der Welt sei ""so modern und unbürokratisch"", rühmt Innenminister Seehofer. Eine 20 
+Jahre währende Debatte ende nun mit einem ""riesigen Schritt nach vorn"", jubelt Arbeitsminister Heil. Und 
+Wirtschaftsminister Peter Altmaier schwärmt von einer Regelung, die im ""nationalen und wirtschaftlichen Interesse 
+von 82 Millionen Menschen in Deutschland"" sei. Zwischen 0,5 und einem Prozent mehr Wirtschaftswachstum sei 
+drin, wenn alle offenen Stellen - zuletzt waren bei der Bundesagentur für Arbeit mehr als 800 000 gemeldet - durch 
+Zuwanderer besetzt würden, so Altmaier.
+Konkret hat sich die Koalition auf zwei Gesetzentwürfe geeinigt, die zwar juristisch unabhängig voneinander sind, 
+aber gemeinsam das parlamentarische Verfahren durchlaufen sollen. Das Fachkräfteeinwanderungsgesetz soll 
+Ausländern mit Berufsabschluss erlauben, in Deutschland zu arbeiten. Bislang war das nur für 
+Universitätsabsolventen oder Fachkräften in sogenannten Mangelberufen möglich. Diese Beschränkung fällt künftig 
+weg, genauso wie die verpflichtende ""Vorrangprüfung"", ob eine Stelle durch einen gleich qualifizierten Deutschen 
+oder EU-Bürger besetzt werden kann. Außerdem erlaubt das Gesetz ausländischen Fachkräften ein halbes Jahr 
+zur Jobsuche nach Deutschland zu kommen, wenn sie Deutschkenntnisse nachweisen können. ""Damit stellen wir 
+die berufliche Qualifikation der Hochschulbildung gleich"", sagte Seehofer. Gelten soll das Gesetz zunächst nur von 
+
+Wer etwas kann, ist willkommen
+Januar 2020 bis Juni 2022, eine Vorsichtsmaßnahme, falls sich die Zuwanderung anders entwickeln sollte als 
+erhofft.
+Während das Fachkräfteeinwanderungsgesetz qualifizierte Berufstätige im Ausland ansprechen soll, betrifft das 
+Gesetz zur Duldung bei Ausbildung und Beschäftigung Menschen, die bereits in Deutschland sind. Es geht um 
+abgelehnte Asylbewerber, die aus persönlichen oder anderen gründen nicht abgeschoben werden können. Sie 
+sollen eine 30-monatige Duldung bekommen, wenn sie bereits 18 Monate in Deutschland gearbeitet haben, ihren 
+Lebensunterhalt selbst bestreiten können, Sprachkenntnisse erworben haben, straffrei sind, eine zweifelsfrei 
+geklärte Identität vorweisen können und ihre Kinder zur Schule schicken. Nach den 30 Monaten winkt eine 
+unbefristete Aufenthaltsgenehmigung, wenn eine weitgehend lückenlose Beschäftigung in dieser Zeit 
+nachgewiesen werden kann.
+""Wir wollen damit erreichen, dass wir nicht mehr die Falschen abschieben"", sagt Arbeitsminister Heil. Wer in Lohn 
+und Brot stehe, sich an die Regeln halte und sich integriere, verdiene eine Chance. Etwa 180 000 Flüchtlinge sollen 
+von dieser Regelung betroffen sein.
+Vor allem die Duldungsregelung war bis zuletzt umstritten. Die Sozialdemokraten hatten auf einen ""Spurwechsel"" 
+von der Asyl- in die Arbeitsmigration gedrängt, die Union war strikt dagegen. In CDU und CSU gibt es die 
+Befürchtung, dass Schlepper eine solche Regelung nutzen könnten, um Flüchtlinge zur Reise nach Deutschland zu 
+animieren. Der Kompromiss vermeidet das Wort Spurwechsel nun.
+Die Unternehmerverbände applaudieren am Mittwoch der Bundesregierung. Der Gesetzentwurf habe zentrale 
+Forderungen der Wirtschaft aufgenommen, erklärt der Hauptgeschäftsführer der Bundesvereinigung der Deutschen 
+Arbeitgeberverbände, Steffen Kampeter. ""Er bietet tragfähige und ausgewogene Lösungen, um die gesteuerte 
+Zuwanderung von ausländischen Fachkräften zu erleichtern und gleichzeitig Missbrauch auszuschließen."" Der 
+Arbeitgeberlobbyist mahnt die Koalition, es sei wichtig, dass die Pläne im parlamentarischen Verfahren nicht 
+verwässert würden. Das ist ein Wink an die Unionsfraktion, deren Chef Ralph Brinkhaus (CDU) bereits unmittelbar 
+nach dem Kabinettsbeschluss Gesprächsbedarf anmeldet und eine intensive Diskussion ankündigt. Im 
+parlamentarischen Verfahren sollen die noch offenen Fragen geklärt werden.
+Innenminister Seehofer ist davor nicht bange. Er sei ""absolut mit sich im Reinen"" und könne die Regelung ""guten 
+Gewissens"" der Bevölkerung vorlegen. ""Allmählich schließt sich der Kreis zu einem guten Regelwerk bei der 
+Migration"", sagt er noch und erinnert an die langjährigen Widerstände der CSU bei dem Thema. ""Vor drei Jahren 
+wäre in meiner Partei ein Einwanderungsgesetz außerhalb jeglicher Vorstellungskraft gewesen"", so der scheidende 
+Parteichef. ""Das wollte ich schon noch bewerkstelligen.""
+E s klingt wie ein politisches Vermächtnis.
+Leitartikel S. 11
+Seehofer wirkt wie die Glückseligkeit in Person
+Graphic
+ 
+Deutschland sucht: Frau, Ausländerin, Expertin am Schweißgerät. Ingo Wagner/dpa"
+2018-12,Main Corpus,2018-12(50).ZIP,Wie Rechte und Linke mit Flüchtlingszahlen tricksen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Wie Rechte und Linke mit Flüchtlingszahlen tricksen.PDF,Wie Rechte und Linke mit Flüchtlingszahlen tricksen,wie rechte und linke mit flüchtlingszahlen tricksen,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 6. Dezember 2018,,POLITIK; S. 7,676,5066,0112bb93f58b930e7c6d96d5b6b68a1691c73341,,unique,keep,,no,,no,,,6141,no,,,,,"E in schönes Beispiel, wie sich mit Zahlen Stimmung machen lässt, sind zwei aktuelle Nachrichten zum 
+Familiennachzug von Ausländern nach Deutschland. Pikanterweise beziehen sie sich auch noch beide auf aktuelle 
+Zahlen der Bundesregierung. Meldung eins stammt aus dem Büro der linken Bundestagsabgeordneten Ulla Jelpke, 
+Meldung zwei aus dem von AfD-Fraktionschefin Alice Weidel.
+""Seehofer durch eigene Zahlen als Panikmacher entlarvt"", ist die Mitteilung der Linkspartei überschrieben. Die 
+innenpolitische Sprecherin Jelpke führt aus: ""Entgegen allen Horrorprognosen von Seehofer und anderen rechten 
+Hetzern über Hunderttausende oder gar Millionen Familienangehörige, die angeblich nach Deutschland kämen, 
+sind es tatsächlich gerade einmal knapp 45 000 Menschen, die nach oft mehreren Jahren der sorgenvollen 
+Trennung darauf warten, endlich wieder mit ihren engsten Familienangehörigen zusammenleben zu können."" 
+Jelpkes Forderung: Die im Koalitionsvertrag beschlossene Kontingentierung des Familiennachzugs für subsidiär 
+Schutzbedürftige müsse weg. ""Das Recht auf Familienleben muss wieder uneingeschränkt für alle Flüchtlinge 
+gelten, auch für jene mit subsidiärem Schutz.""
+Ganz anders kommt die Mitteilung aus dem AfD-Lager daher. ""Kein Anlass zur Entwarnung beim Familiennachzug"" 
+lautet hier die Überschrift. Darunter lässt Fraktionschefin Weidel mitteilen, dass der Familiennachzug ""über 
+sämtliche Kanäle Jahr für Jahr bereits jetzt zusätzliche Zuwanderung von mehr als 100 000 Menschen, also der 
+Einwohnerzahl einer kompletten Großstadt"" verursache. 80 000 Personen seien über die Nachzugsregelung allein 
+in den ersten drei Quartalen 2018 nach Deutschland gekommen, schreibt Weidel. Und fordert deshalb, 
+Familiennachzug für subsidiär Schutzberechtigte gänzlich zu streichen. Was stimmt denn nun? Wollen nur 45 000 
+Antragssteller auf dem Wege der Familienzusammenführung nach Deutschland kommen, wie es die Linkspartei 
+schreibt? Oder sind bereits 80 000 tatsächliche Zuwanderer im Land, wie es in der Mitteilung der AfD heißt?
+Die Antwort auf diese Frage ist kompliziert, denn beide Politikerinnen berufen sich auf Zahlen der 
+Bundesregierungen und beide interpretieren sie so, wie es ihnen politisch in den Kram passt. Richtig und wichtig 
+wäre es aber, die verschiedenen Arten des Familiennachzugs auseinander zu halten. Heiratet zum Beispiel ein 
+deutscher Staatsbürger einen ausländischen, hat dieser das Recht, im Rahmen der Familienzusammenführung 
+nach Deutschland einzureisen.
+
+Wie Rechte und Linke mit Flüchtlingszahlen tricksen
+Mit dem Familiennachzug für subsidiär Schutzberechtigte, den Weidel mit Verweis auf die vermeintlich hohen 
+Fallzahlen streichen will, hat das wenig zu tun. Als subsidiär Schutzberechtigte werden vor allem Flüchtlinge aus 
+Kriegsgebieten eingestuft, die keinen Anspruch auf Asyl wegen persönlicher Verfolgung haben. Darunter fallen 
+nahezu alle Menschen aus Syrien, dem Irak oder Afghanistan, die im Zuge der Flüchtlingskrise nach Deutschland 
+eingereist sind. Für diese Menschen wurde das Recht auf Familiennachzug im März 2016 ausgesetzt. In den 
+Koalitionsverhandlungen hatte die SPD gefordert, den Menschen mit Aufenthaltsgenehmigung dieses Recht wieder 
+einzuräumen.
+Dagegen hatte sich vor allem CSU-Chef Horst Seehofer gesperrt und vor bis 300 000 zusätzlichen Einwanderern 
+gewarnt. Nach zähen Verhandlungen einigten sich Union und SPD im Koalitionsvertrag schließlich darauf, bis zu 
+1000 engen Angehörigen pro Monat den Nachzug nach Deutschland zu ermöglichen. Darunter fallen Ehepartner, 
+minderjährige Kinder oder Eltern von bereits in Deutschland lebenden Minderjährigen. Seit August können bei den 
+Konsulaten und Botschaften entsprechende Anträge gestellt werden, sodass in diesem Jahr noch 5000 und ab 
+Januar jährlich 12 000 Angehörige subsidiär Schutzbedürftiger einreisen können. Nach entsprechenden Anträgen 
+hat Jelpke die Bundesregierung gefragt. Genauer: Sie hat gefragt, wie viele Angehörige seit August einen Termin 
+bei einer deutschen Auslandsvertretung gemacht haben, um einen solchen Antrag zu stellen. Die Antwort waren 
+jene rund 45 000 Terminanfragen für die Visa-Vergabe.
+Wohlgemerkt: Eine Terminanfrage ist noch lange kein erteiltes Visum. Erst wenn Botschaft oder Konsulat einen 
+Visumsantrag angenommen und positiv geprüft haben, leiten sie ihn zur Ausländerbehörde nach Deutschland 
+weiter. Dort erfolgt eine weitere Prüfung, bevor die Ausländerbehörde den Antrag dem Bundesverwaltungsamt 
+vorlegt, das eine Auswahlentscheidung fällt. Die wiederum geht dann an die deutschen Auslandsvertretungen, die 
+dann ein Visum erstellen dürfen. Bis Ende Oktober ist das in 688 Fällen geschehen.
+Die Wahrscheinlichkeit ist daher hoch, dass die in diesem Jahr laut Koalitionsvertrag möglichen 5000 Fälle 
+tatsächlich nicht erreicht werden. Für eine abschließende Bewertung, wie hoch das Nachzugsinteresse tatsächlich 
+ist, ist der Bearbeitungszeitraum allerdings zu kurz.
+Graphic
+ 
+Alice Weidel von der AfD interpretiert die Zahlen zum Familiennachzug auf ihre Weise. Wolfgang Kumm/dpa"
+2018-12,Main Corpus,2018-12(50).ZIP,Zerbrochene Scheiben und Feuer in Bamberg Erneut kam es in einem bayerischen Ankerzentrum zu Zusamme.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Zerbrochene Scheiben und Feuer in Bamberg Erneut kam es in einem bayerischen Ankerzentrum zu Zusamme.PDF,Zerbrochene Scheiben und Feuer in Bamberg; Erneut kam es in einem bayerischen Ankerzentrum zu,zerbrochene scheiben und feuer in bamberg erneut kam es in einem bayerischen ankerzentrum zu,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 12. Dezember 2018,Patrick Guyton,INLAND; S. 6,503,3703,73aa4b467601e77e291c50ba27212546ed5a7d27,,unique,keep,,no,,no,,,5145,no,,,,,"Von Patrick Guyton, München
+Am Dienstagmorgen gegen 0.45 Uhr gab es im Ankerzentrum Bamberg einen massiven Zusammenstoß zwischen 
+der Polizei und Asylbewerbern, die in der Einrichtung untergebracht sind. Der Polizei zufolge wollte der 
+Sicherheitsdienst der Anlage wegen Ruhestörung in einer Wohnung einschreiten. Die Security sei attackiert 
+worden, die Flüchtlinge hätten sich in der Wohnung verbarrikadiert.
+Die Polizei war mit insgesamt 100 Beamten im Einsatz. Diese seien mit Gegenständen, auch Pflastersteinen, 
+beworfen worden. Fensterscheiben wurden eingeschmissen, in der Wohnung brach Feuer aus, das von der 
+Feuerwehr gelöscht wurde. Bewohner im Stockwerk über der Wohnung flüchteten auf den Balkon, von wo sie in 
+Sicherheit gebracht wurden.
+Neun Menschen erlitten Rauchvergiftungen und mussten behandelt werden, ein Polizist wurde leicht verletzt. Neun 
+Flüchtlinge wurden vorläufig festgenommen. Gegen sie wird wegen schwerem Landfriedensbruch und schwerer 
+Brandstiftung ermittelt. Die Festgenommenen sind laut Angaben eines Polizeisprechers zwischen 16 und 28 Jahre 
+alt. Den entstandenen Sachschaden schätzte die Polizei auf 100.000 Euro.
+Seit August dieses Jahres werden alle in Bayern neu ankommenden Flüchtlinge zentral in den insgesamt sieben 
+Ankerzentren des Freistaats untergebracht. Dort müssen sie bleiben, bis über ihren Asylantrag entschieden wurde 
+und geklärt ist, ob sie ein Bleiberecht erhalten oder nicht. Es ist nicht die erste Eskalation in einer solchen 
+Einrichtung: Vor sechs Wochen brachen in einer Unterkunft im niederbayerischen Stephansposching, das zum 
+Zentrum Deggendorf gehört, Randale und Protest aus, als ein Flüchtling aus Sierra Leone abgeschoben werden 
+sollte. Aus einer Unterkunft in Schweinfurt wurde schon zweimal über Messerstechereien berichtet.
+
+Zerbrochene Scheiben und Feuer in Bamberg; Erneut kam es in einem bayerischen Ankerzentrum zu 
+Zusammenstößen zwischen Bewohnern und Polizei. Kritiker mahnen, di....
+Kritiker sehen in den Zentren lagerähnliche Unterkünfte, in denen keine Integration möglich sei. Immer wieder 
+protestieren Menschen gegen die Ankerzentren und kritisieren, dass die Unterbringung menschenunwürdig und die 
+Chancen auf ein faire Asylverfahren beschnitten seien.
+ 12 bis 15 Personen leben in Bamberg in einer Wohnung auf engstem Raum zusammen , sagt etwa Thomas 
+Bollheim vom Bayerischen Flüchtlingsrat. Einer der beteiligten Flüchtlinge habe nach dem aktuellen Vorfall 
+ausgesagt, zuerst habe ein Security-Mitarbeiter einen Asylbewerber geschlagen, daraufhin sei die Situation 
+eskaliert. Die generelle Stimmung in der Unterkunft beschreibt Bollheim als gereizt , vor allem in der Nacht. Die 
+Flüchtlinge würden kaum schlafen, auch aus Angst vor Abschiebungen, die in der Regel in der Nacht erfolgen.
+Im Ankerzentrum Bamberg, wo Wohnhäuser eines früheren US-Militärstützpunktes genutzt werden, sind laut 
+Auskunft der Regierung von Oberfranken derzeit 1.268 Personen untergebracht. Die Belegung, so ist es festgelegt, 
+sollte die Zahl von 1.500 nicht übersteigen. Die Menschen stammen aus 28 Ländern, von Afghanistan über 
+Marokko bis Togo. Unter den jetzigen Flüchtlingen sind 483 Frauen sowie 291 Kinder und Jugendliche unter 18 
+Jahren.
+Mehrfach haben die Regierungen der zuständigen bayerischen Bezirke darüber beraten, wie das Konfliktpotenzial 
+in den Ankerzentren reduziert und Ausschreitungen wie die in Bamberg verhindert werden könnten. Bisher kann die 
+Regierung Oberfranken allerdings nur mitteilen: Nach Abschluss der Ermittlungen werden auch die Erkenntnisse 
+aus diesem Vorfall in die Prozesse und Sicherheitskonzepte Einzug finden. 
+Neun Menschen erlitten Rauchvergiftungen und mussten behandelt werden"
+2018-12,Main Corpus,2018-12(50).ZIP,Zwei Afghanen abgeschoben.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2018-12\raw_unarchive\Zwei Afghanen abgeschoben.PDF,Zwei Afghanen abgeschoben,zwei afghanen abgeschoben,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 6. Dezember 2018,,HESSEN; S. D1,542,3978,7ced63d797c905a295640a78c88c5dcf13bfe035,,unique,keep,,no,,no,,,4999,no,,,,,"VON PITT VON BEBENBURG
+T rotz Protesten von Flüchtlingshelfern und Menschenrechtlern hat Hessen erneut zwei Männer aus Afghanistan in 
+ihr Heimatland abgeschoben. Innenminister Peter Beuth (CDU) sagte am Mittwoch im Landtag, die Betroffenen 
+seien bei dem Abschiebeflug an Bord gewesen, der am Dienstagabend vom Frankfurter Flughafen in Richtung 
+Kabul gestartet war. Insgesamt waren nach Behördenangaben 14 Afghanen aus Deutschland abgeschoben 
+worden.
+Beuth berichtete, Hessen habe zuvor in diesem Jahr zwölf Straftäter und Gefährder nach Afghanistan ausgeflogen. 
+Auch die am Dienstag abgeschobenen Männer zählten zu dieser Gruppe. Sie seien ""aus der Haft heraus"" 
+abgeschoben worden.
+Der Landtag lehnte es mit
+der Mehrheit von CDU, Grünen und FDP ab, einen generellen Abschiebestopp für Afghanistan auszusprechen. Die 
+Linke hatte beantragt, den Menschen aus dem Bürgerkriegsland einen sicheren Aufenthaltsstatus zu gewähren. 
+Linken-Fraktionschefin Janine Wissler beklagte, dass Menschen aus Afghanistan wegen der drohenden 
+Abschiebung in Angst lebten, darunter auch viele Schülerinnen und Schüler. Die SPD und die fraktionslose 
+Abgeordnete Mürvet Öztürk stimmten der Linken-Initiative zu. Der SPD-Abgeordnete Ernst-Ewald Roth sagte, es 
+wäre ""nicht falsch"", gerade angesichts von rechten Tendenzen ""alle Spielräume"" im Sinne der Menschen aus 
+Afghanistan auszunutzen.
+Die CDU-Politikerin Astrid Wallmann warf der Linken vor, sie verunsichere die jungen Afghanen. Die Schülerinnen 
+und Schüler, von denen Wissler spreche, fielen nicht in den Kreis der Straftäter und Gefährder, die von 
+Abschiebung bedroht seien.
+Wissler erwiderte, nicht ihre Initiative beunruhige die Betroffenen, sondern bedrohliche Schreiben der Behörden. 
+Sie zitierte aus dem Brief an einen 18-Jährigen, wonach seine Abschiebung ""ohne weitere Ankündigung"" eingeleitet 
+werde.
+""Vorrangig"" Straftäter
+
+Zwei Afghanen abgeschoben
+CDU und Grüne berichteten, dass in den Jahren 2017 und 2018 ausschließlich Straftäter und Menschen, die als 
+Gefährder gelten, nach Afghanistan abgeschoben worden seien. Sie gaben aber keine Zusicherung, dass sich die 
+Zwangsrückführungen weiter auf diese Gruppe beschränken.
+Vielmehr zitierten Minister Beuth und die schwarz-grünen Abgeordneten den Erlass des Ministers vom Februar 
+2017, wonach ""vorrangig"" Straftäter und Gefährder abgeschoben werden sollte. Die Frage von Linken und SPD, 
+was ""vorrangig"" bedeute und welchen anderen Personen die Abschiebung drohe, wurde in der Debatte nicht 
+beantwortet. Empörung erntete der Linken-Abgeordnete Ulrich Wilken für seine Äußerung, dass die Hessische 
+Landesregierung nicht human handele und sich ""einer flüchtlingsfeindlichen Stimmung"" beuge. CDU-Politikerin 
+Wallmann nannte das ""maßlos"" und ""frech"". Sie fügte hinzu: ""Kein anderes Land hat ein solch humanitäres Gesicht 
+gezeigt wie Deutschland.""
+Der Grüne Marcus Bocklet wies Wilkens Worte als ""unverschämt"" zurück. Damit diskreditiere er die Arbeit der 
+hauptamtlichen und ehrenamtlichen Helfer, die Flüchtlinge unterstützt hätten.
+""Wir wollen eine humane Flüchtlingspolitik"", betonte Bocklet. Die Grünen stünden zur Flüchtlingskonvention der 
+Vereinten Nationen (UN). Dort stehe aber auch, dass Straftäter und Menschen, die ""aus schwerwiegenden 
+Gründen als eine Gefahr für die Sicherheit des Landes anzusehen"" seien, keinen Schutz genießen könnten.
+Ähnlich argumentierte der FDP-Fraktionsvorsitzende René Rock. ""Es gibt auch unter den Menschen aus 
+Afghanistan Menschen, die ich in diesem Land nicht will"", stellte er fest.
+UN-KONVENTION
+In der
+UN-Flüchtlingskonvention heißt es: ""Auf die Vergünstigung dieser Vorschrift kann sich jedoch ein Flüchtling nicht 
+berufen, der aus schwerwiegenden Gründen als eine Gefahr für die Sicherheit des Landes anzusehen ist, in dem er 
+sich befindet, oder der eine Gefahr für die Allgemeinheit dieses Staates bedeutet, weil er wegen eines Verbrechens 
+oder eines besonders schweren Vergehens rechtskräftig verurteilt wurde."" FR"

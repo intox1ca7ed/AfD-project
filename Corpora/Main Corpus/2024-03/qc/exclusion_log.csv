@@ -1,0 +1,51 @@
+﻿file_name,decision,reason,duplicate_group,notes
+1000 Gegendemonstranten bei Kundgebung der AfD Das Bündnis „Düsseldorf stellt sich quer“ protestiert.PDF,keep,,,
+"12.300 Flüchtlinge bekamen doppelt Asyl in Deutschland Migranten erhielten Schutztitel, obwohl sie z.PDF",keep,,,
+"560 Schleuser haben wir gefasst Bundesinnenministerin Nancy Faeser (SPD) ist optimistisch, die Zahl(2).PDF",drop,duplicate_exact,exact_001,"Dropped in favor of representative file: 560 Schleuser haben wir gefasst Bundesinnenministerin Nancy Faeser (SPD) ist optimistisch, die Zahl.PDF (exact_001)."
+"560 Schleuser haben wir gefasst Bundesinnenministerin Nancy Faeser (SPD) ist optimistisch, die Zahl.PDF",keep,,exact_001,Representative kept for exact_001.
+"Ankunft ungewiss Die Integration von Geflüchteten, insbesondere von Kindern und Jugendlichen, überfo.PDF",keep,,,
+Anwohner legen Beschwerde ein Die IG Schwafheim kämpft weiter juristisch gegen den Bau einer Flüchtl.PDF,keep,,,
+Bestürzung über Wuchermieten für Ukrainer.PDF,keep,,,
+Bundesländer gegen Arbeitsverbote.PDF,keep,,,
+Das bisschen Repression Im Iran wurde er verhaftet und gefoltert_ Mohammad Aghaei lebt seit 2017 in.PDF,keep,,,
+Demo und Gegendemo zu Flüchtlingsunterkunft am Zoopark In einem Bürohaus sollen Geflüchtete unterkom(2).PDF,drop,duplicate_exact,exact_002,Dropped in favor of representative file: Demo und Gegendemo zu Flüchtlingsunterkunft am Zoopark In einem Bürohaus sollen Geflüchtete unterkom.PDF (exact_002).
+Demo und Gegendemo zu Flüchtlingsunterkunft am Zoopark In einem Bürohaus sollen Geflüchtete unterkom.PDF,keep,,exact_002,Representative kept for exact_002.
+Der Fortschritt ist eine Schnecke(2).PDF,drop,duplicate_exact,exact_003,Dropped in favor of representative file: Der Fortschritt ist eine Schnecke.PDF (exact_003).
+Der Fortschritt ist eine Schnecke.PDF,keep,,exact_003,Representative kept for exact_003.
+"Der Mann, der Hunderte Kinder rettete Der Film „One Life“ setzt Sir Nicholas Winton ein bewegendes D(2).PDF",drop,duplicate_exact,exact_004,"Dropped in favor of representative file: Der Mann, der Hunderte Kinder rettete Der Film „One Life“ setzt Sir Nicholas Winton ein bewegendes D.PDF (exact_004)."
+"Der Mann, der Hunderte Kinder rettete Der Film „One Life“ setzt Sir Nicholas Winton ein bewegendes D.PDF",keep,,exact_004,Representative kept for exact_004.
+Die Bezahlkarte soll im Sommer kommen Der Bund-Länder-Gipfel mit Kanzler Scholz verlief weitgehend h(2).PDF,drop,duplicate_exact,exact_005,Dropped in favor of representative file: Die Bezahlkarte soll im Sommer kommen Der Bund-Länder-Gipfel mit Kanzler Scholz verlief weitgehend h.PDF (exact_005).
+Die Bezahlkarte soll im Sommer kommen Der Bund-Länder-Gipfel mit Kanzler Scholz verlief weitgehend h.PDF,keep,,exact_005,Representative kept for exact_005.
+"Doppeltes Asyl für über 12.000 Flüchtlinge Deutsche Schutztitel für Migranten, die schon Griechenlan.PDF",keep,,,
+Erste Ukrainer kehren zurück Die Stadt berichtet über die Unterbringung von Asylbewerbern und Flücht.PDF,keep,,,
+Flüchtlinge_ Heimleiter spricht Klartext Klar Stellung bezogen hat beim Bürgerinformationsabend in V.PDF,keep,,,
+Flüchtlings-Einquartierung ab Ende April Die Peto-Ratsmehrheit gibt Bürgermeister Zimmermann (Peto).PDF,keep,,,
+Flüchtlingshelferin außer Dienst Bis 2017 kümmerte sich Nancy Schendlinger um Kinder von Aslybewerbe.PDF,keep,,,
+Flüchtlingssituation im Kreis Aurich entspannt Soziales Keine Häufung von Delikten im Zusammenhang m(2).PDF,keep,,variant_001,Representative kept for variant_001.
+Flüchtlingssituation im Kreis Aurich entspannt Soziales Keine Häufung von Delikten im Zusammenhang m.PDF,drop,regional_variant,variant_001,Dropped in favor of representative file: Flüchtlingssituation im Kreis Aurich entspannt Soziales Keine Häufung von Delikten im Zusammenhang m(2).PDF (variant_001).
+Flüchtlingsunterkunft bleibt umstritten Seit Mitte November beschäftigt das Thema der Zentralen Unte.PDF,keep,,,
+Flüchtlingsunterkunft ist bald fertig In der alten Druckerei Schülingkamp läuft der Umbau für die Un.PDF,keep,,,
+Gespensterdebatte.PDF,keep,,,
+In der Flüchtlingswohnung hängen jetzt viele Bilder Migration Nach schwierigen Monaten mit Wohnungss.PDF,keep,,,
+Kostenexplosion durch Bezahlkarte Berlin will die Restriktionen für Asylbewerber angeblich nur zum B.PDF,keep,,,
+Mehr Skepsis gegenüber Migration.PDF,keep,,,
+Mit Flüchtlingen gegen Fachkräftemangel Landrat Petrauschke sieht in der steigenden Zahl der Geflüch.PDF,keep,,,
+NACHRICHTEN.PDF,keep,,,
+Offenheit für Zuwanderung.PDF,keep,,,
+Politik der Puzzlestücke Herbert Reul kritisiert das Vorgehen der Ampel zur Begrenzung der Migration(2).PDF,drop,duplicate_exact,exact_006,Dropped in favor of representative file: Politik der Puzzlestücke Herbert Reul kritisiert das Vorgehen der Ampel zur Begrenzung der Migration.PDF (exact_006).
+Politik der Puzzlestücke Herbert Reul kritisiert das Vorgehen der Ampel zur Begrenzung der Migration.PDF,keep,,exact_006,Representative kept for exact_006.
+Sachsen fordert Obergrenze bei Flüchtlingen.PDF,keep,,,
+Suche nach Bleibe für Flüchtlinge.PDF,keep,,,
+Team Bürgerbegehren sammelt Spenden für Klage.PDF,keep,,,
+"Turnhallen bleiben weiter Unterkunft Wohnungen für Asylbewerber zu finden, wird auch in Kevelaer imm.PDF",keep,,,
+Unwucht bei der Unterbringung.PDF,keep,,,
+Versperrter Arbeitsmarkt.PDF,keep,,,
+"Vertrieben und verzweifelt Von Hannah Arendt bis Walter Benjamin_ Das Buch _Marseille 1940_ erzählt,.PDF",keep,,,
+Viele Mythen um Flüchtlingsunterkunft Die geplante Unterbringung von Flüchtlingen in Spellen beschäf.PDF,keep,,,
+Warten auf die Bundeslösung Geflüchtete Landrat Scheffold befürwortet eine Bezahlkarte „außerordentl.PDF,keep,,,
+Zankapfel Migration.PDF,drop,commentary_noncore,,
+"„Alle, die da sind, sollen arbeiten dürfen“.PDF",keep,,,
+„Er ist ein echter Glücksfall für uns“ Mohammad Younes Momeni kam 2018 als Geflüchteter aus dem Iran.PDF,keep,,,
+„Es geht um das Leben im Interim“ Die Schauspielerin erzählt in ihrem neuen Buch Geschichten von Men(2).PDF,drop,duplicate_exact,exact_007,Dropped in favor of representative file: „Es geht um das Leben im Interim“ Die Schauspielerin erzählt in ihrem neuen Buch Geschichten von Men.PDF (exact_007).
+„Es geht um das Leben im Interim“ Die Schauspielerin erzählt in ihrem neuen Buch Geschichten von Men.PDF,keep,,exact_007,Representative kept for exact_007.
+„Mülltrennung ist kaum zu vermitteln“ Der Stadtrat behandelte in der Fragestunde gleich mehrere Them.PDF,keep,,,

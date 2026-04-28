@@ -1,0 +1,51 @@
+﻿file_name,decision,reason,duplicate_group,notes
+"_Der Begriff ,Flüchtling' wird oft falsch verwendet_ BAMF-Chef Sommer spricht über die Krise 2015 un.PDF",keep,,,
+Athen wehrt sich gegen Ausfliegen von Migranten aus Moria Deutschland diskutiert die Aufnahme von Fl.PDF,keep,,,
+BAMF-Präsident_ Druck auf Herkunftsländer erhöhen Hans-Eckhard Sommer ruft Politik und Wirtschaft da.PDF,keep,,,
+"Bleibt Seehofer hart_ SPD und Grüne fordern, junge Flüchtlinge aufzunehmen.PDF",keep,,,
+Bundesregierung nimmt 1553 Flüchtlinge aus Griechenland auf Union und SPD einigen sich nach zähen Ve.PDF,keep,,,
+"Das Herz ist eng Analyse Der Flüchtlingspolitik ist der Kompass abhandengekommen, nachdem die Folgen(2).PDF",drop,duplicate_exact,exact_001,"Dropped in favor of representative file: Das Herz ist eng Analyse Der Flüchtlingspolitik ist der Kompass abhandengekommen, nachdem die Folgen.PDF (exact_001)."
+"Das Herz ist eng Analyse Der Flüchtlingspolitik ist der Kompass abhandengekommen, nachdem die Folgen.PDF",keep,,exact_001,Representative kept for exact_001.
+"Deutscher Weg Während die Koalition darüber berät, mehr Flüchtlinge aus Moria aufzunehmen, gibt es i.PDF",keep,,,
+Deutschland muss menschlich bleiben(2).PDF,drop,duplicate_exact,exact_002,Dropped in favor of representative file: Deutschland muss menschlich bleiben.PDF (exact_002).
+Deutschland muss menschlich bleiben.PDF,keep,,exact_002,Representative kept for exact_002.
+"Die Bilder sind unerträglich Länder und Städte drängen die Bundesregierung, mehr Flüchtlinge aus Mor.PDF",keep,,,
+"Die Dynamik hinter dem Elend Christian Jakob über Moria, Griechenland und die EU.PDF",drop,commentary_noncore,,
+"Die EU behandelt nur Symptome Die EU sei zur Hilfe auf Lesbos bereit, sagt die EU-Chefin. Fragen der.PDF",keep,,,
+"Die plötzliche Rückkehr des Migrations-Duells Das Jahr 2015 darf sich nicht wiederholen, so hieß es.PDF",keep,,,
+Die reine Lehre.PDF,keep,,,
+Die SPD stellt ein Ultimatum - _Die ÖVP wird Kinder aus Moria aufnehmen müssen_.PDF,keep,,,
+Geflüchtete fordern ihre Evakuierung Seit Tagen harren Tausende obdachlose Geflüchtete ohne Versorgu.PDF,keep,,,
+"Gesucht_ Wohnraum für Flüchtlinge aus Moria Moers bereitet sich darauf vor, bis zu 50 Menschen aus g(2).PDF",drop,regional_variant,variant_001,"Dropped in favor of representative file: Gesucht_ Wohnraum für Flüchtlinge aus Moria Moers bereitet sich darauf vor, bis zu 50 Menschen aus g.PDF (variant_001)."
+"Gesucht_ Wohnraum für Flüchtlinge aus Moria Moers bereitet sich darauf vor, bis zu 50 Menschen aus g.PDF",keep,,variant_001,Representative kept for variant_001.
+"Hilfe für Moria Beim Klarissenkloster konnten warme Decken, Zelte und Desinfektionsmittel für die Fl.PDF",keep,,,
+Innensenator macht Außenpolitik Nach dem Moria-Brand_ Geisel trifft sich auf Athen-Reise mit Flüchtl.PDF,keep,,,
+Kein freundliches Gesicht Klaus Hillenbrand über deutsche Flüchtlingspolitik.PDF,drop,commentary_noncore,,
+Keine Chance gegen Kurz Österreichs Grüne und die Flüchtlingspolitik.PDF,keep,,,
+"Kopflose Hilfsbereitschaft_ Deutschland sollte noch mehr Flüchtlinge aus Moria aufnehmen, fordert Th(2).PDF",drop,regional_variant,variant_002,"Dropped in favor of representative file: Kopflose Hilfsbereitschaft_ Deutschland sollte noch mehr Flüchtlinge aus Moria aufnehmen, fordert Th.PDF (variant_002)."
+"Kopflose Hilfsbereitschaft_ Deutschland sollte noch mehr Flüchtlinge aus Moria aufnehmen, fordert Th.PDF",keep,,variant_002,Representative kept for variant_002.
+Letzte Chance für ein europäisches Asylsystem Streit verhindert Beschluss. Berlin hat viel zu verlie.PDF,keep,,,
+Linke und Grüne wollen alle Moria-Flüchtlinge aufnehmen.PDF,keep,,,
+"Merkel treibt Seehofer an Anders als es der Innenminister will, sollen doch mehr Flüchtlinge aus Les.PDF",keep,,,
+Mit verteilten Rollen Debatte um Moria-Flüchtlinge_ Die SPD mahnt humanitäre Verpflichtung Deutschla.PDF,keep,,,
+Moria als Blaupause.PDF,drop,commentary_noncore,,
+Polnische Hilfe_ Container für ein neues Lager Aus Warschau Gabriele Lesser In.PDF,keep,,,
+Regierung plant Aufnahme Flüchtlinge Die Bundesregierung will bis Mittwoch auf die „einmalige humani.PDF,keep,,,
+Rufe nach Aufnahme von Flüchtlingen werden lauter Brandkatastrophe Nach dem Feuer im griechischen La.PDF,keep,,,
+Seehofer stellt sich quer Der Bundesinnenminister gerät nun auch aus den eigenen Reihen massiv unter(2).PDF,drop,regional_variant,variant_003,Dropped in favor of representative file: Seehofer stellt sich quer Der Bundesinnenminister gerät nun auch aus den eigenen Reihen massiv unter.PDF (variant_003).
+Seehofer stellt sich quer Der Bundesinnenminister gerät nun auch aus den eigenen Reihen massiv unter.PDF,keep,,variant_003,Representative kept for variant_003.
+Seehofer wird zum Buhmann der Moria-Krise Nach dem Brand im Flüchtlingslager ist die Solidarität im.PDF,keep,,,
+Sehnsuchtsziel Deutschland Immer mehr anerkannte Flüchtlinge fliegen laut einem vertraulichen Berich.PDF,keep,,,
+So blickt der Rest Europas auf Moria Das brennende Flüchtlingslager hat das Thema Migration in Deuts.PDF,keep,,,
+Sollen wirklich alle kommen_.PDF,drop,commentary_noncore,,
+Tausende Flüchtlinge obdachlos nach Brand in Moria Migration Viele Bundesländer wollen den Betroffen.PDF,keep,,,
+Tränengas gegen Flüchtlinge Situation auf Lesbos bleibt angespannt.PDF,keep,,,
+UNHCR wundert sich über Berlin.PDF,keep,,,
+Viele Monate statt weniger Wochen Eigentlich sollte es bloß 30 Tage dauern. Doch gerettete Bootsflüc.PDF,keep,,,
+Von Lesbos nach Deutschland Migration So läuft es mit der Aufnahme von Flüchtlingen aus Griechenland.PDF,keep,,,
+"Was wollen wir eigentlich schaffen_ Integration ist ein langer Prozess, bei dem beide Seiten, Einwan.PDF",keep,,,
+Weitere Flüchtlinge zu erwarten Asyl In Hude Gemeinde hat höhere Quote zu erfüllen   Wohnraum gesuch.PDF,keep,,,
+Wettlauf der Moral.PDF,keep,,,
+Würdeloses Gefeilsche Kommentar von Susanne Memarnia zur Verlogenheit der Politik beim Flüchtlingsth.PDF,drop,commentary_noncore,,
+Zwischen Bleibe und Blockade Was tun für die obdachlosen Flüchtlinge auf Lesbos_ Die wichtigsten Pos.PDF,keep,,,
+"Überlastet vom Ansturm Flüchtlingskrise Der Herbst 2015 stellte Deutschlands Kommunen, Behörden, Pol.PDF",keep,,,
