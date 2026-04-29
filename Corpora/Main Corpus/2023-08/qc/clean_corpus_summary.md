@@ -1,10 +1,10 @@
 # Clean 2023-08 Corpus Summary
 
-- Total original files: 50
-- Kept files: 39
-- Dropped files: 11
+- Total original files: 100
+- Kept files: 79
+- Dropped files: 21
 - Review files: 0
-- Duplicate groups collapsed: 8
+- Duplicate groups collapsed: 16
 
 ## Representative Selection Rule
 

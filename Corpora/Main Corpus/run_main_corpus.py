@@ -272,17 +272,20 @@ def main() -> int:
         raise SystemExit("No month folders matched the requested filters.")
 
     run_rows: list[RunLogRow] = []
-    for month_dir in target_month_dirs:
+    total_months = len(target_month_dirs)
+    print(f"Starting Main Corpus run for {total_months} month folder(s)...", flush=True)
+    for idx, month_dir in enumerate(target_month_dirs, start=1):
         row = process_month(month_dir, skip_existing=skip_existing, reextract=args.reextract)
         run_rows.append(row)
         print(
-            f"[{row.month_folder}] status={row.status} processed={row.processed} "
-            f"pdf_count={row.pdf_count} keep={row.kept_count} drop={row.dropped_count} review={row.review_count}"
+            f"[{idx}/{total_months}] [{row.month_folder}] status={row.status} processed={row.processed} "
+            f"pdf_count={row.pdf_count} keep={row.kept_count} drop={row.dropped_count} review={row.review_count}",
+            flush=True,
         )
 
     log_path = main_corpus_dir / "main_corpus_run_log.csv"
     write_run_log(log_path, run_rows)
-    print(f"Wrote run log: {log_path}")
+    print(f"Wrote run log: {log_path}", flush=True)
     return 0
 
 

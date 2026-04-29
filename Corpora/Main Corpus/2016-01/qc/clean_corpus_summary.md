@@ -1,8 +1,8 @@
 # Clean 2016-01 Corpus Summary
 
-- Total original files: 50
-- Kept files: 42
-- Dropped files: 8
+- Total original files: 94
+- Kept files: 79
+- Dropped files: 15
 - Review files: 0
 - Duplicate groups collapsed: 5
 

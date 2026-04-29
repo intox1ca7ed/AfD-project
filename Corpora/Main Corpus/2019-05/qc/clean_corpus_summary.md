@@ -1,10 +1,10 @@
 # Clean 2019-05 Corpus Summary
 
-- Total original files: 50
-- Kept files: 42
-- Dropped files: 8
+- Total original files: 64
+- Kept files: 54
+- Dropped files: 10
 - Review files: 0
-- Duplicate groups collapsed: 4
+- Duplicate groups collapsed: 5
 
 ## Representative Selection Rule
 

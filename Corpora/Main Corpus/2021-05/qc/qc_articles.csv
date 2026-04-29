@@ -1,5 +1,5 @@
 ﻿batch_id,corpus_name,source_archive,file_name,file_path,title_original,title_normalized,publication,publication_normalized,date,byline,section,word_count,body_char_count,body_hash_exact,duplicate_group_id,duplicate_category,keep_drop_review,drop_reason,kept_representative_of_group,representative_selection_reason,malformed_flag,malformed_reason,notes,raw_text_chars,low_value_flag,low_value_reason,exact_duplicate_group,near_duplicate_group,repeated_variant_group,body_text
-2021-05,Main Corpus,2021-05(50).ZIP,"Alle müssen das _Nie Wieder_ akzeptieren Auch Zuwanderer geht an, wie die Geschichte Deutschland prä.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Alle müssen das _Nie Wieder_ akzeptieren Auch Zuwanderer geht an, wie die Geschichte Deutschland prä.PDF","Alle müssen das ""Nie Wieder"" akzeptieren Auch Zuwanderer geht an, wie die Geschichte Deutschland prägt",alle müssen das nie wieder akzeptieren auch zuwanderer geht an wie die geschichte deutschland prägt,Der Tagesspiegel,der tagesspiegel,Mittwoch 19. Mai 2021,,MEINUNG FQT:SPÄT; S. 006; Ausg. Der Tagesspiegel Nr. 24539 VOM 19.05.2021 SEITE 006,472,3344,de4b623f4cff4adf8256afd1c7654ea13705573b,,unique,drop,commentary_noncore,no,,no,,,4359,yes,commentary_noncore,,,,"Ein Thema ist bei den öffentlichen Auftritten der grünen Spitzenkandidatin Annalena Baerbock bisher auffallend 
+2021-05,Main Corpus,2021-05(55).ZIP,"Alle müssen das _Nie Wieder_ akzeptieren Auch Zuwanderer geht an, wie die Geschichte Deutschland prä.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Alle müssen das _Nie Wieder_ akzeptieren Auch Zuwanderer geht an, wie die Geschichte Deutschland prä.PDF","Alle müssen das ""Nie Wieder"" akzeptieren Auch Zuwanderer geht an, wie die Geschichte Deutschland prägt",alle müssen das nie wieder akzeptieren auch zuwanderer geht an wie die geschichte deutschland prägt,Der Tagesspiegel,der tagesspiegel,Mittwoch 19. Mai 2021,,MEINUNG FQT:SPÄT; S. 006; Ausg. Der Tagesspiegel Nr. 24539 VOM 19.05.2021 SEITE 006,472,3344,de4b623f4cff4adf8256afd1c7654ea13705573b,,unique,drop,commentary_noncore,no,,no,,,4359,yes,commentary_noncore,,,,"Ein Thema ist bei den öffentlichen Auftritten der grünen Spitzenkandidatin Annalena Baerbock bisher auffallend 
 kurz gekommen: die Migrationspolitik. Sollte Baerbock Bundeskanzlerin werden, kann sich Deutschland auf eine 
 grundlegend andere Migrationspolitik einstellen. Eine Erneuerung auf diesem Gebiet ist aber - wie auf so vielen 
 anderen Gebieten - ohnehin überfällig, egal wer die Wahl gewinnt.
@@ -36,7 +36,109 @@ längst nicht mehr.
 Graphic
  
 Foto: privat R"
-2021-05,Main Corpus,2021-05(50).ZIP,"Assad kann kein Partner sein Die jüngste Abstimmung in Syrien war keine echte Wahl, sondern eine Mac.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Assad kann kein Partner sein Die jüngste Abstimmung in Syrien war keine echte Wahl, sondern eine Mac.PDF","Assad kann kein Partner sein Die jüngste Abstimmung in Syrien war keine echte Wahl, sondern eine",assad kann kein partner sein die jüngste abstimmung in syrien war keine echte wahl sondern eine,Die Welt,die welt,Montag 31. Mai 2021,Daniel-dylan Böhmer,FORUM; LEITARTIKEL; S. 3; Ausg. 123,1183,8706,8cc9609073cac017faf3447a59da3bea1cba011d,,unique,keep,,no,,no,,,10162,yes,commentary_noncore,,,,"Was sagt es aus, dass Syriens Präsident Baschar al-Assad nach offiziellen Angaben mit einer Mehrheit von 95,1 
+2021-05,Main Corpus,2021-05(55).ZIP,"Antisemitismus, gendergerecht Deutschland tut bisweilen so, als habe sich die Sache mit dem Judenhas.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Antisemitismus, gendergerecht Deutschland tut bisweilen so, als habe sich die Sache mit dem Judenhas.PDF","Antisemitismus, gendergerecht Deutschland tut bisweilen so, als habe sich die Sache mit dem Judenhass",antisemitismus gendergerecht deutschland tut bisweilen so als habe sich die sache mit dem judenhass,Die Welt,die welt,Mittwoch 19. Mai 2021,Deniz Yücel,FORUM; LEITARTIKEL; S. 3; Ausg. 114,1361,10024,05c78193fc7abb38f82f9c3408f454226302d20a,,unique,keep,,no,,no,,,11604,yes,commentary_noncore,,,,"Im Dezember 2014 erklärte das Landgericht München den Antisemitismus in Deutschland für praktisch abgeschafft. 
+Anlass war eine Klage von Jürgen Elsässer, Chefredakteur des inzwischen als ""rechtsextremer Verdachtsfall"" 
+eingestuften Magazins ""Compact"", gegen die linke Publizistin Jutta Ditfurth, weil diese ihn als ""glühenden 
+Antisemiten"" bezeichnet hatte.
+Das Gericht gab Elsässer recht. Schließlich bedeute die inkriminierte Bezeichnung "",dass derjenige die 
+Überzeugungen teilt, die zu der Ermordung von 6 Millionen Juden unter der nationalsozialistischen 
+Schreckensherrschaft geführt haben, und die Menschen alleine aufgrund ihrer Zugehörigkeit zu einer 
+Religionsgemeinschaft angreifen und für die Übel in der Welt verantwortlich machen"".
+Kurz darauf, im Februar 2015 - also vor dem ""Schicksalsherbst"", auf den manche zwanghaft verweisen, sobald es 
+um Einwanderer geht - , verurteilte das Amtsgericht Wuppertal drei palästinensischstämmige Männer, die 
+Molotowcocktails auf die Bergische Synagoge geworfen hatten, zu Bewährungsstrafen. Das Gericht hielt die 
+Beteuerung der Angeklagten für glaubwürdig, dass sie ""nichts gegen Juden"" hätten. Sie hätten lediglich ""die 
+Aufmerksamkeit auf den israelisch-palästinensischen Konflikt"" lenken wollen. Später erhöhte das Landgericht die 
+Bewährung, bestätigte aber die erstinstanzliche Einschätzung, die Tat sei nicht antisemitisch motiviert gewesen.
+Diese Gerichtsurteile veranschaulichen, wie es um die Wahrnehmung des Antisemitismus in Deutschland bestellt 
+ist: Er ist a) verpönt und gilt b) als nur abstrakt existent. Es gibt ihn, irgendwo da draußen, im Internet vielleicht, 
+aber so gut wie nie in Verbindung mit realen Personen. Damit Antisemitismus als solcher identifiziert wird, muss 
+jemand schon, wie im Oktober 2019 in Halle, einen Terroranschlag auf eine Synagoge versuchen oder, wie 
+vergangene Woche in Gelsenkirchen, ""Scheiß-Juden"" skandieren. Und selbst dieser Aufmarsch wäre unbemerkt 
+
+Antisemitismus, gendergerecht Deutschland tut bisweilen so, als habe sich die Sache mit dem Judenhass 
+erledigt. Dabei hat der sich nur ein lieblich-progressives....
+geblieben, wenn nicht der Zentralrat der Juden in Deutschland ein Handyvideo von dieser Demonstration geteilt 
+hätte.
+Denn im Polizeibericht tauchten die antisemitischen Sprechchöre zunächst nicht auf. Nicht minder befremdlich war 
+die Erklärung, die NRW-Innenminister Herbert Reul (CDU) dafür lieferte: Die Polizisten hätten, sagte er in einem 
+WDR-Interview, im Kopf gehabt, das sei ""die Fortsetzung dieser Nahostkonflikte hier bei uns, also gegen Israel"". 
+Konnte ja niemand ahnen, dass ""also gegen Israel"" etwas mit ""also gegen Juden"" zu haben könnte. Befremdlich 
+war auch die Berichterstattung mancher Medien, der Deutschen Presse-Agentur etwa, die zwar von einer 
+""antisemitischen Demonstration"" sprach, aber anfangs unerwähnt ließ, wer da in der Nähe der Synagoge 
+demonstriert hatte: kein Hinweis auf die palästinensischen und türkischen Fahnen, kein Wort über die ""Allahu 
+akbar""-Rufe.
+Doch dem noblen Ziel des Antirassismus schadet man, wenn man - womöglich aus Sorge, dies könne den falschen 
+Leuten nützen - um Tatsachen herumdruckst: dass es weitaus gefährlicher ist, mit einer Kippa durch Berliner 
+Stadtteile wie Neukölln oder Kreuzberg zu laufen als durch Mitte oder Zehlendorf. Oder dass für jüdische Makkabi-
+Vereine Spiele gegen arabisch oder türkisch geprägte Vereine oft so hässlich verlaufen wie für Migrantenvereine 
+Auswärtsspiele in Ostdeutschland. Falsch wäre es allerdings, Vorfälle wie in Gelsenkirchen zur alleinigen Messlatte 
+zu erheben. Denn als Weltanschauung wie jede andere hat sich der Antisemitismus unwiderruflich diskreditiert. 
+Abgesehen von einigen, meist bildungsfernen Schichten entstammenden Leuten ist ein Dreivierteljahrhundert nach 
+der Shoa kaum jemand so stulle, den Antisemitismus oder gar den Holocaust gutzuheißen, am wenigsten in 
+Deutschland.
+Das tut weder der knallharte Neonazi - der verleugnet den Holocaust nämlich - noch der gewöhnliche Antisemit der 
+Gegenwart - denn der argumentiert nicht trotz, sondern wegen Auschwitz: Er weist den Verdacht des 
+Antisemitismus empört zurück und erklärt sodann, die Israelis seien die Nazis und die Palästinenser (oder gleich 
+""die"" Muslime) die Juden von heute. Oder er ersetzt die alten antisemitischen Chiffren durch scheinbar unbelastete.
+Darum ist auch die Verurteilung von Antisemitismus allein nicht aussagekräftig. So hieß es im Aufruf zu einer 
+Demonstration am vergangenen Wochenende in Berlin: ""Wenn Ihr Juden hasst, habt Ihr nichts bei uns verloren."" 
+Gemeint ist nicht die Demo durch Neukölln, deren Teilnehmer teils dem islamistischen Spektrum angehörten und 
+bei der es zu Ausschreitungen kam, sondern eine andere in Kreuzberg, die trotz der größeren Teilnehmerzahl 
+geringere mediale Beachtung fand und auf der auch einige deutsche Linke mitliefen. Eine klare Absage an den 
+Antisemitismus könnte man meinen - wenn es im Text nicht so weiterginge: ""Wenn wir ein freies Palästina vom 
+Mittelmeer bis zum Jordanfluss fordern, dann fordern wir kein Palästina ohne Juden und Jüdinnen. Sondern wir 
+fordern, dass das historische Palästina befreit und dekolonisiert werden muss, befreit von Zionismus, von 
+Besatzung, von (White) Jewish Supremacy und Rassismus, weil es einen freies Land braucht, in dem alle 
+Menschen, die vom Jordan bis zum Mittelmeer wohnen, frei und gewaltlos leben können. Das bedeutet 'Palestine 
+will be free - from the River to the Sea'.""
+Das ist keine Kritik an der israelischen Regierungspolitik, sondern Antisemitismus von und für Abitur-Antisemiten. 
+Nicht vulgär, sondern state of the art: postkolonial, antirassistisch, gendergerecht. Ein Antisemitismus, der keiner 
+sein will und der seine Vernichtungsphantasie in ein lieblich-progressives Gewand kleidet. Der nicht aus 
+strategischen Gründen camoufliert wird, sondern aus dem Halb- und Unbewussten spricht.
+Dabei hatte die (radikale) deutsche Linke ab Ende der Achtzigerjahre begonnen, den ""Antizionismus"" infrage zu 
+stellen. Seither wurde kein anderes Thema so erbittert diskutiert. Der zitierte Demonstrationsaufruf und mehr noch 
+die verhaltenen Reaktionen auf die jüngsten pro-palästinensischen Demonstrationen in jenen Kreisen, die sich 
+sonst als besonders empfindlich beim Thema Rassismus zeigen, sind aber ein Indiz dafür, dass Teile der 
+deutschen Linken über den Umweg von Antirassismus und Identitätspolitik zum Antizionismus zurückfinden 
+könnten. ""We can't breath since 1948"", hieß es auf einem Transparent auf der Kreuzberger Demo. Das ist 
+anschlussfähiger und hipper als das altbackene Gerede von Israel als ""Agentur des Imperialismus"".
+Antisemitismus, gendergerecht Deutschland tut bisweilen so, als habe sich die Sache mit dem Judenhass 
+erledigt. Dabei hat der sich nur ein lieblich-progressives....
+Doch was für all jene gilt, die von einem ""Schlussstrich"" träumen, einem Alexander ""Vogelschiss"" Gauland oder 
+solchen Anhängern bürgerlicher Parteien, die hinter vorgehaltener Hand dasselbe sagen, das gilt auch für 
+Einwandererkinder, die - zurecht - Anerkennung als gleichberechtigte Mitglieder dieser Gesellschaft fordern: Es gibt 
+kein Deutschland ohne Auschwitz, kein linkes, kein interkulturelles, gar keins. Die ""besondere historische 
+Verantwortung Deutschlands für die Sicherheit Israels"", die Angela Merkel in der außenpolitisch bedeutendsten 
+Rede ihrer Kanzlerschaft zur ""Staatsräson"" erklärt hat, beinhaltet auch eine gesellschaftliche Norm. Dieser kann 
+sich auch nicht entziehen, wer frei von familiengeschichtlichen Verstrickungen in die nationalsozialistische 
+Geschichte ist.
+Derweil hat sich die Neue Rechte ungeachtet ihres Verlangens auf ein ungebrochen-positives Verhältnis zu 
+Deutschland von der Israelfeindschaft, wie sie heute noch in der NPD gepflegt wird, verabschiedet. Stattdessen hat 
+man Israel als vermeintlichen Verbündeten im ""Kulturkampf"" gegen die Muslime entdeckt. Doch die zur Schau 
+gestellten Sympathiebekundungen für Israel können nicht darüber hinwegtäuschen, dass in diesen Kreisen 
+antisemitisches Gedankengut in neuen Formen fortlebt. Etwa in der Hassfigur George Soros, der die Rothschilds 
+als Inbegriff des jüdischen Strippenziehers abgelöst hat. Oder in der Verschwörungstheorie vom ""Großen 
+Austausch"".
+Wo bei den einen ""der Zionismus"" oder der Staat Israel die Figur des ""Weltjudentums"" ersetzt haben, hat bei 
+anderen die ""globalistischen Elite"" den Platz der imaginierten ""jüdisch-bolschewistische Weltverschwörung"" 
+eingenommen: Einst planten die ""Kosmopoliten"" die Zersetzung des ""Volkskörpers"", heute haben die ""Globalisten"" 
+den Plan zur ""Umvolkung"" ausgeheckt - oder die Corona-Lüge in die Welt gesetzt, um die ""New World Order"" 
+durchzusetzen. Diese Metamorphosen des Antisemitismus tragen auch zu einem Phänomen wie der Vereinigung 
+""Juden in der AfD"" bei. Oder zu einem Verein namens ""Jüdische Stimmen für einen gerechten Frieden in Nahost"", 
+der bei Demonstrationen mitwirkt, auf denen die Auslöschung Israels gefordert wird. So willkommen solche 
+Gruppierungen als Kronzeugen sind, zeigt ihre Existenz nur eines: dass die Vorstellung vom Judentum als 
+geschlossen agierenden Gemeinschaft ein Hirngespinst ist. Zugleich begünstigen diese Metamorphosen einen 
+interessierten Umgang mit dem Thema, dergestalt, dass man nur bei der Gegenseite genau hinschaut: beim 
+jeweiligen politischen Gegner oder in Milieus, denen man ohnehin misstraut. Judenhass ist schlimm. Aber den gibt 
+es immer nur bei den anderen.
+Doch der Antisemitismus existiert nicht zwingend als geschlossenes Weltbild, sondern viel häufiger in Form von 
+Versatzstücken und Fragmenten. Und es ist nicht zuletzt seine Wandlungs- und Anpassungsfähigkeit, die ihn vom 
+Rassismus, auch dem spezifischen Ressentiment gegen Muslime, unterscheidet. Der Antisemitismus ist nicht nur 
+da, sondern im Zweifel näher, als man glaubt. Und meistens nicht so platt, dass ihn jede Leuchte sofort erkennt.
+ deniz.yuecel@welt.de (deniz.yuecel@welt.de) 
+Original Gesamtseiten-PDF"
+2021-05,Main Corpus,2021-05(55).ZIP,"Assad kann kein Partner sein Die jüngste Abstimmung in Syrien war keine echte Wahl, sondern eine Mac.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Assad kann kein Partner sein Die jüngste Abstimmung in Syrien war keine echte Wahl, sondern eine Mac.PDF","Assad kann kein Partner sein Die jüngste Abstimmung in Syrien war keine echte Wahl, sondern eine",assad kann kein partner sein die jüngste abstimmung in syrien war keine echte wahl sondern eine,Die Welt,die welt,Montag 31. Mai 2021,Daniel-dylan Böhmer,FORUM; LEITARTIKEL; S. 3; Ausg. 123,1183,8706,8cc9609073cac017faf3447a59da3bea1cba011d,,unique,keep,,no,,no,,,10162,yes,commentary_noncore,,,,"Was sagt es aus, dass Syriens Präsident Baschar al-Assad nach offiziellen Angaben mit einer Mehrheit von 95,1 
 Prozent der Stimmen wiedergewählt wurde? Ist das glaubhaft bei einem Staatschef, der seit zehn Jahren gegen 
 große Teile seiner Bevölkerung Krieg führt, der Zehntausende Menschen verhaften und foltern ließ und dessen 
 Land in einer existenziellen Wirtschaftskrise steckt? Das Wahlergebnis kann nicht überprüft werden, weil keine 
@@ -123,7 +225,7 @@ wir den Menschen im Nahen Osten ersparen - und uns selbst. Stabilität entsteht 
 Ausgleich unterschiedlicher Interessen, nie aus dem reinen Machtwillen Einzelner. Das sollten wir wissen.
  daniel-dylan.boehmer@welt.de (daniel-dylan.boehmer@welt.de) 
 Original Gesamtseiten-PDF"
-2021-05,Main Corpus,2021-05(50).ZIP,Assads Wahl verhindert Rückkehr der Flüchtlinge Im zehnten Jahr des Bürgerkrieges tritt Syriens Präs.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Assads Wahl verhindert Rückkehr der Flüchtlinge Im zehnten Jahr des Bürgerkrieges tritt Syriens Präs.PDF,Assads Wahl verhindert Rückkehr der Flüchtlinge Im zehnten Jahr des Bürgerkrieges tritt Syriens Präsident,assads wahl verhindert rückkehr der flüchtlinge im zehnten jahr des bürgerkrieges tritt syriens präsident,Die Welt,die welt,Dienstag 25. Mai 2021,Alfred Hackensberger,Politik; S. 8; Ausg. 118,1638,11495,2ee6abed7a6857bebc30ed8f94d8645c5a2d760c,,unique,keep,,no,,no,,,13057,no,,,,,"Er präsentiert sich als große Hoffnung seines Landes. Plakate zeigen Baschar al-Assad, wie er mit Bauarbeitern 
+2021-05,Main Corpus,2021-05(55).ZIP,Assads Wahl verhindert Rückkehr der Flüchtlinge Im zehnten Jahr des Bürgerkrieges tritt Syriens Präs.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Assads Wahl verhindert Rückkehr der Flüchtlinge Im zehnten Jahr des Bürgerkrieges tritt Syriens Präs.PDF,Assads Wahl verhindert Rückkehr der Flüchtlinge Im zehnten Jahr des Bürgerkrieges tritt Syriens Präsident,assads wahl verhindert rückkehr der flüchtlinge im zehnten jahr des bürgerkrieges tritt syriens präsident,Die Welt,die welt,Dienstag 25. Mai 2021,Alfred Hackensberger,Politik; S. 8; Ausg. 118,1638,11495,2ee6abed7a6857bebc30ed8f94d8645c5a2d760c,,unique,keep,,no,,no,,,13057,no,,,,,"Er präsentiert sich als große Hoffnung seines Landes. Plakate zeigen Baschar al-Assad, wie er mit Bauarbeitern 
 spricht, im Gestus des Aufbauers und Machers. Auf einem anderen Motiv studiert er im Kreise von Offizieren eine 
 Karte. Auf dem nächsten Plakat läuft der 55-Jährige im eleganten Anzug, eine Aktentasche in der Hand, eine grün 
 bewachsene Allee herunter. Syriens Präsident ist alles in einer Person: Bauvisionär, Militärstratege und 
@@ -242,7 +344,7 @@ Graphic
  
 Unübersehbar: Große Plakate werben für Syriens Machthaber Baschar al-Assad. Dabei steht der Ausgang der 
 Wahl schon vorher fest"
-2021-05,Main Corpus,2021-05(50).ZIP,"Bei Kontrolle Abzocke 60 Euro in bar, aber keine Quittung_ wie zwei Kontrolleure der BVG offenbar ei.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Bei Kontrolle Abzocke 60 Euro in bar, aber keine Quittung_ wie zwei Kontrolleure der BVG offenbar ei.PDF","Bei Kontrolle Abzocke 60 Euro in bar, aber keine Quittung: wie zwei Kontrolleure der BVG offenbar einen Syrer",bei kontrolle abzocke 60 euro in bar aber keine quittung wie zwei kontrolleure der bvg offenbar einen syrer,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 12. Mai 2021,Matthias Meisner,BERLIN; S. 27,1062,6909,25bbe7c6d933777cb3095b5433b2b2068bc345ae,,unique,keep,,no,,no,,,7807,no,,,,,"Von Matthias Meisner
+2021-05,Main Corpus,2021-05(55).ZIP,"Bei Kontrolle Abzocke 60 Euro in bar, aber keine Quittung_ wie zwei Kontrolleure der BVG offenbar ei.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Bei Kontrolle Abzocke 60 Euro in bar, aber keine Quittung_ wie zwei Kontrolleure der BVG offenbar ei.PDF","Bei Kontrolle Abzocke 60 Euro in bar, aber keine Quittung: wie zwei Kontrolleure der BVG offenbar einen Syrer",bei kontrolle abzocke 60 euro in bar aber keine quittung wie zwei kontrolleure der bvg offenbar einen syrer,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 12. Mai 2021,Matthias Meisner,BERLIN; S. 27,1062,6909,25bbe7c6d933777cb3095b5433b2b2068bc345ae,,unique,keep,,no,,no,,,7807,no,,,,,"Von Matthias Meisner
 Es kann nicht sein, was nicht sein darf. Womöglich haben die landeseigenen Berliner Verkehrsbetriebe (BVG) 
 diesen Satz als Leitmotiv, wenn es um Klagen von Fahrgästen über übergriffige Fahrschein-Kontrolleur:innen geht. 
 Zumindest legt das ein Fall nahe, der sich an einem Dienstagmittag Ende April zugetragen hat. Im Mittelpunkt: 
@@ -315,7 +417,7 @@ zu antworten. Dem möchten wir nicht vorgreifen.
 Bei Kontrolle Abzocke 60 Euro in bar, aber keine Quittung: wie zwei Kontrolleure der BVG offenbar einen Syrer 
 betrogen
 Die BVG will den Vorfall nun noch einmal prüfen, hat sie angekündigt"
-2021-05,Main Corpus,2021-05(50).ZIP,Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß(2).PDF,Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt,brandsätze an oldenburger flüchtlingsheim gezündet kloster blankenburg niemand wurde verletzt,Nordwest-Zeitung,nordwestzeitung,31. Mai 2021,,POLITIK; S. 1,224,1706,a8db205154f8aa68386f5b894f01beb8a6d595c3,variant_001,regional_variant,review,,no,,no,,,2543,no,,,near_001,variant_001,"Oldenburg - Zwei Brandsätze sind in der Nacht zu Samstag an der Flüchtlingsunterkunft im ehemaligen Kloster 
+2021-05,Main Corpus,2021-05(55).ZIP,Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß(2).PDF,Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt,brandsätze an oldenburger flüchtlingsheim gezündet kloster blankenburg niemand wurde verletzt,Nordwest-Zeitung,nordwestzeitung,31. Mai 2021,,POLITIK; S. 1,224,1706,a8db205154f8aa68386f5b894f01beb8a6d595c3,variant_001,regional_variant,review,,no,,no,,,2543,no,,,near_001,variant_001,"Oldenburg - Zwei Brandsätze sind in der Nacht zu Samstag an der Flüchtlingsunterkunft im ehemaligen Kloster 
 Blankenburg in Oldenburg gezündet worden. Dabei wurden zwei Gebäude der Außenstelle der 
 Landesaufnahmebehörde für Geflüchtete beschädigt.
 In einem der Gebäude hatten sich Menschen aufgehalten, teilt die Polizei am Samstag mit. Verletzt worden sei 
@@ -337,7 +439,7 @@ hatten die Gruppen Solidarity without Borders Oldenburg (Sowib-OL), Nationalismu
 OL-WHV) und United Against Racism . Sie fordern eine lückenlose Aufklärung des Brandes.
 Laut Polizeiangaben sei die Demonstration friedlich verlaufen.
 PDF-Datei dieses Dokuments"
-2021-05,Main Corpus,2021-05(50).ZIP,Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß.PDF,Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt,brandsätze an oldenburger flüchtlingsheim gezündet kloster blankenburg niemand wurde verletzt,Nordwest-Zeitung,nordwestzeitung,31. Mai 2021,,POLITIK; S. 1,191,1447,4ae49d6ef932dcaef0ac9faaa0f48808a7f9d02c,variant_001,regional_variant,review,,no,,no,,,2270,no,,,near_001,variant_001,"Oldenburg - Zwei Brandsätze sind in der Nacht zu Samstag an der Flüchtlingsunterkunft im ehemaligen Kloster 
+2021-05,Main Corpus,2021-05(55).ZIP,Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß.PDF,Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt,brandsätze an oldenburger flüchtlingsheim gezündet kloster blankenburg niemand wurde verletzt,Nordwest-Zeitung,nordwestzeitung,31. Mai 2021,,POLITIK; S. 1,191,1447,4ae49d6ef932dcaef0ac9faaa0f48808a7f9d02c,variant_001,regional_variant,review,,no,,no,,,2270,no,,,near_001,variant_001,"Oldenburg - Zwei Brandsätze sind in der Nacht zu Samstag an der Flüchtlingsunterkunft im ehemaligen Kloster 
 Blankenburg in Oldenburg gezündet worden. Dabei wurden zwei Gebäude der Außenstelle der 
 Landesaufnahmebehörde für Geflüchtete beschädigt.
 In einem der Gebäude hatten sich Menschen aufgehalten, teilt die Polizei am Samstag mit. Verletzt worden sei 
@@ -356,7 +458,7 @@ Teilnehmer zogen um den Innenstadtring entlang.
 Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt 
 Großfahndung der Polizei
 PDF-Datei dieses Dokuments"
-2021-05,Main Corpus,2021-05(50).ZIP,Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägt(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägt(2).PDF,Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägten,debatte um antisemitismus unter migranten analyse antisemitische parolen kommen in islamisch geprägten,Rheinische Post,rheinische post,Dienstag 18. Mai 2021,Gregor Mayntz,S. 6,607,4853,9f167bb903d08b8d29470b8e3577376bd455f8bd,exact_001,duplicate_exact,drop,commentary_noncore,no,,no,,,6621,yes,commentary_noncore,exact_001,,,"Gregor Mayntz
+2021-05,Main Corpus,2021-05(55).ZIP,Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägt(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägt(2).PDF,Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägten,debatte um antisemitismus unter migranten analyse antisemitische parolen kommen in islamisch geprägten,Rheinische Post,rheinische post,Dienstag 18. Mai 2021,Gregor Mayntz,S. 6,607,4853,9f167bb903d08b8d29470b8e3577376bd455f8bd,exact_001,duplicate_exact,drop,commentary_noncore,no,,no,,,6621,yes,commentary_noncore,exact_001,,,"Gregor Mayntz
 Berlin Angesichts offener antisemitischer Parolen bei pro-palästinensischen Demonstrationen in mehreren 
 deutschen Städten ist eine neue Debatte über den Umgang mit arabischstämmigen Antisemiten entbrannt. Die 
 Union forderte die Bundesländer auf, Migranten auszuweisen, wenn sie sich in Deutschland antisemitisch 
@@ -406,7 +508,7 @@ muslimischen Gemeinschaften in Deutschland präsent sei. So sei zwar der Fernseh
 in Deutschland verboten worden, weil er offen zur Vernichtung Israels aufrufe, da er aber weiterhin über das 
 Internet ausgestrahlt werde, könnten seine antisemitischen Inhalte weiterhin auch in Deutschland empfangen 
 werden."
-2021-05,Main Corpus,2021-05(50).ZIP,Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägt.PDF,Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägten,debatte um antisemitismus unter migranten analyse antisemitische parolen kommen in islamisch geprägten,Rheinische Post,rheinische post,Dienstag 18. Mai 2021,Gregor Mayntz,S. 6,607,4853,9f167bb903d08b8d29470b8e3577376bd455f8bd,exact_001,duplicate_exact,drop,commentary_noncore,no,,no,,,6606,yes,commentary_noncore,exact_001,,,"Gregor Mayntz
+2021-05,Main Corpus,2021-05(55).ZIP,Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägt.PDF,Debatte um Antisemitismus unter Migranten Analyse Antisemitische Parolen kommen in islamisch geprägten,debatte um antisemitismus unter migranten analyse antisemitische parolen kommen in islamisch geprägten,Rheinische Post,rheinische post,Dienstag 18. Mai 2021,Gregor Mayntz,S. 6,607,4853,9f167bb903d08b8d29470b8e3577376bd455f8bd,exact_001,duplicate_exact,drop,commentary_noncore,no,,no,,,6606,yes,commentary_noncore,exact_001,,,"Gregor Mayntz
 Berlin Angesichts offener antisemitischer Parolen bei pro-palästinensischen Demonstrationen in mehreren 
 deutschen Städten ist eine neue Debatte über den Umgang mit arabischstämmigen Antisemiten entbrannt. Die 
 Union forderte die Bundesländer auf, Migranten auszuweisen, wenn sie sich in Deutschland antisemitisch 
@@ -456,7 +558,175 @@ muslimischen Gemeinschaften in Deutschland präsent sei. So sei zwar der Fernseh
 in Deutschland verboten worden, weil er offen zur Vernichtung Israels aufrufe, da er aber weiterhin über das 
 Internet ausgestrahlt werde, könnten seine antisemitischen Inhalte weiterhin auch in Deutschland empfangen 
 werden."
-2021-05,Main Corpus,2021-05(50).ZIP,"Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in seiner Heim.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in seiner Heim.PDF","Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in seiner Heimat verfolgt",der polnische dissident rafal gawel erhält in norwegen politisches asyl weil er sich in seiner heimat verfolgt,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,20. Mai 2021,Paul J. Hildebrandt,"VERBRECHEN;Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in",2208,15429,49425b88d5b726f7808438b25839b79e5ea98c5d,,unique,keep,,no,,no,,,17212,no,,,,,"VON PAUL J. HILDEBRANDT
+2021-05,Main Corpus,2021-05(55).ZIP,"Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erh╟╧lt in Norwegen politisches Asyl, weil er sich.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erh╟╧lt in Norwegen politisches Asyl, weil er sich.PDF","Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erhÃ¤lt in Norwegen politisches Asyl, weil er sich in seiner",der polnische dissident rafalstrok gawelstrok erhãlt in norwegen politisches asyl weil er sich in seiner,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,20. Mai 2021,Paul J. Hildebrandt,"VERBRECHEN;Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erhÃ¤lt in Norwegen politisches Asyl,",2385,15931,897db7faecc316f68252d24ecf0a080e17abc6b8,variant_002,regional_variant,review,,no,,no,,,17554,no,,,near_002,variant_002,"VON PAUL J. HILDEBRANDT
+Am letzten Tag des Jahres 2018 steigt RafaÅ, GaweÅ, mit Frau und Kind ins Auto und flieht Ã¼ber die polnische 
+Grenze in den Westen. Das Paar hat keine PÃ¤sse bei sich und nur das nÃ¶tigste GepÃ¤ck im Kofferraum. Sie 
+reisen Ã¼ber Deutschland nach Norwegen. Dort, in Oslo, beantragen sie Asyl.
+In Polen ist GaweÅ, ein bekannter politischer Aktivist. Mehr als eine Viertelmillion Menschen folgen bei Facebook 
+seiner Organisation, dem Â»Zentrum zur Ãoeberwachung von rassistischem und fremdenfeindlichem 
+VerhaltenÂ«. FÃ¼r den liberalen Teil der polnischen Gesellschaft ist GaweÅ, eine Art Held, der sich gegen den 
+wachsenden Rassismus im Land stemmt. FÃ¼r die polnischen BehÃ¶rden ist er eine Hassfigur.
+Lange wird RafaÅ, GaweÅ,s Antrag von den norwegischen BehÃ¶rden bearbeitet, dann, im September 2020, 
+erhÃ¤lt er politisches Asyl in Norwegen - der Fall sorgt weltweit fÃ¼r Aufsehen: Ein EU-BÃ¼rger, der in Polen 
+nicht sicher vor seinem eigenen Staat ist!
+RafaÅ, GaweÅ, wird seit seiner Flucht in Polen polizeilich gesucht. Ihm wird vorgeworfen, sich Ã¼ber Jahre 
+hinweg auf Kosten anderer bereichert zu haben. Er soll Firmen unter falschem Namen gegrÃ¼ndet, Papiere 
+gefÃ¤lscht und Rechnungen nicht bezahlt haben. Kurzum: GaweÅ,, glauben Ermittler, sei ein Abzocker, ein 
+BetrÃ¼ger. In Norwegen erklÃ¤rt GaweÅ,, die Urteile gegen ihn seien politisch motiviert, er habe kein faires 
+Verfahren erhalten, die Regierung wolle ihn mundtot machen.
+Seit dem Machtwechsel im Jahr 2015 treibt die konservative PiS-Regierung eine hochumstrittene grundlegende 
+Justizreform voran, die von vielen LÃ¤ndern scharf kritisiert wird. Norwegen belÃ¤sst es nicht bei Worten: Im 
+Februar 2020 zieht sich das Land aus der FÃ¶rderung eines europÃ¤ischen Justizprogramms zurÃ¼ck mit der 
+BegrÃ¼ndung, polnische Gerichte seien nicht mehr unabhÃ¤ngig. Norwegen sendet damit ein dramatisches 
+Signal: Das EU-Mitglied Polen kann nicht lÃ¤nger als sicherer Rechtsstaat gelten.
+
+Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erhÃ¤lt in Norwegen politisches Asyl, weil er sich in seiner 
+Heimat verfolgt sieht. Der Fall erregt weltweit A....
+Doch ist RafaÅ, GaweÅ, wirklich das politische Opfer, als das er sich darstellt?
+Der Fall ist viel komplexer, als es auf den ersten Blick scheint. Denn GaweÅ, hatte schon frÃ¼her Ã,,rger mit 
+BehÃ¶rden, erstmals verurteilt wegen Betrugs wurde er im Jahr 2016, also noch vor dem Abschluss der 
+polnischen Justizreform. Haben die Norweger dem falschen Mann Asyl gewÃ¤hrt?
+Um die Geschichte zu verstehen, muss man zurÃ¼ck ins Jahr 2013 gehen, in die Stadt BiaÅ,ystok ganz im Osten 
+Polens, kurz vor der weiÃYrussischen Grenze. Damals entspinnt sich ein Konflikt, der die heutige gesellschaftliche 
+Spaltung in Polen veranschaulicht. RafaÅ, GaweÅ, leitet zu der Zeit gemeinsam mit seinem Freund Konrad 
+Dulkowski ein kleines alternatives Theater, das Drei-FlÃ¼sse-Theater am Rande der Altstadt. Die beiden Freunde 
+schreiben viele StÃ¼cke selbst, die Schauspieler sind Laien, nur etwa 80 Zuschauer finden Platz. Das politische 
+Klima beginnt im Land und in BiaÅ,ystok unangenehm zu werden, da ultrakonservative Gruppen Ã¼berall an 
+Einfluss gewinnen. In BiaÅ,ystok wird die Wohnung eines Tschetschenen angezÃ¼ndet, ein schwules PÃ¤rchen 
+wird von rechten Aktivisten in einem CafÃ© geoutet, Ã¼berall in der Stadt prangen Hakenkreuze und 
+rechtsradikale SprÃ¼che an den HauswÃ¤nden.
+Dulkowski und GaweÅ, beginnen eine Gegenkampagne: Â»Ãoebermalt das BÃ¶seÂ«. Sie rufen die 
+BevÃ¶lkerung dazu auf, rechte Schmierereien an die BehÃ¶rden zu melden, um sie entfernen zu lassen. Sie 
+wollen ein Zeichen setzen gegen den Rechtsruck. FÃ¼r diese Aktion werden sie mehrfach ausgezeichnet, 
+Fernsehsender und Zeitungen berichten Ã¼ber sie. Es ist der Beginn ihrer Aktivistenkarriere. Einflussreiche 
+BiaÅ,ystoker hingegen kritisieren diese Kampagne heftig, darunter auch StaatsanwÃ¤lte und Richter. Sie 
+erklÃ¤ren, GaweÅ, ziehe den Namen der Stadt in den Schmutz und schÃ¤dige die Tourismusbranche 
+schÃ¤digen.
+Und der Konflikt spitzt sich weiter zu: Im Juni 2013 deckt GaweÅ, auf, dass StaatsanwÃ¤lte mehrmals 
+Ermittlungen gegen rechte Gruppen wegen Hakenkreuz-Schmierereien eingestellt hatten. Und das mit einer 
+bizarren BegrÃ¼ndung: Das Hakenkreuz sei kein faschistisches Zeichen, sondern ein uraltes Hindu-Symbol des 
+GlÃ¼cks und das SprÃ¼hen deshalb kein Straftatbestand. Nun berichten Medien aus Deutschland, Israel und 
+den Vereinigten Staaten Ã¼ber den Fall, es ist ein internationaler Skandal. Der oberste Staatsanwalt Polens leitet 
+Ermittlungen ein, schlieÃYlich muss der zustÃ¤ndige Staatsanwalt in BiaÅ,ystok gehen.
+Im Januar 2014, das belegen Gerichtsakten, beginnt die Staatsanwaltschaft von BiaÅ,ystok, ihrerseits gegen 
+GaweÅ, zu ermitteln. In dieser Zeit kursiert ein offener Brief, den auch einige StaatsanwÃ¤lte unterschrieben 
+haben. Darin steht, man mÃ¼sse sich gegen die mediale Schmutzkampagne zur Wehr setzen. Noch Jahre 
+spÃ¤ter wird GaweÅ, sich auf diesen Moment berufen, er wird erklÃ¤ren: Mit diesen Ermittlungen habe sich die 
+Staatsanwaltschaft an ihm rÃ¤chen wollen, dies sei also ein politisch motiviertes Verfahren.
+ GefÃ¶rdert von zwei internationalen Stiftungen, grÃ¼nden er und Dulkowski das Â»Zentrum zur 
+Ãoeberwachung von rassistischem und fremdenfeindlichem VerhaltenÂ«. Auf ihrer Website sammeln sie 
+rassistisch motivierte Ãoebergriffe, antisemitische Auslassungen bekannter PersÃ¶nlichkeiten und homophobe 
+Attacken, die sie dann der Staatsanwaltschaft melden. Nach eigenen Angaben sind es mehrere Hundert Anzeigen 
+im Jahr, die sie erstatten. AuÃYerdem fÃ¼hren sie in ihrem Theater nun explizit politische StÃ¼cke auf und 
+geraten dadurch ins Blickfeld rechter Gruppen. Als sie im Juni 2014 das antikatholische StÃ¼ck GÃ³lgota Picnic 
+inszenieren, demonstrieren Hunderte wÃ¼tende Menschen vor dem Theater, angefÃ¼hrt von der 
+rechtsextremen Allpolnischen Jugend. Deren AnfÃ¼hrer Adam Andruszkiewicz erklÃ¤rt daraufhin gegenÃ¼ber 
+einem polnischen Journalisten, GaweÅ, und Dulkowski seien Feinde des polnischen Volkes, spÃ¤ter kursiert das 
+GerÃ¼cht, er habe die beiden auf eine Todesliste setzen lassen. 
+Im November 2014 erhebt die Staatsanwaltschaft BiaÅ,ystok Anklage gegen GaweÅ, wegen Betrugs. Sie lÃ¤sst 
+seine Konten sperren und schlieÃYt das Theater. GaweÅ, und Dulkowski entschlieÃYen sich, BiaÅ,ystok zu 
+verlassen.
+Nur wenige Monate darauf erÃ¶ffnen sie ihr Theater erneut, dieses Mal in Warschau. Eingeladen vom 
+BÃ¼rgermeister der Stadt, dÃ¼rfen sie ein altes Kino Ã¼bernehmen. In dem liberalen Viertel wehen 
+Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erhÃ¤lt in Norwegen politisches Asyl, weil er sich in seiner 
+Heimat verfolgt sieht. Der Fall erregt weltweit A....
+Regenbogenflaggen, und in die CafÃ©s drÃ¤ngt sich die urbane Mittelschicht. Es ist so etwas wie der 
+Gegenentwurf zum konservativen BiaÅ,ystok. Sie erhalten erneut Stipendien und gÃ¼nstige Kredite von 
+internationalen Stiftungen, liberale Politiker zeigen sich im Theater, die politisch scharfen StÃ¼cke werden 
+gefeiert.
+Doch Warschau ist nicht Polen: 2015 gewinnt die konservative PiS-Partei die Wahlen und krempelt die Justiz im 
+Land grundsÃ¤tzlich um. Der Justizminister wird zum obersten Staatsanwalt berufen, die Gewaltentrennung ist 
+damit praktisch aufgehoben, im ganzen Land werden unliebsame Richter in den Ruhestand versetzt, eine neue 
+Gerichtskammer fÃ¼hrt Disziplinarverfahren gegen Richter und RechtsanwÃ¤lte durch. In den folgenden Jahren 
+werden Hunderte Juristen mit Verfahren Ã¼berzogen, viele von ihnen verlieren die Zulassung.
+Im Juni 2016 verurteilt ein Gericht in BiaÅ,ystok RafaÅ, GaweÅ, schlieÃYlich zu einer Freiheitsstrafe von vier 
+Jahren. Das Gericht erklÃ¤rt in der UrteilsbegrÃ¼ndung, GaweÅ, sei ein notorischer BetrÃ¼ger, er habe Ã¼ber 
+Jahre hinweg bewusst sehr viele Menschen geschÃ¤digt. Seine AnwÃ¤ltin legt Revision ein; das Urteil ist noch 
+nicht rechtskrÃ¤ftig.
+ Vieles scheint an diesem Prozess fragwÃ¼rdig, allem voran die Frage: Kann es Zufall sein, dass die 
+Staatsanwaltschaft direkt nach dem Konflikt mit GaweÅ, die Ermittlungen gegen ihn aufnimmt, wegen angeblicher 
+Delikte, die teils schon viele Jahre zurÃ¼ckliegen? Die Zeitung Gazeta Wyborcza titelt: Â»Groteskes Theater 
+der Staatsanwaltschaft in BiaÅ,ystokÂ«. 
+Der Fall GaweÅ, landet beim Obersten Gericht in Warschau, die Prozessakten umfassen Hunderte Seiten, die 
+vierzig dicke Ordner fÃ¼llen: Es sind umfangreiche Berichte, unzÃ¤hlige Rechnungen, KontoauszÃ¼ge, 
+Zeugenaussagen, die GaweÅ,s GeschÃ¤ftsgebaren im Detail dokumentieren. Es sind Akten, die den Aktivisten 
+schwer belasten.
+GaweÅ,, geboren 1973 als Sohn einer Lehrerin, grÃ¼ndete 1998 seine erste Firma, BHU Progress, zwei weitere 
+Firmen folgten in den nÃ¤chsten zehn Jahren, die er im Namen anderer Personen eintragen lieÃY. Sie gingen 
+allesamt pleite, etliche Schulden aus dieser Zeit hat er nie zurÃ¼ckgezahlt, einen Haufen Kredite nie bedient. Er 
+hatte Unterhaltsforderungen gefÃ¤lscht, eine Versicherung betrogen, Schuldeneintreiber getÃ¤uscht. Die Anklage 
+umfasst mehr als ein Dutzend Delikte mit einem Gesamtschaden von etwa 100.000 Euro.
+ Im Februar 2021 meldet sich GaweÅ, per Skype, um mit der ZEIT Ã¼ber die VorwÃ¼rfe zu sprechen. Er sitzt 
+in seiner Wohnung in Oslo, im Hintergrund hÃ¶rt man seine Tochter spielen. GaweÅ,s Gesicht wirkt stark gealtert. 
+Sein Bart ist von grauen StrÃ¤hnen durchzogen, dicke TrÃ¤nensÃ¤cke hÃ¤ngen unter den Augen. Mehr als zwei 
+Stunden lang prÃ¤sentiert GaweÅ, seine Version der Geschichte, am Ende des Interviews sagt er: Â»Die 
+Staatsanwaltschaft hat geschickt gearbeitet. Ich brÃ¤uchte Tage, um alle VorwÃ¼rfe zu entkrÃ¤ften.Â« Er 
+behauptet, die Staatsanwaltschaft habe sÃ¤mtliche VorwÃ¼rfe gegen ihn fingiert. Er sagt: Â»Die 
+Staatsanwaltschaft will mich als BetrÃ¼ger darstellen, dafÃ¼r haben sie lauter FÃ¤lle zusammengezogen, die 
+nichts miteinander zu tun haben.Â« 
+Doch auch unabhÃ¤ngige Institutionen nÃ¤hren Zweifel an seiner Person. Mehrere internationale Stiftungen 
+werfen GaweÅ, vor, Stipendien und projektbezogene Kredite veruntreut zu haben. Es sind die FÃ¶rderer aus 
+seinen ersten Stunden als Aktivist, die sich nun gegen ihn wenden. Sie stehen nicht im Verdacht, die 
+konservative Regierung zu unterstÃ¼tzen. Da ist zum Beispiel die Stefan-BÃ¡thory-Stiftung, die Demokratie-
+Initiativen mit auslÃ¤ndischem Geld fÃ¶rdert. Die Leiterin Ewa Kulik-BieliÅ,,ska erklÃ¤rt, die erste FÃ¶rderung sei 
+von GaweÅ, noch ordnungsgemÃ¤ÃY abgerechnet worden. Doch bei der zweiten FÃ¶rderung tauchten 
+UnregelmÃ¤ÃYigkeiten auf. GaweÅ, war nicht in der Lage, zu belegen, wofÃ¼r er die FÃ¶rdermittel verwendet 
+hatte. Als die Stiftung nachforschte, stellte sich heraus: Ein groÃYer Teil des Geldes war in die Firma geflossen, 
+die auf den Namen seiner damaligen Lebenspartnerin lief. Diese Firma kaufte gÃ¼nstige gebrauchte MÃ¶bel 
+und verkaufte sie wiederum an GaweÅ,s Organisation fÃ¼r den doppelten bis dreifachen Preis. Kulik-BieliÅ,,ska 
+sagt: Â»Wir haben ihm angeboten, uns das Geld in Raten zurÃ¼ckzuzahlen, aber er hat nicht kooperiert. Er hat 
+uns offen angelogen.Â« Der polnisch-amerikanische Pafpio-Fonds, der zivilgesellschaftliche Initiativen fÃ¶rdert, 
+Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erhÃ¤lt in Norwegen politisches Asyl, weil er sich in seiner 
+Heimat verfolgt sieht. Der Fall erregt weltweit A....
+berichtet von Ã¤hnlichen Erlebnissen mit GaweÅ,. ZunÃ¤chst habe er alle Abmachungen erfÃ¼llt, doch dann die 
+RÃ¼ckzahlungen gestoppt. Wieder verschwand Geld in GaweÅ,s Firma.
+Keine der Organisationen erstattete Anzeige gegen GaweÅ,. Kulik-BieliÅ,,ska sagt, man habe Sorge gehabt, dass 
+GaweÅ, kein faires Gerichtsverfahren erhalte. Beide Organisationen sagen heute, GaweÅ, habe kein GefÃ¼hl 
+dafÃ¼r gehabt, was Recht und was Unrecht ist. Er habe das eigene Wohl Ã¼ber sÃ¤mtliche Vereinbarungen 
+gestellt.
+Vielleicht kann ja jemand beides zugleich sein: ein Held und ein BetrÃ¼ger. Gleicht man GaweÅ,s Version mit der 
+in den Akten ab, dann ergibt sich daraus vielleicht der beste Einblick in GaweÅ,s schillerndes Leben: Er ist ein 
+Mann, der sich jahrelang durchgemogelt hat - in einem Land, das nach dem Fall des Eisernen Vorhangs 
+zunÃ¤chst schwere wirtschaftliche Probleme hatte.
+GaweÅ, hat eine Freundin, das Paar hat zusammen drei Kinder. Um die Familie zu ernÃ¤hren, verdingt er sich als 
+eine Art fliegender HÃ¤ndler, vertreibt Kosmetika, Feuerzeuge und Kondome im ganzen Land. In GaweÅ,s 
+ErzÃ¤hlung ist er ein findiger GeschÃ¤ftsmann, der sich durch schwere Zeiten gekÃ¤mpft hat. Glaubt man den 
+Akten, kann der Mann nicht mit Geld umgehen und stand mehrfach vor dem Ruin. Nur durch das Gewirr seiner 
+Scheinfirmen Ã¼berlebt er. Das Recht in Polen scheint biegsam in dieser Zeit, viele bereichern sich dank der 
+unklaren VerhÃ¤ltnisse.
+Im Jahr 2009 entwickelt GaweÅ, ein FuÃYspray, das er Butosept nennt. Es soll ihn aus seiner finanziellen Not und 
+vor den Schuldnern retten. Er grÃ¼ndet eine neue Firma, doch auch sie gerÃ¤t rasch in finanzielle Schieflage. 
+Etwa zu dieser Zeit trifft er seinen alten Jugendfreund Konrad Dulkowski wieder, und die beiden beschlieÃYen, 
+sich den Traum vom eigenen Theater zu erfÃ¼llen. Sie finden ein altes Holzhaus am Rande der Altstadt von 
+BiaÅ,ystok, das frÃ¼her einer jÃ¼dischen Familie gehÃ¶rt hatte. Das Theater verÃ¤ndert sein Leben radikal. Er 
+ist nun kein fliegender HÃ¤ndler mehr, der Ramsch verkauft - er ist KÃ¼nstler. Um das Theater zu finanzieren, 
+setzt GaweÅ, auf die FuÃYspray-Firma. Sie ist der einzige Anteilseigner am Theater, der Gewinn soll zurÃ¼ck in 
+die Kunst flieÃYen. In Wahrheit ist es umgekehrt: GaweÅ, nutzt dieses Konstrukt, um das Geld der Stiftungen in 
+seine Firma zu leiten. Er sagt: Â»Wir haben das Geld mÃ¶glichst effektiv verwenden wollen, um das Theater vor 
+dem Ruin zu bewahren.Â«
+Die politische Arbeit von GaweÅ, ist mutig und anerkennenswert. RafaÅ, GaweÅ, wird zu einem Symbol - fÃ¼r 
+alles, was in Polen schieflÃ¤uft. Und sein Image als KÃ¤mpfer gegen die polnische Autokratie ist sein 
+Schutzschild. Jeder Schlag gegen ihn wird als weiterer Angriff von rechts gewertet. Zu stark ist das Vertrauen in 
+unabhÃ¤ngige Gerichte bereits geschwunden.
+Inzwischen hat die EuropÃ¤ische Kommission beschlossen, Teile der polnischen Justizreform vor den 
+EuropÃ¤ischen Gerichtshof zu bringen. Im Dezember 2018 ernennt die Regierung GaweÅ,s alten Feind Adam 
+Andruszkiewicz von der Allpolnischen Jugend zum Vizeminister fÃ¼r Digitalisierung. Zwei Tage darauf verlÃ¤sst 
+GaweÅ, das Land. Er behauptet, Andruszkiewicz' Ernennung sei der AuslÃ¶ser fÃ¼r seine Flucht gewesen. 
+Wenige Tage nach GaweÅ,s Ankunft in Norwegen bestÃ¤tigt ein polnisches Gericht das Urteil gegen ihn, 
+reduziert jedoch die Haftstrafe auf zwei Jahre.
+ Im MÃ¤rz 2019 hebt das Oberlandesgericht Karlsruhe den EU-Haftbefehl gegen einen verurteilten Polen auf, mit 
+der BegrÃ¼ndung, polnische Richter kÃ¶nnten nicht mehr unabhÃ¤ngig urteilen. Auch die Niederlande stoppen 
+zeitweise die Auslieferung polizeilich gesuchter Polen. Im September 2020 weist der EuropÃ¤ische Gerichtshof 
+sÃ¤mtliche Einlassungen GaweÅ,s aus formalen GrÃ¼nden zurÃ¼ck. Zeitgleich erhÃ¤lt GaweÅ, politisches Asyl 
+in Norwegen. Das norwegische ImmigrationsbÃ¼ro will sich gegenÃ¼ber der ZEIT zu dem Fall nicht weiter 
+Ã¤uÃYern. Eine Sprecherin erklÃ¤rt, alle Dokumente seien geprÃ¼ft worden. Im MÃ¤rz 2021 scheitert GaweÅ,s 
+Antrag vor dem Obersten Gericht in Warschau. Das Urteil gegen GaweÅ, ist damit endgÃ¼ltig rechtskrÃ¤ftig. 
+Doch im Grunde spielt das in diesem Fall auch schon keine Rolle mehr. 
+ RafaÅ, GaweÅ,, geboren 1973, hat schon vieles gemacht: Er war fliegender HÃ¤ndler, Theatermann, Aktivist, 
+FlÃ¼chtling
+Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erhÃ¤lt in Norwegen politisches Asyl, weil er sich in seiner 
+Heimat verfolgt sieht. Der Fall erregt weltweit A...."
+2021-05,Main Corpus,2021-05(55).ZIP,"Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in seiner Heim.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in seiner Heim.PDF","Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in seiner Heimat verfolgt",der polnische dissident rafal gawel erhält in norwegen politisches asyl weil er sich in seiner heimat verfolgt,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,20. Mai 2021,Paul J. Hildebrandt,"VERBRECHEN;Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in",2208,15429,49425b88d5b726f7808438b25839b79e5ea98c5d,variant_002,regional_variant,review,,no,,no,,,17212,no,,,near_002,variant_002,"VON PAUL J. HILDEBRANDT
 Am letzten Tag des Jahres 2018 steigt Rafal Gawel mit Frau und Kind ins Auto und flieht über die polnische Grenze 
 in den Westen. Das Paar hat keine Pässe bei sich und nur das nötigste Gepäck im Kofferraum. Sie reisen über 
 Deutschland nach Norwegen. Dort, in Oslo, beantragen sie Asyl.
@@ -611,7 +881,7 @@ Obersten Gericht in Warschau. Das Urteil gegen Gawel ist damit endgültig rechts
 in diesem Fall auch schon keine Rolle mehr. 
  Rafal Gawel, geboren 1973, hat schon vieles gemacht: Er war fliegender Händler, Theatermann, Aktivist, 
 Flüchtling"
-2021-05,Main Corpus,2021-05(50).ZIP,Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt  Allianz für Resettlement  der EU(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt  Allianz für Resettlement  der EU(2).PDF,Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt Allianz für Resettlement der EU für,deutschland soll 40000 menschen aufnehmen fachkommission schlägt allianz für resettlement der eu für,Berliner Zeitung,berliner zeitung,19. Mai 2021,Tanja Brandes,POLITIK; S. 4,459,3379,3d636679895159d3f3052d2873f16a3a52072cd9,exact_002,duplicate_exact,review,,no,,no,,,5389,no,,exact_002,,,"Die eine Fluchtursache gibt es nicht. Nicht den einen Grund, weswegen sich Menschen auf den beschwerlichen 
+2021-05,Main Corpus,2021-05(55).ZIP,Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt  Allianz für Resettlement  der EU(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt  Allianz für Resettlement  der EU(2).PDF,Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt Allianz für Resettlement der EU für,deutschland soll 40000 menschen aufnehmen fachkommission schlägt allianz für resettlement der eu für,Berliner Zeitung,berliner zeitung,19. Mai 2021,Tanja Brandes,POLITIK; S. 4,459,3379,3d636679895159d3f3052d2873f16a3a52072cd9,exact_002,duplicate_exact,review,,no,,no,,,5389,no,,exact_002,,,"Die eine Fluchtursache gibt es nicht. Nicht den einen Grund, weswegen sich Menschen auf den beschwerlichen 
 und oft lebensgefährlichen Weg in ein anderes Land machen. Zwar fliehen die meisten Männer, Frauen und Kinder 
 vor bewaffneten Konflikten aus ihrer Heimat, eng damit verbunden sind aber in der Regel drohende 
 Perspektivlosigkeit und Armut. Auch indirekte Faktoren wie Naturkatastrophen als Folgen des Klimawandels, 
@@ -648,7 +918,7 @@ handeln, statt darauf zu warten, bis sich die Menschen auf die Flucht begeben, w
 keine Perspektive mehr haben. Am Dienstag kamen in der spanischen Exklave Ceuta rund 6000 Migranten aus 
 Marokko an; Marokko hatte die Kontrolle der Strände ausgesetzt. Tausende nutzten die Chance, um bis zum 
 Grenzzaun vorzudringen, von dem aus sie nur noch um eine Mole herumschwimmen müssen."
-2021-05,Main Corpus,2021-05(50).ZIP,Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt  Allianz für Resettlement  der EU.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt  Allianz für Resettlement  der EU.PDF,Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt Allianz für Resettlement der EU für,deutschland soll 40000 menschen aufnehmen fachkommission schlägt allianz für resettlement der eu für,Berliner Zeitung,berliner zeitung,19. Mai 2021,Tanja Brandes,POLITIK; S. 4,459,3379,3d636679895159d3f3052d2873f16a3a52072cd9,exact_002,duplicate_exact,review,,no,,no,,,5389,no,,exact_002,,,"Die eine Fluchtursache gibt es nicht. Nicht den einen Grund, weswegen sich Menschen auf den beschwerlichen 
+2021-05,Main Corpus,2021-05(55).ZIP,Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt  Allianz für Resettlement  der EU.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt  Allianz für Resettlement  der EU.PDF,Deutschland soll 40.000 Menschen aufnehmen Fachkommission schlägt Allianz für Resettlement der EU für,deutschland soll 40000 menschen aufnehmen fachkommission schlägt allianz für resettlement der eu für,Berliner Zeitung,berliner zeitung,19. Mai 2021,Tanja Brandes,POLITIK; S. 4,459,3379,3d636679895159d3f3052d2873f16a3a52072cd9,exact_002,duplicate_exact,review,,no,,no,,,5389,no,,exact_002,,,"Die eine Fluchtursache gibt es nicht. Nicht den einen Grund, weswegen sich Menschen auf den beschwerlichen 
 und oft lebensgefährlichen Weg in ein anderes Land machen. Zwar fliehen die meisten Männer, Frauen und Kinder 
 vor bewaffneten Konflikten aus ihrer Heimat, eng damit verbunden sind aber in der Regel drohende 
 Perspektivlosigkeit und Armut. Auch indirekte Faktoren wie Naturkatastrophen als Folgen des Klimawandels, 
@@ -685,7 +955,7 @@ handeln, statt darauf zu warten, bis sich die Menschen auf die Flucht begeben, w
 keine Perspektive mehr haben. Am Dienstag kamen in der spanischen Exklave Ceuta rund 6000 Migranten aus 
 Marokko an; Marokko hatte die Kontrolle der Strände ausgesetzt. Tausende nutzten die Chance, um bis zum 
 Grenzzaun vorzudringen, von dem aus sie nur noch um eine Mole herumschwimmen müssen."
-2021-05,Main Corpus,2021-05(50).ZIP,Die Start-up-Szene wird umgekrempelt Die Geschichte von Biontech rückt Gründer mit Einwanderungsgesc.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Die Start-up-Szene wird umgekrempelt Die Geschichte von Biontech rückt Gründer mit Einwanderungsgesc.PDF,Die Start-up-Szene wird umgekrempelt; Die Geschichte von Biontech rückt Gründer mit,die startupszene wird umgekrempelt die geschichte von biontech rückt gründer mit,Berliner Zeitung,berliner zeitung,04. Mai 2021,,TECHNOLOGIE; S. 22,254,1789,dd8eccd87f4f7b7118e857cac114a1fd6aa250a2,,unique,keep,,no,,no,,,2666,no,,,,,"Rund jedes fünfte Start-up in Deutschland wurde zuletzt von Migranten der ersten oder zweiten Generation 
+2021-05,Main Corpus,2021-05(55).ZIP,Die Start-up-Szene wird umgekrempelt Die Geschichte von Biontech rückt Gründer mit Einwanderungsgesc.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Die Start-up-Szene wird umgekrempelt Die Geschichte von Biontech rückt Gründer mit Einwanderungsgesc.PDF,Die Start-up-Szene wird umgekrempelt; Die Geschichte von Biontech rückt Gründer mit,die startupszene wird umgekrempelt die geschichte von biontech rückt gründer mit,Berliner Zeitung,berliner zeitung,04. Mai 2021,,TECHNOLOGIE; S. 22,254,1789,dd8eccd87f4f7b7118e857cac114a1fd6aa250a2,,unique,keep,,no,,no,,,2666,no,,,,,"Rund jedes fünfte Start-up in Deutschland wurde zuletzt von Migranten der ersten oder zweiten Generation 
 gegründet. Das ist das Ergebnis einer Sonderauswertung des Deutschen Start-up-Monitors. Der Migrant Founders 
 Monitor des Bundesverbands Deutscher Start-ups und der Friedrich-Naumann-Stiftung analysiert die Lage von 354 
 Start-ups, die von Menschen aus Familien mit Einwanderungsgeschichte gegründet wurden.
@@ -703,7 +973,7 @@ Sahin leitet bis heute das Unternehmen als Vorstandschef, Türeci ist medizinisc
 der Türkei geboren wurde und später mit seinen Eltern nach Deutschland kam, promovierte in Köln. Die in 
 Deutschland geborene Türeci machte ihren Doktor in Homburg. Beide wurden mit dem Bundesverdienstkreuz 
 ausgezeichnet. (dpa)"
-2021-05,Main Corpus,2021-05(50).ZIP,Die Ärmsten nicht im Stich lassen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Die Ärmsten nicht im Stich lassen.PDF,Die Ärmsten nicht im Stich lassen,die ärmsten nicht im stich lassen,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 20. Mai 2021,,WIRTSCHAFT; S. 15,592,4462,3b48cb5f343ff4025afe8b5684c8a13f8ec81ead,,unique,keep,,no,,no,,,5807,no,,,,,"VON TOBIAS SCHWAB
+2021-05,Main Corpus,2021-05(55).ZIP,Die Ärmsten nicht im Stich lassen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Die Ärmsten nicht im Stich lassen.PDF,Die Ärmsten nicht im Stich lassen,die ärmsten nicht im stich lassen,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 20. Mai 2021,,WIRTSCHAFT; S. 15,592,4462,3b48cb5f343ff4025afe8b5684c8a13f8ec81ead,,unique,keep,,no,,no,,,5807,no,,,,,"VON TOBIAS SCHWAB
 Seit 1993 stellen Welthungerhilfe und die Kinderrechtsorganisation Terre des Hommes der deutschen 
 Entwicklungzusammenarbeit jährlich ein Zeugnis aus, beschäftigen sich kritisch mit der „Wirklichkeit der 
 Entwicklungspolitik“. Im aktuellen Report kommt die Bundesregierung da - zunächst - ganz gut weg. Bei der 
@@ -755,7 +1025,7 @@ Interesse der Zukunft von Kindern als öffentliches Gemeingut betrachtet werden.
 „Dramatischer Rückfall 
 bei Kinderrechten“
 Link zum PDF-Dokument"
-2021-05,Main Corpus,2021-05(50).ZIP,"Ein deutscher Soldat Er hat sich als syrischer Flüchtling ausgegeben, ist als Rechtsextremist einges.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Ein deutscher Soldat Er hat sich als syrischer Flüchtling ausgegeben, ist als Rechtsextremist einges.PDF","Ein deutscher Soldat; Er hat sich als syrischer Flüchtling ausgegeben, ist als Rechtsextremist eingestuft und",ein deutscher soldat er hat sich als syrischer flüchtling ausgegeben ist als rechtsextremist eingestuft und,"taz, die tageszeitung",taz die tageszeitung,Samstag 15. Mai 2021,"Sebastian Erb, Daniel Schulz",SCHWERPUNKT; S. 8-9,3081,21061,fab362223654e752e720b800026b877e052dc9dc,,unique,keep,,no,,no,,,23375,no,,,,,"Aus Offenbach, Weinböhla, München und Berlin Sebastian Erb und Daniel Schulz
+2021-05,Main Corpus,2021-05(55).ZIP,"Ein deutscher Soldat Er hat sich als syrischer Flüchtling ausgegeben, ist als Rechtsextremist einges.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Ein deutscher Soldat Er hat sich als syrischer Flüchtling ausgegeben, ist als Rechtsextremist einges.PDF","Ein deutscher Soldat; Er hat sich als syrischer Flüchtling ausgegeben, ist als Rechtsextremist eingestuft und",ein deutscher soldat er hat sich als syrischer flüchtling ausgegeben ist als rechtsextremist eingestuft und,"taz, die tageszeitung",taz die tageszeitung,Samstag 15. Mai 2021,"Sebastian Erb, Daniel Schulz",SCHWERPUNKT; S. 8-9,3081,21061,fab362223654e752e720b800026b877e052dc9dc,,unique,keep,,no,,no,,,23375,no,,,,,"Aus Offenbach, Weinböhla, München und Berlin Sebastian Erb und Daniel Schulz
 Am Abend des 3. Februar 2017 nehmen Polizist*innen im Flughafen Wien-Schwechat einen deutschen 
 Staatsbürger fest. Er hat versucht, eine Pistole aus einem Versteck in einem Behinderten-WC zu holen. Dort hatte 
 er sie zwei Wochen zuvor deponiert. Eine Putzkraft entdeckte die Waffe jedoch, und die österreichische Polizei 
@@ -982,7 +1252,7 @@ Sebastian Erb ist Reporter im Rechercheressort der taz.
 Daniel Schulz ist einer der beiden Leiter*innen des Recherche-Ressorts.
 A. scheint ideologisch gefestigt zu sein, lange schon. Nationalistisch, völkisch, antisemitisch
  Jeder, der dazu beiträgt, dass dieses Konstrukt kaputt geht, tut Gutes"
-2021-05,Main Corpus,2021-05(50).ZIP,"Eine Perspektive für Geflüchtete, die bei uns bleiben.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Eine Perspektive für Geflüchtete, die bei uns bleiben.PDF","Eine Perspektive für Geflüchtete, die bei uns bleiben",eine perspektive für geflüchtete die bei uns bleiben,Die Welt,die welt,Samstag 22. Mai 2021,Luise Amtsberg,FORUM; GASTKOMMENTAR; S. 2; Ausg. 117,473,3520,e90d0d4ccebdc66494fc1086c30cc075392f19b1,,unique,drop,commentary_noncore,no,,no,,,4648,yes,commentary_noncore,,,,"Annalena Baerbocks Asylprogramm sei eine ""Bombe im Gebälk unseres Sozialstaates"", so äußerste sich Thorsten 
+2021-05,Main Corpus,2021-05(55).ZIP,"Eine Perspektive für Geflüchtete, die bei uns bleiben.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Eine Perspektive für Geflüchtete, die bei uns bleiben.PDF","Eine Perspektive für Geflüchtete, die bei uns bleiben",eine perspektive für geflüchtete die bei uns bleiben,Die Welt,die welt,Samstag 22. Mai 2021,Luise Amtsberg,FORUM; GASTKOMMENTAR; S. 2; Ausg. 117,473,3520,e90d0d4ccebdc66494fc1086c30cc075392f19b1,,unique,drop,commentary_noncore,no,,no,,,4648,yes,commentary_noncore,,,,"Annalena Baerbocks Asylprogramm sei eine ""Bombe im Gebälk unseres Sozialstaates"", so äußerste sich Thorsten 
 Frei, der stellvertretende Fraktionsvorsitzende der CDU/CSU, am 3. Mai in WELT. Unionspolitiker*innen greifen seit 
 der Ernennung von Annalena Baerbock als grüne Kanzlerkandidatin immer tiefer in die rhetorische Schmuddelkiste, 
 offensichtlich um ihrer wachsenden Verzweiflung etwas entgegenzusetzen. Da kann man natürlich gleich die 
@@ -1018,7 +1288,55 @@ leider bis heute nicht verstanden. Während sie sich immer weiter ins unpolitisc
 Grüne ein schlüssiges und zukunftsfestes Modell für den Umgang mit Flucht und ihren Ursachen vor.
  Die Autorin ist Sprecherin für Flüchtlingspolitik der Grünen-Bundestagsfraktion. 
 Original Gesamtseiten-PDF"
-2021-05,Main Corpus,2021-05(50).ZIP,Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der(2).PDF,Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach deren,enttäuschte hoffnungen spanische soldaten haben rund 5600 flüchtlinge aus nordafrika sofort nach deren,Rheinische Post,rheinische post,Donnerstag 20. Mai 2021,,S. 7,545,3955,406856881e074a5e2e2e2906f7d6b3f7a6fe928f,variant_002,regional_variant,review,,no,,no,,,5627,no,,,near_002,variant_002,"Ralph Schulze
+2021-05,Main Corpus,2021-05(55).ZIP,Elten_ Pavillon für Kneipp-Verein Der Pavillon der Luitgardis-Schule soll an den Kneipp-Verein vermi.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Elten_ Pavillon für Kneipp-Verein Der Pavillon der Luitgardis-Schule soll an den Kneipp-Verein vermi.PDF,Elten: Pavillon für Kneipp-Verein Der Pavillon der Luitgardis-Schule soll an den Kneipp-Verein vermietet,elten pavillon für kneippverein der pavillon der luitgardisschule soll an den kneippverein vermietet,Rheinische Post,rheinische post,Mittwoch 5. Mai 2021,,S. 26,658,4603,0fb67e9d8c8f7b558d09521914f5ce690edbc170,,unique,keep,,no,,no,,,5450,no,,,,,"Elten (mavi) Der Pavillon der Luitgardis-Grundschule soll an den Kneipp-Verein Elten vermietet werden. Dies soll 
+die Politik in der Sitzung des Haupt- und Finanzausschusses (HFA) am Dienstag, 11. Mai, 17 Uhr, in der Aula der 
+Gesamtschule beschließen. Die Eltener CDU hatte eine entsprechende Eingabe eingereicht. Zudem fordert sie 
+eine komplette Umgestaltung des Areals zwischen der Bergstraße und der Schule. Der HFA soll deshalb auch 
+beschließen, dass die Planung einer Platzumgestaltung im Herbst 2021 beginnen soll.
+Der Pavillon im Schatten der Schule besteht aus vier Klassenräumen und einem Sanitärtrakt. Seit dem Auslaufen 
+der Hauptschule wird das Gebäude eigentlich nicht mehr für die Schule benötigt; der verbliebenen Grundschule St. 
+Luitgardis stehen reichlich Räumlichkeiten zu Verfügung. Aktuell nutzt der Fachbereich 7 (FB7) Arbeit und Soziales 
+der Stadt Emmerich einen Raum zur Lagerung von Einrichtungsgegenständen und Geräten zur Ausstattung von 
+Asyl-Wohnraum. Vermutlich im Frühjahr 2022 soll auf dem Gelände der Kommunalbetriebe Emmerich eine Halle 
+errichtet werden, in der die Gegenstände dann untergebracht werden könnten. Bis dahin werde der Raum 
+gebraucht, heißt es in der Ausschussvorlage. Ein Raum wird auch für Lagerungen des Stadtarchivs genutzt, das 
+aus allen Nähten platzt. Diese Unterbringung soll bis zur Abarbeitung des neuen Raumkonzepts der Verwaltung 
+erhalten bleiben. Bekanntlich wird der Verwaltung das Post-Gebäude am Geistmarkt zur Verfügung stehen, was 
+neue Möglichkeiten eröffnet.
+Das TIK Theater nutzt einen Raum zur Lagerung von Aufführungs- und Bühnenelementen, welche für 
+Schulaufführungen genutzt werden. Die Stadt betont, dass sie nicht verpflichtet sei, einen entsprechenden Raum 
+vorzuhalten.
+Der vierte Raum wird bereits durch den Kneipp-Verein genutzt: für Gymnastikkurse. Neben der CDU hatte auch der 
+Verein schon mehrfach nachgefragt, ob nicht das gesamte Gebäude durch den Verein genutzt werden könnte.
+
+Elten: Pavillon für Kneipp-Verein Der Pavillon der Luitgardis-Schule soll an den Kneipp-Verein vermietet 
+werden. Die CDU hat das angeregt. Sie fordert eine Umge....
+Seit Anfang April steht der Stadt Emmerich auch das Karl-Kaster-Haus (ehemals Kolping-Bildungswerk) am 
+Groendahlschen Weg zur Verfügung. Nach einem Ratsbeschluss aus 2017 trat die Stadt hier als Vermieter auf und 
+hatte den bestehenden Mietvertrag übernommen. Inzwischen ist das Berufsbildungszentrum Kreis Kleve (BBZ) 
+ausgezogen. Geplant ist hier eine gewerbliche Nutzung zu ermöglichen, aber das Gebäude könnte zwischenzeitlich 
+als Lager für das Stadtarchiv und den FB7 genutzt werden, heißt es weiter. Auch Gegenstände des Jugendcafés 
+am Brink werden im Zuge der Baumaßnahmen am Brink dort zwischengelagert.
+Somit ergeben sich zwei Optionen. Variante 1: Der Kneipp-Verein mietet das komplette Gebäude ab Frühjahr 2022, 
+wenn der FB7 in das neue KBE-Gebäude umgezogen ist; das Stadtarchiv könnte im Karl-Kaster-Haus einen Raum 
+bekommen. Das TIK würde in dem Moment den Raum verlieren. Variante 2: Der Kneipp-Verein wird schon im 
+Sommer 2021 Mieter aller Räume. FB7 und Stadtarchiv lagern im Karl-Kaster-Haus weiter. Dann würde das TIK 
+schon in den Sommerferien den Raum entbehren müssen.
+In jedem Fall schlägt die Verwaltung eine Vermietungsvariante an den Kneipp-Verein vor, die der Stadt noch 
+kurzfristig Zugriff ermöglicht. Nämlich bis zu Fertigstellung der Gesamtschule. So kann sich die Verwaltung den 
+Pavillon als Ausweichstandort für vier Klassen während der Bauphase sichern. Ist die Gesamtschule fertiggestellt, 
+könne man auch über eine andere Überlassungsvariante oder einen langfristigen Mietvertrag beraten.
+Kindergartenplätze werden berücksichtigt
+Steigender Bedarf Die Verwaltung stimmt zudem der CDU zu, dass das Gesamtareal inklusive 27 Stellplätzen, 
+Grünfläche und Ascheplatz neugestaltet werden soll. Allerdings soll bis Ende des Sommers noch die Entwicklung 
+bei den Kindergartenplätzen abgewartet werden, bei der sich ein höherer Bedarf abzeichnet. In Frage kommen eine 
+Erweiterung des Familienzentrums St. Martinus, der Kita Rappelkiste oder ein Neubau.
+Diskussion in 2022 Eine Erweiterung der Kita Rappelkiste wird parallel geprüft. Sollte es hier zu einer Erweiterung 
+kommen, dann wirkt sich dies auf die Planung des genannten Areals aus, denn zusätzliche Parkplätze wären nötig. 
+Entsprechend sollte die Neugestaltung des Geländes erst geplant werden, wenn feststeht, wie Kita-Platz-
+Erweiterung gemeistert wird. Die Politik kann im Rahmen der Haushaltsplanberatung 2022 diskutieren, wie viel man 
+sich das kosten lassen will."
+2021-05,Main Corpus,2021-05(55).ZIP,Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der(2).PDF,Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach deren,enttäuschte hoffnungen spanische soldaten haben rund 5600 flüchtlinge aus nordafrika sofort nach deren,Rheinische Post,rheinische post,Donnerstag 20. Mai 2021,,S. 7,545,3955,406856881e074a5e2e2e2906f7d6b3f7a6fe928f,variant_003,regional_variant,review,,no,,no,,,5627,no,,,near_003,variant_003,"Ralph Schulze
 Madrid „Ich werde es wieder versuchen“, sagt Youssef, der gerade von Spaniens Polizei nach Marokko 
 abgeschoben wurde. „In meinem Land habe ich keine Zukunft.“ Der 20-Jährige stammt aus Tanger, 70 Kilometer 
 von Spaniens Nordafrika-Besitzung Ceuta entfernt. Als er hörte, dass Marokkos Gendarme die Wassergrenze zur 
@@ -1062,7 +1380,7 @@ Die genaue Zahl der Flüchtlinge ist unbekannt
 Massenansturm Wie viele Flüchtlinge seit Montag in Ceuta eintrafen, ist unklar. Spaniens Regierung sprach am 
 Dienstag von 8000, aktualisierte die Angaben danach aber nicht mehr.
 Ceuta Die Lokalzeitung „El Faro“ sprach von 10.000 Migranten."
-2021-05,Main Corpus,2021-05(50).ZIP,Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der.PDF,Enttäuschte Hoffnungen; Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach deren,enttäuschte hoffnungen spanische soldaten haben rund 5600 flüchtlinge aus nordafrika sofort nach deren,Rheinische Post,rheinische post,Donnerstag 20. Mai 2021,,S. 7,544,3955,179261b4e3182274e290b914a2c288613b6179b0,variant_002,regional_variant,review,,no,,no,,,5612,no,,,near_002,variant_002,"Ralph Schulze
+2021-05,Main Corpus,2021-05(55).ZIP,Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der.PDF,Enttäuschte Hoffnungen; Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach deren,enttäuschte hoffnungen spanische soldaten haben rund 5600 flüchtlinge aus nordafrika sofort nach deren,Rheinische Post,rheinische post,Donnerstag 20. Mai 2021,,S. 7,544,3955,179261b4e3182274e290b914a2c288613b6179b0,variant_003,regional_variant,review,,no,,no,,,5612,no,,,near_003,variant_003,"Ralph Schulze
 Madrid „Ich werde es wieder versuchen“, sagt Youssef, der gerade von Spaniens Polizei nach Marokko 
 abgeschoben wurde. „In meinem Land habe ich keine Zukunft.“ Der 20-Jährige stammt aus Tanger, 70 Kilometer 
 von Spaniens Nordafrika-Besitzung Ceuta entfernt. Als er hörte, dass Marokkos Gendarme die Wassergrenze zur 
@@ -1106,7 +1424,7 @@ Die genaue Zahl der Flüchtlinge ist unbekannt
 Massenansturm Wie viele Flüchtlinge seit Montag in Ceuta eintrafen, ist unklar. Spaniens Regierung sprach am 
 Dienstag von 8000, aktualisierte die Angaben danach aber nicht mehr.
 Ceuta Die Lokalzeitung „El Faro“ sprach von 10.000 Migranten."
-2021-05,Main Corpus,2021-05(50).ZIP,Erneut weniger Angriffe auf Flüchtlinge Die Migrationsexpertin der Linksfraktion sieht aber keinen A.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Erneut weniger Angriffe auf Flüchtlinge Die Migrationsexpertin der Linksfraktion sieht aber keinen A.PDF,Erneut weniger Angriffe auf Flüchtlinge; Die Migrationsexpertin der Linksfraktion sieht aber keinen Anlass zur,erneut weniger angriffe auf flüchtlinge die migrationsexpertin der linksfraktion sieht aber keinen anlass zur,Berliner Zeitung,berliner zeitung,18. Mai 2021,,BERLIN; S. 12,278,2012,28fd7dfce4ea62fb643457db759519777a32207d,,unique,keep,,no,,no,,,3003,no,,,,,"Die Angriffe auf Flüchtlinge und ihre Unterkünfte sind in Brandenburg im vergangenen Jahr abermals 
+2021-05,Main Corpus,2021-05(55).ZIP,Erneut weniger Angriffe auf Flüchtlinge Die Migrationsexpertin der Linksfraktion sieht aber keinen A.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Erneut weniger Angriffe auf Flüchtlinge Die Migrationsexpertin der Linksfraktion sieht aber keinen A.PDF,Erneut weniger Angriffe auf Flüchtlinge; Die Migrationsexpertin der Linksfraktion sieht aber keinen Anlass zur,erneut weniger angriffe auf flüchtlinge die migrationsexpertin der linksfraktion sieht aber keinen anlass zur,Berliner Zeitung,berliner zeitung,18. Mai 2021,,BERLIN; S. 12,278,2012,28fd7dfce4ea62fb643457db759519777a32207d,,unique,keep,,no,,no,,,3003,no,,,,,"Die Angriffe auf Flüchtlinge und ihre Unterkünfte sind in Brandenburg im vergangenen Jahr abermals 
 zurückgegangen. Nach vorläufigen Angaben registrierte die Polizei 209 Straftaten. Das ist ein Rückgang um 59 
 Delikte im Vergleich zu 2019, wie aus der Antwort des Innenministeriums in Potsdam auf eine Anfrage der Linke-
 Landtagsabgeordneten Andrea Johlige hervorgeht. 
@@ -1128,7 +1446,7 @@ Kontaktbeschränkungen gegeben. Hinzu kommt, dass sich die gesellschaftlichen Ko
 Pandemie verlagert haben. Deshalb kann leider vorerst keine Entwarnung gegeben werden , sagte sie der 
 Deutschen Presse-Agentur. Rassismus und Gewalt gegen Migrantinnen und Migranten bleiben weiter ein Problem. 
 (dpa)"
-2021-05,Main Corpus,2021-05(50).ZIP,Fragen zur Somalia -Abschiebung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Fragen zur Somalia -Abschiebung.PDF,Fragen zur Somalia-Abschiebung,fragen zur somaliaabschiebung,Frankfurter Rundschau,frankfurter rundschau,Freitag 21. Mai 2021,,HESSEN; S. F19,491,3679,6bd0252aa9b78a4ec194b768aabe5cfe8dfb2650,,unique,keep,,no,,no,,,4745,no,,,,,"VON CLAUDIA KABEL
+2021-05,Main Corpus,2021-05(55).ZIP,Fragen zur Somalia -Abschiebung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Fragen zur Somalia -Abschiebung.PDF,Fragen zur Somalia-Abschiebung,fragen zur somaliaabschiebung,Frankfurter Rundschau,frankfurter rundschau,Freitag 21. Mai 2021,,HESSEN; S. F19,491,3679,6bd0252aa9b78a4ec194b768aabe5cfe8dfb2650,,unique,keep,,no,,no,,,4745,no,,,,,"VON CLAUDIA KABEL
 Die Abschiebung von Omar F. aus Darmstadt nach Somalia sorgte unter seinen Landsleuten, die sich aktuell in 
 Deutschland aufhalten, für Angst. Auch die Art, wie der 28-Jährige bei einem Routinetermin auf der 
 Ausländerbehörde in Bad Homburg verhaftet und zwei Tage später ausgeflogen wurde, rief massive Kritik von 
@@ -1171,7 +1489,7 @@ Zu dem vom Hessischen Flüchtlingsrat und Pro Asyl geforderten dreimonatigen Abs
 schreibt Becher, die SPD stehe deswegen derzeit in enger Absprache mit der Bundestagsfraktion. „Es gäbe 
 mehrere andere Länder, in die Abschiebungen auszusetzen wären, wenn man dies für Somalia fordert.“
 Link zum PDF-Dokument"
-2021-05,Main Corpus,2021-05(50).ZIP,Getarnt als syrischer Flüchtling Der rechtsextreme Offizier Franco A. plante Attentate. Nun beginnt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Getarnt als syrischer Flüchtling Der rechtsextreme Offizier Franco A. plante Attentate. Nun beginnt.PDF,Getarnt als syrischer Flüchtling Der rechtsextreme Offizier Franco A. plante Attentate. Nun beginnt der Prozess,getarnt als syrischer flüchtling der rechtsextreme offizier franco a plante attentate nun beginnt der prozess,Der Tagesspiegel,der tagesspiegel,Mittwoch 19. Mai 2021,,POLITIK FQT:SPÄT; S. 004; Ausg. Der Tagesspiegel Nr. 24539 VOM 19.05.2021 SEITE 004,647,4674,1f34aa02525007aa6022531c5e8ac0533a6eb926,,unique,keep,,no,,no,,,6390,no,,,,,"Berlin - Er kann kein Arabisch, er stellte sich mit dem jüdisch klingenden Namen ""David Benjamin"" vor und 
+2021-05,Main Corpus,2021-05(55).ZIP,Getarnt als syrischer Flüchtling Der rechtsextreme Offizier Franco A. plante Attentate. Nun beginnt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Getarnt als syrischer Flüchtling Der rechtsextreme Offizier Franco A. plante Attentate. Nun beginnt.PDF,Getarnt als syrischer Flüchtling Der rechtsextreme Offizier Franco A. plante Attentate. Nun beginnt der Prozess,getarnt als syrischer flüchtling der rechtsextreme offizier franco a plante attentate nun beginnt der prozess,Der Tagesspiegel,der tagesspiegel,Mittwoch 19. Mai 2021,,POLITIK FQT:SPÄT; S. 004; Ausg. Der Tagesspiegel Nr. 24539 VOM 19.05.2021 SEITE 004,647,4674,1f34aa02525007aa6022531c5e8ac0533a6eb926,,unique,keep,,no,,no,,,6390,no,,,,,"Berlin - Er kann kein Arabisch, er stellte sich mit dem jüdisch klingenden Namen ""David Benjamin"" vor und 
 behauptete dennoch, syrischer Flüchtling zu sein. Und er hatte Erfolg damit. Im Dezember 2016 bescheinigt das 
 Bundesamt für Migration und Flüchtlinge (Bamf) dem französisch und deutsch sprechenden Franco A. den 
 ""subsidiären Schutzstatus"". Der damals 28-jährige Mann hätte nicht nach Syrien abgeschoben werden dürfen, weil 
@@ -1221,7 +1539,7 @@ Wehrmachtswaffe im Aufenthaltsraum.
 Mit seiner rechten
 Gesinnung war Franco A. in der Kaserne in Illkirch offensichtlich nicht allein. Foto: picture alliance/
 Patrick Seege R"
-2021-05,Main Corpus,2021-05(50).ZIP,Grausam und niederträchtig.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Grausam und niederträchtig.PDF,Grausam und niederträchtig,grausam und niederträchtig,Welt am Sonntag,welt am sonntag,23. Mai 2021,Glacier Kwong,POLITIK; BRIEF AUS HONGKONG; S. 8; Ausg. 21,503,3725,ee8630ada569e2622f13786fd1caf6068ba2e229,,unique,drop,reader_letter,no,,no,,,4723,yes,reader_letter,,,,"Es ist erschreckend zu sehen, wie Rechtsextreme in Deutschland die tragische Situation in Hongkong nutzen, um 
+2021-05,Main Corpus,2021-05(55).ZIP,Grausam und niederträchtig.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Grausam und niederträchtig.PDF,Grausam und niederträchtig,grausam und niederträchtig,Welt am Sonntag,welt am sonntag,23. Mai 2021,Glacier Kwong,POLITIK; BRIEF AUS HONGKONG; S. 8; Ausg. 21,503,3725,ee8630ada569e2622f13786fd1caf6068ba2e229,,unique,drop,reader_letter,no,,no,,,4723,yes,reader_letter,,,,"Es ist erschreckend zu sehen, wie Rechtsextreme in Deutschland die tragische Situation in Hongkong nutzen, um 
 fremdenfeindliche Ressentiments zu schüren. Drei Jahre nachdem dem ersten Hongkonger in Deutschland Asyl 
 gewährt wurde und nach zahlreichen Debatten im Bundestag, wurde plötzlich die AfD auf das Thema aufmerksam. 
 Die Partei reichte eine Anfrage im Bundestag ein, in der es darum ging, wie viele Hongkonger seit 2016 politisches 
@@ -1261,7 +1579,7 @@ Gesellschaft zu schüren.
  Glacier Kwong schreibt diese Kolumne im Wechsel mit Joshua Wong. Die beiden jungen Aktivisten aus Hongkong 
 kämpfen gegen den wachsenden Einfluss Chinas in ihrer Heimat 
 Original Gesamtseiten-PDF"
-2021-05,Main Corpus,2021-05(50).ZIP,Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen_ Er hatte sich als syrisc(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen_ Er hatte sich als syrisc(2).PDF,Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen: Er hatte sich als syrischer,gut getarnt der bundeswehrsoldat franco a geriet 2017 in die schlagzeilen er hatte sich als syrischer,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,13. Mai 2021,Christina Schmidt,ZEIT MAGAZIN;Gut getarnt; S. 30-36; Ausg. 20,3770,26038,559b2e3ef766aad6af829f85e1bd2276e42994ff,,unique,keep,,no,,no,,,27704,no,,,,,"Von CHRISTINA SCHMIDT
+2021-05,Main Corpus,2021-05(55).ZIP,Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen_ Er hatte sich als syrisc(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen_ Er hatte sich als syrisc(2).PDF,Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen: Er hatte sich als syrischer,gut getarnt der bundeswehrsoldat franco a geriet 2017 in die schlagzeilen er hatte sich als syrischer,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,13. Mai 2021,Christina Schmidt,ZEIT MAGAZIN;Gut getarnt; S. 30-36; Ausg. 20,3770,26038,559b2e3ef766aad6af829f85e1bd2276e42994ff,,unique,keep,,no,,no,,,27704,no,,,,,"Von CHRISTINA SCHMIDT
 Vier Jahre nachdem er die Bundesrepublik vorgeführt hat, steht der Soldat Franco A. auf einem Gehweg am 
 Potsdamer Platz in Berlin. Es ist im März 2021. Er trägt einen Bart, die dunklen Haare sind im Nacken 
 zusammengebunden, eine Ledertasche, wie sie Lehrer haben, hat er über die Schulter gehängt. Sein Gesicht 
@@ -1535,7 +1853,7 @@ Sprengsatzteile lagerte
 fand Platz im Keller
  Um sich auf eine mögliche Katastrophe vorzubereiten, bewahrte Franco A. Vorräte an Bundeswehrrationen und 
 Zigaretten auf"
-2021-05,Main Corpus,2021-05(50).ZIP,Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen_ Er hatte sich als syrisc.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen_ Er hatte sich als syrisc.PDF,Gut getarnt; Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen: Er hatte sich als syrischer,gut getarnt der bundeswehrsoldat franco a geriet 2017 in die schlagzeilen er hatte sich als syrischer,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,12. Mai 2021,Christina Schmidt,ZEITMAGAZIN;Gut getarnt; S. 30-36; Ausg. 20,3767,25996,3d8fbb525ca049f21a87b370110ef401aed8bf16,,unique,keep,,no,,no,,,27540,no,,,,,"Vier Jahre nachdem er die Bundesrepublik vorgeführt hat, steht der Soldat Franco A. auf einem Gehweg am 
+2021-05,Main Corpus,2021-05(55).ZIP,Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen_ Er hatte sich als syrisc.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Gut getarnt Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen_ Er hatte sich als syrisc.PDF,Gut getarnt; Der Bundeswehrsoldat Franco A. geriet 2017 in die Schlagzeilen: Er hatte sich als syrischer,gut getarnt der bundeswehrsoldat franco a geriet 2017 in die schlagzeilen er hatte sich als syrischer,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,12. Mai 2021,Christina Schmidt,ZEITMAGAZIN;Gut getarnt; S. 30-36; Ausg. 20,3767,25996,3d8fbb525ca049f21a87b370110ef401aed8bf16,,unique,keep,,no,,no,,,27540,no,,,,,"Vier Jahre nachdem er die Bundesrepublik vorgeführt hat, steht der Soldat Franco A. auf einem Gehweg am 
 Potsdamer Platz in Berlin. Es ist im März 2021. Er trägt einen Bart, die dunklen Haare sind im Nacken 
 zusammengebunden, eine Ledertasche, wie sie Lehrer haben, hat er über die Schulter gehängt. Sein Gesicht 
 verdunkelt er mit einer Schiebermütze. Nichts an ihm lässt Nervosität erkennen, dabei wird ein Gericht bald darüber 
@@ -1806,7 +2124,7 @@ Sprengsatzteile lagerte
 fand Platz im Keller
  Um sich auf eine mögliche Katastrophe vorzubereiten, bewahrte Franco A. Vorräte an Bundeswehrrationen und 
 Zigaretten auf"
-2021-05,Main Corpus,2021-05(50).ZIP,Impfungen für Flüchtlinge gestoppt Landesamt reagiert auf mögliche Risiken.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Impfungen für Flüchtlinge gestoppt Landesamt reagiert auf mögliche Risiken.PDF,Impfungen für Flüchtlinge gestoppt Landesamt reagiert auf mögliche Risiken,impfungen für flüchtlinge gestoppt landesamt reagiert auf mögliche risiken,Berliner Zeitung,berliner zeitung,11. Mai 2021,,BERLIN; S. 9,238,1764,6dc4e924a6f576abcfd18d2d1b38026300df2069,,unique,keep,,no,,no,,,3958,no,,,,,"Die Impfungen in den Unterkünften von Flüchtlingen und Obdachlosen sind in Berlin vorerst eingestellt worden. Das 
+2021-05,Main Corpus,2021-05(55).ZIP,Impfungen für Flüchtlinge gestoppt Landesamt reagiert auf mögliche Risiken.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Impfungen für Flüchtlinge gestoppt Landesamt reagiert auf mögliche Risiken.PDF,Impfungen für Flüchtlinge gestoppt Landesamt reagiert auf mögliche Risiken,impfungen für flüchtlinge gestoppt landesamt reagiert auf mögliche risiken,Berliner Zeitung,berliner zeitung,11. Mai 2021,,BERLIN; S. 9,238,1764,6dc4e924a6f576abcfd18d2d1b38026300df2069,,unique,keep,,no,,no,,,3958,no,,,,,"Die Impfungen in den Unterkünften von Flüchtlingen und Obdachlosen sind in Berlin vorerst eingestellt worden. Das 
 teilte die Senatsverwaltung für Integration, Arbeit und Soziales am Montag auf Anfrage mit. Dabei ist bisher der 
 Corona-Impfstoff von Johnson & Johnson zum Einsatz gekommen, der in Deutschland künftig in der Regel nur 
 noch bei Menschen ab 60 Jahren genutzt werden soll. Hintergrund sind Hinweise auf mögliche Risiken. Wie es in 
@@ -1824,7 +2142,7 @@ Sozialsenatorin Elke Breitenbach (Linke) hatte jüngst auf Hindernisse beim Impf
 hingewiesen. Wie in anderen Bevölkerungsgruppen gebe es zum Teil Vorbehalte gegen Impfungen, zum Teil 
 sorgten Gerüchte und Falschinformationen unter anderem aus den sozialen Medien für Verunsicherung. Aufklärung 
 sei dann oft nur in der Muttersprache der Flüchtlinge möglich. (dpa)"
-2021-05,Main Corpus,2021-05(50).ZIP,Irgendwann kommen Erkenntnis und Wut In ihrem Roman  Drei Kameradinnen  erzählt Shida Bazyar von dre.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Irgendwann kommen Erkenntnis und Wut In ihrem Roman  Drei Kameradinnen  erzählt Shida Bazyar von dre.PDF,Irgendwann kommen Erkenntnis und Wut In ihrem Roman Drei Kameradinnen erzählt Shida Bazyar von drei,irgendwann kommen erkenntnis und wut in ihrem roman drei kameradinnen erzählt shida bazyar von drei,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 26. Mai 2021,Sophia Zessnik,LITERATAZ; S. 6,1572,10449,21cc7774ec88364064bcd13c068f061ae3ccf010,,unique,keep,,no,,no,,,11996,no,,,,,"Interview Sophia Zessnik
+2021-05,Main Corpus,2021-05(55).ZIP,Irgendwann kommen Erkenntnis und Wut In ihrem Roman  Drei Kameradinnen  erzählt Shida Bazyar von dre.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Irgendwann kommen Erkenntnis und Wut In ihrem Roman  Drei Kameradinnen  erzählt Shida Bazyar von dre.PDF,Irgendwann kommen Erkenntnis und Wut In ihrem Roman Drei Kameradinnen erzählt Shida Bazyar von drei,irgendwann kommen erkenntnis und wut in ihrem roman drei kameradinnen erzählt shida bazyar von drei,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 26. Mai 2021,Sophia Zessnik,LITERATAZ; S. 6,1572,10449,21cc7774ec88364064bcd13c068f061ae3ccf010,,unique,keep,,no,,no,,,11996,no,,,,,"Interview Sophia Zessnik
 2016 erschien mit Nachts ist es leise in Teheran ihr Debüt eine vielstimmige Familiengeschichte, in der Shida 
 Bazyar sowohl von der Islamischen Revolution 1979 im Iran erzählt als auch vom Ankommen einer geflüchteten 
 Familie in Deutschland. In ihrem neuen Roman Drei Kameradinnen wird nur mit einer Stimme gesprochen, dafür 
@@ -1936,7 +2254,7 @@ Irgendwann kommen Erkenntnis und Wut In ihrem Roman Drei Kameradinnen erzählt S
 unterschiedlichen Perspektiven auf rassistische Strukturen....
 Shida Bazyar wurde 1988 in Hermeskeil, in Rheinland-Pfalz, geboren und lebt in Berlin. Über ihre Erfahrungen 
 beim Studiengang Kreatives Schreiben hat sie den Essay Bastelstunde in Hildesheim geschrieben."
-2021-05,Main Corpus,2021-05(50).ZIP,Johnsons Asylreform - illegale Flüchtlinge in die EU abschieben Wer im Schlauchboot oder Lkw nach Gr.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Johnsons Asylreform - illegale Flüchtlinge in die EU abschieben Wer im Schlauchboot oder Lkw nach Gr.PDF,Johnsons Asylreform - illegale Flüchtlinge in die EU abschieben Wer im Schlauchboot oder Lkw nach,johnsons asylreform  illegale flüchtlinge in die eu abschieben wer im schlauchboot oder lkw nach,Die Welt,die welt,Samstag 29. Mai 2021,Stefanie Bolzen,Politik; S. 7; Ausg. 122,984,7148,63b783e4a569432bf19019e02e546750d75f95fe,,unique,keep,,no,,no,,,8686,no,,,,,"London
+2021-05,Main Corpus,2021-05(55).ZIP,Johnsons Asylreform - illegale Flüchtlinge in die EU abschieben Wer im Schlauchboot oder Lkw nach Gr.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Johnsons Asylreform - illegale Flüchtlinge in die EU abschieben Wer im Schlauchboot oder Lkw nach Gr.PDF,Johnsons Asylreform - illegale Flüchtlinge in die EU abschieben Wer im Schlauchboot oder Lkw nach,johnsons asylreform  illegale flüchtlinge in die eu abschieben wer im schlauchboot oder lkw nach,Die Welt,die welt,Samstag 29. Mai 2021,Stefanie Bolzen,Politik; S. 7; Ausg. 122,984,7148,63b783e4a569432bf19019e02e546750d75f95fe,,unique,keep,,no,,no,,,8686,no,,,,,"London
 Take back control. Der Slogan von der Rückeroberung staatlicher Souveränität war es, mit dem Boris Johnson vor 
 bald fünf Jahren das Brexit-Referendum gewann. Eine Mehrheit derer, die sich für den EU-Austritt entschieden, tat 
 dies vor allem wegen des Versprechens, Kontrolle über die eigenen Grenzen zu bekommen. Nicht Brüssel sollte 
@@ -2013,7 +2331,7 @@ Graphic
  
 Über den Ärmelkanal versuchen Migranten, von Frankreich aus die britische Küste zu erreichen. Diese Möglichkeit 
 der Einreise soll es nicht mehr geben"
-2021-05,Main Corpus,2021-05(50).ZIP,Kein Asyl in Deutschland.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Kein Asyl in Deutschland.PDF,Kein Asyl in Deutschland,kein asyl in deutschland,Frankfurter Rundschau,frankfurter rundschau,Montag 31. Mai 2021,,POLITIK; S. 5,496,3614,14a4be6ed8bee375167f595d0bb9ab91cac79da4,,unique,keep,,no,,no,,,4891,no,,,,,"VON ANDREAS SCHWARZKOPF
+2021-05,Main Corpus,2021-05(55).ZIP,Kein Asyl in Deutschland.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Kein Asyl in Deutschland.PDF,Kein Asyl in Deutschland,kein asyl in deutschland,Frankfurter Rundschau,frankfurter rundschau,Montag 31. Mai 2021,,POLITIK; S. 5,496,3614,14a4be6ed8bee375167f595d0bb9ab91cac79da4,,unique,keep,,no,,no,,,4891,no,,,,,"VON ANDREAS SCHWARZKOPF
 Hätte das Bundesinnenministerium von Minister Horst Seehofer (CSU) im Falle des myanmarischen Bloggers und 
 Oppositionellen Mratt Kyaw Thu bei dessen Asylverfahren eine Ausnahme machen und ihn hierbehalten sollen, 
 statt zu verfügen, ihn nach Spanien zurückzuschicken? Eindeutig ja, sagt ein Bündnis von Unterstützerinnen und 
@@ -2056,7 +2374,7 @@ Spanien gebracht. Für diesen Tag hat die Bundespolizei nach Angaben der Unterst
 seinen Flug gebucht.
 Der Minister sieht keinen Grund für eine Ausnahme
 Link zum PDF-Dokument"
-2021-05,Main Corpus,2021-05(50).ZIP,Miete am Gehalt orientieren.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Miete am Gehalt orientieren.PDF,Miete am Gehalt orientieren,miete am gehalt orientieren,Frankfurter Rundschau,frankfurter rundschau,Freitag 21. Mai 2021,,MAGAZIN; S. 18,416,3001,238651c9f91357529849e4d123d6735731ff676a,,unique,keep,,no,,no,,,3841,no,,,,,"Bruder Paulus Terwitte, Kapuzinermönch, 
+2021-05,Main Corpus,2021-05(55).ZIP,Miete am Gehalt orientieren.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Miete am Gehalt orientieren.PDF,Miete am Gehalt orientieren,miete am gehalt orientieren,Frankfurter Rundschau,frankfurter rundschau,Freitag 21. Mai 2021,,MAGAZIN; S. 18,416,3001,238651c9f91357529849e4d123d6735731ff676a,,unique,keep,,no,,no,,,3841,no,,,,,"Bruder Paulus Terwitte, Kapuzinermönch, 
 ist in Frankfurt in der Obdachlosenarbeit engagiert.
 Tief beeindruckt hat mich, dass Kanzlerin Angela Merkel in der Flüchtlingsfrage im Jahr 2015 eine klare Position 
 vertreten hat und Zehntausende einreisen ließ. Deutschland am Hindukusch zu verteidigen, ist das eine. Aber sich 
@@ -2092,7 +2410,7 @@ Aufgezeichnet von Tobias Schwab
  Es gilt, globale Strategien 
  gegen Rassismus zu finden 
 Link zum PDF-Dokument"
-2021-05,Main Corpus,2021-05(50).ZIP,"Migration kann viel Wohlstand schaffen Zuwanderer sind nicht nur Arbeitskräfte, sie bringen aus der.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Migration kann viel Wohlstand schaffen Zuwanderer sind nicht nur Arbeitskräfte, sie bringen aus der.PDF","Migration kann viel Wohlstand schaffen Zuwanderer sind nicht nur Arbeitskräfte, sie bringen aus der Heimat",migration kann viel wohlstand schaffen zuwanderer sind nicht nur arbeitskräfte sie bringen aus der heimat,Die Welt,die welt,Donnerstag 20. Mai 2021,Daniel Eckert,Wirtschaft; S. 13; Ausg. 115,924,6964,17b46bb2f666719769146ffaebbf80be7d8647e9,,unique,keep,,no,,no,,,8480,no,,,,,"Normalerweise wird Migration ökonomisch im Zusammenhang mit dem Fachkräftemangel gesehen. Zuwanderung 
+2021-05,Main Corpus,2021-05(55).ZIP,"Migration kann viel Wohlstand schaffen Zuwanderer sind nicht nur Arbeitskräfte, sie bringen aus der.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Migration kann viel Wohlstand schaffen Zuwanderer sind nicht nur Arbeitskräfte, sie bringen aus der.PDF","Migration kann viel Wohlstand schaffen Zuwanderer sind nicht nur Arbeitskräfte, sie bringen aus der Heimat",migration kann viel wohlstand schaffen zuwanderer sind nicht nur arbeitskräfte sie bringen aus der heimat,Die Welt,die welt,Donnerstag 20. Mai 2021,Daniel Eckert,Wirtschaft; S. 13; Ausg. 115,924,6964,17b46bb2f666719769146ffaebbf80be7d8647e9,,unique,keep,,no,,no,,,8480,no,,,,,"Normalerweise wird Migration ökonomisch im Zusammenhang mit dem Fachkräftemangel gesehen. Zuwanderung 
 ist nötig und sinnvoll, weil in Deutschland Kenntnisse und Kompetenzen fehlen. Die Beratungsgesellschaft Boston 
 Consulting Group (BCG) stellt den ökonomischen Effekt von Migration nun unter einem ganz anderen Blickwinkel 
 untersucht.
@@ -2161,7 +2479,7 @@ Profiteure von Migration vier Herkunftsländer, nämlich Indien, China, die Phil
 ein Land laut BCG-Berechnungen durch Wanderungsbewegungen zwei Prozentpunkte an Wohlstand. Die Vorteile 
 des grenzüberschreitenden Arbeitsmarkts und des Diversitätseffekts bringen Ziel- und Herkunftsländern aktuell 
 einen jährlichen Wohlstandsgewinn in Höhe von 2,7 Billionen Dollar."
-2021-05,Main Corpus,2021-05(50).ZIP,"Mögenswert Lena Gorelik erzählt in _Wer wir sind_, wie sie 1992 aus Russland nach Deutschland kam.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Mögenswert Lena Gorelik erzählt in _Wer wir sind_, wie sie 1992 aus Russland nach Deutschland kam.PDF","Mögenswert Lena Gorelik erzählt in ""Wer wir sind"", wie sie 1992 aus Russland nach Deutschland kam",mögenswert lena gorelik erzählt in wer wir sind wie sie 1992 aus russland nach deutschland kam,Der Tagesspiegel,der tagesspiegel,Sonntag 30. Mai 2021,Franziska Wolffheim,LITERATUR FQT:SPÄT; S. 024; Ausg. Der Tagesspiegel Nr. 24549 VOM 30.05.2021 SEITE 024,914,6140,bad3aa6600b196f6ebd655ebae0021a4c5efb3e1,,unique,keep,,no,,no,,,7226,no,,,,,"Ständig ist da die Scham, die das junge Mädchen einholt. Scham, die in allen Ecken des Flüchtlingsheims lauert. 
+2021-05,Main Corpus,2021-05(55).ZIP,"Mögenswert Lena Gorelik erzählt in _Wer wir sind_, wie sie 1992 aus Russland nach Deutschland kam.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Mögenswert Lena Gorelik erzählt in _Wer wir sind_, wie sie 1992 aus Russland nach Deutschland kam.PDF","Mögenswert Lena Gorelik erzählt in ""Wer wir sind"", wie sie 1992 aus Russland nach Deutschland kam",mögenswert lena gorelik erzählt in wer wir sind wie sie 1992 aus russland nach deutschland kam,Der Tagesspiegel,der tagesspiegel,Sonntag 30. Mai 2021,Franziska Wolffheim,LITERATUR FQT:SPÄT; S. 024; Ausg. Der Tagesspiegel Nr. 24549 VOM 30.05.2021 SEITE 024,914,6140,bad3aa6600b196f6ebd655ebae0021a4c5efb3e1,,unique,keep,,no,,no,,,7226,no,,,,,"Ständig ist da die Scham, die das junge Mädchen einholt. Scham, die in allen Ecken des Flüchtlingsheims lauert. 
 Die mit dem Geruch nach Bratfett zu tun hat, mit Schimmel, mit dem Stacheldrahtzaun, der das Heim umgibt. 
 Scham, das ist das Gefühl, kein vorzeigbares Zuhause zu haben, in das man Mitschülerinnen einladen kann. Das 
 Gefühl, falsch zu sein, nicht dazuzugehören. Also stottert Lena, die Erzählerin, lieber herum, gibt immer neue 
@@ -2224,7 +2542,7 @@ Graphic
  
 Wurde 1981 in St. Petersburg geboren: Die Schriftstellerin Lena Gorelik
 Foto: Charlotte Troll/Rowohlt R"
-2021-05,Main Corpus,2021-05(50).ZIP,NACHRICHTEN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\NACHRICHTEN.PDF,NACHRICHTEN,nachrichten,Der Tagesspiegel,der tagesspiegel,Freitag 14. Mai 2021,,POLITIK FQT:SPÄT; S. 004; Ausg. Der Tagesspiegel Nr. 24534 VOM 14.05.2021 SEITE 004,322,2269,bc59dcb2130ef2277b8261a12e5d42335f98d448,,unique,keep,,no,,no,,,3348,no,,,,,"DEUTSCHLAND
+2021-05,Main Corpus,2021-05(55).ZIP,NACHRICHTEN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\NACHRICHTEN.PDF,NACHRICHTEN,nachrichten,Der Tagesspiegel,der tagesspiegel,Freitag 14. Mai 2021,,POLITIK FQT:SPÄT; S. 004; Ausg. Der Tagesspiegel Nr. 24534 VOM 14.05.2021 SEITE 004,322,2269,bc59dcb2130ef2277b8261a12e5d42335f98d448,,unique,keep,,no,,no,,,3348,no,,,,,"DEUTSCHLAND
 Maas stellt Italien Aufnahme
 von Flüchtlingen in Aussicht
 Rom - Außenminister Heiko Maas hat Italien die Aufnahme von Migranten in Aussicht gestellt, die nun wieder 
@@ -2258,7 +2576,57 @@ schuldig. AFP
 Graphic
  
 R"
-2021-05,Main Corpus,2021-05(50).ZIP,"Nur Deutschland ist noch offen Großbritannien schottet sich ab, Schweden verschärft das Asylrecht, i.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Nur Deutschland ist noch offen Großbritannien schottet sich ab, Schweden verschärft das Asylrecht, i.PDF","Nur Deutschland ist noch offen Großbritannien schottet sich ab, Schweden verschärft das Asylrecht, in Italien",nur deutschland ist noch offen grossbritannien schottet sich ab schweden verschärft das asylrecht in italien,Die Welt,die welt,Freitag 28. Mai 2021,Klaus Geiger,FORUM; LEITARTIKEL; S. 3; Ausg. 121,996,6918,303d9be521f12775d6a6bccf557ec98ae9f2d343,,unique,keep,,no,,no,,,8556,yes,commentary_noncore,,,,"Das Kleinkind liegt am Strand, sein Kopf ist zur Hälfte im Sand eingesunken. Es trägt einen grauen Strampler mit 
+2021-05,Main Corpus,2021-05(55).ZIP,Neue Deutsche Bundespräsident Steinmeier überreicht sechs Zuwanderern ihre Einbürgerungs-Urkunden.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Neue Deutsche Bundespräsident Steinmeier überreicht sechs Zuwanderern ihre Einbürgerungs-Urkunden.PDF,Neue Deutsche Bundespräsident Steinmeier überreicht sechs Zuwanderern ihre Einbürgerungs-Urkunden,neue deutsche bundespräsident steinmeier überreicht sechs zuwanderern ihre einbürgerungsurkunden,Der Tagesspiegel,der tagesspiegel,Samstag 22. Mai 2021,,POLITIK FQT:SPÄT; S. 006; Ausg. Der Tagesspiegel Nr. 24542 VOM 22.05.2021 SEITE 006,648,4475,bc7147c2ca04af704589d36097a467c3b953d2df,,unique,keep,,no,,no,,,5952,no,,,,,"Berlin - Sicher, der Brexit. Der sei schon der wichtigste Grund gewesen, sich in Deutschland einbürgern zu lassen, 
+erzählt Christopher ""Rhys"" Howell. Wenn er von diesem Freitag an aber deutsch-britischer Doppelstaatler ist, 
+dannn wird das auch einen vorläufigen Punkt unter das setzen, was er ""ein Abenteuer"" nennt. Als der studierte 
+Kunsthistoriker und Marketingfachmann vor ein paar Jahren von London zunächst nach Koblenz zog, ging es nur 
+um die neue Arbeit. Howell hatte beim deutschen Sporträderhersteller Canyon angeheuert, der dort seinen Sitz hat. 
+London, ""laut, groß, schmutzig, hektisch"" und nun Koblenz, so ganz anders. ""Aber es war perfekt"", sagt er.
+Dann trat seine britische Heimat aus der Europäischen Union aus, und die Entscheidung, den deutschen Pass zu 
+beantragen, war klar: ""Ich bin Europäer, und Deutschland ist meine Heimat."" Dass Howell, mittlerweile für seine 
+Firma in Berlin, am Freitag im Schloss Bellevue die Urkunde aus der Hand des Bundespräsidenten bekam, sei 
+""eine große Ehre"". Alles, was ihn dahin geführt hat, sei irgendwie auch ein bisschen verrückt. ""Aber wunderschön.""
+Mariam Abouelfadl aus Ägypten kam 2012 zum Studium nach Aachen. Einen Abschluss in 
+Computerwissenschaften hatte sie da schon, nun wollte sie, so sagt sie, an einer der besten Universitäten für 
+Ingenieurwissenschaften Medieninformatik studieren, der RWTH. Nach Jahren in der Netzwerktechnik arbeitet sie, 
+inzwischen in Berlin, beim App-Anbieter Jodel und fühlt sich in Deutschland wohl. Dass sie den ägyptischen Pass 
+abgeben muss - noch immer versucht Deutschland, Doppelstaatigkeit zu verhindern -, ist für sie kein Problem. 
+Selbst die Familie in Ägypten verstehe das. Deutsche zu sein, mache ihr das Leben leichter, ""sie unterstützen mich 
+da"".
+Abouelfadls neue deutsche Mitbürgerin Meital Rozental aus Israel wollte damals eigentlich den umgekehrten Weg 
+gehen. 2011 entschied sie sich zu einer Ägyptenreise, um den Nahen Osten und die arabische Nachbarschaft 
+besser kennenzulernen. Doch dann kam der Arabische Frühling, sie wartete, irgendwann zerschlug sich der Plan, 
+erzählt sie.
+Stattdessen zog die studierte Psychologin und Kulturmanagerin mit einem deutschen Bekannten, den sie in 
+Jerusalem kennengelernt hatte, nach Neukölln. Damit begann vor zehn Jahren eine Liebesgeschichte: ""Ich habe 
+mich in die Stadt verliebt. Ich liebe Jerusalem immer noch, aber Berlin war das Gegenteil davon: Entspannt, 
+weltoffen, liberal."" Auch wenn ihr Blick inzwischen nüchterner ist: ""Ich sehe jetzt auch die sozialen Probleme der 
+Stadt, aber das wäre mir überall so gegangen."" Sie wollte irgendwann Deutsche werden: ""Ich glaube, dass man 
+
+Neue Deutsche Bundespräsident Steinmeier überreicht sechs Zuwanderern ihre Einbürgerungs-Urkunden
+Teil der Gesellschaft sein sollte, in der man lebt. Nach zehn Jahren will ich wirklich mitgestalten, dafür ist die 
+Staatsbürgerschaft wichtig.""
+Der Wunsch übrigens, den Nahen Osten zu studieren, ging für Meital Rozental dann doch noch in Erfüllung. In 
+Neukölln. Sie engagierte sich für geflüchtete syrische Kinder und lernte Arabisch - ""Das war für mich Teil meiner 
+Integration hier."" In ihrem Kiez lernte sie Menschen aus der ganzen Region kennen, Syrer, Iranerinnen, Leute aus 
+dem Libanon.
+Eine Israelin und Jüdin in Neukölln? ""Ich habe mich hier nie als jüdische Israelin bedroht gefühlt"", sagt sie. Nicht 
+einmal in diesen Tagen, da die Bomben zwischen Israel und dem Gaza-Streifen auch hier Spannungen erzeugen. 
+""Richtige Angst habe ich vor Rechten, nicht vor Arabern"", betont Rozental.
+Israelin will sie auch mit deutschem Pass bleiben. Israelis können neuerdings ihre alte Staatsbürgerschaft behalten, 
+wenn sie die neue beantragen - für Rozental Bedingung, sie zu beantragen: ""Meine Eltern, meine Großeltern haben 
+so viel dafür leiden müssen, bis sie israelische Staatsbürger werden konnten. Nicht mehr Israelin zu sein, das 
+würde ich ihnen nie antun.""
+Die vier Menschen aus Ägypten, Großbritannien, Israel waren zusammen mit einer Frau aus Polen und zwei 
+Brandenburger Neu-Landsleuten mit iranischen und türkischen Wurzeln am Freitag die Ersten, die ihre 
+Einbürgerungsurkunde vom Bundespräsidenten erhielten. Frank-Walter Steinmeier, so ist aus seiner Umgebung zu 
+hören, hatte schon lange vor, einigen von ihnen den roten Teppich auszurollen, über den üblicherweise er selber 
+geht - und neuen Deutschen den ersten Schritt ins Deutschsein in festlichem Rahmen zu ermöglichen. Andrea 
+Dernbach
+Graphic
+ 
+R"
+2021-05,Main Corpus,2021-05(55).ZIP,"Nur Deutschland ist noch offen Großbritannien schottet sich ab, Schweden verschärft das Asylrecht, i.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Nur Deutschland ist noch offen Großbritannien schottet sich ab, Schweden verschärft das Asylrecht, i.PDF","Nur Deutschland ist noch offen Großbritannien schottet sich ab, Schweden verschärft das Asylrecht, in Italien",nur deutschland ist noch offen grossbritannien schottet sich ab schweden verschärft das asylrecht in italien,Die Welt,die welt,Freitag 28. Mai 2021,Klaus Geiger,FORUM; LEITARTIKEL; S. 3; Ausg. 121,996,6918,303d9be521f12775d6a6bccf557ec98ae9f2d343,,unique,keep,,no,,no,,,8556,yes,commentary_noncore,,,,"Das Kleinkind liegt am Strand, sein Kopf ist zur Hälfte im Sand eingesunken. Es trägt einen grauen Strampler mit 
 weißen Punkten. Es ist tot. Drei Tage lang soll es so an der libyschen Mittelmeerküste gelegen haben. Das Foto - 
 und zwei weitere von toten Flüchtlingskindern - schockten in dieser Woche Europa. Allerdings nur den südlichen 
 Teil, dort vor allem Italien, wo die Bilder auf den Titelseiten der Zeitungen prangten. Nördlich der Alpen nahm kaum 
@@ -2330,7 +2698,7 @@ Nur Deutschland ist noch offen Großbritannien schottet sich ab, Schweden versch
 und Frankreich greifen rechtsnationale Parteien na....
  klaus.geiger@welt.de (klaus.geiger@welt.de) 
 Original Gesamtseiten-PDF"
-2021-05,Main Corpus,2021-05(50).ZIP,"Obdachlose werden bald geimpft Der Kreis Kleve hat bei den Kommunen abgefragt, wie viele Nichtsessha.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Obdachlose werden bald geimpft Der Kreis Kleve hat bei den Kommunen abgefragt, wie viele Nichtsessha.PDF","Obdachlose werden bald geimpft Der Kreis Kleve hat bei den Kommunen abgefragt, wie viele Nichtsesshafte",obdachlose werden bald geimpft der kreis kleve hat bei den kommunen abgefragt wie viele nichtsesshafte,Rheinische Post,rheinische post,Donnerstag 13. Mai 2021,Bianca Mokwa und Sebastian Latzel,S. 17,633,4359,0efe04fd57c7f2d0cf8944e67bf62ca4c065d5c1,,unique,keep,,no,,no,,,6767,no,,,,,"Bianca Mokwa und Sebastian Latzel
+2021-05,Main Corpus,2021-05(55).ZIP,"Obdachlose werden bald geimpft Der Kreis Kleve hat bei den Kommunen abgefragt, wie viele Nichtsessha.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Obdachlose werden bald geimpft Der Kreis Kleve hat bei den Kommunen abgefragt, wie viele Nichtsessha.PDF","Obdachlose werden bald geimpft Der Kreis Kleve hat bei den Kommunen abgefragt, wie viele Nichtsesshafte",obdachlose werden bald geimpft der kreis kleve hat bei den kommunen abgefragt wie viele nichtsesshafte,Rheinische Post,rheinische post,Donnerstag 13. Mai 2021,Bianca Mokwa und Sebastian Latzel,S. 17,633,4359,0efe04fd57c7f2d0cf8944e67bf62ca4c065d5c1,,unique,keep,,no,,no,,,6767,no,,,,,"Bianca Mokwa und Sebastian Latzel
 Gelderland In einer Flüchtlings- und Obdachlosenunterkunft in Kevelaer hat es gerade vier Coronafälle gegeben. 
 Die betroffenen Personen sind in ein anderes Gebäude in Quarantäne gekommen, am Dienstag wurden alle 
 anderen Bewohner sicherheitshalber getestet. Alle Proben waren negativ.
@@ -2376,7 +2744,7 @@ Die Situation Die Impfungen für obdachlose Menschen befinden sich in der Vorber
 bereits die benötigte Anzahl an Impfdosen zugewiesen, so Pressesprecherin Ruth Keuken.
 Ablauf Die Impfung wird durch ein mobiles Impfteam – ausgehend vom Impfzentrum – vor Ort in den jeweiligen 
 Kommunen durchgeführt."
-2021-05,Main Corpus,2021-05(50).ZIP,Olympiasieger gegen Maaßen Biathlon-Legende Frank Ullrich will für die SPD in den Bundestag - der Th.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Olympiasieger gegen Maaßen Biathlon-Legende Frank Ullrich will für die SPD in den Bundestag - der Th.PDF,Olympiasieger gegen Maaßen Biathlon-Legende Frank Ullrich will für die SPD in den Bundestag - der,olympiasieger gegen maassen biathlonlegende frank ullrich will für die spd in den bundestag  der,Der Tagesspiegel,der tagesspiegel,Dienstag 4. Mai 2021,,POLITIK FQT:SPÄT; S. 004; Ausg. Der Tagesspiegel Nr. 24525 VOM 04.05.2021 SEITE 004,661,4393,f0334128f93b1f3cc2a537ca249e8e36cf38796f,,unique,keep,,no,,no,,,5954,no,,,,,"Berlin - Bei Frank Ullrich klingelt nun ständig das Telefon. Es ist Montagmittag, er war gerade im Stadtrat von Suhl. 
+2021-05,Main Corpus,2021-05(55).ZIP,Olympiasieger gegen Maaßen Biathlon-Legende Frank Ullrich will für die SPD in den Bundestag - der Th.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Olympiasieger gegen Maaßen Biathlon-Legende Frank Ullrich will für die SPD in den Bundestag - der Th.PDF,Olympiasieger gegen Maaßen Biathlon-Legende Frank Ullrich will für die SPD in den Bundestag - der,olympiasieger gegen maassen biathlonlegende frank ullrich will für die spd in den bundestag  der,Der Tagesspiegel,der tagesspiegel,Dienstag 4. Mai 2021,,POLITIK FQT:SPÄT; S. 004; Ausg. Der Tagesspiegel Nr. 24525 VOM 04.05.2021 SEITE 004,661,4393,f0334128f93b1f3cc2a537ca249e8e36cf38796f,,unique,keep,,no,,no,,,5954,no,,,,,"Berlin - Bei Frank Ullrich klingelt nun ständig das Telefon. Es ist Montagmittag, er war gerade im Stadtrat von Suhl. 
 Jetzt isst er erstmal eine Bratwurst, führt Gespräche auf dem Marktplatz - und betreibt etwas Volks-Demoskopie. 
 Seit 1979 wohnt Ullrich in Suhl, nun ist er SPD-Direktkandidat im südthüringer Wahlkreis 196 für die 
 Bundestagswahl. Der Mann ist berühmt weit über die Region hinaus. Er war 1980 in Lake Placid Biathlon-
@@ -2424,7 +2792,7 @@ Graphic
 Wettkampfhart.
 Dem Wintersport gilt die Liebe Frank Ullrichs bis heute. Im März hatte ihn
 die SPD als Direktkandidat nominiert.Foto: imago/Gerhard König R"
-2021-05,Main Corpus,2021-05(50).ZIP,Petition gegen Abschiebung von Azubi Guilavogui.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Petition gegen Abschiebung von Azubi Guilavogui.PDF,Petition gegen Abschiebung von Azubi Guilavogui,petition gegen abschiebung von azubi guilavogui,Rheinische Post,rheinische post,Samstag 1. Mai 2021,Daniel Brickwedde,S. 16,276,1997,c7a0cb2795dc075745a0021cb2c7437a3358b859,,unique,keep,,no,,no,,,2676,no,,,,,"Daniel Brickwedde
+2021-05,Main Corpus,2021-05(55).ZIP,Petition gegen Abschiebung von Azubi Guilavogui.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Petition gegen Abschiebung von Azubi Guilavogui.PDF,Petition gegen Abschiebung von Azubi Guilavogui,petition gegen abschiebung von azubi guilavogui,Rheinische Post,rheinische post,Samstag 1. Mai 2021,Daniel Brickwedde,S. 16,276,1997,c7a0cb2795dc075745a0021cb2c7437a3358b859,,unique,keep,,no,,no,,,2676,no,,,,,"Daniel Brickwedde
 Mönchengladbach Der Fall des Auszubildenden Daouda Guilavogui, der mitten in seiner Lehre in sein Heimatland 
 Guinea abgeschoben werden soll, hat eine Gruppe aus Mönchengladbach zu einer Petition veranlasst. „Wir wollten 
 zeigen, dass wir damit nicht einverstanden sind und es Menschen gibt, die sich für ihn einsetzen“, sagt Jan 
@@ -2444,7 +2812,7 @@ ausgeübt werden. „Um vielleicht ein Umdenken zu bewirken“, sagt Wedekind.
 Die Aktion begeistert Jochen Schmitz, Geschäftsführer bei Guilavoguis Ausbildungsbetrieb: „Das zeigt das große 
 Interesse an dem Fall. Wir haben bislang nur positiven Zuspruch bekommen.“ Sein Unternehmen startet nun selbst 
 eine Unterschriftenaktion für den Verbleib von Guilavogui."
-2021-05,Main Corpus,2021-05(50).ZIP,Polizeigewalt für rechtens erklärt(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Polizeigewalt für rechtens erklärt(2).PDF,Polizeigewalt für rechtens erklärt,polizeigewalt für rechtens erklärt,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 6. Mai 2021,,HESSEN; S. F18,289,2144,6e949f072979c70a738616d8c130ad27f10a7340,exact_003,duplicate_exact,review,,no,,no,,,2976,no,,exact_003,,,"VON JOACHIM F. TORNAU
+2021-05,Main Corpus,2021-05(55).ZIP,Polizeigewalt für rechtens erklärt(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Polizeigewalt für rechtens erklärt(2).PDF,Polizeigewalt für rechtens erklärt,polizeigewalt für rechtens erklärt,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 6. Mai 2021,,HESSEN; S. F18,289,2144,6e949f072979c70a738616d8c130ad27f10a7340,exact_003,duplicate_exact,review,,no,,no,,,2976,no,,exact_003,,,"VON JOACHIM F. TORNAU
 Keine Einwände gegen Polizeigewalt: Das Verwaltungsgericht in Kassel hat die Klage eines 31-Jährigen 
 abgewiesen, der bei Protesten gegen eine rechtswidrige Abschiebung im nordhessischen Witzenhausen von 
 Polizeibeamten verletzt wurde. Der Mann hatte im April 2018 zusammen mit rund 70 weiteren Menschen einen 
@@ -2470,7 +2838,7 @@ Aktenzeichen: 7 K 1029/18.KS
 Link zum PDF-Dokument
 
 Polizeigewalt für rechtens erklärt"
-2021-05,Main Corpus,2021-05(50).ZIP,Polizeigewalt für rechtens erklärt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Polizeigewalt für rechtens erklärt.PDF,Polizeigewalt für rechtens erklärt,polizeigewalt für rechtens erklärt,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 6. Mai 2021,,HESSEN; S. D1,289,2144,6e949f072979c70a738616d8c130ad27f10a7340,exact_003,duplicate_exact,review,,no,,no,,,2944,no,,exact_003,,,"Von Joachim F. Tornau
+2021-05,Main Corpus,2021-05(55).ZIP,Polizeigewalt für rechtens erklärt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Polizeigewalt für rechtens erklärt.PDF,Polizeigewalt für rechtens erklärt,polizeigewalt für rechtens erklärt,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 6. Mai 2021,,HESSEN; S. D1,289,2144,6e949f072979c70a738616d8c130ad27f10a7340,exact_003,duplicate_exact,review,,no,,no,,,2944,no,,exact_003,,,"Von Joachim F. Tornau
 Keine Einwände gegen Polizeigewalt: Das Verwaltungsgericht in Kassel hat die Klage eines 31-Jährigen 
 abgewiesen, der bei Protesten gegen eine rechtswidrige Abschiebung im nordhessischen Witzenhausen von 
 Polizeibeamten verletzt wurde. Der Mann hatte im April 2018 zusammen mit rund 70 weiteren Menschen einen 
@@ -2496,7 +2864,7 @@ Aktenzeichen: 7 K 1029/18.KS
 Link zum PDF-Dokument
 
 Polizeigewalt für rechtens erklärt"
-2021-05,Main Corpus,2021-05(50).ZIP,Schnelle Impfung für Flüchtlinge Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ei(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Schnelle Impfung für Flüchtlinge Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ei(2).PDF,Schnelle Impfung für Flüchtlinge; Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ein.,schnelle impfung für flüchtlinge die landesregierung räumt sammelunterkünften eine hohe priorität ein,Rheinische Post,rheinische post,Donnerstag 6. Mai 2021,Kirsten Bialdiga und Maximilian Plück,S. 4,259,2006,838a61482fe3dc06d72b27055b067764c1909e64,exact_004,duplicate_exact,review,,no,,no,,,2968,no,,exact_004,,,"Düsseldorf (kib/maxi) Flüchtlinge in Nordrhein-Westfalen sollen bis Ende Mai ein Impfangebot bekommen. „Die 
+2021-05,Main Corpus,2021-05(55).ZIP,Schnelle Impfung für Flüchtlinge Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ei(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Schnelle Impfung für Flüchtlinge Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ei(2).PDF,Schnelle Impfung für Flüchtlinge; Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ein.,schnelle impfung für flüchtlinge die landesregierung räumt sammelunterkünften eine hohe priorität ein,Rheinische Post,rheinische post,Donnerstag 6. Mai 2021,Kirsten Bialdiga und Maximilian Plück,S. 4,259,2006,838a61482fe3dc06d72b27055b067764c1909e64,exact_004,duplicate_exact,review,,no,,no,,,2968,no,,exact_004,,,"Düsseldorf (kib/maxi) Flüchtlinge in Nordrhein-Westfalen sollen bis Ende Mai ein Impfangebot bekommen. „Die 
 Kommunen sollen bis Ende Mai in den Flüchtlingsunterkünften impfen“, sagte NRW-Gesundheitsminister Karl-Josef 
 Laumann (CDU) am Donnerstag in Düsseldorf. Zuletzt war bekannt geworden, dass gerade in den 
 Sammelunterkünften die Inzidenzzahlen mitunter hoch sind.
@@ -2518,7 +2886,7 @@ Auch über das Thema Impfen werde schon in der Landeserstaufnahmeeinrichtung in 
 mehrsprachigen Flyers aufgeklärt.
 
 Schnelle Impfung für Flüchtlinge; Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ein."
-2021-05,Main Corpus,2021-05(50).ZIP,Schnelle Impfung für Flüchtlinge Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ei.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Schnelle Impfung für Flüchtlinge Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ei.PDF,Schnelle Impfung für Flüchtlinge; Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ein.,schnelle impfung für flüchtlinge die landesregierung räumt sammelunterkünften eine hohe priorität ein,Rheinische Post,rheinische post,Donnerstag 6. Mai 2021,Kirsten Bialdiga und Maximilian Plück,S. 4,259,2006,838a61482fe3dc06d72b27055b067764c1909e64,exact_004,duplicate_exact,review,,no,,no,,,2983,no,,exact_004,,,"Düsseldorf (kib/maxi) Flüchtlinge in Nordrhein-Westfalen sollen bis Ende Mai ein Impfangebot bekommen. „Die 
+2021-05,Main Corpus,2021-05(55).ZIP,Schnelle Impfung für Flüchtlinge Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ei.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Schnelle Impfung für Flüchtlinge Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ei.PDF,Schnelle Impfung für Flüchtlinge; Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ein.,schnelle impfung für flüchtlinge die landesregierung räumt sammelunterkünften eine hohe priorität ein,Rheinische Post,rheinische post,Donnerstag 6. Mai 2021,Kirsten Bialdiga und Maximilian Plück,S. 4,259,2006,838a61482fe3dc06d72b27055b067764c1909e64,exact_004,duplicate_exact,review,,no,,no,,,2983,no,,exact_004,,,"Düsseldorf (kib/maxi) Flüchtlinge in Nordrhein-Westfalen sollen bis Ende Mai ein Impfangebot bekommen. „Die 
 Kommunen sollen bis Ende Mai in den Flüchtlingsunterkünften impfen“, sagte NRW-Gesundheitsminister Karl-Josef 
 Laumann (CDU) am Donnerstag in Düsseldorf. Zuletzt war bekannt geworden, dass gerade in den 
 Sammelunterkünften die Inzidenzzahlen mitunter hoch sind.
@@ -2540,7 +2908,7 @@ Auch über das Thema Impfen werde schon in der Landeserstaufnahmeeinrichtung in 
 mehrsprachigen Flyers aufgeklärt.
 
 Schnelle Impfung für Flüchtlinge; Die Landesregierung räumt Sammelunterkünften eine hohe Priorität ein."
-2021-05,Main Corpus,2021-05(50).ZIP,Schwimmend in die EU Die spanische Exklave Ceuta in Nordafrika droht in der Flüchtlingskrise wieder.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Schwimmend in die EU Die spanische Exklave Ceuta in Nordafrika droht in der Flüchtlingskrise wieder.PDF,Schwimmend in die EU Die spanische Exklave Ceuta in Nordafrika droht in der Flüchtlingskrise wieder zum,schwimmend in die eu die spanische exklave ceuta in nordafrika droht in der flüchtlingskrise wieder zum,Welt am Sonntag,welt am sonntag,16. Mai 2021,Tim Röhn,Politik; S. 9; Ausg. 20,1196,8129,1f07bbf4ec7fd9cd726296199a2602145faf52c0,,unique,keep,,no,,no,,,9536,no,,,,,"Ceuta
+2021-05,Main Corpus,2021-05(55).ZIP,Schwimmend in die EU Die spanische Exklave Ceuta in Nordafrika droht in der Flüchtlingskrise wieder.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Schwimmend in die EU Die spanische Exklave Ceuta in Nordafrika droht in der Flüchtlingskrise wieder.PDF,Schwimmend in die EU Die spanische Exklave Ceuta in Nordafrika droht in der Flüchtlingskrise wieder zum,schwimmend in die eu die spanische exklave ceuta in nordafrika droht in der flüchtlingskrise wieder zum,Welt am Sonntag,welt am sonntag,16. Mai 2021,Tim Röhn,Politik; S. 9; Ausg. 20,1196,8129,1f07bbf4ec7fd9cd726296199a2602145faf52c0,,unique,keep,,no,,no,,,9536,no,,,,,"Ceuta
 In einem staubigen, weitgehend verwaisten Industriegebiet am südlichsten Zipfel der Europäischen Union sitzen ein 
 paar Dutzend Afrikaner hinter dem Blechtor einer Lagerhalle - und warten darauf, dass man sie aus der 
 Quarantäne entlässt. Sie sind hier, weil sie vor ein paar Tagen illegal die Grenze überquert haben, die Marokko von 
@@ -2627,7 +2995,7 @@ Original Gesamtseiten-PDF
 Graphic
  
 Blick auf die Grenze zwischen Ceuta und Marokko"
-2021-05,Main Corpus,2021-05(50).ZIP,Sporthotel ist wieder leer Fünf Jahre lang wohnten bisweilen mehr als 100 Asylbewerber in dem Gebäud.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Sporthotel ist wieder leer Fünf Jahre lang wohnten bisweilen mehr als 100 Asylbewerber in dem Gebäud.PDF,Sporthotel ist wieder leer; Fünf Jahre lang wohnten bisweilen mehr als 100 Asylbewerber in dem Gebäude in,sporthotel ist wieder leer fünf jahre lang wohnten bisweilen mehr als 100 asylbewerber in dem gebäude in,Rheinische Post,rheinische post,Montag 3. Mai 2021,Sebastian Latzel,S. 26,527,3718,7b5d4726871295c582c2dd8bcb707e4cbaef5233,,unique,keep,,no,,no,,,4540,no,,,,,"Sebastian Latzel
+2021-05,Main Corpus,2021-05(55).ZIP,Sporthotel ist wieder leer Fünf Jahre lang wohnten bisweilen mehr als 100 Asylbewerber in dem Gebäud.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Sporthotel ist wieder leer Fünf Jahre lang wohnten bisweilen mehr als 100 Asylbewerber in dem Gebäud.PDF,Sporthotel ist wieder leer; Fünf Jahre lang wohnten bisweilen mehr als 100 Asylbewerber in dem Gebäude in,sporthotel ist wieder leer fünf jahre lang wohnten bisweilen mehr als 100 asylbewerber in dem gebäude in,Rheinische Post,rheinische post,Montag 3. Mai 2021,Sebastian Latzel,S. 26,527,3718,7b5d4726871295c582c2dd8bcb707e4cbaef5233,,unique,keep,,no,,no,,,4540,no,,,,,"Sebastian Latzel
 Sonsbeck/Kevelaer Es hatte seinerzeit für ein breites Echo in der Öffentlichkeit gesorgt. Die Stadt Kevelaer hatte 
 auf dem Höhepunkt der Flüchtlingswelle das Sporthotel in Schravelen angemietet, das der Sonsbecker Wil 
 Swinkels eigens für die Unterbringung von Asylbewerbern gekauft hatte. Fünf Jahre lang bot das Hotel zahlreichen 
@@ -2667,7 +3035,7 @@ Bretter am Balkon Für Kritik hatte gesorgt, dass der Besitzer Bretter am Balkon
 ordentlicher aussehen, so das Argument. Die Stadt sorgte dafür, dass die Bretter verschwanden.Sichtschutz 
 Stehen blieb allerdings eine Sichtschutzwand vor dem Gebäude. Das sei auch so gewollt, um die Mietfläche 
 sichtbar abzugrenzen."
-2021-05,Main Corpus,2021-05(50).ZIP,Tierwohl geht nicht mit Billigfleisch.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Tierwohl geht nicht mit Billigfleisch.PDF,Tierwohl geht nicht mit Billigfleisch,tierwohl geht nicht mit billigfleisch,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 6. Mai 2021,,MEINUNG; S. 10,661,4910,e4710908f8e3cb3bf58d555beeea9d4ee1b92a46,,unique,drop,commentary_noncore,no,,no,,,6143,yes,commentary_noncore,,,,"Ob Energiewende mit Atom- und Braunkohleausstieg, Flüchtlingspolitik oder Verweigerung von Kriegseinsätzen 
+2021-05,Main Corpus,2021-05(55).ZIP,Tierwohl geht nicht mit Billigfleisch.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Tierwohl geht nicht mit Billigfleisch.PDF,Tierwohl geht nicht mit Billigfleisch,tierwohl geht nicht mit billigfleisch,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 6. Mai 2021,,MEINUNG; S. 10,661,4910,e4710908f8e3cb3bf58d555beeea9d4ee1b92a46,,unique,drop,commentary_noncore,no,,no,,,6143,yes,commentary_noncore,,,,"Ob Energiewende mit Atom- und Braunkohleausstieg, Flüchtlingspolitik oder Verweigerung von Kriegseinsätzen 
 aus moralischen Gründen, den Deutschen ist ihre Rolle einer aufgeklärten, demokratischen Nation wichtig. Wir 
 wollen Vorbilder sein. Wir wollen gut sein im Gutsein. 
 Die verheerende und menschengemachte Brandkatastrophe in der Schweinezuchtanlage Alt Tellin in Mecklenburg-
@@ -2719,7 +3087,7 @@ machen zu wollen und dabei auf nichts verzichten zu können.
 Martin Rittershofen arbeitet bei der globalen Stiftung für Tierschutz VIER PFOTEN als 
 Kampagnenverantwortlicher für den Bereich Nutztiere. 
 Link zum PDF-Dokument"
-2021-05,Main Corpus,2021-05(50).ZIP,Union_ Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschla(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Union_ Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschla(2).PDF,Union: Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschland,union marokko instrumentalisiert migranten spanien wirft dem land erpressung vor auch in deutschland,Rheinische Post,rheinische post,Freitag 21. Mai 2021,,S. 6,418,3103,446285cec3c5b28daa5bf072c421d6a7937721b5,exact_005,duplicate_exact,review,,no,,no,,,4463,no,,exact_005,,,"Jan Drebes
+2021-05,Main Corpus,2021-05(55).ZIP,Union_ Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschla(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Union_ Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschla(2).PDF,Union: Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschland,union marokko instrumentalisiert migranten spanien wirft dem land erpressung vor auch in deutschland,Rheinische Post,rheinische post,Freitag 21. Mai 2021,,S. 6,418,3103,446285cec3c5b28daa5bf072c421d6a7937721b5,exact_005,duplicate_exact,review,,no,,no,,,4463,no,,exact_005,,,"Jan Drebes
 Berlin Angesichts der schweren Flüchtlingskrise in der spanischen Exklave Ceuta an der nordafrikanischen 
 Atlantikküste hat Unionsfraktionsvize Thorsten Frei (CDU) Marokko vorgeworfen, Spanien mit Migranten unter 
 Druck zu setzen. „Wir erleben derzeit ein ähnliches Drama, wie wir es im vergangenen Frühjahr an der türkisch-
@@ -2752,7 +3120,7 @@ dorthin aus. „Es gibt Provinzen und Distrikte, in denen die Lage vergleichswei
 Menschen ihrem Alltag nachgehen“, sagte Frei. „Es gibt derzeit keinen Grund, von Rückführungen nach 
 Afghanistan Abstand zu nehmen; zumal praktisch auch jede Entscheidung gerichtlich überprüft wird.“ Wie sich die 
 Sicherheitslage nach Abzug der Bundeswehr entwickle, sei abzuwarten."
-2021-05,Main Corpus,2021-05(50).ZIP,Union_ Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschla.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Union_ Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschla.PDF,Union: Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschland,union marokko instrumentalisiert migranten spanien wirft dem land erpressung vor auch in deutschland,Rheinische Post,rheinische post,Freitag 21. Mai 2021,,S. 6,418,3103,446285cec3c5b28daa5bf072c421d6a7937721b5,exact_005,duplicate_exact,review,,no,,no,,,4478,no,,exact_005,,,"Jan Drebes
+2021-05,Main Corpus,2021-05(55).ZIP,Union_ Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschla.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Union_ Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschla.PDF,Union: Marokko instrumentalisiert Migranten Spanien wirft dem Land Erpressung vor. Auch in Deutschland,union marokko instrumentalisiert migranten spanien wirft dem land erpressung vor auch in deutschland,Rheinische Post,rheinische post,Freitag 21. Mai 2021,,S. 6,418,3103,446285cec3c5b28daa5bf072c421d6a7937721b5,exact_005,duplicate_exact,review,,no,,no,,,4478,no,,exact_005,,,"Jan Drebes
 Berlin Angesichts der schweren Flüchtlingskrise in der spanischen Exklave Ceuta an der nordafrikanischen 
 Atlantikküste hat Unionsfraktionsvize Thorsten Frei (CDU) Marokko vorgeworfen, Spanien mit Migranten unter 
 Druck zu setzen. „Wir erleben derzeit ein ähnliches Drama, wie wir es im vergangenen Frühjahr an der türkisch-
@@ -2785,7 +3153,7 @@ dorthin aus. „Es gibt Provinzen und Distrikte, in denen die Lage vergleichswei
 Menschen ihrem Alltag nachgehen“, sagte Frei. „Es gibt derzeit keinen Grund, von Rückführungen nach 
 Afghanistan Abstand zu nehmen; zumal praktisch auch jede Entscheidung gerichtlich überprüft wird.“ Wie sich die 
 Sicherheitslage nach Abzug der Bundeswehr entwickle, sei abzuwarten."
-2021-05,Main Corpus,2021-05(50).ZIP,Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch(2).PDF,Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer unterschätzt.,verlockendes land die sogwirkung der bundesrepublik auf migranten wird politisch noch immer unterschätzt,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,27. Mai 2021,Joachim Wagner,STREIT;Verlockendes Land; S. 11; Ausg. 22,1217,8991,b95d6f4604293f444b7ecee588a10950f713cdb1,variant_003,regional_variant,review,,no,,no,,,10913,no,,,near_003,variant_003,"***
+2021-05,Main Corpus,2021-05(55).ZIP,Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch(2).PDF,Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer unterschätzt.,verlockendes land die sogwirkung der bundesrepublik auf migranten wird politisch noch immer unterschätzt,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,27. Mai 2021,Joachim Wagner,STREIT;Verlockendes Land; S. 11; Ausg. 22,1217,8991,b95d6f4604293f444b7ecee588a10950f713cdb1,variant_004,regional_variant,review,,no,,no,,,10913,no,,,near_004,variant_004,"***
 »Eine Demokratie, in der nicht gestritten wird, ist keine.« (HELMUT SCHMIDT )
 ***
 Wer wissen will, was die Corona-Pandemie für die Zuwanderung nach Europa bedeutet, der schaue sich nicht nur 
@@ -2880,7 +3248,7 @@ Im September 2015 warnte der damalige Bundespräsident Joachim Gauck: »Unser He
 Möglichkeiten sind endlich.« Diese Mahnung ist heute so aktuell wie vor mehr als fünf Jahren.
  Joachim Wagner, 77, ist Journalist und Buchautor. Er leitete unter anderem die ARD-Sendungen »Panorama« 
 und »Bericht aus Berlin«"
-2021-05,Main Corpus,2021-05(50).ZIP,Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch.PDF,Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer unterschätzt.,verlockendes land die sogwirkung der bundesrepublik auf migranten wird politisch noch immer unterschätzt,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,27. Mai 2021,Joachim Wagner,STREIT;Verlockendes Land; S. 11; Ausg. 22,1217,8980,7942990c0618ee3e7903398b137566efca8aeec8,variant_003,regional_variant,review,,no,,no,,,10900,no,,,near_003,variant_003,"***
+2021-05,Main Corpus,2021-05(55).ZIP,Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch.PDF,Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer unterschätzt.,verlockendes land die sogwirkung der bundesrepublik auf migranten wird politisch noch immer unterschätzt,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,27. Mai 2021,Joachim Wagner,STREIT;Verlockendes Land; S. 11; Ausg. 22,1217,8980,7942990c0618ee3e7903398b137566efca8aeec8,variant_004,regional_variant,review,,no,,no,,,10900,no,,,near_004,variant_004,"***
 »Eine Demokratie, in der nicht gestritten wird, ist keine.« (HELMUT SCHMIDT )
 ***
 Wer wissen will, was die Corona-Pandemie für die Zuwanderung nach Europa bedeutet, der schaue sich nicht nur 
@@ -2974,7 +3342,7 @@ Im September 2015 warnte der damalige Bundespräsident Joachim Gauck: »Unser He
 Möglichkeiten sind endlich.« Diese Mahnung ist heute so aktuell wie vor mehr als fünf Jahren.
  Joachim Wagner, 77, ist Journalist und Buchautor. Er leitete unter anderem die ARD-Sendungen »Panorama« 
 und »Bericht aus Berlin«"
-2021-05,Main Corpus,2021-05(50).ZIP,Warum sich der schwierige Weg für Dragica Smiljanic gelohnt hat Kolumne.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Warum sich der schwierige Weg für Dragica Smiljanic gelohnt hat Kolumne.PDF,Warum sich der schwierige Weg für Dragica Smiljanic gelohnt hat Kolumne,warum sich der schwierige weg für dragica smiljanic gelohnt hat kolumne,Nordwest-Zeitung,nordwestzeitung,22. Mai 2021,,GANDERKESEE; S. 10,735,4776,5a3883656559f680d06970b9fe55398d1b0c6aa2,,unique,keep,,no,,no,,,5804,yes,commentary_noncore,,,,"Ganderkesee - Bei unserem Gespräch meinte Dragica Smiljanic (67): Vielleicht schreibe ich einmal ein Buch über 
+2021-05,Main Corpus,2021-05(55).ZIP,Warum sich der schwierige Weg für Dragica Smiljanic gelohnt hat Kolumne.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Warum sich der schwierige Weg für Dragica Smiljanic gelohnt hat Kolumne.PDF,Warum sich der schwierige Weg für Dragica Smiljanic gelohnt hat Kolumne,warum sich der schwierige weg für dragica smiljanic gelohnt hat kolumne,Nordwest-Zeitung,nordwestzeitung,22. Mai 2021,,GANDERKESEE; S. 10,735,4776,5a3883656559f680d06970b9fe55398d1b0c6aa2,,unique,keep,,no,,no,,,5804,yes,commentary_noncore,,,,"Ganderkesee - Bei unserem Gespräch meinte Dragica Smiljanic (67): Vielleicht schreibe ich einmal ein Buch über 
 mein Leben. Dieses Buch würde sicherlich eine spannende und sehr beeindruckende Autobiografie.
 Die Wurzeln von Dragica Smiljanic liegen in Bosnien und Herzegowina im ehemaligen Jugoslawien. Über ihre 
 Eltern spricht sie nicht. Aufgewachsen ist sie bei ihren Großeltern, die einen großen Bauernhof hatten. Schon in 
@@ -3026,7 +3394,67 @@ PDF-Datei dieses Dokuments
 Warum sich der schwierige Weg für Dragica Smiljanic gelohnt hat Kolumne
 
 Warum sich der schwierige Weg für Dragica Smiljanic gelohnt hat Kolumne"
-2021-05,Main Corpus,2021-05(50).ZIP,Zeitalter der Radikalisierung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Zeitalter der Radikalisierung.PDF,Zeitalter der Radikalisierung,zeitalter der radikalisierung,Berliner Zeitung,berliner zeitung,06. Mai 2021,,MEINUNG; Auslese; S. 8,189,1426,a81de749e2a4912c3561d7f819b50e69ca3b49ff,,unique,drop,commentary_noncore,no,,no,,,2307,yes,commentary_noncore,,,,"Politisch motivierte Straftaten haben im vergangenen Jahr in Deutschland einen Höchststand erreicht, wie aus der 
+2021-05,Main Corpus,2021-05(55).ZIP,"Wild und ungefährlich Es braucht nicht viel, um Wildbienen Nahrung und Unterschlupf zu bieten. Ein S.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Wild und ungefährlich Es braucht nicht viel, um Wildbienen Nahrung und Unterschlupf zu bieten. Ein S.PDF","Wild und ungefährlich Es braucht nicht viel, um Wildbienen Nahrung und Unterschlupf zu bieten. Ein Stückchen",wild und ungefährlich es braucht nicht viel um wildbienen nahrung und unterschlupf zu bieten ein stückchen,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 20. Mai 2021,Kristina Simons,SPEZIAL; S. III,758,5506,a87f86175687dcb3e8aa1f9456a8fbfb96548014,,unique,keep,,no,,no,,,6621,no,,,,,"Von Kristina Simons
+Buckelseidenbienen, Holzbienen, Waldschenkelbienen oder auch Hummeln sie alle gehören zu den Wildbienen. 
+Allein in Deutschland gibt es mehr als 550 verschiedene Arten. Die Sandsteppenbiene ist gerade mal vier Millimeter 
+groß, andere Arten messen bis zu drei Zentimeter. Im Unterschied zu Honigbienen sind die meisten Wildbienen 
+Einzelgänger und heißen deshalb auch Solitär- oder Einsiedlerbienen.
+Ursprünglich gab es hierzulande mal 585 Wildbienenarten, doch mehr als 30 davon sind bereits ausgestorben. Und 
+knapp die Hälfte der Wildbienenarten ist gefährdet, warnt die Initiative Deutschland summt! Wir tun was für Bienen 
+der Stiftung für Mensch und Umwelt. Die Gründe sind vielfältig. Die industrialisierte Hochleistungslandwirtschaft mit 
+Düngemittel- und Pestizideinsätzen, der Flächenfraß für Wohnraum und Mobilität, einwandernde Arten und 
+klimatische Veränderungen machen es den Bienen schwer , erläutert Stiftungskoordinator Dominik Jentzsch. 
+Lebensraum und Futterquellen werden immer knapper. 
+Wer einen Garten hat, kann Bienen ohne großen Aufwand ein Refugium bieten. Die ganze Fläche oder eine Ecke 
+davon kann zum Lebensraum für unterschiedliche Bienenarten werden. Selbst Balkon oder Terrasse lassen sich 
+bienenfreundlich gestalten. Dafür nutzt man heimische Blütenpflanzen als nektar- und pollenreiche Nahrung. Die 
+blühenden Zier- und Nahrungspflanzen brauchen wiederum Bienen, um sich zu vermehren. Eine Win-win-Situation: 
+Wenn wir Bienen Nahrung und Unterschlupf bieten, sichern wir uns zugleich reichhaltige Ernten.
+Von Frühjahr bis Herbst sollte möglichst immer etwas blühen. Wildkräuter wie Rosmarin oder Thymian, ungefüllte 
+Blumensorten wie Akelei, Glockenblumen oder Schafgarbe sowie Wildgehölze wie Süßkirsche, Schlehe oder 
+Wildrosen bieten sich besonders gut an. Auf der Internetseite www.deutschland-summt.de unter Tipps & Tricks gibt 
+es Listen mit bienenfreundlichen Kräutern und Pflanzen, an denen man sich gut orientieren kann.
+
+Wild und ungefährlich Es braucht nicht viel, um Wildbienen Nahrung und Unterschlupf zu bieten. Ein Stückchen 
+Garten oder auch der Balkon reichen
+Wichtig ist auch, ohne Chemie und synthetische Düngemittel zu gärtnern. Wildbienen freuen sich außerdem über 
+kleine Stapel Totholz, Erd- oder Steinhaufen, einen Teich oder eine Trockenmauer. Auch wilde Ecken sind wie für 
+sie gemacht, auch wenn sie manche Gartenfreund*innen womöglich erst mal Überwindung kosten.
+Wildbienen brauchen außerdem Nistplätze und Nistmaterial. Wichtig zu wissen ist, dass der Aktionsradius von 
+Wildbienen meist nur 70 bis 300 Meter beträgt , sagt Jentzsch. Deshalb müssen die Futterpflanzen und die 
+Nistmöglichkeiten der Wildbienen in direkter Nachbarschaft liegen. Dreißig Prozent der Wildbienenarten seien 
+zudem oligolektisch. Das heißt: Sie sind Nahrungsspezialisten, also auf wenige oder nur eine Pflanzenart 
+fokussiert. Auch deshalb starben viele Wildbienenarten aus: Verschwinden ihre Trachtpflanzen aus der 
+Kulturlandschaft, finden sie keine Nahrung, selbst wenn andere Gewächse drumherum blühen.
+Als Nisthilfen eignen sich hohle Stücke vom Schilf- oder Bambusrohr mit einem Innendurchmesser von 3 bis 9 
+Millimetern, die man zum Beispiel im Baumarkt bekommt. Sie werden hinter den Verdickungen (Knoten) abgesägt, 
+sodass der Knoten einen natürlichen Abschluss bildet. Ist das hintere Ende offen, sollte man es mit Watte oder 
+Ähnlichem verschließen. Vorne macht dann das Bienenweibchen die Niströhre dicht. Die Röhrchen sollten 
+waagerecht beispielsweise in einem Regal oder in einer Konservendose neben- und übereinander gelegt werden. 
+Auch abgelagertes, entrindetes Hartholz von Buche, Eiche oder Esche eignet sich gut als oberirdische Nisthilfe. 
+Darin werden fünf bis zehn Zentimeter tiefe Gänge mit einem Durchmesser von zwei bis zehn Millimeter 
+Durchmesser gebohrt. Die Löcher kommen in Längsholz, wo zuvor die Rinde war, und nicht ins Stirnholz. So 
+vermeidet man Risse. Anschließend schmirgelt man die Oberfläche mit Sandpapier glatt. Oberirdische Nisthilfen 
+werden am besten an einem sonnigen, regen- und windgeschützten Standort aufgestellt. Die Öffnung sollte nach 
+Südost bis Südwest gerichtet sein und für die Bienen frei angeflogen werden können.
+Drei Viertel aller Wildbienen nisten jedoch in der Erde: in Sand, Löss oder Lehm. Manche Arten legen ihre Nester 
+bis zu einen Meter unter der Erdoberfläche an. Ein Stück Naturboden, nicht umgegraben, gedüngt oder eng 
+bepflanzt, ist für erdnistende Wildbienen ideal. Für Sandbienen etwa bietet sich ein Hochbeet an, das rund 40 bis 
+50 Zentimeter mit Sand gefüllt ist. Die Bienen können darin ihre wenige Zentimeter tiefe Brutzelle als Hohlraum 
+bauen.
+Auch im Winter brauchen Wildbienen Rückzugsorte, liegengelassenes Laub zum Beispiel. Auch verblühte Stauden 
+sollte man besser nicht zurückschneiden, sondern den Bienen als Schutz lassen. Bei den meisten Wildbienenarten 
+überwintern nur die Ruhelarven oder Vorpuppen in ihren Brutkammern, nicht die erwachsenen Insekten. Viele 
+legen ihre Eier zwischen Frühjahr und Sommer in vorhandene oder selbst gebohrte Löcher in holzige Strukturen, in 
+Stängel oder Steinnischen. Die Nachkommen überdauern eine Kälteperiode, bevor sie im Frühjahr als erwachsene 
+Biene schlüpfen , erläutert Jentzsch. Findet sie diese Schutzräume nicht, nützt ihr auch keine Blumenwiese im 
+Sommer. 
+www.wir-tun-was-fuer-bienen.de
+Win-win-Situation: Bienen bekommen Nahrung, wir gute Ernten
+taz thema
+weltbienentag
+die verlagsseiten der taz"
+2021-05,Main Corpus,2021-05(55).ZIP,Zeitalter der Radikalisierung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\Zeitalter der Radikalisierung.PDF,Zeitalter der Radikalisierung,zeitalter der radikalisierung,Berliner Zeitung,berliner zeitung,06. Mai 2021,,MEINUNG; Auslese; S. 8,189,1426,a81de749e2a4912c3561d7f819b50e69ca3b49ff,,unique,drop,commentary_noncore,no,,no,,,2307,yes,commentary_noncore,,,,"Politisch motivierte Straftaten haben im vergangenen Jahr in Deutschland einen Höchststand erreicht, wie aus der 
 Statistik des Bundeskriminalamtes für 2020 hervorgeht,. Dazu schreibt der Kölner Stadt-Anzeiger: Neu ist, dass 
 parallel zur Corona-Pandemie binnen eines Jahres eine extremistische Bewegung aus dem Boden schoss: die 
 ,Querdenker . Hier wiederholt sich ein Szenario, das wir von der Flüchtlingskrise kennen. Eine Situation, die von 
@@ -3040,7 +3468,7 @@ Andersdenkende, Amtsträger und demokratische Institutionen entwickelt, der in G
 mit antisemitischen und rechtsextremen Motiven. Hass ist ein Gift, das verletzt und tötet. Staat wie Bürger und 
 Bürgerinnen sind aufgerufen, dem Hass, wo immer er sich zeigt, entgegenzutreten , schreibt das Blatt aus Freiburg. 
 (fs.)"
-2021-05,Main Corpus,2021-05(50).ZIP,„Diese Lager gehören aufgelöst“.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\„Diese Lager gehören aufgelöst“.PDF,„Diese Lager gehören aufgelöst“,diese lager gehören aufgelöst,Frankfurter Rundschau,frankfurter rundschau,Freitag 28. Mai 2021,,POLITIK; S. 5,658,4827,113ab3129264e175f78c2e45a151c6688ebbe716,,unique,keep,,no,,no,,,6018,no,,,,,"VON PITT VON BEBENBURG
+2021-05,Main Corpus,2021-05(55).ZIP,„Diese Lager gehören aufgelöst“.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\„Diese Lager gehören aufgelöst“.PDF,„Diese Lager gehören aufgelöst“,diese lager gehören aufgelöst,Frankfurter Rundschau,frankfurter rundschau,Freitag 28. Mai 2021,,POLITIK; S. 5,658,4827,113ab3129264e175f78c2e45a151c6688ebbe716,,unique,keep,,no,,no,,,6018,no,,,,,"VON PITT VON BEBENBURG
 Die Linken-Bundesvorsitzende Janine Wissler hat die Zustände im Flüchtlingslager der griechischen Insel Lesbos 
 „furchtbar“ genannt. „Diese Lager gehören aufgelöst“, sagte Wissler am Donnerstag, nachdem sie die Einrichtung 
 am Vortag mit einer Delegation von Angehörigen ihrer Partei aus Bundestag, Europäischem Parlament und 
@@ -3097,7 +3525,7 @@ eingepferchten Menschen auf rund 20 000.
 Im August 2020 wurde das Lager wegen erster Corona-Infektionen dort unter Quarantäne gestellt. Am 9. 
 September dann brannte Moria nieder. FR
 Link zum PDF-Dokument"
-2021-05,Main Corpus,2021-05(50).ZIP,"„Gefahr für Demokratie“ Nahost-Konflikt Extremismus-Experte Ahmad Mansour betont, wie wichtig es für.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\„Gefahr für Demokratie“ Nahost-Konflikt Extremismus-Experte Ahmad Mansour betont, wie wichtig es für.PDF","„Gefahr für Demokratie“; Nahost-Konflikt Extremismus-Experte Ahmad Mansour betont, wie wichtig es für den",gefahr für demokratie nahostkonflikt extremismusexperte ahmad mansour betont wie wichtig es für den,Südwest Presse,südwest presse,Dienstag 18. Mai 2021,,POLITIK; S. 4; Band 77; Ausg. 112,687,4894,b5434ff53465c8a80a20176dcac6c3d07f7138b5,,unique,keep,,no,,no,,,5952,no,,,,,"Sein Telefon steht nicht still. Seit sich der Nahost-Konflikt auf deutsche Straßen verlagert, ist die Einschätzung des 
+2021-05,Main Corpus,2021-05(55).ZIP,"„Gefahr für Demokratie“ Nahost-Konflikt Extremismus-Experte Ahmad Mansour betont, wie wichtig es für.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2021-05\raw_unarchive\„Gefahr für Demokratie“ Nahost-Konflikt Extremismus-Experte Ahmad Mansour betont, wie wichtig es für.PDF","„Gefahr für Demokratie“; Nahost-Konflikt Extremismus-Experte Ahmad Mansour betont, wie wichtig es für den",gefahr für demokratie nahostkonflikt extremismusexperte ahmad mansour betont wie wichtig es für den,Südwest Presse,südwest presse,Dienstag 18. Mai 2021,,POLITIK; S. 4; Band 77; Ausg. 112,687,4894,b5434ff53465c8a80a20176dcac6c3d07f7138b5,,unique,keep,,no,,no,,,5952,no,,,,,"Sein Telefon steht nicht still. Seit sich der Nahost-Konflikt auf deutsche Straßen verlagert, ist die Einschätzung des 
 Extremismus-Experten Ahmad Mansour sehr gefragt. Er ist in Israel aufgewachsen.
 Auf den Straßen werden Hass-Parolen gegen Israel gerufen. Wer sind die Träger des neuen Antisemitismus?
 Ahmad Mansour: Der Antisemitismus ist nicht neu, auch unter Migranten nicht. Er ist ein herkunftsübergreifendes 

@@ -2,28 +2,29 @@
 
 ## Overall
 
-- Total file count: 50
-- Unique article count after duplicate collapse: 46
+- Total file count: 89
+- Unique article count after duplicate collapse: 85
 - Exact duplicate groups: 1
 - Suspicious near-duplicate groups: 2
 - Repeated regional-edition variant groups: 3
 - Malformed records: 0
-- Keep: 37
+- Keep: 75
 - Review: 8
-- Drop: 5
+- Drop: 6
 
 ## Outlet Frequency
 
 | Publication | Count |
 | --- | ---: |
-| taz, die tageszeitung | 12 |
-| Frankfurter Rundschau | 8 |
-| Berliner Zeitung | 8 |
-| Südwest Presse | 7 |
+| taz, die tageszeitung | 21 |
+| Berliner Zeitung | 15 |
+| Frankfurter Rundschau | 13 |
+| Der Tagesspiegel | 12 |
+| Südwest Presse | 9 |
+| Rheinische Post | 7 |
 | Die ZEIT (inklusive ZEIT Magazin) | 5 |
-| Der Tagesspiegel | 5 |
-| Rheinische Post | 3 |
-| Die Welt | 2 |
+| Die Welt | 5 |
+| Welt am Sonntag | 2 |
 ## Duplicate Groups
 
 - exact_001 (2 items): Das neue Gesicht der Globalisierung Der Andrang der Hilfesuchenden wird nicht nachlassen. Sie würdig(2).PDF | Das neue Gesicht der Globalisierung Der Andrang der Hilfesuchenden wird nicht nachlassen. Sie würdig.PDF

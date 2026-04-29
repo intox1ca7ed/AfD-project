@@ -1,8 +1,8 @@
 # Clean 2022-01 Corpus Summary
 
-- Total original files: 50
-- Kept files: 37
-- Dropped files: 13
+- Total original files: 58
+- Kept files: 44
+- Dropped files: 14
 - Review files: 0
 - Duplicate groups collapsed: 11
 

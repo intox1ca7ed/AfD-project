@@ -1,5 +1,5 @@
 ﻿batch_id,corpus_name,source_archive,file_name,file_path,title_original,title_normalized,publication,publication_normalized,date,byline,section,word_count,body_char_count,body_hash_exact,duplicate_group_id,duplicate_category,keep_drop_review,drop_reason,kept_representative_of_group,representative_selection_reason,malformed_flag,malformed_reason,notes,raw_text_chars,low_value_flag,low_value_reason,exact_duplicate_group,near_duplicate_group,repeated_variant_group,body_text
-2022-01,Main Corpus,2022-01(50).ZIP,Afghanische Ortskräfte sind in Kommunen angekommen(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Afghanische Ortskräfte sind in Kommunen angekommen(2).PDF,Afghanische Ortskräfte sind in Kommunen angekommen,afghanische ortskräfte sind in kommunen angekommen,Rheinische Post,rheinische post,Samstag 22. Januar 2022,Kirsten Bialdiga,S. 5,276,2327,6a5f7b1631d83071434a0c0f1260db816a37d13b,exact_001,duplicate_exact,review,,no,,no,,,3068,no,,exact_001,,,"Kirsten Bialdiga
+2022-01,Main Corpus,2022-01(58).ZIP,Afghanische Ortskräfte sind in Kommunen angekommen(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Afghanische Ortskräfte sind in Kommunen angekommen(2).PDF,Afghanische Ortskräfte sind in Kommunen angekommen,afghanische ortskräfte sind in kommunen angekommen,Rheinische Post,rheinische post,Samstag 22. Januar 2022,Kirsten Bialdiga,S. 5,276,2327,6a5f7b1631d83071434a0c0f1260db816a37d13b,exact_001,duplicate_exact,review,,no,,no,,,3068,no,,exact_001,,,"Kirsten Bialdiga
 Düsseldorf Die Integration der afghanischen Ortskräfte kommt voran. Wie das Landesintegrationsministerium 
 unserer Redaktion mitteilte, hat das Bundesamt für Migration und Flüchtlinge (Bamf) mit Stand vom 19. Januar 
 2022 insgesamt 2334 ehemalige Ortskräfte und ihre Kernfamilien sowie weitere besonders schutzbedürftige 
@@ -25,7 +25,7 @@ zum Teil unter Einsatz ihres Lebens für Deutsche in Afghanistan arbeiteten, mü
 Afghanische Ortskräfte sind in Kommunen angekommen
 durchlaufen. Viele von ihnen wurden buchstäblich in letzter Minute ausgeflogen, nachdem die radikalislamischen 
 Taliban die Macht übernommen hatten."
-2022-01,Main Corpus,2022-01(50).ZIP,Afghanische Ortskräfte sind in Kommunen angekommen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Afghanische Ortskräfte sind in Kommunen angekommen.PDF,Afghanische Ortskräfte sind in Kommunen angekommen,afghanische ortskräfte sind in kommunen angekommen,Rheinische Post,rheinische post,Samstag 22. Januar 2022,Kirsten Bialdiga,S. 5,276,2327,6a5f7b1631d83071434a0c0f1260db816a37d13b,exact_001,duplicate_exact,review,,no,,no,,,3083,no,,exact_001,,,"Kirsten Bialdiga
+2022-01,Main Corpus,2022-01(58).ZIP,Afghanische Ortskräfte sind in Kommunen angekommen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Afghanische Ortskräfte sind in Kommunen angekommen.PDF,Afghanische Ortskräfte sind in Kommunen angekommen,afghanische ortskräfte sind in kommunen angekommen,Rheinische Post,rheinische post,Samstag 22. Januar 2022,Kirsten Bialdiga,S. 5,276,2327,6a5f7b1631d83071434a0c0f1260db816a37d13b,exact_001,duplicate_exact,review,,no,,no,,,3083,no,,exact_001,,,"Kirsten Bialdiga
 Düsseldorf Die Integration der afghanischen Ortskräfte kommt voran. Wie das Landesintegrationsministerium 
 unserer Redaktion mitteilte, hat das Bundesamt für Migration und Flüchtlinge (Bamf) mit Stand vom 19. Januar 
 2022 insgesamt 2334 ehemalige Ortskräfte und ihre Kernfamilien sowie weitere besonders schutzbedürftige 
@@ -51,7 +51,7 @@ zum Teil unter Einsatz ihres Lebens für Deutsche in Afghanistan arbeiteten, mü
 Afghanische Ortskräfte sind in Kommunen angekommen
 durchlaufen. Viele von ihnen wurden buchstäblich in letzter Minute ausgeflogen, nachdem die radikalislamischen 
 Taliban die Macht übernommen hatten."
-2022-01,Main Corpus,2022-01(50).ZIP,Ampel offen für Umverteilung von Asylsuchenden Innenministerin Faeser (SPD) will EU-Küstenstaaten wi.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Ampel offen für Umverteilung von Asylsuchenden Innenministerin Faeser (SPD) will EU-Küstenstaaten wi.PDF,Ampel offen für Umverteilung von Asylsuchenden; Innenministerin Faeser (SPD) will EU-Küstenstaaten wie,ampel offen für umverteilung von asylsuchenden innenministerin faeser spd will euküstenstaaten wie,Die Welt,die welt,Montag 17. Januar 2022,Marcel Leubecher,Titel; S. 1; Ausg. 11,989,7381,c882294c20c744b5558a383794ea9b5e3226d19e,,unique,keep,,no,,no,,,8619,no,,,,,"In nur wenigen Jahren seit Bestehen der Bundesrepublik kamen mehr Asylbewerber nach Deutschland als im 
+2022-01,Main Corpus,2022-01(58).ZIP,Ampel offen für Umverteilung von Asylsuchenden Innenministerin Faeser (SPD) will EU-Küstenstaaten wi.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Ampel offen für Umverteilung von Asylsuchenden Innenministerin Faeser (SPD) will EU-Küstenstaaten wi.PDF,Ampel offen für Umverteilung von Asylsuchenden; Innenministerin Faeser (SPD) will EU-Küstenstaaten wie,ampel offen für umverteilung von asylsuchenden innenministerin faeser spd will euküstenstaaten wie,Die Welt,die welt,Montag 17. Januar 2022,Marcel Leubecher,Titel; S. 1; Ausg. 11,989,7381,c882294c20c744b5558a383794ea9b5e3226d19e,,unique,keep,,no,,no,,,8619,no,,,,,"In nur wenigen Jahren seit Bestehen der Bundesrepublik kamen mehr Asylbewerber nach Deutschland als im 
 zurückliegenden: 148.000 Asylerstanträge waren es laut Bundesamt für Migration und Flüchtlinge am Ende; diese 
 Zahl wurde bisher lediglich 1991 bis 1993 und dann rund um die Migrationskrise 2014 bis 2018 übertroffen.
 Obwohl Deutschland seit 2012 durchgängig das Hauptziel von Asylbewerbern in Europa ist, möchte die Ampel-
@@ -127,7 +127,7 @@ Italien mit einer ""Koalition der Willigen"" entlasten
 Koalition, sondern ein beherztes nationales Handeln, etwa die Abschaffung von Fehlanreizen im deutschen 
 Asylsystem.""
 Original Gesamtseiten-PDF"
-2022-01,Main Corpus,2022-01(50).ZIP,"Ampel treibt Integration von Afghanen voran Ein Schritt, der dauerhafte Einwanderung fördert.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Ampel treibt Integration von Afghanen voran Ein Schritt, der dauerhafte Einwanderung fördert.PDF","Ampel treibt Integration von Afghanen voran; Ein Schritt, der dauerhafte Einwanderung fördert",ampel treibt integration von afghanen voran ein schritt der dauerhafte einwanderung fördert,Die Welt,die welt,Dienstag 11. Januar 2022,Marcel Leubecher,Politik; S. 4; Ausg. 7,540,4167,4cfb7df14da8904dfcf37ec8239e265dd7bdcca8,,unique,keep,,no,,no,,,5269,no,,,,,"Durch die deutsche Asylpolitik der vergangenen Jahre - einer Kombination aus wenig Grenzschutz, viel Sozialstaat 
+2022-01,Main Corpus,2022-01(58).ZIP,"Ampel treibt Integration von Afghanen voran Ein Schritt, der dauerhafte Einwanderung fördert.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Ampel treibt Integration von Afghanen voran Ein Schritt, der dauerhafte Einwanderung fördert.PDF","Ampel treibt Integration von Afghanen voran; Ein Schritt, der dauerhafte Einwanderung fördert",ampel treibt integration von afghanen voran ein schritt der dauerhafte einwanderung fördert,Die Welt,die welt,Dienstag 11. Januar 2022,Marcel Leubecher,Politik; S. 4; Ausg. 7,540,4167,4cfb7df14da8904dfcf37ec8239e265dd7bdcca8,,unique,keep,,no,,no,,,5269,no,,,,,"Durch die deutsche Asylpolitik der vergangenen Jahre - einer Kombination aus wenig Grenzschutz, viel Sozialstaat 
 und hoher Bleibechance - hat sich die Bundesrepublik zum bevorzugten Zielland für Afghanen außerhalb ihrer 
 Weltregion entwickelt. Die neue Bundesregierung fügt den vielen kleinen Faktoren, die in ihrer Summe zur 
 besonderen Anziehungskraft Deutschlands führen, einen weiteren hinzu: Asylsuchende aus dem von den Taliban 
@@ -169,7 +169,7 @@ besuchen dürfen. Für die Afghanen, die nach den Syrern größte Asyl-Gruppe, i
 politische Kurs, die eigentlich zeitlich befristete Schutzgewährung zur dauerhaften Einwanderung samt 
 Integrationsprogrammen und rascher Einbürgerung auszubauen, wird von der Ampel weiter vorangetrieben.
 Original Gesamtseiten-PDF"
-2022-01,Main Corpus,2022-01(50).ZIP,"Beim Familiennachzug hakt es Kirchen und Pro Asyl fordern die Ampelregierung auf, den oft jahrelang.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Beim Familiennachzug hakt es Kirchen und Pro Asyl fordern die Ampelregierung auf, den oft jahrelang.PDF","Beim Familiennachzug hakt es Kirchen und Pro Asyl fordern die Ampelregierung auf, den oft jahrelang",beim familiennachzug hakt es kirchen und pro asyl fordern die ampelregierung auf den oft jahrelang,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 13. Januar 2022,Marina Mai,INLAND; S. 7,1047,7567,a5389cec1e0996094abe2c65de01b46d3204aef9,,unique,keep,,no,,no,,,9100,no,,,,,"Von Marina Mai
+2022-01,Main Corpus,2022-01(58).ZIP,"Beim Familiennachzug hakt es Kirchen und Pro Asyl fordern die Ampelregierung auf, den oft jahrelang.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Beim Familiennachzug hakt es Kirchen und Pro Asyl fordern die Ampelregierung auf, den oft jahrelang.PDF","Beim Familiennachzug hakt es Kirchen und Pro Asyl fordern die Ampelregierung auf, den oft jahrelang",beim familiennachzug hakt es kirchen und pro asyl fordern die ampelregierung auf den oft jahrelang,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 13. Januar 2022,Marina Mai,INLAND; S. 7,1047,7567,a5389cec1e0996094abe2c65de01b46d3204aef9,,unique,keep,,no,,no,,,9100,no,,,,,"Von Marina Mai
 Die katholische Kirche und die Flüchtlingsorganisation Pro Asyl fordern von der neuen Bundesregierung ein Ende 
 der Verschleppung des Familiennachzugs für Geflüchtete. Heiner Koch, katholischer Erzbischof von Berlin und 
 Leiter der Kommission Familie bei der Deutschen Bischofskonferenz, verlangt zügigere staatliche Verfahren und 
@@ -249,7 +249,7 @@ abgelehnt. Der Anstieg begründete sich etwa mit der Machtübernahme der Taliban
 Migrationsroute über Belarus. 2017 hatten 222.600 Menschen Schutz beantragt, 2019 dem letzten Jahr vor der 
 Coronapandemie waren es 165.938. Im vergangenen Jahr lag die Zahl bei 122.000 Anträgen, auch weil 
 pandemiebedingt Reisen weltweit beschränkt waren. (taz)"
-2022-01,Main Corpus,2022-01(50).ZIP,"Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch s(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch s(2).PDF","Brauchen bessere Willkommenskultur ; Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch so",brauchen bessere willkommenskultur  beschäftigung chef der arbeitsagentur erklärt warum immer noch so,Nordwest-Zeitung,nordwestzeitung,20. Januar 2022,,EZ_POLITIK; S. 11,468,3574,2ca04eef85517385393ddb789d2edd104a364929,variant_001,regional_variant,review,,no,,no,,,4949,no,,,near_001,variant_001,"FrageHerr Pfeiffer, warum gibt es einen Fachkräftemangel?
+2022-01,Main Corpus,2022-01(58).ZIP,"Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch s(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch s(2).PDF","Brauchen bessere Willkommenskultur ; Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch so",brauchen bessere willkommenskultur  beschäftigung chef der arbeitsagentur erklärt warum immer noch so,Nordwest-Zeitung,nordwestzeitung,20. Januar 2022,,EZ_POLITIK; S. 11,468,3574,2ca04eef85517385393ddb789d2edd104a364929,variant_001,regional_variant,review,,no,,no,,,4949,no,,,near_001,variant_001,"FrageHerr Pfeiffer, warum gibt es einen Fachkräftemangel?
 Pfeiffer Der demografische Wandel wird spürbar. Schon 2025 haben wir in Niedersachsen mehr Menschen, die 
 aus dem Arbeitsleben ausscheiden, als junge Menschen, die nachrücken. Im Jahr 2030 betrifft diese Schere 36 
 000 Menschen. Der Fachkräftemangel stellt ein großes Wachstumsrisiko dar. Darum müssen wir jetzt aktiv 
@@ -294,7 +294,7 @@ Pfeiffer Sie spielt überhaupt keine Rolle bei der Erwerbsmigration.
 PDF-Datei dieses Dokuments
  Brauchen bessere Willkommenskultur ; Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch so 
 wenig Fachkräfte zuwandern"
-2022-01,Main Corpus,2022-01(50).ZIP,"Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch s.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch s.PDF","Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch so",brauchen bessere willkommenskultur beschäftigung chef der arbeitsagentur erklärt warum immer noch so,Nordwest-Zeitung,nordwestzeitung,20. Januar 2022,,NIEDERSACHSEN; S. 21,468,3568,63d9f879146a3f6a74d69e4b903ebea88c275d05,variant_001,regional_variant,review,,no,,no,,,4911,no,,,near_001,variant_001,"FrageHerr Pfeiffer, warum gibt es einen Fachkräftemangel?
+2022-01,Main Corpus,2022-01(58).ZIP,"Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch s.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch s.PDF","Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch so",brauchen bessere willkommenskultur beschäftigung chef der arbeitsagentur erklärt warum immer noch so,Nordwest-Zeitung,nordwestzeitung,20. Januar 2022,,NIEDERSACHSEN; S. 21,468,3568,63d9f879146a3f6a74d69e4b903ebea88c275d05,variant_001,regional_variant,review,,no,,no,,,4911,no,,,near_001,variant_001,"FrageHerr Pfeiffer, warum gibt es einen Fachkräftemangel?
 Pfeiffer Der demografische Wandel wird spürbar. Schon 2025 haben wir in Niedersachsen mehr Menschen, die 
 aus dem Arbeitsleben ausscheiden, als junge Menschen, die nachrücken. Im Jahr 2030 betrifft diese Schere 36 
 000 Menschen. Der Fachkräftemangel stellt ein großes Wachstumsrisiko dar. Darum müssen wir jetzt aktiv 
@@ -339,7 +339,7 @@ Pfeiffer Sie spielt überhaupt keine Rolle bei der Erwerbsmigration.
 PDF-Datei dieses Dokuments
 Brauchen bessere Willkommenskultur Beschäftigung Chef der Arbeitsagentur erklärt, warum immer noch so 
 wenig Fachkräfte zuwandern"
-2022-01,Main Corpus,2022-01(50).ZIP,Container-Lösung nur im äußersten Notfall Asylpolitik Zahl der Flüchtlinge nimmt wieder zu   Landkre.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Container-Lösung nur im äußersten Notfall Asylpolitik Zahl der Flüchtlinge nimmt wieder zu   Landkre.PDF,Container-Lösung nur im äußersten Notfall Asylpolitik Zahl der Flüchtlinge nimmt wieder zu Landkreis möchte,containerlösung nur im äussersten notfall asylpolitik zahl der flüchtlinge nimmt wieder zu landkreis möchte,Nordwest-Zeitung,nordwestzeitung,22. Januar 2022,,OSTFRIESLAND; S. 9,521,3875,bb7615402b81ae2859727da90c26a4ff04975954,,unique,keep,,no,,no,,,4938,no,,,,,"Wittmund/mh/ah - Das Thema ist lange Zeit durch die Corona-Lage in den Hintergrund getreten. Aber immer noch 
+2022-01,Main Corpus,2022-01(58).ZIP,Container-Lösung nur im äußersten Notfall Asylpolitik Zahl der Flüchtlinge nimmt wieder zu   Landkre.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Container-Lösung nur im äußersten Notfall Asylpolitik Zahl der Flüchtlinge nimmt wieder zu   Landkre.PDF,Container-Lösung nur im äußersten Notfall Asylpolitik Zahl der Flüchtlinge nimmt wieder zu Landkreis möchte,containerlösung nur im äussersten notfall asylpolitik zahl der flüchtlinge nimmt wieder zu landkreis möchte,Nordwest-Zeitung,nordwestzeitung,22. Januar 2022,,OSTFRIESLAND; S. 9,521,3875,bb7615402b81ae2859727da90c26a4ff04975954,,unique,keep,,no,,no,,,4938,no,,,,,"Wittmund/mh/ah - Das Thema ist lange Zeit durch die Corona-Lage in den Hintergrund getreten. Aber immer noch 
 kommen Flüchtlinge aus Kriegs- und Krisengebieten in Deutschland an. Durch die Machtübernahme der Taliban in 
 Afghanistan etwa ist der Zustrom deutlich gewachsen. Das spürt auch der Landkreis Wittmund, dem durch das 
 Land jetzt wieder deutlich mehr Geflüchtete zugewiesen werden als vor einem Jahr.
@@ -381,7 +381,7 @@ vom Land einen Kostenzuschuss von rund 11 000 Euro pro Jahr und Asylsuchenden.
 04462/861324 (Lamberti), 04462/861349 (Janssen) oder 04462/861303 (Kluge). Kontakt per E-Mail:
 sozialamt@lk.wittmund .de
 PDF-Datei dieses Dokuments"
-2022-01,Main Corpus,2022-01(50).ZIP,Debatte zur Aufnahme von Flüchtlingen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Debatte zur Aufnahme von Flüchtlingen.PDF,Debatte zur Aufnahme von Flüchtlingen,debatte zur aufnahme von flüchtlingen,Nordwest-Zeitung,nordwestzeitung,11. Januar 2022,,OLDENBURG; S. 15,446,2993,ec4b3cfdd1ba0b88e112e8820ed2b8b1200aeb84,,unique,keep,,no,,no,,,3739,no,,,,,"Betrifft:Oldenburg bietet Flüchtlingen Hilfe an
+2022-01,Main Corpus,2022-01(58).ZIP,Debatte zur Aufnahme von Flüchtlingen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Debatte zur Aufnahme von Flüchtlingen.PDF,Debatte zur Aufnahme von Flüchtlingen,debatte zur aufnahme von flüchtlingen,Nordwest-Zeitung,nordwestzeitung,11. Januar 2022,,OLDENBURG; S. 15,446,2993,ec4b3cfdd1ba0b88e112e8820ed2b8b1200aeb84,,unique,keep,,no,,no,,,3739,no,,,,,"Betrifft:Oldenburg bietet Flüchtlingen Hilfe an
 Alles sehr ehrenwert, was die politische Elite der Kommune Oldenburg anbietet, wenn man die desaströsen 
 Zustände an der Polen-Belarus Grenze im Fernsehen und Zeitschriften sieht. Menschlich verständlich, dass man 
 helfen will. Aber, es gibt hier immer ein Aber: Wer sich in Gefahr begibt, kann darin umkommen Bedeutung: Wer 
@@ -414,7 +414,7 @@ tritt.
 Der letzte Satz des Artikels beflügelt und befeuert mich und andere. Dieser ist ein passendes Motto für andere 
 Kommunen und Gruppierungen: Sich auf den Weg machen und Vorbild sein für andere... !
 PDF-Datei dieses Dokuments"
-2022-01,Main Corpus,2022-01(50).ZIP,Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildu(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildu(2).PDF,Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildung,der kollege aus afghanistan abdul taher bahram ist frisch gebackener kfzmechatroniker die ausbildung,Rheinische Post,rheinische post,Samstag 22. Januar 2022,Markus Balser,S. 21,850,5794,54030b98a7b864debad5f2223a6b86143205dc87,variant_002,regional_variant,review,,no,,no,,,6963,no,,,near_002,variant_002,"MARKUS BALSER
+2022-01,Main Corpus,2022-01(58).ZIP,Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildu(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildu(2).PDF,Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildung,der kollege aus afghanistan abdul taher bahram ist frisch gebackener kfzmechatroniker die ausbildung,Rheinische Post,rheinische post,Samstag 22. Januar 2022,Markus Balser,S. 21,850,5794,54030b98a7b864debad5f2223a6b86143205dc87,variant_002,regional_variant,review,,no,,no,,,6963,no,,,near_002,variant_002,"MARKUS BALSER
 MILLINGEN/REES Die Geschichte von Abdul Taher Bahram ist eigentlich eine traurige. Dass sie jetzt in Millingen 
 ein Happy End genommen hat, ist daher umso schöner. Ein Erfolg, auf den nicht nur der junge Mann stolz sein 
 kann, sondern auch die Firma Hövelmann Logistik und die Stadt Rees. Alle Beteiligten haben dazu beigetragen, 
@@ -474,7 +474,7 @@ Lebensmitteltransporte Heute beschäftigt das international agierende Reeser Log
 Standorten rund 700 Mitarbeiter. Neben dem Hauptsitz in Millingen kommen unter anderem noch Hermsdorf und 
 Haldensleben nahe Magedeburg dazu. 200 Lkw fahren unter der Hövelmann-Flagge. Einer der Schwerpunkte sind 
 Lebensmitteltransporte für Discounter-Märkte. Aber auch für die Agrarindustrie sind die Hövelmänner unterwegs."
-2022-01,Main Corpus,2022-01(50).ZIP,Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildu.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildu.PDF,Der Kollege aus Afghanistan; Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildung,der kollege aus afghanistan abdul taher bahram ist frisch gebackener kfzmechatroniker die ausbildung,Rheinische Post,rheinische post,Samstag 22. Januar 2022,Markus Balser,S. 23,850,5794,584a4c243ee2318347a16c977a141330609e5dc3,variant_002,regional_variant,review,,no,,no,,,6960,no,,,near_002,variant_002,"MARKUS BALSER
+2022-01,Main Corpus,2022-01(58).ZIP,Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildu.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Der Kollege aus Afghanistan Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildu.PDF,Der Kollege aus Afghanistan; Abdul Taher Bahram ist frisch gebackener Kfz-Mechatroniker. Die Ausbildung,der kollege aus afghanistan abdul taher bahram ist frisch gebackener kfzmechatroniker die ausbildung,Rheinische Post,rheinische post,Samstag 22. Januar 2022,Markus Balser,S. 23,850,5794,584a4c243ee2318347a16c977a141330609e5dc3,variant_002,regional_variant,review,,no,,no,,,6960,no,,,near_002,variant_002,"MARKUS BALSER
 MILLINGEN/REES Die Geschichte von Abdul Taher Bahram ist eigentlich eine traurige. Dass sie jetzt in Millingen 
 ein Happy End genommen hat, ist daher umso schöner. Ein Erfolg, auf den nicht nur der junge Mann stolz sein 
 kann, sondern auch die Firma Hövelmann Logistik und die Stadt Rees. Alle Beteiligten haben dazu beigetragen, 
@@ -534,7 +534,7 @@ Lebensmitteltransporte Heute beschäftigt das international agierende Reeser Log
 Standorten rund 700 Mitarbeiter. Neben dem Hauptsitz in Millingen kommen unter anderem noch Hermsdorf und 
 Haldensleben nahe Magedeburg dazu. 200 Lkw fahren unter der Hövelmann-Flagge. Einer der Schwerpunkte sind 
 Lebensmitteltransporte für Discounter-Märkte. Aber auch für die Agrarindustrie sind die Hövelmänner unterwegs."
-2022-01,Main Corpus,2022-01(50).ZIP,"Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, such(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, such(2).PDF","Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, sucht der",deutschland wirbt nur 114 itfachkräfte an weil der wirtschaft hunderttausende experten fehlen sucht der,Welt am Sonntag,welt am sonntag,29. Januar 2022,Jan Klauth,Wirtschaft; S. 22; Ausg. 5,511,3683,0bae50cd80db520b0a193c5c706db07a92238fb6,exact_002,duplicate_exact,review,,no,,no,,,4844,no,,exact_002,,,"Seit Jahren verspricht die Politik, qualifizierte Fachkräfte ins Land zu locken. Doch für viele Talente ist der Standort 
+2022-01,Main Corpus,2022-01(58).ZIP,"Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, such(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, such(2).PDF","Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, sucht der",deutschland wirbt nur 114 itfachkräfte an weil der wirtschaft hunderttausende experten fehlen sucht der,Welt am Sonntag,welt am sonntag,29. Januar 2022,Jan Klauth,Wirtschaft; S. 22; Ausg. 5,511,3683,0bae50cd80db520b0a193c5c706db07a92238fb6,exact_002,duplicate_exact,review,,no,,no,,,4844,no,,exact_002,,,"Seit Jahren verspricht die Politik, qualifizierte Fachkräfte ins Land zu locken. Doch für viele Talente ist der Standort 
 Deutschland noch immer unattraktiv. Wer zwischen gut bezahlten Jobs entscheiden kann, wählt häufiger Länder 
 wie Kanada oder die USA anstelle der Bundesrepublik - die Engpässe auf dem Arbeitsmarkt verschärfen sich 
 dadurch zusehends.
@@ -573,7 +573,7 @@ arbeitsmarktpolitische Sprecherin der Linken im Bundestag. Der Austausch bereich
 dürfen sich aber nicht vor Investitionen in Ausbildung ihres Nachwuchses drücken, indem sie einseitig fertige 
 Fachkräfte aus dem Ausland anwerben. Das finde ich schäbig.""
 Original Gesamtseiten-PDF"
-2022-01,Main Corpus,2022-01(50).ZIP,"Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, such.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, such.PDF","Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, sucht der",deutschland wirbt nur 114 itfachkräfte an weil der wirtschaft hunderttausende experten fehlen sucht der,Welt am Sonntag,welt am sonntag,30. Januar 2022,Jan Klauth,Wirtschaft; S. 22; Ausg. 5,511,3683,0bae50cd80db520b0a193c5c706db07a92238fb6,exact_002,duplicate_exact,review,,no,,no,,,4844,no,,exact_002,,,"Seit Jahren verspricht die Politik, qualifizierte Fachkräfte ins Land zu locken. Doch für viele Talente ist der Standort 
+2022-01,Main Corpus,2022-01(58).ZIP,"Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, such.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, such.PDF","Deutschland wirbt nur 114 IT-Fachkräfte an Weil der Wirtschaft Hunderttausende Experten fehlen, sucht der",deutschland wirbt nur 114 itfachkräfte an weil der wirtschaft hunderttausende experten fehlen sucht der,Welt am Sonntag,welt am sonntag,30. Januar 2022,Jan Klauth,Wirtschaft; S. 22; Ausg. 5,511,3683,0bae50cd80db520b0a193c5c706db07a92238fb6,exact_002,duplicate_exact,review,,no,,no,,,4844,no,,exact_002,,,"Seit Jahren verspricht die Politik, qualifizierte Fachkräfte ins Land zu locken. Doch für viele Talente ist der Standort 
 Deutschland noch immer unattraktiv. Wer zwischen gut bezahlten Jobs entscheiden kann, wählt häufiger Länder 
 wie Kanada oder die USA anstelle der Bundesrepublik - die Engpässe auf dem Arbeitsmarkt verschärfen sich 
 dadurch zusehends.
@@ -612,7 +612,7 @@ arbeitsmarktpolitische Sprecherin der Linken im Bundestag. Der Austausch bereich
 dürfen sich aber nicht vor Investitionen in Ausbildung ihres Nachwuchses drücken, indem sie einseitig fertige 
 Fachkräfte aus dem Ausland anwerben. Das finde ich schäbig.""
 Original Gesamtseiten-PDF"
-2022-01,Main Corpus,2022-01(50).ZIP,Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr(2).PDF,Es kommen mehr Flüchtlinge; Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr.,es kommen mehr flüchtlinge im dezember wurden so viele aufgenommen wie seit 2017 nicht mehr,Rheinische Post,rheinische post,Montag 24. Januar 2022,Uwe-Jens Ruhnau,S. 15,395,2762,8255646377d4a187e256503ac435e67d51cb0711,exact_003,duplicate_exact,review,,no,,no,,,3618,no,,exact_003,,,"Uwe-Jens Ruhnau
+2022-01,Main Corpus,2022-01(58).ZIP,Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr(2).PDF,Es kommen mehr Flüchtlinge; Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr.,es kommen mehr flüchtlinge im dezember wurden so viele aufgenommen wie seit 2017 nicht mehr,Rheinische Post,rheinische post,Montag 24. Januar 2022,Uwe-Jens Ruhnau,S. 15,395,2762,8255646377d4a187e256503ac435e67d51cb0711,exact_003,duplicate_exact,review,,no,,no,,,3618,no,,exact_003,,,"Uwe-Jens Ruhnau
 Düsseldorf Die Landeshauptstadt nimmt wieder deutlich mehr Asylbewerber auf. „Im Dezember hatten wir mit 150 
 Menschen die höchste Zuweisung seit 2017“, sagt Miriam Koch, die Leiterin des Amtes für Migration und 
 Integration. Es habe bei den neuen Unterbringungen keine Weihnachtspause gegeben. Der Trend hat sich im 
@@ -642,7 +642,7 @@ Immer noch ein Problem ist der Wechsel von anerkannten Flüchtlingen in den norm
 821 geflüchtete Personen. Die Wohlfahrtsverbände, Initiativen und auch Ehrenamtliche unterstützen nach Angaben 
 der Stadt Geflüchtete bei der Wohnungssuche. Im Dezember lebten noch 1135 Personen als geflüchtete 
 Obdachlose in den städtischen Notunterkünften. Im Jahresdurchschnitt betrug die Personenzahl 1206."
-2022-01,Main Corpus,2022-01(50).ZIP,Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr.PDF,Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr.,es kommen mehr flüchtlinge im dezember wurden so viele aufgenommen wie seit 2017 nicht mehr,Rheinische Post,rheinische post,Montag 24. Januar 2022,Uwe-Jens Ruhnau,S. 15,395,2761,8255646377d4a187e256503ac435e67d51cb0711,exact_003,duplicate_exact,review,,no,,no,,,3629,no,,exact_003,,,"Uwe-Jens Ruhnau
+2022-01,Main Corpus,2022-01(58).ZIP,Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr.PDF,Es kommen mehr Flüchtlinge Im Dezember wurden so viele aufgenommen wie seit 2017 nicht mehr.,es kommen mehr flüchtlinge im dezember wurden so viele aufgenommen wie seit 2017 nicht mehr,Rheinische Post,rheinische post,Montag 24. Januar 2022,Uwe-Jens Ruhnau,S. 15,395,2761,8255646377d4a187e256503ac435e67d51cb0711,exact_003,duplicate_exact,review,,no,,no,,,3629,no,,exact_003,,,"Uwe-Jens Ruhnau
 Düsseldorf Die Landeshauptstadt nimmt wieder deutlich mehr Asylbewerber auf. „Im Dezember hatten wir mit 150 
 Menschen die höchste Zuweisung seit 2017“, sagt Miriam Koch, die Leiterin des Amtes für Migration und 
 Integration. Es habe bei den neuen Unterbringungen keine Weihnachtspause gegeben. Der Trend hat sich im 
@@ -672,7 +672,33 @@ Immer noch ein Problem ist der Wechsel von anerkannten Flüchtlingen in den norm
 821 geflüchtete Personen. Die Wohlfahrtsverbände, Initiativen und auch Ehrenamtliche unterstützen nach Angaben 
 der Stadt Geflüchtete bei der Wohnungssuche. Im Dezember lebten noch 1135 Personen als geflüchtete 
 Obdachlose in den städtischen Notunterkünften. Im Jahresdurchschnitt betrug die Personenzahl 1206."
-2022-01,Main Corpus,2022-01(50).ZIP,Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in(2).PDF,Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in,flüchtlinge auch ohne antrag vereinzelt erhalten städte bewerber ohne asylantrag noch kein fall in,Rheinische Post,rheinische post,Freitag 28. Januar 2022,Uwe-Jens Ruhnau,S. 14,305,2347,a53b94f53078e62c1a50ffb1879427834081b5d7,exact_004,duplicate_exact,review,,no,,no,,,3155,no,,exact_004,,,"Düsseldorf (ujr) In NRW werden wieder Flüchtlinge auf Kommunen verteilt, die noch keinen Asylantrag beim 
+2022-01,Main Corpus,2022-01(58).ZIP,Fehlplanung als Dauerzustand.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Fehlplanung als Dauerzustand.PDF,Fehlplanung als Dauerzustand,fehlplanung als dauerzustand,Die Welt,die welt,Mittwoch 26. Januar 2022,Christian Gaertner,TITEL; KOMMENTAR; S. 1; Ausg. 18,307,2224,741b9cc08cb05d1a4c0002898f5de8263882d55f,,unique,drop,commentary_noncore,no,,no,,,2968,yes,commentary_noncore,,,,"Deutschland ist das Land der Überraschungen. Das wurde während der Pandemie überdeutlich, als staatliche 
+Stellen nacheinander vom Bedarf an Masken, Tests und Impfstoffen überrascht wurden. Kann man das noch 
+wohlwollend zumindest teilweise mit der Neuartigkeit der Ausnahmesituation erklären, ist das Komplettversagen in 
+der Frage der Lehrkräfteversorgung unerklärlich. Denn sogar in einer Hochburg des Datenschutzes wie 
+Deutschland liegen die Geburtenstatistiken nicht im Tresor, und erfahrungsgemäß wird aus einem Neugeborenen 
+nach etwa sechs Jahren ein Schulkind. Rechnet man noch ein gewisses Maß an Zuwanderung hinzu, sollte eine 
+halbwegs verlässliche Prognose für die künftigen Schülerzahlen machbar sein. Und daraus ergibt sich der 
+Lehrerbedarf.
+Dass die Bildungsministerien und Schulämter da etwas verschlafen haben, zeigt der jetzige Lehrermangel. Was 
+aber besonders beunruhigend ist: Auch die Planungen für das künftige Angebot an Pädagogen beruhen offenbar 
+auf eher luftigen Annahmen. Der Mangel wird also zum Dauerzustand. In manchen Schulen sehen sich die 
+regulären Lehrkräfte bereits von ebenso vielen Seiten- und Quereinsteigern und jungen Freiwilligen umgeben. Und 
+diese werden teilweise geradezu verheizt. Ihr Engagement ist ehrenhaft, aber sie können nicht sofort das Gleiche 
+leisten wie erfahrene Lehrerinnen und Lehrer.
+Was also ist zu tun? Ein paar Jahre müssen die Behelfslösungen wohl reichen. Doch damit die Schulen 
+irgendwann vom Panik- in den Normalmodus wechseln können, sollten jetzt dringend ein paar Weichen gestellt 
+werden. Der Lehrerberuf muss attraktiver werden. Das ist weniger eine Frage des Geldes als eine der 
+Arbeitsbedingungen. Warum gibt es so wenig Leistungsanreize, so wenig Aufstiegsmöglichkeiten? Warum müssen 
+Lehrer mit privaten Laptops in die Schule gehen und finden dort nicht mal ein stabiles Wlan-Netz vor? Warum 
+müssen sie immer mehr ihrer Zeit investieren, um den Wünschen der Bildungsbürokratie nach Dokumentationen 
+und Plänen nachzukommen? Da sollte sich etwas ändern. Denn Nachwuchsmangel gibt es überall - aber ohne 
+Lehrer geht es nicht.
+ christian.gaertner@welt.de (christian.gaertner@welt.de) 
+Original Gesamtseiten-PDF
+
+Fehlplanung als Dauerzustand"
+2022-01,Main Corpus,2022-01(58).ZIP,Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in(2).PDF,Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in,flüchtlinge auch ohne antrag vereinzelt erhalten städte bewerber ohne asylantrag noch kein fall in,Rheinische Post,rheinische post,Freitag 28. Januar 2022,Uwe-Jens Ruhnau,S. 14,305,2347,a53b94f53078e62c1a50ffb1879427834081b5d7,exact_004,duplicate_exact,review,,no,,no,,,3155,no,,exact_004,,,"Düsseldorf (ujr) In NRW werden wieder Flüchtlinge auf Kommunen verteilt, die noch keinen Asylantrag beim 
 Bundesamt für Migration und Flüchtlinge (BAMF) gestellt haben. Das bestätigt das Landesministerium für Kinder, 
 Familie, Flüchtlinge und Integration auf Anfrage unserer Redaktion. Bei den hohen Flüchtlingszahlen 2015/16 war 
 dies ein Massenphänomen gewesen. Vor allem ungeklärte und Mehrfach-Identitäten hatten zu großer Kritik und 
@@ -699,7 +725,7 @@ Die Ausländerbehörden seien entsprechend informiert worden und meldeten diese 
 damit die Asylantragstellung schnellstmöglich nachgeholt werden könne. Aufgrund aktuell rückläufiger 
 Flüchtlingszugänge sollen die Termine beim BAMF zur Asylantragstellung und Anhörung wieder während des 
 Aufenthalts in einer Erstaufnahmeeinrichtung stattfinden."
-2022-01,Main Corpus,2022-01(50).ZIP,Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in.PDF,Flüchtlinge auch ohne Antrag; Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in,flüchtlinge auch ohne antrag vereinzelt erhalten städte bewerber ohne asylantrag noch kein fall in,Rheinische Post,rheinische post,Freitag 28. Januar 2022,Uwe-Jens Ruhnau,S. 14,305,2348,a53b94f53078e62c1a50ffb1879427834081b5d7,exact_004,duplicate_exact,review,,no,,no,,,3170,no,,exact_004,,,"Düsseldorf (ujr) In NRW werden wieder Flüchtlinge auf Kommunen verteilt, die noch keinen Asylantrag beim 
+2022-01,Main Corpus,2022-01(58).ZIP,Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Flüchtlinge auch ohne Antrag Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in.PDF,Flüchtlinge auch ohne Antrag; Vereinzelt erhalten Städte Bewerber ohne Asylantrag. Noch kein Fall in,flüchtlinge auch ohne antrag vereinzelt erhalten städte bewerber ohne asylantrag noch kein fall in,Rheinische Post,rheinische post,Freitag 28. Januar 2022,Uwe-Jens Ruhnau,S. 14,305,2348,a53b94f53078e62c1a50ffb1879427834081b5d7,exact_004,duplicate_exact,review,,no,,no,,,3170,no,,exact_004,,,"Düsseldorf (ujr) In NRW werden wieder Flüchtlinge auf Kommunen verteilt, die noch keinen Asylantrag beim 
 Bundesamt für Migration und Flüchtlinge (BAMF) gestellt haben. Das bestätigt das Landesministerium für Kinder, 
 Familie, Flüchtlinge und Integration auf Anfrage unserer Redaktion. Bei den hohen Flüchtlingszahlen 2015/16 war 
 dies ein Massenphänomen gewesen. Vor allem ungeklärte und Mehrfach-Identitäten hatten zu großer Kritik und 
@@ -726,7 +752,7 @@ Die Ausländerbehörden seien entsprechend informiert worden und meldeten diese 
 damit die Asylantragstellung schnellstmöglich nachgeholt werden könne. Aufgrund aktuell rückläufiger 
 Flüchtlingszugänge sollen die Termine beim BAMF zur Asylantragstellung und Anhörung wieder während des 
 Aufenthalts in einer Erstaufnahmeeinrichtung stattfinden."
-2022-01,Main Corpus,2022-01(50).ZIP,Fox will Flüchtlinge besser unterbringen Am Küvenkamp leben die Menschen auf engstem Raum zusammen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Fox will Flüchtlinge besser unterbringen Am Küvenkamp leben die Menschen auf engstem Raum zusammen.PDF,Fox will Flüchtlinge besser unterbringen; Am Küvenkamp leben die Menschen auf engstem Raum zusammen.,fox will flüchtlinge besser unterbringen am küvenkamp leben die menschen auf engstem raum zusammen,Rheinische Post,rheinische post,Donnerstag 6. Januar 2022,Markus Werning,S. 21,666,4792,99b44c3443aa477e175d665da7911334ef240e78,,unique,keep,,no,,no,,,5754,no,,,,,"Markus Werning
+2022-01,Main Corpus,2022-01(58).ZIP,Fox will Flüchtlinge besser unterbringen Am Küvenkamp leben die Menschen auf engstem Raum zusammen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Fox will Flüchtlinge besser unterbringen Am Küvenkamp leben die Menschen auf engstem Raum zusammen.PDF,Fox will Flüchtlinge besser unterbringen; Am Küvenkamp leben die Menschen auf engstem Raum zusammen.,fox will flüchtlinge besser unterbringen am küvenkamp leben die menschen auf engstem raum zusammen,Rheinische Post,rheinische post,Donnerstag 6. Januar 2022,Markus Werning,S. 21,666,4792,99b44c3443aa477e175d665da7911334ef240e78,,unique,keep,,no,,no,,,5754,no,,,,,"Markus Werning
 Xanten In der Debatte um die Unterbringung von Flüchtlingen in der Stadt schlägt das Forum Xanten (Fox) eine 
 Alternative zur Gemeinschaftsunterkunft am Küvenkamp vor. Die Verwaltung möge prüfen, ob sie in den 
 Grafschafter-Gebäuden an der Johannes-Janßen-Straße Wohnungen anmieten könne, wenn diese renoviert seien, 
@@ -779,7 +805,7 @@ einer Wohnküche.
 Belegung Nach Angaben der Verwaltung ist eine Wohneinheit für bis zu acht Personen ausgelegt. Bei der 
 Belegung werden verschiedene Faktoren berücksichtigt, unter anderem: Welche Nationalitäten haben die 
 Personen? Sind sie alleinerziehend, männlich, weiblich?"
-2022-01,Main Corpus,2022-01(50).ZIP,"Hilden erhält mehr Flüchtlinge zugewiesen Die Situation bei den Unterkünften sei „sehr angespannt“,.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Hilden erhält mehr Flüchtlinge zugewiesen Die Situation bei den Unterkünften sei „sehr angespannt“,.PDF","Hilden erhält mehr Flüchtlinge zugewiesen Die Situation bei den Unterkünften sei „sehr angespannt“, berichtet",hilden erhält mehr flüchtlinge zugewiesen die situation bei den unterkünften sei sehr angespannt berichtet,Rheinische Post,rheinische post,Mittwoch 26. Januar 2022,Christoph Schmidt,S. 21,732,5264,4c9b31f666c2d632f6998ab467bfe368a842772d,,unique,keep,,no,,no,,,6756,no,,,,,"Christoph Schmidt
+2022-01,Main Corpus,2022-01(58).ZIP,"Hilden erhält mehr Flüchtlinge zugewiesen Die Situation bei den Unterkünften sei „sehr angespannt“,.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Hilden erhält mehr Flüchtlinge zugewiesen Die Situation bei den Unterkünften sei „sehr angespannt“,.PDF","Hilden erhält mehr Flüchtlinge zugewiesen Die Situation bei den Unterkünften sei „sehr angespannt“, berichtet",hilden erhält mehr flüchtlinge zugewiesen die situation bei den unterkünften sei sehr angespannt berichtet,Rheinische Post,rheinische post,Mittwoch 26. Januar 2022,Christoph Schmidt,S. 21,732,5264,4c9b31f666c2d632f6998ab467bfe368a842772d,,unique,keep,,no,,no,,,6756,no,,,,,"Christoph Schmidt
 Hilden Sie fliehen vor Krieg, Gewalt, Hunger und Naturkatastrophen. Weltweit sind 84 Millionen Menschen auf der 
 Flucht, schätzt das UN-Flüchtlingshilfswerk. Nur die wenigsten schaffen es bis nach Deutschland. Im vergangenen 
 Jahr baten 172.370 Menschen um Asyl, 58,3 Prozent mehr als 2020. 23.865 der Antragsteller (18 Prozent) waren 
@@ -836,7 +862,7 @@ Prozent.
 2018 haben die Zuwendungen vom Land 47,6 Prozent der Ausgaben gedeckt. Hilden hatte 2018 6,173 Millionen 
 Euro Gesamtkosten Asyl, vom Land aber nur 2,938 Millionen Euro erstattet bekommen. Die Stadt hat also 3,235 
 Millionen aus eigener Tasche bezahlt – für eine gesamtstaatliche Aufgabe."
-2022-01,Main Corpus,2022-01(50).ZIP,Hochschwangere Mutter bleibt allein zurück Mitten in der Nacht holen Polizisten eine Familie zur Abs.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Hochschwangere Mutter bleibt allein zurück Mitten in der Nacht holen Polizisten eine Familie zur Abs.PDF,Hochschwangere Mutter bleibt allein zurück Mitten in der Nacht holen Polizisten eine Familie zur Abschiebung,hochschwangere mutter bleibt allein zurück mitten in der nacht holen polizisten eine familie zur abschiebung,"taz, die tageszeitung",taz die tageszeitung,Dienstag 25. Januar 2022,Gernot Knödler,NORD AKTUELL; S. 26-27,666,5165,78cc664f55723f274390ff01a4abaf4ab9a2faef,,unique,keep,,no,,no,,,6660,no,,,,,"Von Gernot Knödler
+2022-01,Main Corpus,2022-01(58).ZIP,Hochschwangere Mutter bleibt allein zurück Mitten in der Nacht holen Polizisten eine Familie zur Abs.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Hochschwangere Mutter bleibt allein zurück Mitten in der Nacht holen Polizisten eine Familie zur Abs.PDF,Hochschwangere Mutter bleibt allein zurück Mitten in der Nacht holen Polizisten eine Familie zur Abschiebung,hochschwangere mutter bleibt allein zurück mitten in der nacht holen polizisten eine familie zur abschiebung,"taz, die tageszeitung",taz die tageszeitung,Dienstag 25. Januar 2022,Gernot Knödler,NORD AKTUELL; S. 26-27,666,5165,78cc664f55723f274390ff01a4abaf4ab9a2faef,,unique,keep,,no,,no,,,6660,no,,,,,"Von Gernot Knödler
 Um 1.30 Uhr in der Nacht sind Polizisten und ein Mitarbeiter des Landkreises Celle in die Wohnung einer Familie 
 eingedrungen, um diese nach Georgien abzuschieben. Wie der niedersächsische Flüchtlingsrat mitteilte, durfte die 
 hochschwangere Mutter aus gesundheitlichen Gründen in Deutschland bleiben. Der psychisch kranke Vater und 
@@ -892,7 +918,7 @@ Pressedienst, wenn Personen ihrer Verpflichtung zur Ausreise nicht freiwillig na
 Aufenthaltsgesetz abzuschieben. Diese gesetzliche Rechtsfolge ist zwingend, hier haben die Ausländerbehörden 
 keinen Ermessensspielraum. Das Vorgehen der Celler Ausländerbehörde sei nicht zu beanstanden.
  Das ist eines Rechtsstaats nicht würdig"
-2022-01,Main Corpus,2022-01(50).ZIP,Hohe Schulden durch Abschiebung(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Hohe Schulden durch Abschiebung(2).PDF,Hohe Schulden durch Abschiebung,hohe schulden durch abschiebung,Frankfurter Rundschau,frankfurter rundschau,Samstag 29. Januar 2022,,HESSEN; S. D1,538,3789,865c8bbe568c5db242dfa3fce1c3ae1e06d7bbfe,exact_005,duplicate_exact,review,,no,,no,,,4929,no,,exact_005,,,"VON GREGOR HASCHNIK
+2022-01,Main Corpus,2022-01(58).ZIP,Hohe Schulden durch Abschiebung(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Hohe Schulden durch Abschiebung(2).PDF,Hohe Schulden durch Abschiebung,hohe schulden durch abschiebung,Frankfurter Rundschau,frankfurter rundschau,Samstag 29. Januar 2022,,HESSEN; S. D1,538,3789,865c8bbe568c5db242dfa3fce1c3ae1e06d7bbfe,exact_005,duplicate_exact,review,,no,,no,,,4929,no,,exact_005,,,"VON GREGOR HASCHNIK
 Lautes Klopfen an der Tür. Ich bin mitten in der Nacht aufgewacht. Aufmachen! Polizei!“ So erinnert sich Serif 
 Akbulut an den ersten Versuch im Juli 2006, ihn nach acht Jahren in Deutschland mit einem Linienflug in die Türkei 
 abzuschieben. Dorthin, wo der in Schlüchtern lebende Kurde mit politischer Verfolgung rechnen musste. Er wehrt 
@@ -933,7 +959,7 @@ extrem traumatisch. Betroffene dafür auch noch zur Kasse zu bitten, ist zynisch
 dass sie die Chance haben, zurückzukommen und wieder Fuß zu fassen.“
 Serif Akbulut lebt inzwischen wieder in der Region. privat
 Link zum PDF-Dokument"
-2022-01,Main Corpus,2022-01(50).ZIP,Hohe Schulden durch Abschiebung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Hohe Schulden durch Abschiebung.PDF,Hohe Schulden durch Abschiebung,hohe schulden durch abschiebung,Frankfurter Rundschau,frankfurter rundschau,Freitag 28. Januar 2022,,HESSEN; S. F20,538,3789,865c8bbe568c5db242dfa3fce1c3ae1e06d7bbfe,exact_005,duplicate_exact,review,,no,,no,,,4930,no,,exact_005,,,"VON GREGOR HASCHNIK
+2022-01,Main Corpus,2022-01(58).ZIP,Hohe Schulden durch Abschiebung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Hohe Schulden durch Abschiebung.PDF,Hohe Schulden durch Abschiebung,hohe schulden durch abschiebung,Frankfurter Rundschau,frankfurter rundschau,Freitag 28. Januar 2022,,HESSEN; S. F20,538,3789,865c8bbe568c5db242dfa3fce1c3ae1e06d7bbfe,exact_005,duplicate_exact,review,,no,,no,,,4930,no,,exact_005,,,"VON GREGOR HASCHNIK
 Lautes Klopfen an der Tür. Ich bin mitten in der Nacht aufgewacht. Aufmachen! Polizei!“ So erinnert sich Serif 
 Akbulut an den ersten Versuch im Juli 2006, ihn nach acht Jahren in Deutschland mit einem Linienflug in die Türkei 
 abzuschieben. Dorthin, wo der in Schlüchtern lebende Kurde mit politischer Verfolgung rechnen musste. Er wehrt 
@@ -974,7 +1000,71 @@ extrem traumatisch. Betroffene dafür auch noch zur Kasse zu bitten, ist zynisch
 dass sie die Chance haben, zurückzukommen und wieder Fuß zu fassen.“
 Serif Akbulut lebt inzwischen wieder in der Region. privat
 Link zum PDF-Dokument"
-2022-01,Main Corpus,2022-01(50).ZIP,Jeder zweite Asylbewerber ohne EU-Registrierung Antragsteller in Deutschland sind nicht in zentraler.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Jeder zweite Asylbewerber ohne EU-Registrierung Antragsteller in Deutschland sind nicht in zentraler.PDF,Jeder zweite Asylbewerber ohne EU-Registrierung Antragsteller in Deutschland sind nicht in zentraler,jeder zweite asylbewerber ohne euregistrierung antragsteller in deutschland sind nicht in zentraler,Welt am Sonntag,welt am sonntag,2. Januar 2022,Marcl Leubecher,Politik; S. 4; Ausg. 1,622,4645,489542b5eae6d67720ceadac7c47858f3c1a4e3e,,unique,keep,,no,,no,,,5950,no,,,,,"Deutschland kann einen Großteil der ankommenden Asylbewerber nicht in andere EU-Länder zurückführen. Ein 
+2022-01,Main Corpus,2022-01(58).ZIP,Härtefall-Fonds soll Altersarmut lindern.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Härtefall-Fonds soll Altersarmut lindern.PDF,Härtefall-Fonds soll Altersarmut lindern,härtefallfonds soll altersarmut lindern,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 27. Januar 2022,,POLITIK; S. 6,421,3068,bee132a482dc61a1e90a037e7f2231c599f8ef13,,unique,keep,,no,,no,,,3952,no,,,,,"VON JAN STERNBERG
+Die neue Bundesregierung will schnellstmöglich einen Fonds für spezielle Renten-Härtefälle auflegen. Darunter 
+fallen neben benachteiligten DDR-Rentner:innen auch Spätaussiedler:innen und betagte jüdische 
+Kontingentflüchtlinge. Nach Schätzungen der Zentralwohlfahrtsstelle der Juden in Deutschland (ZWSt), eines 
+Sozialverbands, leben 70 000 jüdische Zuwanderer:innen aus der früheren Sowjetunion in Deutschland in 
+Altersarmut.
+Rund 230 000 Jüdinnen und Juden aus Russland, Belarus, Ukraine und dem Baltikum sowie ihre Angehörigen 
+kamen zwischen 1990 und 2005 als sogenannte „Kontingentflüchtlinge“ nach Deutschland. Sie bauten an vielen 
+Orten das jüdische Leben in Deutschland wieder auf. In der Sowjetunion waren zwei Drittel von ihnen 
+Akademiker:innen, doch in Deutschland wurden bei der überwiegenden Mehrheit weder die Abschlüsse noch die 
+Rentenansprüche anerkannt. Nach ZWSt-Schätzung fallen 93 Prozent der Rentnerinnen und Rentner aus dieser 
+Gruppe in die Grundsicherung.
+Schnelle Lösung gefordert
+Es sind Menschen wie der 92-jährige Leonid Berezin. Als Kind überlebte er die Blockade und Bombardierung 
+seiner Heimatstadt Leningrad durch die deutsche Wehrmacht. 1992 kam er nach Berlin, nachdem er seine Arbeit 
+als Funktechnik-Professor an einem Militärinstitut verlor. Heute lebt er von 426 Euro im Monat.
+„Wir setzen den geplanten Fonds zur Abmilderung von Härtefällen aus der Ost-West-Rentenüberleitung auch für 
+jüdische Kontingentflüchtlinge und Spätaussiedler um“, steht im Ampel-Koalitionsvertrag. Die Bundesregierung 
+drückt hier jetzt aufs Tempo, um Menschen wie Leonid Berezin zumindest durch eine Einmalzahlung von bis zu 10 
+000 Euro zu unterstützen. Die Parlamentarische Staatssekretärin im Sozialministerium, Kerstin Griese (SPD), sagte 
+dem Redaktionsnetzwerk Deutschland (RND): „Wir streben eine zügige Umsetzung der Fondslösung gemäß der in 
+der vergangenen Legislaturperiode vereinbarten Eckpunkte an und fordern die Länder auf, möglichst zeitnah über 
+ihren Beitrag zum Fonds zu entscheiden.“
+Auch Günter Jek, Leiter des Berliner Büros der ZWSt, mahnt zur Eile. Dem RND sagte er: „Die Politik ist aufgrund 
+des hohen Alters der Anspruchsberechtigten in der Verantwortung, eine zeitnahe Lösung anzubieten, die den 
+
+Härtefall-Fonds soll Altersarmut lindern
+Vorgaben des Koalitionsvertrags entspricht. Wir fordern eine Einmalzahlung, die nicht steuerpflichtig ist und nicht 
+auf die Grundsicherung angerechnet wird.“
+Im Bundeshaushalt für 2022 ist eine Milliarde Euro für den Fonds vorgesehen. Der Wunsch des Bundes ist, dass 
+die Länder eine Milliarde dazugeben. So könnten 200 000 Berechtigten jeweils 10 000 Euro ausgezahlt werden.
+Der Kreis der Anspruchsberechtigten könnte jedoch größer sein. Aus dem Fonds sollen zum Beispiel auch 
+Ungerechtigkeiten der Überleitung der DDR-Renten ausgeglichen werden. Der Beitrag der Länder bemisst sich am 
+Anteil der jeweiligen Berechtigten, die im jeweiligen Bundesland leben. Die ostdeutschen Bundesländer müssten 
+also mehr zahlen.
+Kommentar Seite 11
+Link zum PDF-Dokument"
+2022-01,Main Corpus,2022-01(58).ZIP,Jahrelang in Deutschland und gut integriert.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Jahrelang in Deutschland und gut integriert.PDF,Jahrelang in Deutschland und gut integriert,jahrelang in deutschland und gut integriert,Frankfurter Rundschau,frankfurter rundschau,Montag 31. Januar 2022,,HESSEN; S. F15,290,2204,6f345744fb63f1f8b6ce9a505177f4d8ee04dfd8,,unique,keep,,no,,no,,,3084,no,,,,,"Dringend gebraucht und trotzdem abgeschoben
+Ausländer raus! Muss man so die christlich-grüne Migrationspolitik beschreiben? Das Asylverfahren des 
+Betroffenen ist endgültig negativ entschieden worden mit der Folge der Verpflichtung zur Ausreise, es bestand 
+lediglich eine Duldung. Eine Ausreise wurde für den 6.12.2021 festgesetzt, wobei es offensichtlich möglich 
+gewesen wäre, wenige Wochen nach dem festgesetzten Ausreisetermin eine Beschäftigungsduldung zu erhalten, 
+was wohl vermieden werden sollte. 
+Herr Naveed ist in Deutschland integriert, er ist in der Lage seinen Lebensunterhalt selbst zu verdienen und arbeitet 
+zur Zufriedenheit aller in einer Pflegeeinrichtung, für die dringend – auch im Ausland – Arbeitskräfte gesucht 
+werden. Humanitäre und arbeitsmarktpolitische Gesichtspunkte gebieten dringend, dass der hessische 
+Innenminister Beuth eine Aufenthaltserlaubnis erteilt.
+ Ferdinand Georgen, Wiesbaden 
+Zu schwierig für unsere Regierung
+Es ist unglaublich! Hier beweist unsere Landesregierung ihre Unfähigkeit die angesprochenen Probleme vernünftig 
+anzugehen und zu lösen. Ist es nicht bekannt, dass wir einen Pflegekräftemangel haben? Oder muss einfach mal 
+wieder ein Ausländer abgeschoben werden um zu zeigen, dass wir Deutschen auch abschieben können, wenn das 
+Aufenthaltsrecht abgelaufen ist? Oder interessieren sich die hessischen Landespolitiker nicht für dieses Thema? 
+Fühlen sie sich für den beschriebenen Einzelfall nicht zuständig? Oder ist das Thema zu kompliziert? 
+Im Artikel sind rechtlich machbare Lösungsmöglichkeiten angesprochen. Eine Pflegekraft im Jahr 2022 aus Hessen 
+abzuschieben ist so absurd, dass mir die passenden Worte fehlen.
+Eine sinnvolle Lösung wäre, das Potenzial an Ausländern/innen für Bereiche mit Arbeitskräftemangel zu nutzen und 
+engagierte Menschen hier arbeiten zu lassen. Daneben könnte man auch humanitär denken und Menschen, die 
+bereits jahrelang in Deutschland leben und sich integriert haben, ein Aufenthaltsrecht zusprechen. Ist diese 
+Gedankenwelt zu schwierig für unsere regierenden hessischen Landespolitiker von CDU und den Grünen? Günter 
+Riechers, Frankfurt
+
+Jahrelang in Deutschland und gut integriert
+Link zum PDF-Dokument"
+2022-01,Main Corpus,2022-01(58).ZIP,Jeder zweite Asylbewerber ohne EU-Registrierung Antragsteller in Deutschland sind nicht in zentraler.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Jeder zweite Asylbewerber ohne EU-Registrierung Antragsteller in Deutschland sind nicht in zentraler.PDF,Jeder zweite Asylbewerber ohne EU-Registrierung Antragsteller in Deutschland sind nicht in zentraler,jeder zweite asylbewerber ohne euregistrierung antragsteller in deutschland sind nicht in zentraler,Welt am Sonntag,welt am sonntag,2. Januar 2022,Marcl Leubecher,Politik; S. 4; Ausg. 1,622,4645,489542b5eae6d67720ceadac7c47858f3c1a4e3e,,unique,keep,,no,,no,,,5950,no,,,,,"Deutschland kann einen Großteil der ankommenden Asylbewerber nicht in andere EU-Länder zurückführen. Ein 
 Grund dafür ist, dass nicht festgestellt werden kann, wo sie zuerst europäischen Boden betreten haben. Diese 
 Information müsste eigentlich in der Asyldatenbank Eurodac zu finden sein, in der alle illegal Eingereisten registriert 
 werden müssen. So ist es für alle Länder des visumfreien Raums vorgeschrieben.
@@ -1024,7 +1114,7 @@ kooperieren"".
 Die Ampel muss auf Einhaltung der Verordnung bestehen Alexander Throm (CDU), Innenpolitischer Sprecher im 
 Bundestag
 Original Gesamtseiten-PDF"
-2022-01,Main Corpus,2022-01(50).ZIP,"Kadyrows langer Arm Entführungen, Folter und Hinrichtungen Oppositioneller auch außerhalb Tschetsche.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Kadyrows langer Arm Entführungen, Folter und Hinrichtungen Oppositioneller auch außerhalb Tschetsche.PDF","Kadyrows langer Arm Entführungen, Folter und Hinrichtungen Oppositioneller auch außerhalb Tschetscheniens",kadyrows langer arm entführungen folter und hinrichtungen oppositioneller auch ausserhalb tschetscheniens,"taz, die tageszeitung",taz die tageszeitung,Montag 24. Januar 2022,Bernhard Clasen,AUSLAND; S. 11,923,7132,354b6b6527e0e24ae3280a6af8fb8c8b6eeab5ac,,unique,keep,,no,,no,,,9001,no,,,,,"Von Bernhard Clasen
+2022-01,Main Corpus,2022-01(58).ZIP,"Kadyrows langer Arm Entführungen, Folter und Hinrichtungen Oppositioneller auch außerhalb Tschetsche.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Kadyrows langer Arm Entführungen, Folter und Hinrichtungen Oppositioneller auch außerhalb Tschetsche.PDF","Kadyrows langer Arm Entführungen, Folter und Hinrichtungen Oppositioneller auch außerhalb Tschetscheniens",kadyrows langer arm entführungen folter und hinrichtungen oppositioneller auch ausserhalb tschetscheniens,"taz, die tageszeitung",taz die tageszeitung,Montag 24. Januar 2022,Bernhard Clasen,AUSLAND; S. 11,923,7132,354b6b6527e0e24ae3280a6af8fb8c8b6eeab5ac,,unique,keep,,no,,no,,,9001,no,,,,,"Von Bernhard Clasen
 Achmed Seriev ist Tschetschene, 23 Jahre alt, lebt in Deutschland als Asylbewerber und fürchtet um sein Leben. 
 Nach der Ablehnung seines Asylantrages durch das Bundesamt für Migration und Flüchtlinge (Bamf) und die 
 zuständigen Gerichte fürchtet er eine baldige Abschiebung nach Russland. Das wäre mit erheblichen Gefahren für 
@@ -1100,7 +1190,110 @@ Anwalt stattfand, zu einer 18-monatigen Freiheitsstrafe verurteilt worden. Man h
 vorgeworfen. Sofort nach seiner Abschiebung hatte Amnesty International die französischen Behörden 
 aufgefordert, Gadajew wieder aus Russland zurückzuholen.
 Achmed Serievs Bruder Magomed wurde ohne Verfahren hingerichtet"
-2022-01,Main Corpus,2022-01(50).ZIP,Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt   Lage in Gande(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt   Lage in Gande(2).PDF,Kreis muss mehr Flüchtlinge aufnehmen; Zuwanderung Wohnraum für Asylsuchende benötigt Lage in,kreis muss mehr flüchtlinge aufnehmen zuwanderung wohnraum für asylsuchende benötigt lage in,Nordwest-Zeitung,nordwestzeitung,04. Januar 2022,,GANDERKESEE; S. 7,380,2847,ec0387c0a6db31139a0a644f46f05621e6146fa4,variant_003,regional_variant,review,,no,,no,,,3719,no,,,near_003,variant_003,"Ganderkesee/Landkreis/TK - 2021 sind mehr Geflüchtete nach Deutschland gekommen. Wegen der deutlich 
+2022-01,Main Corpus,2022-01(58).ZIP,Kleine Patienten ohne Krankenkassenkarte Mehrere hunderttausend Menschen in Deutschland sind nicht k.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Kleine Patienten ohne Krankenkassenkarte Mehrere hunderttausend Menschen in Deutschland sind nicht k.PDF,Kleine Patienten ohne Krankenkassenkarte Mehrere hunderttausend Menschen in Deutschland sind nicht,kleine patienten ohne krankenkassenkarte mehrere hunderttausend menschen in deutschland sind nicht,Der Tagesspiegel,der tagesspiegel,Montag 31. Januar 2022,,BERLIN_EXTRA FQT:SPÄT; S. 011; Ausg. Der Tagesspiegel Nr. 24792 VOM 31.01.2022 SEITE 011,1358,9611,1bcbb5d1abbfc6519d240d2e8041debc9c2eface,,unique,keep,,no,,no,,,11011,no,,,,,"Alle Kinder dürfen zur Schule gehen, aber längst nicht alle dürfen zum Arzt. Seit 2009 sind Bildungseinrichtungen 
+von der Pflicht ausgenommen, Menschen ohne geregelten Aufenthaltsstatus der Ausländerbehörde zu melden. 
+Wer aber eine Kostenübernahme für medizinische Leistungen beim Sozialamt beantragt, muss mit einer 
+Abschiebung rechnen. Eines dieser Kinder, die deshalb nicht einfach so zu einem Kinderarzt gehen können, ist 
+Amir.
+Trotzdem sitzt der Achtjährige jetzt auf einem weißen Plastikstuhl neben seiner Mutter in einem Praxisraum in 
+einem Zehlendorfer Tiefparterre - bei der Sprechstunden von Open.med Berlin, einem Projekt des Vereins Medizin 
+Hilft und der Organisation Ärzte der Welt. Menschen ohne oder nur mit eingeschränktem Zugang zur 
+Gesundheitsversorgung können hier medizinische Hilfe annehmen. Anonym und kostenlos. Die Patienten werden 
+nur mit einem Kürzel und dem Geburtsdatum in der Kartei geführt. Auch Amir heißt in Wirklichkeit anders. Die 
+Organisation ""Ärzte der Welt"" schätzt, dass in Deutschland mehrere hunderttausend Menschen nicht 
+krankenversichert sind. Amir ist einer von ihnen.
+Brigitte Kodsi ist eine von drei ehrenamtlichen Kinderärzt:innen, die im Wechsel jeden Dienstag die 
+Kindersprechstunde leiten. Sie will den Grund für den Arztbesuch herausfinden, dafür spricht sie mit Amir. Er muss 
+für seine Mutter übersetzen. Die Lehrerin habe ihn zum Arzt geschickt, sagt er, und versucht zu erklären: ""Ich kann 
+das K und T nicht aussprechen."" Vielleicht sagt er auch ""das T und K"". Kodsi will erst mal in seinen Mund schauen, 
+Amir zieht die FFP2-Maske zum Kinn. Amirs Mutter, langer Mantel in Beige, schwarzes Kopftuch mit weißen 
+Tupfen, sitzt neben ihm und blickt bei jedem Satz der Ärztin ihren Sohn an. dann diskutueren die beiden kurz in 
+ihrer Muttersprache, Amir rollt mit den Augen, rutscht unruhig auf seinem Stuhl hin und her. Der Grundschüler ist in 
+diesem Moment Patient, Dolmetscher und Vermittler gleichzeitig. Auf seinem schwarzen Kapuzenpullover steht in 
+neon-gelben Lettern das Wort ""Boss"", aber es will nicht so Recht zu ihm passen.
+Die Mutter, in Libyen geboren, hält in der Hand den deutschen Mutterpass, obwohl ihr Sohn längst für sie spricht. 
+""Wir haben schon einen Logopäden"", sagt Amir zu Kinderärztin Kodsi. In gebrochenem Deutsch versucht die 
+Mutter zu erklären, dass sie eine Logopädie-Praxis kennt. Das Problem: Sie muss verstehen, dass Amir nur zu 
+
+Kleine Patienten ohne Krankenkassenkarte Mehrere hunderttausend Menschen in Deutschland sind nicht 
+krankenversichert - auch viele Kinder. Das Projekt Open.med B....
+einem Logopäden gehen kann, den die Hilfsorganisationen vermitteln. Open. med hat eine Liste von Fachärzten 
+und Angehörigen anderer Gesundheitsberufe in Berlin, die meist zwei Behandlungen im Quartal ehrenamtlich 
+übernehmen. Kinderärztin Brigitte Kodsi drückt Amir einen Din-A4-Zettel in die Hand. Es ist eine Art Überweisung 
+für den Logopäden.
+Brigitte Kodsi, 78, ist auch noch Anästhesistin, war Oberärztin und hat Rettungsflüge begleitet. 2015, als zahlreiche 
+Geflüchtete nach Deutschland kamen, versorgte sie als medizinische Leitung die Menschen in einer Notunterkunft. 
+Es war der Start von Medizin Hilft. Obwohl längst in Rente, arbeitet sie weiter ehrenamtlich: ""Dort wo unser System 
+versagt."" Kodsi ist eine resolute Frau, die klare Ansagen macht. Die Arbeit in der Rettung hat sie geprägt. Doch 
+ausführliche Elterngespräche sind ohnehin selten möglich. So wie bei der vietnamesischen Familie, die mit ihrem 
+Säugling zur U5 gekommen ist und kein Deutsch spricht. Eigentlich sollten sie gar nicht hier sein. Das Kind ist 
+krankenversichert. ""Wir können Sie nicht behandeln"", sagt Kodsi. ""Wir leben von Spenden."" Und dann fordert die 
+Ärztin die Eltern doch auf, sich zu setzen. Später sagt sie: ""Es kommt nicht vor, dass jemand ungesehen rausgeht 
+bei uns.""
+Während die jungen Eltern, sie sind Anfang 20, vor der Ärztin sitzen, blättert diese durch das gelbe 
+Kinderuntersuchungsheft. ""Wir können die U-Untersuchung nicht machen"", sagt sie auf Deutsch. Das Kind 
+bekomme aber eine gerade anstehende Impfung. Der Vater antwortet auf Vietnamesisch. Kodsi zuckt die 
+Schultern, versucht es auf Englisch, stößt wieder auf Unverständnis. Schließlich nimmt sie das Telefon und wählt 
+die Nummer des medizinischen Übersetzungsdienstes Triaphon.
+Während die Mutter des Säuglings mit der Dolmetscherin spricht, weist Kodsi den Vater an, sein Kind auf den Tisch 
+mit der Wickelunterlage zu legen. Ein Mobile an der Decke oder eine bunte Messlatte an der Wand gibt es hier 
+nicht. Es ist ein schlichter Raum, in dem auch Erwachsene behandelt werden. Neben der Heizung liegt Kodsis 
+Hund, ein Mischling.
+Eine Medizinstudentin sitzt an einem Schreibtisch, der im rechten Winkel zu dem der Ärztin steht. Die Studentin füllt 
+die Datenbank von Open.med. Sie notiert, dass das Kind eine Impfung bekommt. Ruckzuck landet die Nadel im 
+Oberschenkel des Säuglings - der daraufhin laut schreit. 90 Euro kostet eine Impfung. Der öffentliche 
+Gesundheitsdienst übernimmt die Kosten auf Antrag. Das Fieberzäpfchen, das Kodsi dem Vater zum Abschied in 
+die Hand drückt, wurde mit Spenden finanziert.
+Vor allem vietnamesische Eltern kommen mit ihren Säuglingen für die Vorsorgeuntersuchungen. ""Die Kinder fallen 
+in eine Lücke"", erklärt Dorothea Herlemann, Geschäftsführerin des Vereins ""Medizin Hilft"". Für die ersten drei U-
+Untersuchungen sind die Säuglinge über die Mutter mitversichert. Dann brauchen die Kinder eine eigene 
+Krankenversicherung. Doch oft fehlen Dokumente oder Anträge wurden zu spät gestellt. ""Der öffentliche 
+Gesundheitsdienst ist damit überfordert. Bei uns bekommen die Patienten innerhalb von zwei Wochen einen 
+Termin"", erklärt Susanne Eikenberg, Projektreferentin bei ""Ärzte der Welt"". Wenn die Vorsorgeuntersuchungen 
+nicht in dem vom Gesetzgeber vorgegebenen Zeitraum stattfinden, können sie später auch nicht mehr abgerechnet 
+werden.
+Eine schnelle Krankenversicherung der Kinder ist in Deutschland daher entscheidend. Bei der Kindersprechstunde 
+von Open.med können versäumte Vorsorgeuntersuchungen nachgeholt werden. Außerdem ist dort die im Rahmen 
+der U3 vorgesehenen Hüftsonographie möglich, für die es ein Ultraschallgerät und eine besondere Ausbildung der 
+Ärzte braucht. Die Berliner Kinder- und Jugendgesundheitsdienste haben das Gerät nicht und schicken Kinder 
+ohne Krankenversicherung daher gerne zu Open.med. ""Sie sehen eine Lücke und nutzen uns, um diese Lücke zu 
+füllen"", sagt Eikenberg.
+Für die Patient:innen ist es ein niederschwelliges Angebot. Ein Anruf reicht zur Terminvereinbarung. Vor Ausbruch 
+der Corona-Pandemie konnten die Menschen sogar spontan kommen. Eltern nehmen die Vorsorgeuntersuchungen 
+wahr und lassen die von der Ständigen Impfkommission (STIKO) empfohlenen Impfungen bei ihren Kindern 
+durchführen. Das Angebot ist in der Community bekannt. Es gibt eine eigene Facebook-Gruppe zum Thema. Und 
+Kleine Patienten ohne Krankenkassenkarte Mehrere hunderttausend Menschen in Deutschland sind nicht 
+krankenversichert - auch viele Kinder. Das Projekt Open.med B....
+am Flughafen in Ho-Chi-Minh-Stadt sollen sogar Flyer liegen, die über die Kindersprechstunde von Open.med in 
+Berlin informieren - so zumindest das Gerücht.
+Open.med fängt die Menschen auf, die durch das Netz fallen. Obwohl es die Sprechstunde seit sechs Jahren gibt, 
+hoffen die Verantwortlichen auf eine politische Lösung. ""Unversicherte Kinder müssen niederschwellig in 
+Kinderarztpraxen behandelt werden"", fordert Herlemann. So könnten die Vorsorgeuntersuchungen über die 
+Krankenversicherung der Mutter abgerechnet werden, bis das Kind selbst eine Versicherung hat.
+Und dann ist da noch die Übermittlungspflicht von Menschen ohne geregelten Aufenthaltsstatus. Paragraph 87 des 
+Aufenthaltsgesetzes verpflichtet das Sozialamt, Personen ohne gültigen Aufenthaltstitel an die Ausländerbehörde 
+zu melden, wenn sie eine Kostenübernahme für medizinische Leistungen beantragen. Ein Bündnis aus 80 
+zivilgesellschaftlichen Organisationen wie Ärzte der Welt, Amnesty International und der Diakonie haben im 
+Frühjahr mit der Kampagne ""GleichBeHandeln"" eine Gesetzesänderung gefordert. Im Koalitionsvertrag kündigt die 
+Ampelkoalition nun an, die Übermittlungspflicht zu überarbeiten.
+Menschen ohne Papiere sollen in Zukunft nicht davon abgehalten werden, sich behandeln zu lassen, heißt es. 
+Viele Schwangere könnten damit ohne Bedenken zu den Vorsorgeuntersuchungen gehen und Kinder eine 
+medizinische Grundversorgung erhalten.
+Ein Problem, vor dem wohl alle Arztpraxen in Deutschland regelmäßig stehen, ist die Sprachbarriere. Ärzt:innen 
+sind zwar zur umfassenden Aufklärung verpflichtet, Übersetzungsleistungen können aber nicht abgerechnet 
+werden. Im Koalitionsvertrag kündigen die Ampelparteien an, ""Sprachmittlung mit Hilfe digitaler Anwendungen im 
+Kontext notwendiger medizinischer Behandlung Bestandteil des SGB V"" zu machen.
+Doch noch sitzen Kinder wie Amir neben ihren Eltern und versuchen zu beantworten, warum sie keine 
+Krankenversicherung haben. Mit Hilfe der Sozialberatung will open.med Menschen helfen, den Weg zurück in das 
+System zu finden.
+Zudem existieren kaum Daten über Menschen ohne geregelten Aufenthaltsstatus. Und so stellt Amir seiner Mutter 
+Fragen, die er sichtlich nicht versteht. Woher haben Sie von dem Angebot erfahren? Seit wann leben Sie in 
+Deutschland? Was ist Ihr Aufenthaltsstatus? Dabei sollte Amir doch einfach nur Kind und Patient sein dürfen. Marie 
+Zahout
+Graphic
+ 
+Untersucht. Viele Vietnamesen mit Babys kommen zu Open.med. Foto: Mauritius Images R"
+2022-01,Main Corpus,2022-01(58).ZIP,Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt   Lage in Gande(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt   Lage in Gande(2).PDF,Kreis muss mehr Flüchtlinge aufnehmen; Zuwanderung Wohnraum für Asylsuchende benötigt Lage in,kreis muss mehr flüchtlinge aufnehmen zuwanderung wohnraum für asylsuchende benötigt lage in,Nordwest-Zeitung,nordwestzeitung,04. Januar 2022,,GANDERKESEE; S. 7,380,2847,ec0387c0a6db31139a0a644f46f05621e6146fa4,variant_003,regional_variant,review,,no,,no,,,3719,no,,,near_003,variant_003,"Ganderkesee/Landkreis/TK - 2021 sind mehr Geflüchtete nach Deutschland gekommen. Wegen der deutlich 
 anziehenden Migration, aber auch um die Unterbringung in der Pandemie zu entzerren, mietet das Land 
 Niedersachsen inzwischen sogar Sammelunterkünfte wie Jugendherbergen an. Der Zustrom macht sich auch im 
 Kreis Oldenburg bemerkbar. Denn von der Landesaufnahmebehörde erfolgt die Zuweisung der Asylsuchenden in 
@@ -1134,7 +1327,7 @@ sehe sich bei der Verfügbarkeit von Einzelwohnungen gut aufgestellt, da eigene 
 reserviert und weitere passende Wohnungen bereits im Hinblick auf die zu erfüllende Quote angemietet worden 
 seien, heißt es.
 PDF-Datei dieses Dokuments"
-2022-01,Main Corpus,2022-01(50).ZIP,Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt   Lage in Gande.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt   Lage in Gande.PDF,Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt Lage in,kreis muss mehr flüchtlinge aufnehmen zuwanderung wohnraum für asylsuchende benötigt lage in,Nordwest-Zeitung,nordwestzeitung,04. Januar 2022,,WILDESHAUSEN; S. 7,355,2720,04d275a8e42c3496221707e0e18eeca78f6b3417,variant_003,regional_variant,review,,no,,no,,,3465,no,,,near_003,variant_003,"Wildeshausen/Landkreis/TK - 2021 sind mehr Geflüchtete nach Deutschland gekommen. Wegen der deutlich 
+2022-01,Main Corpus,2022-01(58).ZIP,Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt   Lage in Gande.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt   Lage in Gande.PDF,Kreis muss mehr Flüchtlinge aufnehmen Zuwanderung Wohnraum für Asylsuchende benötigt Lage in,kreis muss mehr flüchtlinge aufnehmen zuwanderung wohnraum für asylsuchende benötigt lage in,Nordwest-Zeitung,nordwestzeitung,04. Januar 2022,,WILDESHAUSEN; S. 7,355,2720,04d275a8e42c3496221707e0e18eeca78f6b3417,variant_003,regional_variant,review,,no,,no,,,3465,no,,,near_003,variant_003,"Wildeshausen/Landkreis/TK - 2021 sind mehr Geflüchtete nach Deutschland gekommen. Wegen der deutlich 
 anziehenden Migration, aber auch um die Unterbringung in der Pandemie zu entzerren, mietet das Land 
 Niedersachsen inzwischen sogar Sammelunterkünfte wie Jugendherbergen an. Der Zustrom macht sich auch im 
 Kreis Oldenburg bemerkbar. Denn von der Landesaufnahmebehörde erfolgt die Zuweisung der Asylsuchenden in 
@@ -1168,7 +1361,7 @@ reserviert und weitere passende Wohnungen bereits im Hinblick auf die zu erfüll
 seien, heißt es.
  
 PDF-Datei dieses Dokuments"
-2022-01,Main Corpus,2022-01(50).ZIP,Kritik an Gebühren für Abschiebung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Kritik an Gebühren für Abschiebung.PDF,Kritik an Gebühren für Abschiebung,kritik an gebühren für abschiebung,Frankfurter Rundschau,frankfurter rundschau,Samstag 29. Januar 2022,,HESSEN; S. F20,223,1597,8a7b97a1201082d8e5bb2dbcb33e10c1a78294e3,,unique,keep,,no,,no,,,2235,no,,,,,"Die Landtagsabgeordnete Saadet Sönmez (Linke) hat die hohen Abschiebekosten, die der nach Deutschland 
+2022-01,Main Corpus,2022-01(58).ZIP,Kritik an Gebühren für Abschiebung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Kritik an Gebühren für Abschiebung.PDF,Kritik an Gebühren für Abschiebung,kritik an gebühren für abschiebung,Frankfurter Rundschau,frankfurter rundschau,Samstag 29. Januar 2022,,HESSEN; S. F20,223,1597,8a7b97a1201082d8e5bb2dbcb33e10c1a78294e3,,unique,keep,,no,,no,,,2235,no,,,,,"Die Landtagsabgeordnete Saadet Sönmez (Linke) hat die hohen Abschiebekosten, die der nach Deutschland 
 zurückgekehrte Serif Akbulut zahlen soll, kritisiert und ein Umdenken im Umgang mit Geflüchteten gefordert. Der 
 Fall, über den die FR am Freitag berichtete, zeige die „Abschiebewut“ der hessischen Behörden, sagte die 
 Sprecherin der Linken-Fraktion für Flüchtlingspolitik, Migration und Integration. Statt viel Geld für Abschiebungen 
@@ -1185,7 +1378,7 @@ Sönmez fordert, dies zu ändern und spricht von einer großen Ungerechtigkeit. 
 einen Privatjet bestellt noch in Haft gewollt, sondern nur in seiner neuen Heimat bleiben wollen. Die aus der 
 Abschiebung resultierenden Schulden erschwerten ihm den Neustart erheblich. gha
 Link zum PDF-Dokument"
-2022-01,Main Corpus,2022-01(50).ZIP,"Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend(2).PDF","Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend",land ohne helfer in deutschland sind nicht nur fachkräfte knapp auch ungelernte werden händeringend,Welt am Sonntag,welt am sonntag,9. Januar 2022,Inga Michler,Wirtschaft; S. 22; Ausg. 2,1205,8899,bb027ad77077486317ec4f5268f1157cb544bea8,exact_006,duplicate_exact,review,,no,,no,,,10203,no,,exact_006,,,"Lieber heute als morgen würde Axel Knau 300 Helfer einstellen. Besondere Vorkenntnisse: nicht erforderlich. 
+2022-01,Main Corpus,2022-01(58).ZIP,"Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend(2).PDF","Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend",land ohne helfer in deutschland sind nicht nur fachkräfte knapp auch ungelernte werden händeringend,Welt am Sonntag,welt am sonntag,9. Januar 2022,Inga Michler,Wirtschaft; S. 22; Ausg. 2,1205,8899,bb027ad77077486317ec4f5268f1157cb544bea8,exact_006,duplicate_exact,review,,no,,no,,,10203,no,,exact_006,,,"Lieber heute als morgen würde Axel Knau 300 Helfer einstellen. Besondere Vorkenntnisse: nicht erforderlich. 
 ""Motiviert sollen die Kollegen sein und verantwortungsbewusst"", sagt der Geschäftsführer der Zur-Mühlen-Gruppe. 
 Ihm fehlen für seine sechs deutschen Produktionsstätten für Wurst und Aufschnitt nicht nur die allerorts gesuchten 
 Fachkräfte, vom Maschinenführer bis zum ITler. Er könnte in Böklund, Delmenhorst, Zerbst oder Chemnitz ""vom 
@@ -1277,7 +1470,7 @@ Original Gesamtseiten-PDF
 Graphic
  
 Staubsauger allein im Haus: Vielerorts fehlen die Servicekräfte"
-2022-01,Main Corpus,2022-01(50).ZIP,"Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend.PDF","Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend",land ohne helfer in deutschland sind nicht nur fachkräfte knapp auch ungelernte werden händeringend,Welt am Sonntag,welt am sonntag,8. Januar 2022,Inga Michler,Wirtschaft; S. 22; Ausg. 2,1205,8899,bb027ad77077486317ec4f5268f1157cb544bea8,exact_006,duplicate_exact,review,,no,,no,,,10203,no,,exact_006,,,"Lieber heute als morgen würde Axel Knau 300 Helfer einstellen. Besondere Vorkenntnisse: nicht erforderlich. 
+2022-01,Main Corpus,2022-01(58).ZIP,"Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend.PDF","Land ohne Helfer In Deutschland sind nicht nur Fachkräfte knapp, auch Ungelernte werden händeringend",land ohne helfer in deutschland sind nicht nur fachkräfte knapp auch ungelernte werden händeringend,Welt am Sonntag,welt am sonntag,8. Januar 2022,Inga Michler,Wirtschaft; S. 22; Ausg. 2,1205,8899,bb027ad77077486317ec4f5268f1157cb544bea8,exact_006,duplicate_exact,review,,no,,no,,,10203,no,,exact_006,,,"Lieber heute als morgen würde Axel Knau 300 Helfer einstellen. Besondere Vorkenntnisse: nicht erforderlich. 
 ""Motiviert sollen die Kollegen sein und verantwortungsbewusst"", sagt der Geschäftsführer der Zur-Mühlen-Gruppe. 
 Ihm fehlen für seine sechs deutschen Produktionsstätten für Wurst und Aufschnitt nicht nur die allerorts gesuchten 
 Fachkräfte, vom Maschinenführer bis zum ITler. Er könnte in Böklund, Delmenhorst, Zerbst oder Chemnitz ""vom 
@@ -1369,7 +1562,108 @@ Original Gesamtseiten-PDF
 Graphic
  
 Staubsauger allein im Haus: Vielerorts fehlen die Servicekräfte"
-2022-01,Main Corpus,2022-01(50).ZIP,Migranten auf Zypern demonstrieren Gewaltsame Auseinandersetzungen in der Küstenstadt Paphos und an.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Migranten auf Zypern demonstrieren Gewaltsame Auseinandersetzungen in der Küstenstadt Paphos und an.PDF,Migranten auf Zypern demonstrieren Gewaltsame Auseinandersetzungen in der Küstenstadt Paphos und an,migranten auf zypern demonstrieren gewaltsame auseinandersetzungen in der küstenstadt paphos und an,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 06. Januar 2022,Klaus Hillenbrand,AUSLAND; S. 11,586,4249,b9bce2855b052ff9a5f6436a4f3ad862967a1edd,,unique,keep,,no,,no,,,6127,no,,,,,"Von Klaus Hillenbrand
+2022-01,Main Corpus,2022-01(58).ZIP,"Manche wollen noch vernichten, was lang nicht mehr da ist Peter Weissenburger Unisex.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Manche wollen noch vernichten, was lang nicht mehr da ist Peter Weissenburger Unisex.PDF","Manche wollen noch vernichten, was lang nicht mehr da ist Peter Weissenburger Unisex",manche wollen noch vernichten was lang nicht mehr da ist peter weissenburger unisex,"taz, die tageszeitung",taz die tageszeitung,Freitag 07. Januar 2022,Peter Weissenburger,GESELLSCHAFT; S. 14,507,3293,313d7019dd711614e76b62d809b667f2cf16b4a7,,unique,keep,,no,,no,,,4088,no,,,,,"Peter Weissenburger
+Unisex
+Eine Frau flieht, auf der Suche nach Sicherheit und einem ruhigen Leben. Sie überquert die Ägäis, nimmt die 
+Balkanroute. Sie kommt nach Deutschland. Sie lernt die Sprache, findet eine Tätigkeit in der Beratung, wo sie 
+anderen helfen kann. Findet Freund*innen. Aber Sicherheit und Ruhe findet sie nicht. Obwohl ihr als trans Frau in 
+ihrem Herkunftsland Iran Gewalt droht, erhält sie in Deutschland zunächst kein Asyl. Dass die reine Existenz eines 
+transgeschlechtlichen Körpers für viele Menschen Grund genug ist, diesem Körper schaden zu wollen, sehen 
+deutsche Behörden nicht. Erst durch eine Klage behauptet sich die Frau, nach Jahren. Und muss sogleich 
+weiterkämpfen, um transmedizinische Versorgung, um Anerkennung ihres Geschlechts.
+Im September hat sich Ella N. am Berliner Alexanderplatz durch Selbstverbrennung das Leben genommen ().die 
+taz berichtete Ihre Beweggründe sind unbekannt. Über Gründe für Suizide zu spekulieren führt zu nichts, und 
+niemand, sei er*sie noch so verzweifelt, soll ihrem Beispiel folgen. Es sei nur so viel gesagt, dass 
+Selbstverbrennungen der Versuch sein können, ein grauenvolles Signal zu senden: dass man all denen 
+zuvorgekommen ist bei der Vernichtung des eigenen Körpers, die es bis dahin versucht hatten. Ein extremer Akt, 
+begleitet womöglich von der Hoffnung, dass am Ende die Selbstbehauptung steht.
+Das soll nicht heißen, dass das etwas Heroisches ist. Im Gegenteil, sollten Sie daran denken, sich selbst zu 
+verletzen, oder Menschen kennen, die darüber sprechen: Machen Sie nichts Politisches, nichts Spirituelles draus. 
+Nehmen Sie die Hilfe der Telefonseelsorge (0800 111 01 11 oder 0800 111 02 22) in Anspruch oder die einer 
+Beratungsstelle für queere Menschen oder queere Migrant*innen. Das Bedürfnis verfolgter queerer Menschen, dem 
+Tod spirituelle Bedeutung zu geben, ist nachvollziehbar. Aber man kann einen Menschen respektieren und ehren, 
+ohne aus ihrer Verzweiflungstat etwas Held*innenhaftes zu machen.
+Am Mittwoch vermeldete der LSVD, dass Ella N.s Grab letzthin mehrfach verunstaltet worden ist. Die Bedrohung, 
+die für einige Menschen vom queeren Körper ausgeht, endet nicht mit dessen Tod. Der Vernichtungswahn bleibt. 
+Ich frage mich, warum. Warum sie noch weiter zerstören müssen, was längst nicht mehr da ist. Was von Ella N. 
+
+Manche wollen noch vernichten, was lang nicht mehr da ist Peter Weissenburger Unisex
+bleibt, sind die Menschen, denen sie geholfen hat. Die Menschen, die sie Freund*innen nannte und die jetzt dafür 
+sorgen, dass sie erinnert wird. Die Träume, die sie sich erfüllt hat, die Wege, die sie gegangen ist, die bleiben; und 
+sie zu vernichten wird schwer für ein paar Idioten, die nichts vorzuweisen haben als ihren Ekel.
+Tatsächlich glaube ich, dass das, was diese Leute vernichten wollen, gar nichts mit Ella zu tun hat. Es ist in ihnen 
+selber. Und deswegen geht ihre destruktive Wut weiter. Ich sollte das mit Mitleid betrachten, dass sie so leben 
+müssen. Aber wenn ich ehrlich bin: Ich hoffe, es frisst sie von innen auf.
+Die Fünftagevorschau
+Mo., 10. 1.
+Melisa Erkurt
+Nachsitzen
+Di., 11. 1.
+Ambros Waibel
+Hot und hysterisch
+Mi., 12. 1.
+Sophia Zessnik
+Great Depression
+Do., 13.1.
+Hengameh
+Yaghoobifarah
+Habibitus
+Fr., 14.1.
+Volkan A ar
+Postprolet
+kolumne @taz.de"
+2022-01,Main Corpus,2022-01(58).ZIP,Massiver Lehrermangel prognostiziert Studie im Auftrag des VBE errechnet bis 2030 mindestens 81 000.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Massiver Lehrermangel prognostiziert Studie im Auftrag des VBE errechnet bis 2030 mindestens 81 000.PDF,Massiver Lehrermangel prognostiziert Studie im Auftrag des VBE errechnet bis 2030 mindestens 81 000,massiver lehrermangel prognostiziert studie im auftrag des vbe errechnet bis 2030 mindestens 81 000,Der Tagesspiegel,der tagesspiegel,Mittwoch 26. Januar 2022,,WISSEN_FORSCHEN FQT:SPÄT; S. 022; Ausg. Der Tagesspiegel Nr. 24787 VOM 26.01.2022 SEITE,614,4644,405802dea6e4192303383c1ce81b63b76bc2cfa3,,unique,keep,,no,,no,,,5986,no,,,,,"Der Verband Bildung und Erziehung (VBE) schlägt Alarm. Der Lehrkräftemangel in Deutschland werde sich in den 
+kommenden Jahren so stark ausweiten, dass die Qualität von Bildung, Bildungsgerechtigkeit und auch die Zukunft 
+des Landes insgesamt ""massiv bedroht"" seien. Einer von der Lehrergewerkschaft VBE beauftragten Studie zufolge 
+würden im Jahr 2030 an deutschen Schulen ausgehend von einem Anstieg der Schülerzahl um rund neun Prozent 
+mindestens 81 000 Lehrer:innen fehlen.
+Hinzu käme ein zusätzlicher Bedarf von 74 400 Lehrkräften bei Umsetzung von geplanten schulpolitischen 
+Reformen in den Bereichen Ganztagsschule, Inklusion und der Unterstützung von Kindern in herausfordernden 
+sozialen Lagen. Hintergrund der Entwicklung sei der unerwartete Geburtenanstieg der Jahre 2010 bis 2020 und die 
+Zuwanderung 2015 bei stagnierenden Absolventenzahlen in der Lehrkräfteausbildung. 
+Die Kultusministerkonferenz (KMK) kommt in ihrer Untersuchung vom Dezember 2020 lediglich auf einen 
+Mehrbedarf von 14 000 Lehrer:innen für das Jahr 2030, ein zusätzlicher Bedarf durch schulpolitische 
+Reformmaßnahmen werde dabei nicht bedacht, kritisiert der Bildungsforscher Klaus Klemm, der die Untersuchung 
+für den VBE vorgenommen hat. 
+Die Berechnungen der KMK zum Einstellungsbedarf von Lehrer:innen bis 2030 bezeichnete Klemm zwar als 
+belastbar. Doch die Zahlen würden davon ausgehen, dass der Status Quo bestehen bleibe. Dabei würde ignoriert, 
+dass bereits angekündigte Reformen einen zusätzlichen Bedarf verursachen werden. Klemm errechnet bei 
+Umsetzung schulpolitischer Reformen vor dem Hintergrund der Lücke zwischen Lehrkräftebedarf und -angebot für 
+das Jahr 2030 insgesamt einen Mangel von bis zu 155 000 Lehrer:innen.
+Das Angebot an Lehrkräften schätzt die KMK bis 2030 auf 349 000, während Bildungsforscher Klemm nur von 286 
+000 ausgeht, also rund 63 000 Lehramtsabsolventen weniger erwartet als die Bildungsminister:innen. ""Die 
+Modellrechnungen der KMK zum Neuangebot originär ausgebildeter Lehrkräfte bis zum Jahr 2030 sind höchst 
+unseriös"", kommentierte Klemm. ""Hier wird das Angebot und Lehrkräften in den kommenden Jahren massiv 
+unterschätzt.""
+
+Massiver Lehrermangel prognostiziert Studie im Auftrag des VBE errechnet bis 2030 mindestens 81 000 
+fehlende Lehrkräfte. Bei Umsetzung schulpolitischer Reformen....
+Die Annahmen der KMK seien weder durch jüngste Entwicklungen bei den Studierendenzahlen im 
+Lehramtsstudium noch durch die Zahl der Schulabsolvent:innen, die ein Lehramtsstudium beginnen könnten, in den 
+kommenden Jahren gedeckt. ""Selbst ein exorbitant hoher, kurzfristiger und kaum zu realisierender Zuwachs bei 
+den Studierendenzahlen im Lehramt würde ein Plus an vollständig ausgebildeten Lehrkräften erst gegen Ende der 
+Zwanzigerjahre erzielen"", sagte der renommierte Bildungsforscher Klemm.
+Der VBE-Bundesvorsitzende Udo Beckmann spricht von einer ""riesigen Mogelpackung"" und ""Schönfärberei"" 
+seitens der KMK. Die Politik müsse umgehend die ""dringend notwendigen Konsequenzen"" aus den neuen 
+Ergebnissen ableiten. ""Aus dem im Koalitionsvertrag der Regierungsparteien proklamierten Jahrzehnt der 
+Bildungschancen wird sonst ein Jahrzehnt der Bildungsverliererinnen und -verlierer"", so Beckmann am Dienstag 
+zur Vorstellung der Studie. Dass Geburtenanstieg und Zuwanderung den Lehrkräftebedarf beeinflusst haben, sei 
+zudem nur ein Teil der Wahrheit. Steigende Schülerzahlen würden von der Politik gerne als Freibrief für versäumte 
+Maßnahmen genutzt. ""Denn die Personalausstattung an den Schulen war schon vor 2015 auf Kante genäht"", sagt 
+Beckmann. Das deutsche Bildungssystem sei insbesondere im Grundschulbereich ""massiv unterfinanziert"".
+KMK-Präsidentin Karin Prien (CDU) sagte als Reaktion auf die Studie gegenüber dem Tagesspiegel, dass alle 16 
+Bundesländer sich der Lage bewusst seien und landesspezifische Maßnahmen ergreifen würden. Der bereits in der 
+Vergangenheit prognostizierte Engpass werde durch ""die Folgen steigender Geburtenzahlen und Zuwanderung 
+und vieles mehr"" noch verstärkt. ""Solche Ergebnisse von Studien sind für uns also nicht neu und wir haben die 
+Entwicklung im Blick"", sagte Prien. Man befinde sich in einem fortwährenden Austausch darüber, wie die 
+Datengrundlage für bildungspolitische Entscheidungen verbessert und Prognosen methodisch weiterentwickelt 
+werden können. 
+Prien verwies auch auf Bemühungen, die Zahl der Lehramtsabsolventen zu erhöhen. Zudem kündigte sie eine 
+konsistente Qualifizierung der Lehrkräfte an, vor allem auch für Quer- und Seiteneinsteiger:innen. Jan Kixmüller
+Graphic
+ 
+Gesucht. Nachwuchslehrer werden dringend gebraucht. Foto: Britta Pedersen/dpa R"
+2022-01,Main Corpus,2022-01(58).ZIP,Migranten auf Zypern demonstrieren Gewaltsame Auseinandersetzungen in der Küstenstadt Paphos und an.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Migranten auf Zypern demonstrieren Gewaltsame Auseinandersetzungen in der Küstenstadt Paphos und an.PDF,Migranten auf Zypern demonstrieren Gewaltsame Auseinandersetzungen in der Küstenstadt Paphos und an,migranten auf zypern demonstrieren gewaltsame auseinandersetzungen in der küstenstadt paphos und an,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 06. Januar 2022,Klaus Hillenbrand,AUSLAND; S. 11,586,4249,b9bce2855b052ff9a5f6436a4f3ad862967a1edd,,unique,keep,,no,,no,,,6127,no,,,,,"Von Klaus Hillenbrand
 Mit Warnschüssen hat die zypriotische Polizei am Dienstagabend versucht, eine Gruppe von Migranten in der 
 Küstenstadt Paphos auseinanderzutreiben. Polizisten seien dabei mit Steinen beworfen worden, diese trafen auch 
 geparkte Autos von Anwohnern. Es war schon der zweite Tag massiver Auseinandersetzungen, bei denen bisher 
@@ -1414,7 +1708,7 @@ Amnesty International wirft ebenso wie lokale Menschenrechtsgruppen den zyprioti
 Migranten unzureichend unterzubringen und Flüchtlinge ohne legale Basis mittels Pushbacks zurückzuweisen. 
 Tatsächlich sind Syrer und Libanesen zurück in den Libanon gebracht worden. So wurden im September mehr als 
 200 Flüchtlinge und Migranten zurück in den Libanon verbracht."
-2022-01,Main Corpus,2022-01(50).ZIP,Migranten stützen deutschen Wohlstand Einwanderer und Geflüchtete stellen in Berufen mit Personaleng.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Migranten stützen deutschen Wohlstand Einwanderer und Geflüchtete stellen in Berufen mit Personaleng.PDF,Migranten stützen deutschen Wohlstand Einwanderer und Geflüchtete stellen in Berufen mit,migranten stützen deutschen wohlstand einwanderer und geflüchtete stellen in berufen mit,Der Tagesspiegel,der tagesspiegel,Samstag 15. Januar 2022,,WIRTSCHAFT FQT:SPÄT; S. 014; Ausg. Der Tagesspiegel Nr. 24776 VOM 15.01.2022 SEITE 014,581,4221,afc874b376958543695d8f68ed0aee95d4357b20,,unique,keep,,no,,no,,,5616,no,,,,,"Berlin - Im vergangenen Sommer sorgte der Chef der Bundesagentur für Arbeit (BA) mit einer Wortmeldung für 
+2022-01,Main Corpus,2022-01(58).ZIP,Migranten stützen deutschen Wohlstand Einwanderer und Geflüchtete stellen in Berufen mit Personaleng.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Migranten stützen deutschen Wohlstand Einwanderer und Geflüchtete stellen in Berufen mit Personaleng.PDF,Migranten stützen deutschen Wohlstand Einwanderer und Geflüchtete stellen in Berufen mit,migranten stützen deutschen wohlstand einwanderer und geflüchtete stellen in berufen mit,Der Tagesspiegel,der tagesspiegel,Samstag 15. Januar 2022,,WIRTSCHAFT FQT:SPÄT; S. 014; Ausg. Der Tagesspiegel Nr. 24776 VOM 15.01.2022 SEITE 014,581,4221,afc874b376958543695d8f68ed0aee95d4357b20,,unique,keep,,no,,no,,,5616,no,,,,,"Berlin - Im vergangenen Sommer sorgte der Chef der Bundesagentur für Arbeit (BA) mit einer Wortmeldung für 
 Wirbel: Deutschland sei auf 400 000 Einwanderer pro Jahr angewiesen, wenn dem Land nicht die Arbeitskräfte 
 ausgehen sollen, sagte Detlef Scheele. Auch wenn der BA-Chef damit nur bekannte Zahlen wiederholte, so 
 unterstrich er mit seiner Äußerung doch, welche Bedeutung die Migration für den Wohlstand hat. Diese wird nun 
@@ -1461,52 +1755,69 @@ Frank Specht
 Graphic
  
 R"
-2022-01,Main Corpus,2022-01(50).ZIP,NACHRICHTEN(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\NACHRICHTEN(2).PDF,NACHRICHTEN,nachrichten,Frankfurter Rundschau,frankfurter rundschau,Freitag 21. Januar 2022,,POLITIK; S. 8,273,1919,4cd2e5952eadd69625ec373ff08c6e519491fc84,,unique,keep,,no,,no,,,2850,no,,,,,"Neun Minderjährige in Lkw bei Würzburg gefunden
-Ein Lastwagenfahrer hat auf einem Autohof an der A3 nahe Würzburg Klopfgeräusche aus seinem Sattelzug gehört 
-und danach neun junge Flüchtlinge darin entdeckt. Laut Polizei fand man Afghan:innen im Alter von 12 bis 16 
-Jahren. Der Laster war in Rumänien losgefahren. dpa
-Diskussionen über BDS in städtischen Räumen erlaubt
-Der Beschluss des Münchner Stadtrats, kommunale Säle nicht für Diskussionen über die propalästinensische 
-Bewegung Boycott, Divestment and Sanctions (BDS) zur Verfügung zu stellen, verletzt die Meinungsfreiheit. Er sei 
-verfassungsrechtlich nicht gerechtfertigt, erklärte das Bundesverwaltungsgericht in Leipzig am Donnerstag. Es wies 
-damit die Revision der Stadt zurück. Der Stadtrat hatte seinen Beschluss 2017 damit begründet, dass die BDS-
-Kampagne antisemitisch sei. afp
-Bund will LSBTI-Engagierte aus Afghanistan aufnehmen
-Die Bundesregierung will einigen Vorkämpfer:innen für die Rechte sexueller Minderheiten aus Afghanistan Zuflucht 
-gewähren. Seit August seien mehr als 80 von ihnen Aufnahmezusagen erteilt worden, heißt es in einer Antwort des 
-Auswärtigen Amts auf eine Frage der Linken-Politikerin Cornelia Möhring. Man teile „die Sorge über die Situation 
-lesbischer, schwuler, bisexueller, trans- und intergeschlechtlicher Menschen (LSBTI) in Afghanistan“, heißt es 
-darin. Der Lesben- und Schwulenverband Deutschland begrüßte die Zusagen. Man müsse die Menschen jetzt 
-schnell herholen. afp
-Israel und Deutschland schließen U-Boot-Deal
-Israelischen Angaben zufolge haben sich Israel und Deutschland auf einen U-Boot-Deal mit ThyssenKrupp in Kiel 
-geeinigt. Es geht demnach um den Kauf von drei U-Booten der Klasse „Dakar“, der wegen Korruptionsvorwürfen 
-bei U-Boot-Geschäften mit Israel jahrelang auf Eis gelegen hatte. Die Kosten des Geschäfts lägen bei rund drei 
-Milliarden Euro, hieß es. dpa
-Link zum PDF-Dokument
+2022-01,Main Corpus,2022-01(58).ZIP,NACHRICHTEN(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\NACHRICHTEN(2).PDF,NACHRICHTEN,nachrichten,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 13. Januar 2022,,POLITIK; S. 6,349,2481,1205cf849158e46605eb687eb5c2c1ac1d308996,,unique,keep,,no,,no,,,3570,no,,,,,"Deutlich mehr Anträge auf Asyl im Jahr 2021 
+Mit 190 816 gestellten Asylanträgen ist die Zahl der Schutzersuchen 2021 um knapp 25 000 Fälle gestiegen. Das 
+sei ein Zuwachs um 15 Prozent gegenüber dem Jahr 2019, teilte das Bundesinnenministerium am Mittwoch in 
+Berlin mit. Wegen der weltweiten Corona-Reisebeschränkungen sei ein Vergleich mit den Asyldaten aus dem 
+Vorjahr nicht repräsentativ. Knapp 26 000 der Erstanträge im Jahr 2021 betrafen in Deutschland geborene Kinder 
+im Alter von unter einem Jahr, wie es hieß. Die meisten aller registrierten Antragsteller kamen aus Syrien, 
+Afghanistan und dem Irak. epd
+Bund peilt 148 weitere neue Stellen an
+Die Bundesregierung will in den Ministerien und im Kanzleramt weitere 148 neue Stellen schaffen. Das geht aus 
+einer Personalliste der Haushalts-Arbeitsgruppen von SPD, Grünen und FDP hervor. Mitte Dezember hatte die 
+Koalition bereits 176 neue Stellen beim Haushaltsausschuss beantragt. Neun der jetzt aufgelisteten und 95 der 
+zuvor beantragten Stellen sind für das neugegründete Ministerium für Wohnen, Bauen und Stadtentwicklung 
+vorgesehen. dpa
+Erneut Hunderte Festnahmen in Almaty 
+In der von Unruhen besonders betroffenen kasachischen Stadt Almaty sind knapp 1700 weitere Menschen 
+festgenommen worden. Es handele sich um Plünderer und andere Verbrecher, berichteten Medien am Mittwoch 
+unter Berufung auf die Stadtverwaltung in der Millionenmetropole im Südosten des zentralasiatischen Landes. Die 
+Zahl der Festnahmen wurde landesweit zuletzt mit rund 10 000 angegeben. dpa
+Härtere Sicherheitsgesetze in Hongkong geplant
+Hongkong will seine Gesetze zur nationalen Sicherheit verschärfen, die bisher Vergehen wie Terrorismus oder 
+Subversion umfassen. Ergänzend zum von Peking auferlegten sogenannten Sicherheitsgesetz, das ein hartes 
+Vorgehen gegen politische Aktivist:innen ermöglicht, soll ein neues lokales Gesetz mit rund 40 weiteren 
+Straftatbeständen geschaffen werden, wie Regierungschefin Carrie Lam am Mittwoch sagte. afp
+Tödliche Autobombe detoniert in Somalia
 
-NACHRICHTEN"
-2022-01,Main Corpus,2022-01(50).ZIP,NACHRICHTEN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\NACHRICHTEN.PDF,NACHRICHTEN,nachrichten,Frankfurter Rundschau,frankfurter rundschau,Mittwoch 12. Januar 2022,,POLITIK; S. 7,218,1671,063e03e31566ab8c90aa8b2288907921884110c4,,unique,keep,,no,,no,,,2707,no,,,,,"1826 geflüchtete Kinder in Deutschland vermisst
-Das Deutsche Kinderhilfswerk hat sich besorgt über die Zahl vermisster minderjähriger unbegleiteter Flüchtlinge 
-geäußert – laut Zahlen des Bundeskriminalamts gelten 1826 minderjährige Flüchtlinge in Deutschland als vermisst. 
-Aus Sicht des Kinderhilfswerks ist es möglich, dass ein Teil zu Verwandten weitergereist ist oder es Fehler bei der 
-Datenerfassung gegeben hat. afp
-Bundeswehr soll weitere neun Monate im Irak bleiben
-Die Bundesregierung will das Irak-Mandat der Bundeswehr bis Ende Oktober verlängern. Der Einsatz insbesondere 
-zur Beratung irakischer Sicherheitskräfte sei zur Unterstützung des Kampfs gegen den „IS“ weiter nötig, heißt es 
-nach AFP-Informationen vom Dienstag in einem Brief von Verteidigungsministerin Christine Lambrecht (SPD) und 
-Außenministerin Annalena Baerbock (Grüne) an den Bundestag. afp
-Erneut Tote bei Gefechten im Südkaukasus
-Armenien und Aserbaidschan haben bei erneuten Gefechten in der Grenzregion Tote beklagt. Zwei armenische 
-Soldaten seien getötet und zwei verletzt worden, teilte das Verteidigungsministerium in Eriwan am Dienstagabend 
-mit. Aserbaidschan meldete einen getöteten Soldaten. Beide Seiten gaben sich gegenseitig die Schuld für die 
-Eskalation. dpa
-Grenzüberschreitende Hilfe für Nordsyrien geht weiter
-Die Versorgung Millionen notleidender Menschen im Nordwesten Syriens durch internationale Hilfsorganisationen 
-ist vorerst sichergestellt. Eine Resolution des UN-Sicherheitsrates zur Öffnung eines nicht vom Assad-Regime 
-kontrollierten Grenzübergangs gelte weiter bis Juli, teilte das UN-Flüchtlingshilfswerk UNHCR am Dienstag mit. epd
+NACHRICHTEN
+Bei der Explosion einer Autobombe sind mindestens 13 Menschen in der Hauptstadt Somalias getötet worden. 
+Unter den Toten sei auch der mutmaßliche Täter, sagte ein Polizeisprecher in Mogadischu am Mittwoch. 
+Mindestens 20 Menschen, darunter auch Schulkinder, seien verletzt, so die Polizei. Durch die Detonation seien 
+auch Gebäude und Fahrzeuge in Mogadischu zerstört worden, so der Sprecher der Polizei. dpa
 Link zum PDF-Dokument"
-2022-01,Main Corpus,2022-01(50).ZIP,Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in d(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in d(2).PDF,Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in die,ortskräfte aus afghanistan angekommen es gibt wieder deutlich mehr zuweisungen von flüchtlingen in die,Rheinische Post,rheinische post,Dienstag 18. Januar 2022,Anja Settnik,S. 17,677,5011,b71592dc91706ca2ee39b006bd8107d9d14862c1,exact_007,duplicate_exact,review,,no,,no,,,6173,no,,exact_007,,,"ANJA SETTNIK
+2022-01,Main Corpus,2022-01(58).ZIP,NACHRICHTEN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\NACHRICHTEN.PDF,NACHRICHTEN,nachrichten,Frankfurter Rundschau,frankfurter rundschau,Dienstag 4. Januar 2022,,WIRTSCHAFT; S. 14,361,2547,4ada13ad162cc38cdc680f75275620b4db361687,,unique,keep,,no,,no,,,3709,no,,,,,"Zahl der Erwerbstätigen nimmt 2021 leicht zu
+Nach dem Rückgang im Corona-Krisenjahr 2020 ist die Zahl der Erwerbstätigen in Deutschland 2021 wieder leicht 
+gestiegen. Sie wuchs um 7000 auf 44,9 Millionen im Schnitt des vergangenen Jahres, wie das Statistische 
+Bundesamt am Montag nach vorläufigen Zahlen mitteilte. Im ersten Corona-Krisenjahr 2020 hatte die Pandemie 
+den zuvor über 14 Jahre langen Anstieg der Erwerbstätigkeit beendet. „Der seit 2006 andauernde 
+Beschäftigungszuwachs wäre vermutlich auch ohne die Corona-Krise bald zum Ende gekommen, da das 
+Erwerbspersonenpotenzial aufgrund des demografischen Wandels schwindet“, erklärten die Wiesbadener Statistik-
+Fachleute. Diese Entwicklung werde immer weniger von einer höheren Erwerbsbeteiligung der inländischen 
+Bevölkerung sowie der Zuwanderung kompensiert. dpa
+Absatz von Solaranlagen deutlich gestiegen 
+In Deutschland wurden nach Branchenangaben 2021 deutlich mehr Solaranlagen verkauft als im Vorjahr. So sei 
+die neu installierte Leistung um etwa zehn Prozent gewachsen – von 4,8 Gigawatt im Jahr 2020 auf 5,3 Gigawatt 
+im vergangenen Jahr, wie der Bundesverband Solarwirtschaft (BSW) in einer vorläufigen Bilanz am Montag 
+mitteilte. Demnach wurden 2021 etwa 240 000 Solaranlagen neu installiert, 2020 waren es 184 000 Systeme. Rund 
+zehn Prozent des heimischen Stromverbrauchs würden inzwischen aus Photovoltaikanlagen gedeckt. dpa
+Briefe werden künftig klimaneutral verschickt
+Der Briefversand mit der Deutschen Post ist seit dem Jahreswechsel klimaneutral. Die beim Brieftransport 
+entstehenden CO2-Emissionen würden seit Anfang Januar durch Investitionen in Kompensationsprojekte 
+ausgeglichen, teilte das Unternehmen am Montag mit. Für die Kunden entstünden keine zusätzlichen Kosten. Im 
+Jahr 2020 fielen durch den Versand von rund 6,5 Milliarden Briefen laut der Deutschen Post mehr als 300 000 
+Tonnen CO2 an. afp
+E-Mail-Stau: Microsoft behebt Neujahrsfehler
+Nachdem zu Jahresbeginn E-Mails in einigen Versionen von Microsofts Software Exchange stecken blieben, hat 
+der Konzern eine Lösung für das Problem veröffentlicht. Auslöser der Störung war ein falsches Datumsformat in 
+einer Datei für den in Exchange integrierten Schadsoftwarescanner. Die Antivirensoftware stürzte deswegen ab und 
+
+NACHRICHTEN
+sorgte dafür, dass E-Mails nicht weitergeschickt wurden. Der Konzern mahnte Geduld an: Es könne dauern, bis 
+sich der E-Mail-Stau auflöse. Im Netz bekam das Problem den Namen Y2K22 – eine Anspielung an das Y2K-
+Problem aus dem Jahr 2000. dpa
+Link zum PDF-Dokument"
+2022-01,Main Corpus,2022-01(58).ZIP,Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in d(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in d(2).PDF,Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in die,ortskräfte aus afghanistan angekommen es gibt wieder deutlich mehr zuweisungen von flüchtlingen in die,Rheinische Post,rheinische post,Dienstag 18. Januar 2022,Anja Settnik,S. 17,677,5011,b71592dc91706ca2ee39b006bd8107d9d14862c1,exact_007,duplicate_exact,review,,no,,no,,,6173,no,,exact_007,,,"ANJA SETTNIK
 goch Die Bilder haben die Welt erschüttert: Als die früheren Ortskräfte, die den deutschen Soldaten in Afghanistan 
 den Kontakt zur Bevölkerung erleichtert hatten, sich von außen an Flugzeuge hängten, um raus zu kommen aus 
 dem Land, in dem die Taliban nun wieder herrschen, war das Entsetzen groß. So lange es ging, wurden dann 
@@ -1557,7 +1868,7 @@ Flughafengelände keine weiteren Flüchtlinge aufnehmen.
 Pressesprecher Christoph Söbbeler. Die weitaus größte Gruppe der nach Deutschland und Nordrhein-Westfalen 
 kommenden Flüchtlinge sei diejenige, die hier einen Antrag auf Asyl stelle. Eine Prognose sei schwierig. Die 
 Zugangszahlen seien in den vergangenen Monaten gestiegen."
-2022-01,Main Corpus,2022-01(50).ZIP,Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in d.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in d.PDF,Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in die,ortskräfte aus afghanistan angekommen es gibt wieder deutlich mehr zuweisungen von flüchtlingen in die,Rheinische Post,rheinische post,Donnerstag 20. Januar 2022,Anja Settnik,S. 19,677,5011,b71592dc91706ca2ee39b006bd8107d9d14862c1,exact_007,duplicate_exact,review,,no,,no,,,6178,no,,exact_007,,,"ANJA SETTNIK
+2022-01,Main Corpus,2022-01(58).ZIP,Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in d.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in d.PDF,Ortskräfte aus Afghanistan angekommen Es gibt wieder deutlich mehr Zuweisungen von Flüchtlingen in die,ortskräfte aus afghanistan angekommen es gibt wieder deutlich mehr zuweisungen von flüchtlingen in die,Rheinische Post,rheinische post,Donnerstag 20. Januar 2022,Anja Settnik,S. 19,677,5011,b71592dc91706ca2ee39b006bd8107d9d14862c1,exact_007,duplicate_exact,review,,no,,no,,,6178,no,,exact_007,,,"ANJA SETTNIK
 goch Die Bilder haben die Welt erschüttert: Als die früheren Ortskräfte, die den deutschen Soldaten in Afghanistan 
 den Kontakt zur Bevölkerung erleichtert hatten, sich von außen an Flugzeuge hängten, um raus zu kommen aus 
 dem Land, in dem die Taliban nun wieder herrschen, war das Entsetzen groß. So lange es ging, wurden dann 
@@ -1608,7 +1919,57 @@ Flughafengelände keine weiteren Flüchtlinge aufnehmen.
 Pressesprecher Christoph Söbbeler. Die weitaus größte Gruppe der nach Deutschland und Nordrhein-Westfalen 
 kommenden Flüchtlinge sei diejenige, die hier einen Antrag auf Asyl stelle. Eine Prognose sei schwierig. Die 
 Zugangszahlen seien in den vergangenen Monaten gestiegen."
-2022-01,Main Corpus,2022-01(50).ZIP,Raheel Afzal droht die Abschiebung Mit einem Brief an die Innensenatorin wollen der schwerbehinderte.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Raheel Afzal droht die Abschiebung Mit einem Brief an die Innensenatorin wollen der schwerbehinderte.PDF,Raheel Afzal droht die Abschiebung Mit einem Brief an die Innensenatorin wollen der schwerbehinderte,raheel afzal droht die abschiebung mit einem brief an die innensenatorin wollen der schwerbehinderte,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 27. Januar 2022,Sara Guglielmino,BERLIN AKTUELL; S. 22,611,4648,0b875af661b8eb9ba77573bd05d8c99690bdea00,,unique,drop,reader_letter,no,,no,,,6171,yes,reader_letter,,,,"Von Sara Guglielmino
+2022-01,Main Corpus,2022-01(58).ZIP,Pflegehelfer droht Abschiebung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Pflegehelfer droht Abschiebung.PDF,Pflegehelfer droht Abschiebung,pflegehelfer droht abschiebung,Frankfurter Rundschau,frankfurter rundschau,Freitag 14. Januar 2022,,HESSEN; S. D4,627,4372,137f1ca531b663e51b627d03b8b67d8b3b01e61c,,unique,keep,,no,,no,,,5158,no,,,,,"VON STEVEN MICKSCH
+Ali Naveed hat eine ruhige, freundliche und hilfsbereite Art, ist einfühlsam und zuvorkommend. Das bescheinigen 
+ihm seine Kolleginnen und Kollegen, mit denen er seit drei Jahren in einer Pflegeeinrichtung für Seniorinnen und 
+Senioren in Lollar (Landkreis Gießen) zusammenarbeitet. Aber Naveed ist kein Deutscher. Und er ist auch kein 
+Geflüchteter, dessen Herkunftsland aus Sicht der deutschen Behörden zu unsicher ist, sondern stammt aus 
+Pakistan. Deshalb soll Naveed weg, raus aus Hessen, raus aus Deutschland. Gelungene Integration hin oder her.
+Der 38-Jährige kommt im Oktober 2014 nach Deutschland und stellt einen Antrag auf Asyl. Der wird zwei Jahre 
+später abgelehnt, doch Naveed geht in Berufung. 2017 macht er ein Praktikum in der Altenpflege und beginnt 
+Anfang 2018 für 30 Stunden pro Woche als Altenpflegehelfer zu arbeiten. Im Juli 2020 erhält er einen unbefristeten 
+Vertrag, jetzt ist er in Vollzeit tätig. Zu jener Zeit lehnt das Verwaltungsgericht seine Berufung ab. Die persönlichen 
+Gründe, warum er nicht mehr nach Pakistan könne, reichten nicht für eine Anerkennung aus. Seitdem ist Naveed 
+nur noch geduldet.
+Eine Petition im Landtag bleibt ohne Erfolg. Sein Anwalt Jan Plischke stellt einen Antrag auf Härtefall bei der 
+zuständigen Kommission. Doch auch dieser wird abgelehnt, weil es zu diesem Zeitpunkt schon konkrete 
+Abschiebepläne für den Pakistaner gibt. Ausnahmen lässt der Paragraf 23a des Aufenthaltsgesetzes zwar zu, doch 
+zumindest in diesem Fall wird keine gemacht.
+Naveeds Duldung ist am 25. November ausgelaufen, die letzte Möglichkeit zur „freiwilligen“ Ausreise war auf den 6. 
+Dezember terminiert. Am 24. November ging Naveed deshalb ins Kirchenasyl. „Es bestand die Gefahr, dass er 
+nach Ablauf der Duldung in Abschiebehaft genommen wird“, sagt sein Anwalt. Die Diakonie Hessen hat dem 38-
+Jährigen Obdach gegeben.
+Besonders pikant an dem Fall: Von Januar dieses Jahres an hätte Naveed wohl Anspruch auf eine 
+Beschäftigungsduldung gehabt. Dann hätte er nämlich die 18 Monate Vorbeschäftigungszeit in Vollzeit erfüllt 
+gehabt, sagt Jan Plischke. „Dass dies nun mit der Abschiebung so kurz vor knapp verhindert werden soll, wäre vor 
+drei Jahren nicht denkbar gewesen.“ Aber die Zeit der breiten Willkommenskultur ist vorbei.
+
+Pflegehelfer droht Abschiebung
+„Da wird nicht mehr nach der Perspektive geschaut, sondern es geht darum, die Menschen loszuwerden“, sagt 
+Plischke. Kurios, weil gerade bei Naveed ein zweiter Blick gelohnt hätte. Der 38-Jährige kommt seit 2018 für seinen 
+Lebensunterhalt vollständig selber auf. Und er arbeitet in der Pflege, wo seit geraumer Zeit und in der Corona-Zeit 
+nochmals verstärkt ein Personalnotstand herrscht. 
+Er habe sich in seinem Betrieb unentbehrlich gemacht und erfreue sich größter Beliebtheit bei der Bewohnerschaft, 
+seinen Kolleginnen und Kollegen sowie seinem Arbeitgeber. Den Bewohnerinnen und Bewohnern falle seine 
+Abwesenheit auf, berichtet eine Mitarbeiterin. „Wenn Ali abgeschoben wird, verlieren wir nicht nur einen wertvollen 
+Mitarbeiter, sondern auch einen Freund, einen engagierten Menschen, der sich bereits eine neue Existenz 
+aufgebaut hat. Einen liebevollen, jungen Mann, der sich in der Altenpflege mit Erfolg eingearbeitet hat“, schreibt sie 
+der FR.
+Die gute Integration des Mannes werde nicht honoriert, bemängelt Plischke. Man könne nicht unberücksichtigt 
+lassen, dass sich Menschen während der langen Wartezeit bis zur Entscheidung im Asylverfahren Arbeit suchen 
+und Teil der Gesellschaft werden. Eine Hoffnung auf Wiederkehr gebe es für Naveed nicht. Sein Bildungsabschluss 
+genüge nicht den hiesigen Anforderungen für die Aufnahme einer qualifizierten Berufsausbildung. Daher könne er 
+auch kein Visum als Fachkraft erhalten.
+Seit Mitte Dezember ist der Pakistaner wieder aus dem Kirchenasyl zurück. Sein Anwalt hat einen erneuten 
+Härtefallantrag gestellt. Zunächst muss nun über dessen Zulässigkeit entschieden werden. Anschließend bewertet 
+die Kommission, ob Naveeds Umstände ausreichen, um ihm den Aufenthalt zu erlauben. Das letzte Wort hat 
+Innenminister Peter Beuth (CDU). Die Kommission kann ihm lediglich empfehlen, eine Aufenthaltserlaubnis zu 
+erteilen. Ali Naveed hofft nun. Und die Menschen, die ihn kennen, ebenfalls.
+Siehe nebenstehenden Kommentar 
+Der Anwalt hat einen 
+Härtefallantrag gestellt
+Link zum PDF-Dokument"
+2022-01,Main Corpus,2022-01(58).ZIP,Raheel Afzal droht die Abschiebung Mit einem Brief an die Innensenatorin wollen der schwerbehinderte.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Raheel Afzal droht die Abschiebung Mit einem Brief an die Innensenatorin wollen der schwerbehinderte.PDF,Raheel Afzal droht die Abschiebung Mit einem Brief an die Innensenatorin wollen der schwerbehinderte,raheel afzal droht die abschiebung mit einem brief an die innensenatorin wollen der schwerbehinderte,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 27. Januar 2022,Sara Guglielmino,BERLIN AKTUELL; S. 22,611,4648,0b875af661b8eb9ba77573bd05d8c99690bdea00,,unique,drop,reader_letter,no,,no,,,6171,yes,reader_letter,,,,"Von Sara Guglielmino
 Raheel Afzal flüchtete vor acht Jahren aus Pakistan nach Deutschland. Afzal hat schwere Epilepsie und psychische 
 sowie kognitive Beeinträchtigungen. Aufgrund dieser Vielzahl von Erkrankungen ist er als zu 70 Prozent 
 schwerbehindert eingestuft.
@@ -1658,7 +2019,7 @@ Laut dem Jahresbericht 2019 wurden in dem Jahr unter Innensenator Andreas Geisel
 Kommission eingereicht, welche in 188 Fällen eine Empfehlung an Geisel aussprach. Dieser hatte den humanitären 
 Aufenthalt in 144 Fällen genehmigt. Rund 75 Prozent der Flüchtlinge durften aus besonderen humanitären Gründen 
 also im Land bleiben. Im Jahr 2018 lag diese Zahl bei 75,8 Prozent. (taz)"
-2022-01,Main Corpus,2022-01(50).ZIP,Schneller integrieren.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Schneller integrieren.PDF,Schneller integrieren,schneller integrieren,Frankfurter Rundschau,frankfurter rundschau,Freitag 7. Januar 2022,,POLITIK; S. 9,496,3742,bc9aab1813ffa36d56eb88e92da9ec98b46b6ab4,,unique,keep,,no,,no,,,4840,no,,,,,"VON FABIAN SCHEUERMANN
+2022-01,Main Corpus,2022-01(58).ZIP,Schneller integrieren.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Schneller integrieren.PDF,Schneller integrieren,schneller integrieren,Frankfurter Rundschau,frankfurter rundschau,Freitag 7. Januar 2022,,POLITIK; S. 9,496,3742,bc9aab1813ffa36d56eb88e92da9ec98b46b6ab4,,unique,keep,,no,,no,,,4840,no,,,,,"VON FABIAN SCHEUERMANN
 Der Wechsel an der Spitze des deutschen Innenministeriums macht sich im Bereich der Flüchtlingspolitik 
 bemerkbar: So gilt Afghanistan nach dem Willen von Innenministerin Nancy Faeser (SPD) künftig als 
 „Herkunftsland mit guter Bleibeperspektive“. Asylsuchenden aus dem seit Sommer wieder komplett von den Taliban 
@@ -1699,7 +2060,7 @@ schutzbedürftiger Menschen nach Deutschland beschleunigen zu wollen. Große Tei
 sind zusammengebrochen, viele Menschen hungern, es gibt weiterhin Anschläge und Gefechte – und regelmäßig 
 werden neue Einschränkungen des öffentlichen Lebens durch das Regime bekannt, meist für Frauen. mit dpa
 Link zum PDF-Dokument"
-2022-01,Main Corpus,2022-01(50).ZIP,Servus mit Handschellen(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Servus mit Handschellen(2).PDF,Servus mit Handschellen,servus mit handschellen,Frankfurter Rundschau,frankfurter rundschau,Samstag 15. Januar 2022,,POLITIK; S. 2,2038,14755,7a16cb44b1304d2877706e878a1e3c0b40de5733,variant_004,regional_variant,review,,no,,no,,,15941,no,,,near_004,variant_004,"September 2021, Landkreis Passau, Beamte der Bundespolizei halten einen aus Italien kommenden Wagen an. 
+2022-01,Main Corpus,2022-01(58).ZIP,Servus mit Handschellen(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Servus mit Handschellen(2).PDF,Servus mit Handschellen,servus mit handschellen,Frankfurter Rundschau,frankfurter rundschau,Samstag 15. Januar 2022,,POLITIK; S. 2,2038,14755,7a16cb44b1304d2877706e878a1e3c0b40de5733,variant_004,regional_variant,review,,no,,no,,,15941,no,,,near_004,variant_004,"September 2021, Landkreis Passau, Beamte der Bundespolizei halten einen aus Italien kommenden Wagen an. 
 Drei der sechs Menschen darin sind minderjährig. Die Jungen im Alter von 15, 16 und 17 Jahren sind erst vor 
 kurzem aus Afghanistan geflohen – mit einem der letzten Evakuierungsflugzeuge nach Rom. Sie wollen zu einem 
 Onkel in Deutschlands Norden. Doch zwischen ihnen liegen nicht nur über tausend Kilometer, sondern auch das 
@@ -1853,7 +2214,7 @@ Alters sowie laut Bamf „die Entscheidung, ob ein Asylantrag gestellt werden so
 Aus Afghanistan kamen im Jahr 2021 44,6 Prozent der unbegleiteten Minderjährigen (1449 Personen). Es folgten 
 die Herkunftsländer Syrien (28,5 Prozent, 925 Personen) und Somalia (6,9 Prozent, 223 Personen). fab
 Link zum PDF-Dokument"
-2022-01,Main Corpus,2022-01(50).ZIP,Servus mit Handschellen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Servus mit Handschellen.PDF,Servus mit Handschellen,servus mit handschellen,Frankfurter Rundschau,frankfurter rundschau,Samstag 15. Januar 2022,,POLITIK; S. 2,2038,14755,485793528343e078c2abe0d26fed5e4f7acd8e3d,variant_004,regional_variant,review,,no,,no,,,15890,no,,,near_004,variant_004,"Nur dank vieler Hilfe gab es ein vorläufiges Happy End
+2022-01,Main Corpus,2022-01(58).ZIP,Servus mit Handschellen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Servus mit Handschellen.PDF,Servus mit Handschellen,servus mit handschellen,Frankfurter Rundschau,frankfurter rundschau,Samstag 15. Januar 2022,,POLITIK; S. 2,2038,14755,485793528343e078c2abe0d26fed5e4f7acd8e3d,variant_004,regional_variant,review,,no,,no,,,15890,no,,,near_004,variant_004,"Nur dank vieler Hilfe gab es ein vorläufiges Happy End
 Weil sie über Italien kommen, landen sie in Abschiebehaft
 September 2021, Landkreis Passau, Beamte der Bundespolizei halten einen aus Italien kommenden Wagen an. 
 Drei der sechs Menschen darin sind minderjährig. Die Jungen im Alter von 15, 16 und 17 Jahren sind erst vor 
@@ -2007,7 +2368,7 @@ Alters sowie laut Bamf „die Entscheidung, ob ein Asylantrag gestellt werden so
 Aus Afghanistan kamen im Jahr 2021 44,6 Prozent der unbegleiteten Minderjährigen (1449 Personen). Es folgten 
 die Herkunftsländer Syrien (28,5 Prozent, 925 Personen) und Somalia (6,9 Prozent, 223 Personen). fab
 Link zum PDF-Dokument"
-2022-01,Main Corpus,2022-01(50).ZIP,So gelingt das neue Leben in Erkrath Im Jahr 2015 floh Raha Tamizi (37) aus dem Iran nach Deutschlan.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\So gelingt das neue Leben in Erkrath Im Jahr 2015 floh Raha Tamizi (37) aus dem Iran nach Deutschlan.PDF,So gelingt das neue Leben in Erkrath Im Jahr 2015 floh Raha Tamizi (37) aus dem Iran nach Deutschland.,so gelingt das neue leben in erkrath im jahr 2015 floh raha tamizi 37 aus dem iran nach deutschland,Rheinische Post,rheinische post,Samstag 8. Januar 2022,Susann Krüll,S. 27,753,4853,7e4068cb52f7b91e5d27928e166a5b8bb2fd76c1,,unique,keep,,no,,no,,,5750,no,,,,,"SUSANN KRÜLL
+2022-01,Main Corpus,2022-01(58).ZIP,So gelingt das neue Leben in Erkrath Im Jahr 2015 floh Raha Tamizi (37) aus dem Iran nach Deutschlan.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\So gelingt das neue Leben in Erkrath Im Jahr 2015 floh Raha Tamizi (37) aus dem Iran nach Deutschlan.PDF,So gelingt das neue Leben in Erkrath Im Jahr 2015 floh Raha Tamizi (37) aus dem Iran nach Deutschland.,so gelingt das neue leben in erkrath im jahr 2015 floh raha tamizi 37 aus dem iran nach deutschland,Rheinische Post,rheinische post,Samstag 8. Januar 2022,Susann Krüll,S. 27,753,4853,7e4068cb52f7b91e5d27928e166a5b8bb2fd76c1,,unique,keep,,no,,no,,,5750,no,,,,,"SUSANN KRÜLL
 Erkrath Für Raha Tamizi ist jetzt ihre „Glückszeit“. Im November 2015 kam sie mit ihrem Partner nach der Flucht 
 aus dem Iran in Herford an. „Dort im Camp war es zwar nicht sehr schön mit 500 Menschen aus unterschiedlichen 
 Ländern, getrennt voneinander in verschiedenen Bereichen, aber wir waren endlich in Deutschland und in 
@@ -2056,7 +2417,7 @@ miteinander verheiratet. So hat Raha Tamizi, die schon so vieles aus eigener Kra
 Wünsche: „Ich hoffe, dass sich ein Weg findet, dass mein Sohn kein Staatenloser mehr ist. Ich möchte irgendwann 
 mit ihm in den Iran fliegen, um meiner Mutter ihren Enkel vorzustellen.“ Und dann würde sie sich gerne mit ihrer 
 eigenen Schneiderei selbstständig machen, irgendwann einmal."
-2022-01,Main Corpus,2022-01(50).ZIP,So viele Asylanträge wie 2017 Schutzsuchende vor allem aus Syrien.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\So viele Asylanträge wie 2017 Schutzsuchende vor allem aus Syrien.PDF,So viele Asylanträge wie 2017 Schutzsuchende vor allem aus Syrien,so viele asylanträge wie 2017 schutzsuchende vor allem aus syrien,Berliner Zeitung,berliner zeitung,13. Januar 2022,,POLITIK; S. 4,393,2738,205d6d2e0c627d404d9038eb58be4a63944cca46,,unique,keep,,no,,no,,,3725,no,,,,,"In Deutschland sind im vergangenen Jahr so viele Asylanträge gestellt worden wie seit 2017 nicht mehr. Wie aus 
+2022-01,Main Corpus,2022-01(58).ZIP,So viele Asylanträge wie 2017 Schutzsuchende vor allem aus Syrien.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\So viele Asylanträge wie 2017 Schutzsuchende vor allem aus Syrien.PDF,So viele Asylanträge wie 2017 Schutzsuchende vor allem aus Syrien,so viele asylanträge wie 2017 schutzsuchende vor allem aus syrien,Berliner Zeitung,berliner zeitung,13. Januar 2022,,POLITIK; S. 4,393,2738,205d6d2e0c627d404d9038eb58be4a63944cca46,,unique,keep,,no,,no,,,3725,no,,,,,"In Deutschland sind im vergangenen Jahr so viele Asylanträge gestellt worden wie seit 2017 nicht mehr. Wie aus 
 Zahlen des Bundesamtes für Migration und Flüchtlinge (Bamf) hervorgeht, nahm die Behörde 2021 rund 190.800 
 Asylanträge entgegen.
 Rund 148.000 der Anträge betrafen Ausländer, die erstmalig in Deutschland einen Asylantrag stellten dies ist der 
@@ -2086,7 +2447,54 @@ Aufnahmezusage erhalten und müssen daher nicht Asyl beantragen.
 So viele Asylanträge wie 2017 Schutzsuchende vor allem aus Syrien
 Noch nicht entschieden waren Ende 2021 rund 108.000 Anträge und damit etwa doppelt so viele wie zum Ende des 
 Vorjahres. 21,4 Prozent aller Asylanträge wurden abgelehnt. (dpa)"
-2022-01,Main Corpus,2022-01(50).ZIP,Tulpen aus Amsterdam.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Tulpen aus Amsterdam.PDF,Tulpen aus Amsterdam,tulpen aus amsterdam,Der Tagesspiegel,der tagesspiegel,Donnerstag 6. Januar 2022,,TICKET FQT:SPÄT; S. T05; Ausg. Der Tagesspiegel Nr. 24767 VOM 06.01.2022 SEITE T05,188,1284,72dc0b7d6d28145bc39850bc5af57bf61a19af80,,unique,keep,,no,,no,,,1924,no,,,,,"Die großen Zielländer jüdischer Flüchtlinge vor dem Naziterror waren die USA, Großbritannien, Frankreich, 
+2022-01,Main Corpus,2022-01(58).ZIP,Stadtflucht ist nur ein temporäres Phänomen Wohnungskonzerne rechnen laut Studie trotz Pandemie mit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Stadtflucht ist nur ein temporäres Phänomen Wohnungskonzerne rechnen laut Studie trotz Pandemie mit.PDF,Stadtflucht ist nur ein temporäres Phänomen Wohnungskonzerne rechnen laut Studie trotz Pandemie mit,stadtflucht ist nur ein temporäres phänomen wohnungskonzerne rechnen laut studie trotz pandemie mit,Die Welt,die welt,Montag 10. Januar 2022,Michael Fabricius,Titel; S. 1; Ausg. 6,582,4305,601d41d4c04efd2e3cdec4436aa1bc956a14f1e6,,unique,keep,,no,,no,,,5748,no,,,,,"Die größeren Städte und deren Umland bleiben auch in Zukunft die bevorzugten Wohnorte der Bürger in 
+Deutschland. Der Druck auf den Wohnungsmarkt in den Städten dürfte nach einer pandemiebedingten Pause 
+sogar wieder zunehmen. Das geht aus einer Umfrage der Wirtschaftsprüfungsgesellschaft PwC unter Bau- und 
+Vermietungsunternehmen hervor, die WELT vorliegt. Immerhin 63 Prozent der befragten Großvermieter sehen 
+demnach ""keinen verstärkten Umzugstrend"" in suburbane Regionen. 34 Prozent beobachten zwar einen 
+Abwanderungstrend aus der City, jedoch nicht in ländliche Regionen, sondern eher an den unmittelbaren 
+Stadtrand.
+""Die Urbanisierung hält an"", sagt Florian Hackelberg, Mitautor der PwC-Studie und Experte für Immobilienwirtschaft 
+an der Hochschule für angewandte Wissenschaft und Kunst Holzminden. ""Es entstehen auch weiterhin mehr Jobs 
+im Dienstleistungssektor. Das ist ein übergeordneter Trend, der kurzfristige Binnenwanderungstendenzen oder 
+auch die Effekte der Pandemie langfristig überlagern wird"", so Hackelberg weiter. ""Auch die internationale 
+Zuwanderung von Arbeitskräften in die Ballungszentren dürfte wieder zunehmen.""
+Die von PwC befragten Wohnungsunternehmen und Projektentwickler haben einen eher wirtschaftsorientierten 
+Blick auf die demografische Entwicklung und auf Wanderungsbewegungen in den Ballungszentren. Sie müssen 
+einen Planungshorizont von mehreren Jahren oder gar Jahrzehnten überblicken und abwägen, ob die Wohnungen, 
+die sie heute vermieten oder bauen, auch in Zukunft noch gefragt sind - in welcher Lage, in welcher Größe und mit 
+welcher Ausstattung.
+Die Antwort auf eine weitere Frage in der PwC-Studie lässt hier einen klaren Schluss zu: Große Vermieter wollen 
+ihre Bestände bevorzugt in Ballungsräumen ausweiten. Bei dieser Aussage gab es 2,6 von drei Punkten. Direkt 
+dahinter folgen Bauvorhaben in ""suburbanen Regionen"", also am Stadtrand, mit 2,2 von drei Punkten. Im ländlichen 
+Raum dagegen denkt nur eine Minderheit über neue Wohnungen nach (1,2 Punkte). ""Unsere Kunden nehmen 
+weiterhin eine rasant steigende Nachfrage nach Wohnraum in den Metropol- und Ballungsräumen wahr"", sagt 
+
+Stadtflucht ist nur ein temporäres Phänomen Wohnungskonzerne rechnen laut Studie trotz Pandemie mit 
+keinem dauerhaften Umzugstrend aufs Land
+Immobilienexperte David Rouven Möcker von PwC Deutschland. ""Das hat sich durch Covid-19 offenbar nicht 
+geändert.""
+Demografen und Immobilienmarktexperten hatten spekuliert, dass wegen der Pandemie viele Bürger aus der 
+städtischen Enge ins Umland oder gar in ländliche Regionen ziehen könnten. Tatsächlich messen die statistischen 
+Ämter seit etwa fünf Jahren einen negativen Binnen-Wanderungssaldo, also mehr Ab- als Zuwanderung aus den 
+Städten ins Umland. Doch bis zu Pandemiebeginn wurde dies durch Zuwanderung aus dem Ausland übertroffen, 
+die Stadtbevölkerung nahm deshalb insgesamt zu. Wenn die von PwC befragten Unternehmen richtig liegen, wird 
+das in einigen Monaten oder spätestens im kommenden Jahr auch wieder der Fall sein.
+Auch die Experten im Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) sind in ihren langfristigen 
+Prognosen vorsichtiger, was die Effekte der Pandemie angeht. Innerhalb der Bundesrepublik würde die 
+Abwanderung aus strukturschwachen ländlichen Regionen anhalten. Die Folge: ""Insbesondere wirtschaftsstarke 
+Großstädte und ihr Umland sowie einige ländliche Regionen werden weiterwachsen."" Die weiterhin steigenden 
+Mieten sind ebenfalls ein Signal. Allein Hamburg meldete vor Kurzem im neuen Mietspiegel einen 
+durchschnittlichen Preisanstieg um 7,3 Prozent seit 2019 - trotz Wohnungsbauoffensive.
+Indirekt hat die Pandemie sogar einen Effekt, der die Nachfrage nach Flächen auf dem Wohnungsmarkt in den 
+Städten noch verstärkt. Laut der PwC-Umfrage beobachten Vermieter wachsende Ansprüche der Mieter an ihre 
+Wohnungen. Mehr als die Hälfte der Unternehmen nennen dabei den Wunsch nach größeren Wohnungen, und 46 
+Prozent von ihnen verzeichnen Nachfragen nach einem separaten Arbeitszimmer. Die Anforderungen an einen gut 
+funktionierenden Arbeitsplatz im Homeoffice wachsen - und werden damit die Nachfrage nach Fläche in den 
+Städten sogar erhöhen. Studienautor Hackelberg drückt das so aus: ""Städte wie Berlin sind weiterhin spannende 
+Orte.""
+Original Gesamtseiten-PDF"
+2022-01,Main Corpus,2022-01(58).ZIP,Tulpen aus Amsterdam.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Tulpen aus Amsterdam.PDF,Tulpen aus Amsterdam,tulpen aus amsterdam,Der Tagesspiegel,der tagesspiegel,Donnerstag 6. Januar 2022,,TICKET FQT:SPÄT; S. T05; Ausg. Der Tagesspiegel Nr. 24767 VOM 06.01.2022 SEITE T05,188,1284,72dc0b7d6d28145bc39850bc5af57bf61a19af80,,unique,keep,,no,,no,,,1924,no,,,,,"Die großen Zielländer jüdischer Flüchtlinge vor dem Naziterror waren die USA, Großbritannien, Frankreich, 
 Portugal und Palästina. Weniger bekannt ist, dass auch die Niederlande, zumindest als Durchgangsland, eine 
 wichtige Station für jüdische Exilanten nach 1933 waren. Zahlreiche Filmschaffende waren dort in Lohn und Brot, 
 nachdem sie in Deutschland mit Berufsverboten belegt wurden. Mit zehn Filmen bildet das Zeughauskino in seiner 
@@ -2105,7 +2513,7 @@ zeughauskino
 Graphic
  
 R"
-2022-01,Main Corpus,2022-01(50).ZIP,Voerde hat noch Platz für Flüchtlinge Die Stadt könnte auch kurzfristig auf einen möglicherweise ste.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Voerde hat noch Platz für Flüchtlinge Die Stadt könnte auch kurzfristig auf einen möglicherweise ste.PDF,Voerde hat noch Platz für Flüchtlinge Die Stadt könnte auch kurzfristig auf einen möglicherweise steigenden,voerde hat noch platz für flüchtlinge die stadt könnte auch kurzfristig auf einen möglicherweise steigenden,Rheinische Post,rheinische post,Freitag 14. Januar 2022,,S. 21,639,4716,882ad5c6b8b3e5eda7af24982f8667658ead18f0,,unique,keep,,no,,no,,,5905,no,,,,,"Voerde (P.K.) Obwohl die Zahl der Asylbewerber in Deutschland im vergangenen Jahr gegenüber 2020 deutlich 
+2022-01,Main Corpus,2022-01(58).ZIP,Voerde hat noch Platz für Flüchtlinge Die Stadt könnte auch kurzfristig auf einen möglicherweise ste.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Voerde hat noch Platz für Flüchtlinge Die Stadt könnte auch kurzfristig auf einen möglicherweise ste.PDF,Voerde hat noch Platz für Flüchtlinge Die Stadt könnte auch kurzfristig auf einen möglicherweise steigenden,voerde hat noch platz für flüchtlinge die stadt könnte auch kurzfristig auf einen möglicherweise steigenden,Rheinische Post,rheinische post,Freitag 14. Januar 2022,,S. 21,639,4716,882ad5c6b8b3e5eda7af24982f8667658ead18f0,,unique,keep,,no,,no,,,5905,no,,,,,"Voerde (P.K.) Obwohl die Zahl der Asylbewerber in Deutschland im vergangenen Jahr gegenüber 2020 deutlich 
 gestiegen ist, wurden der Stadt Voerde nicht mehr Menschen zugewiesen. Im Gegenteil: 2021 nahm sie – Stand 
 Ende Dezember – 14 neue Flüchtlinge auf. Im Jahr davor waren 55 Asylbewerber nach Voerde gekommen. „Die 
 verhältnismäßig geringe Zahl steht im Widerspruch zu den gestiegenen Flüchtlingszahlen aus 2021 gegenüber 
@@ -2155,7 +2563,7 @@ an der Schwanenstraße zu finden beziehungsweise deren Neubau zu planen.
 2017 Zwei Jahre nach der Flüchtlingskrise – war davon die Rede gewesen, im Falle eines entsprechenden Bedarfs 
 auch in Spellen auf zwei Grundstücken sukzessive zwei weitere Anlagen in Modulbauweise mit je 64 Plätzen zu 
 schaffen. Dies sei im Moment nicht vorgesehen, erklärt Stadtsprecherin Miriam Gruschka."
-2022-01,Main Corpus,2022-01(50).ZIP,Wir brauchen eine Staatsreform 2030.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Wir brauchen eine Staatsreform 2030.PDF,Wir brauchen eine Staatsreform 2030,wir brauchen eine staatsreform 2030,Die Welt,die welt,Donnerstag 20. Januar 2022,Daniel Dettling,FORUM; GASTKOMMENTAR; S. 7; Ausg. 14,666,5156,a2c634f84f849ea6f6f7046222de19ee82dfafe7,,unique,drop,commentary_noncore,no,,no,,,6545,yes,commentary_noncore,,,,"Finanzkrise, Flüchtlingskrise, Corona-Krise und Hochwasser: Zum vierten Mal innerhalb von zwölf Jahren wurde 
+2022-01,Main Corpus,2022-01(58).ZIP,Wir brauchen eine Staatsreform 2030.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Wir brauchen eine Staatsreform 2030.PDF,Wir brauchen eine Staatsreform 2030,wir brauchen eine staatsreform 2030,Die Welt,die welt,Donnerstag 20. Januar 2022,Daniel Dettling,FORUM; GASTKOMMENTAR; S. 7; Ausg. 14,666,5156,a2c634f84f849ea6f6f7046222de19ee82dfafe7,,unique,drop,commentary_noncore,no,,no,,,6545,yes,commentary_noncore,,,,"Finanzkrise, Flüchtlingskrise, Corona-Krise und Hochwasser: Zum vierten Mal innerhalb von zwölf Jahren wurde 
 das politische System in Deutschland einem Stresstest unterzogen. Die Krise scheint zum festen Bestandteil der 
 politischen Normalität zu werden. Die gegenwärtige Pandemie ist dabei nur ein Krisenereignis. Weitere Krisen 
 können folgen oder sind bereits im Anmarsch: der Klimawandel mit den verbundenen Szenarien wie Dürre, 
@@ -2210,7 +2618,7 @@ Devolution: Föderalismus, Staat und Verwaltung müssen vernetzter, pragmatische
 Instituts im Auftrag der Konrad-Adenauer-Stiftung zur Aufgabe und Rolle des deutschen Staates im 21. 
 Jahrhundert, die in Kürze erscheint. 
 Original Gesamtseiten-PDF"
-2022-01,Main Corpus,2022-01(50).ZIP,Zynische Pointen des Ausländerrechts.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Zynische Pointen des Ausländerrechts.PDF,Zynische Pointen des Ausländerrechts,zynische pointen des ausländerrechts,Frankfurter Rundschau,frankfurter rundschau,Montag 10. Januar 2022,,HESSEN; S. F15,929,6605,d62bc18d4b624f7589103c6ab12be98c3298094e,,unique,keep,,no,,no,,,7496,no,,,,,"Erloschener Aufenthaltstitel. Wohnsitzauflage. Vollziehbar ausreisepflichtig. Leyla Lacin kennt die kalte Sprache der 
+2022-01,Main Corpus,2022-01(58).ZIP,Zynische Pointen des Ausländerrechts.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Zynische Pointen des Ausländerrechts.PDF,Zynische Pointen des Ausländerrechts,zynische pointen des ausländerrechts,Frankfurter Rundschau,frankfurter rundschau,Dienstag 11. Januar 2022,,HESSEN; S. D8,929,6605,7423ad349abdcc5457b847151f7cbfc75e2a59e4,,unique,keep,,no,,no,,,7498,no,,,,,"Erloschener Aufenthaltstitel. Wohnsitzauflage. Vollziehbar ausreisepflichtig. Leyla Lacin kennt die kalte Sprache der 
 deutschen Ausländerbürokratie. Sie kennt die Bedrohung, die sich auftürmt hinter diesen Wortungetümen, sie lebt 
 damit schon fast ihr ganzes Leben. Doch wenn sie erzählt, was sie mit den deutschen Behörden erlebt hat, dann 
 wählt sie klarere Worte: „Absurdität“, sagt sie, „und Menschenverachtung.“
@@ -2276,12 +2684,12 @@ dringendst auf solche Arbeitskräfte angewiesen.“
 Das Vorgehen der Behörden gegen seine langjährige Mitarbeiterin Leyla Lacin begreift Riester schon lange nicht 
 mehr. „Aus humanitärer Sicht ist das nicht nachzuvollziehen“, sagt er. Und ausländerrechtlich? „Wir haben 
 aufgegeben, das entwirren zu wollen.“
+Bayern zeigte auf Hessen - und umgekehrt
 Sie wurde auf Druck der
 Behörden entlassen
-Bayern zeigte auf Hessen - und umgekehrt
 Link zum PDF-Dokument
 Zynische Pointen des Ausländerrechts"
-2022-01,Main Corpus,2022-01(50).ZIP,Überraschend unbeirrbar Nancy Faeser ist die erste Frau an der Spitze des Bundesinnenministeriums. D.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Überraschend unbeirrbar Nancy Faeser ist die erste Frau an der Spitze des Bundesinnenministeriums. D.PDF,Überraschend unbeirrbar; Nancy Faeser ist die erste Frau an der Spitze des Bundesinnenministeriums. Die,überraschend unbeirrbar nancy faeser ist die erste frau an der spitze des bundesinnenministeriums die,Berliner Zeitung,berliner zeitung,25. Januar 2022,Anne-Kattrin Palmer,SEITE 3; S. 3,1580,10930,4be54845dc211b0173ab71a0c52e1e7282652af7,,unique,keep,,no,,no,,,12642,no,,,,,"Als Nancy Faeser ans Mikrofon tritt, gibt sie gleich zu, dass sie aufgeregt ist. Die neue Innenministerin spricht zum 
+2022-01,Main Corpus,2022-01(58).ZIP,Überraschend unbeirrbar Nancy Faeser ist die erste Frau an der Spitze des Bundesinnenministeriums. D.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\Überraschend unbeirrbar Nancy Faeser ist die erste Frau an der Spitze des Bundesinnenministeriums. D.PDF,Überraschend unbeirrbar; Nancy Faeser ist die erste Frau an der Spitze des Bundesinnenministeriums. Die,überraschend unbeirrbar nancy faeser ist die erste frau an der spitze des bundesinnenministeriums die,Berliner Zeitung,berliner zeitung,25. Januar 2022,Anne-Kattrin Palmer,SEITE 3; S. 3,1580,10930,4be54845dc211b0173ab71a0c52e1e7282652af7,,unique,keep,,no,,no,,,12642,no,,,,,"Als Nancy Faeser ans Mikrofon tritt, gibt sie gleich zu, dass sie aufgeregt ist. Die neue Innenministerin spricht zum 
 ersten Mal im Bundestag, fast demütig steht sie am Rednerpult. Ihre Hände gleiten nervös über das Manuskript. 
 Ihre Worte aber sind klar und mahnend. Faeser präsentiert die Liste ihrer Vorhaben für die Amtszeit, und diese 
 Liste ist lang.
@@ -2395,7 +2803,7 @@ Menschlich sei sie, herzlich, berichten Mitarbeiter ihrer Behörde nach den erst
 ihrem Vorgänger lade sie ganze Abteilungen zu Gesprächen ein, nicht nur deren Leiter. Und sie reiße von den 
 Konservativen aufgebaute Barrieren nieder, mancher Union-Gefolgsmann in der Behörde müsse nun umdenken. 
 Der neue Geist der Nancy Faeser, er beginnt vielleicht schon zu wirken."
-2022-01,Main Corpus,2022-01(50).ZIP,„Das soziale Miteinander ist unser Fundament“ Die SPD-Ratsfrau ist seit zehn Jahren Vorsitzende der.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\„Das soziale Miteinander ist unser Fundament“ Die SPD-Ratsfrau ist seit zehn Jahren Vorsitzende der.PDF,„Das soziale Miteinander ist unser Fundament“ Die SPD-Ratsfrau ist seit zehn Jahren Vorsitzende der SPD in,das soziale miteinander ist unser fundament die spdratsfrau ist seit zehn jahren vorsitzende der spd in,Rheinische Post,rheinische post,Donnerstag 6. Januar 2022,,S. 17,953,6472,24a9b50a226b63c653ab171f0257f5c34d9fbaea,,unique,keep,,no,,no,,,7449,no,,,,,"Sie sind Vorsitzende des Sozialausschusses. Was steht in diesem Jahr besonders an?
+2022-01,Main Corpus,2022-01(58).ZIP,„Das soziale Miteinander ist unser Fundament“ Die SPD-Ratsfrau ist seit zehn Jahren Vorsitzende der.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\„Das soziale Miteinander ist unser Fundament“ Die SPD-Ratsfrau ist seit zehn Jahren Vorsitzende der.PDF,„Das soziale Miteinander ist unser Fundament“ Die SPD-Ratsfrau ist seit zehn Jahren Vorsitzende der SPD in,das soziale miteinander ist unser fundament die spdratsfrau ist seit zehn jahren vorsitzende der spd in,Rheinische Post,rheinische post,Donnerstag 6. Januar 2022,,S. 17,953,6472,24a9b50a226b63c653ab171f0257f5c34d9fbaea,,unique,keep,,no,,no,,,7449,no,,,,,"Sie sind Vorsitzende des Sozialausschusses. Was steht in diesem Jahr besonders an?
 Tanja Jansen Im Fokus wird dieses Jahr die Unterbringung von Flüchtlingen stehen. Die Zahlen sind nach 2015 
 gesunken – nun steigen sie wieder. Wir haben mit dem Neubau am Caudebec-Ring wirklich guten Wohnraum 
 geschaffen. Aber wir müssen hier noch mehr tun, damit unsere neuen Mitbürgerinnen und Mitbürger, ob für kurze 
@@ -2467,7 +2875,7 @@ Schwerpunkt auf Gesundheit und Senioren
 Tanja Jansen wurde 1973 in Düsseldorf geboren, sie hat zwei erwachsene Söhne. Sie trat 2008 in die SPD ein, ist 
 seit 2012 Vorsitzende der SPD Nettetal und wurde 2014 in den Stadtrat gewählt. Seit 2016 ist sie stellvertretende 
 Vorsitzende der SPD im Kreis Viersen. 2022 kandidiert sie zum zweiten Mal für den Landtag."
-2022-01,Main Corpus,2022-01(50).ZIP,„Es fehlt Fürsorge“.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\„Es fehlt Fürsorge“.PDF,„Es fehlt Fürsorge“,es fehlt fürsorge,Frankfurter Rundschau,frankfurter rundschau,Samstag 15. Januar 2022,,POLITIK; S. 2,432,3300,f2f83abd34ef0f01014ae3313fcf201186875992,,unique,keep,,no,,no,,,3989,no,,,,,"Fra Pelzer, was unterscheidet minderjährige unbegleitete Geflüchtete von Volljährigen im Asylrecht?
+2022-01,Main Corpus,2022-01(58).ZIP,„Es fehlt Fürsorge“.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\„Es fehlt Fürsorge“.PDF,„Es fehlt Fürsorge“,es fehlt fürsorge,Frankfurter Rundschau,frankfurter rundschau,Samstag 15. Januar 2022,,POLITIK; S. 2,432,3300,f2f83abd34ef0f01014ae3313fcf201186875992,,unique,keep,,no,,no,,,3989,no,,,,,"Fra Pelzer, was unterscheidet minderjährige unbegleitete Geflüchtete von Volljährigen im Asylrecht?
 Wenn Minderjährige allein nach Deutschland flüchten, fehlt ihnen die Fürsorge und Unterstützung ihrer Eltern. 
 Neben der Trennung von ihren Eltern haben viele traumatische Erfahrungen im Herkunftsland oder auf der Flucht 
 gemacht. Im Asylverfahren fällt es Minderjährigen oftmals deutlich schwerer, ihre Fluchtgeschichte zu erzählen und 
@@ -2505,7 +2913,7 @@ Marei Pelzer forscht und lehrt an der Hochschule Fulda zu Recht der sozialen Arb
 Einrichtungen, zu Migrationsrecht und zu Menschenrechten. Bis 2018 war sie lange rechtspolitische Referentin bei 
 der Organisation Pro Asyl und Mitherausgeberin des „Grundrechte-Reports“. fab privat
 Link zum PDF-Dokument"
-2022-01,Main Corpus,2022-01(50).ZIP,"„Helfen, sich zurechtzufinden“ Integration Jacqueline Tegas vom Verein „Menschlichkeit“ zieht nach s.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\„Helfen, sich zurechtzufinden“ Integration Jacqueline Tegas vom Verein „Menschlichkeit“ zieht nach s.PDF","„Helfen, sich zurechtzufinden“; Integration Jacqueline Tegas vom Verein „Menschlichkeit“ zieht nach sechs",helfen sich zurechtzufinden integration jacqueline tegas vom verein menschlichkeit zieht nach sechs,Südwest Presse,südwest presse,Dienstag 18. Januar 2022,,ULM und NEU-ULM; S. 18; Band 78; Ausg. 13,500,3503,8ce9ede0c68045acb9a32c7e3b5119efc556ffac,,unique,keep,,no,,no,,,4902,no,,,,,"Seit sechs Jahren gibt es in Ulm den Verein „Menschlichkeit“. Entstanden ist er in einer Zeit, als viele Flüchtlinge 
+2022-01,Main Corpus,2022-01(58).ZIP,"„Helfen, sich zurechtzufinden“ Integration Jacqueline Tegas vom Verein „Menschlichkeit“ zieht nach s.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\„Helfen, sich zurechtzufinden“ Integration Jacqueline Tegas vom Verein „Menschlichkeit“ zieht nach s.PDF","„Helfen, sich zurechtzufinden“; Integration Jacqueline Tegas vom Verein „Menschlichkeit“ zieht nach sechs",helfen sich zurechtzufinden integration jacqueline tegas vom verein menschlichkeit zieht nach sechs,Südwest Presse,südwest presse,Dienstag 18. Januar 2022,,ULM und NEU-ULM; S. 18; Band 78; Ausg. 13,500,3503,8ce9ede0c68045acb9a32c7e3b5119efc556ffac,,unique,keep,,no,,no,,,4902,no,,,,,"Seit sechs Jahren gibt es in Ulm den Verein „Menschlichkeit“. Entstanden ist er in einer Zeit, als viele Flüchtlinge 
 nach Deutschland strömten. Ziel ist es, neu ankommenden Menschen zu helfen, sagt Jacqueline Tegas vom 
 Vorstand.
 Wie kam es zur Vereinsgründung?
@@ -2556,7 +2964,7 @@ Link zum PDF-Dokument
 Graphic
  
 Jacqueline Tegas (vorne) ist eine von vielen, die sich in Ulm für Geflüchtete einsetzt. Foto: Privat"
-2022-01,Main Corpus,2022-01(50).ZIP,„Völliger Rückzug wäre jetzt falsch“.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\„Völliger Rückzug wäre jetzt falsch“.PDF,„Völliger Rückzug wäre jetzt falsch“,völliger rückzug wäre jetzt falsch,Frankfurter Rundschau,frankfurter rundschau,Samstag 8. Januar 2022,,POLITIK; S. 7,548,3893,dddd8e880bb1ae3c2768f258f0f7cb9d6ae751a9,,unique,keep,,no,,no,,,4879,no,,,,,"Herr Basedau, in Mali bahnt sich eine akute Krise an. Wirkt sich das auf die Sicherheit in Europa und 
+2022-01,Main Corpus,2022-01(58).ZIP,„Völliger Rückzug wäre jetzt falsch“.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2022-01\raw_unarchive\„Völliger Rückzug wäre jetzt falsch“.PDF,„Völliger Rückzug wäre jetzt falsch“,völliger rückzug wäre jetzt falsch,Frankfurter Rundschau,frankfurter rundschau,Samstag 8. Januar 2022,,POLITIK; S. 7,548,3893,dddd8e880bb1ae3c2768f258f0f7cb9d6ae751a9,,unique,keep,,no,,no,,,4879,no,,,,,"Herr Basedau, in Mali bahnt sich eine akute Krise an. Wirkt sich das auf die Sicherheit in Europa und 
 Deutschland aus?
 Mali ist sicherheitspolitisch schon wichtig. Das Land ist neben Somalia und Nigeria Ausgangspunkt der 
 dschihadistischen Welle, die sich derzeit in Afrika ausbreitet. Auch wegen der Flüchtlinge ist das für die 

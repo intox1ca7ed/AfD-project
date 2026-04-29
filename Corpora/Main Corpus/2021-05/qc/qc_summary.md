@@ -2,27 +2,27 @@
 
 ## Overall
 
-- Total file count: 50
-- Unique article count after duplicate collapse: 42
+- Total file count: 55
+- Unique article count after duplicate collapse: 46
 - Exact duplicate groups: 5
-- Suspicious near-duplicate groups: 3
-- Repeated regional-edition variant groups: 3
+- Suspicious near-duplicate groups: 4
+- Repeated regional-edition variant groups: 4
 - Malformed records: 0
-- Keep: 29
-- Review: 14
+- Keep: 32
+- Review: 16
 - Drop: 7
 
 ## Outlet Frequency
 
 | Publication | Count |
 | --- | ---: |
-| Rheinische Post | 11 |
+| Rheinische Post | 12 |
 | Frankfurter Rundschau | 8 |
-| Die Welt | 6 |
+| Die Welt | 7 |
+| Der Tagesspiegel | 6 |
+| Die ZEIT (inklusive ZEIT Magazin) | 6 |
 | Berliner Zeitung | 6 |
-| Der Tagesspiegel | 5 |
-| Die ZEIT (inklusive ZEIT Magazin) | 5 |
-| taz, die tageszeitung | 3 |
+| taz, die tageszeitung | 4 |
 | Nordwest-Zeitung | 3 |
 | Welt am Sonntag | 2 |
 | Südwest Presse | 1 |
@@ -37,11 +37,13 @@
 ## Suspicious Near-Duplicate Groups
 
 - near_001 (2 items): Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß(2).PDF | Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß.PDF
-- near_002 (2 items): Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der(2).PDF | Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der.PDF
-- near_003 (2 items): Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch(2).PDF | Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch.PDF
+- near_002 (2 items): Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erh╟╧lt in Norwegen politisches Asyl, weil er sich.PDF | Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in seiner Heim.PDF
+- near_003 (2 items): Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der(2).PDF | Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der.PDF
+- near_004 (2 items): Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch(2).PDF | Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch.PDF
 
 ## Repeated Regional Variants
 
 - variant_001 (2 items): Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß(2).PDF | Brandsätze an Oldenburger Flüchtlingsheim gezündet Kloster Blankenburg Niemand wurde verletzt   Groß.PDF
-- variant_002 (2 items): Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der(2).PDF | Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der.PDF
-- variant_003 (2 items): Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch(2).PDF | Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch.PDF
+- variant_002 (2 items): Der polnische Dissident Rafa&lstrok; Gawe&lstrok; erh╟╧lt in Norwegen politisches Asyl, weil er sich.PDF | Der polnische Dissident Rafal Gawel erhält in Norwegen politisches Asyl, weil er sich in seiner Heim.PDF
+- variant_003 (2 items): Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der(2).PDF | Enttäuschte Hoffnungen Spanische Soldaten haben rund 5600 Flüchtlinge aus Nordafrika sofort nach der.PDF
+- variant_004 (2 items): Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch(2).PDF | Verlockendes Land Die Sogwirkung der Bundesrepublik auf Migranten wird politisch noch immer untersch.PDF

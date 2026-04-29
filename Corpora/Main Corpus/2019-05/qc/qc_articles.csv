@@ -1,5 +1,5 @@
 ﻿batch_id,corpus_name,source_archive,file_name,file_path,title_original,title_normalized,publication,publication_normalized,date,byline,section,word_count,body_char_count,body_hash_exact,duplicate_group_id,duplicate_category,keep_drop_review,drop_reason,kept_representative_of_group,representative_selection_reason,malformed_flag,malformed_reason,notes,raw_text_chars,low_value_flag,low_value_reason,exact_duplicate_group,near_duplicate_group,repeated_variant_group,body_text
-2019-05,Main Corpus,2019-05(50).ZIP,"_Dem Nationalstaat trauen viele am ehesten zu, Probleme zu lösen_ Als Kanzleramtschef und Innenminis.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Dem Nationalstaat trauen viele am ehesten zu, Probleme zu lösen_ Als Kanzleramtschef und Innenminis.PDF","""Dem Nationalstaat trauen viele am ehesten zu, Probleme zu lösen"" Als Kanzleramtschef und Innenminister",dem nationalstaat trauen viele am ehesten zu probleme zu lösen als kanzleramtschef und innenminister,Die Welt,die welt,Samstag 25. Mai 2019,Manuel Bewarder,POLITIK; Politik; S. 3; Ausg. 121,1800,12114,46ea6dafa9326323af96a3652a8fa37db2842e22,,unique,keep,,no,,no,,,13866,no,,,,,"Für die Fotoaufnahmen geht Thomas de Maizière aus seinem Büro im Bundestag auf den Flur, fährt mit dem 
+2019-05,Main Corpus,2019-05(64).ZIP,"_Dem Nationalstaat trauen viele am ehesten zu, Probleme zu lösen_ Als Kanzleramtschef und Innenminis.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Dem Nationalstaat trauen viele am ehesten zu, Probleme zu lösen_ Als Kanzleramtschef und Innenminis.PDF","""Dem Nationalstaat trauen viele am ehesten zu, Probleme zu lösen"" Als Kanzleramtschef und Innenminister",dem nationalstaat trauen viele am ehesten zu probleme zu lösen als kanzleramtschef und innenminister,Die Welt,die welt,Samstag 25. Mai 2019,Manuel Bewarder,POLITIK; Politik; S. 3; Ausg. 121,1800,12114,46ea6dafa9326323af96a3652a8fa37db2842e22,,unique,keep,,no,,no,,,13866,no,,,,,"Für die Fotoaufnahmen geht Thomas de Maizière aus seinem Büro im Bundestag auf den Flur, fährt mit dem 
 Fahrstuhl ein paar Stockwerke nach oben. Er sieht von hier das Kanzleramt, daneben das Innenministerium - die 
 Häuser, in denen er viele Jahre für die Regierung arbeitete. Im Interview blickt der 65-Jährige zurück auf die beiden 
 großen Krisen in jener Zeit. Er erklärt, wie man als Politiker damit umgeht. Und warum Europa zur Lösung 
@@ -133,7 +133,7 @@ Mehrheit gibt. Da gab es also zwar keinen inhaltlichen Konsens, aber sozusagen e
 dass in einer Demokratie die Mehrheit entscheidet. Wenn Sie diesen Konsens meinen, dann ist dieser mir in der 
 Tat sehr wichtig.
 Original Gesamtseiten-PDF"
-2019-05,Main Corpus,2019-05(50).ZIP,_Europa braucht einen Neustart_ 15&ThinSpace;000 Teilnehmer erwarten die Veranstalter bei einer Groß.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Europa braucht einen Neustart_ 15&ThinSpace;000 Teilnehmer erwarten die Veranstalter bei einer Groß.PDF,"""Europa braucht einen Neustart"" 15&ThinSpace;000 Teilnehmer erwarten die Veranstalter bei einer",europa braucht einen neustart 15thinspace000 teilnehmer erwarten die veranstalter bei einer,Südwest Presse,südwest presse,Donnerstag 16. Mai 2019,,Stuttgart,536,3775,cfbf76abdc69cd71ade1ed7e99d1686911d6f8a3,,unique,keep,,no,,no,,,5080,no,,,,,"Mit rotem Stacheldraht ist einer der zahlreichen Stühle auf dem Stuttgarter Marktplatz umwickelt. An der Lehne 
+2019-05,Main Corpus,2019-05(64).ZIP,_Europa braucht einen Neustart_ 15&ThinSpace;000 Teilnehmer erwarten die Veranstalter bei einer Groß.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Europa braucht einen Neustart_ 15&ThinSpace;000 Teilnehmer erwarten die Veranstalter bei einer Groß.PDF,"""Europa braucht einen Neustart"" 15&ThinSpace;000 Teilnehmer erwarten die Veranstalter bei einer",europa braucht einen neustart 15thinspace000 teilnehmer erwarten die veranstalter bei einer,Südwest Presse,südwest presse,Donnerstag 16. Mai 2019,,Stuttgart,536,3775,cfbf76abdc69cd71ade1ed7e99d1686911d6f8a3,,unique,keep,,no,,no,,,5080,no,,,,,"Mit rotem Stacheldraht ist einer der zahlreichen Stühle auf dem Stuttgarter Marktplatz umwickelt. An der Lehne 
 hängt ein Schild mit der Aufschrift ""Welcome"". Zum Verweilen lädt der Stuhl nicht ein. Man muss sich aber auch 
 nicht hinsetzen und darüber grübeln, auf was diese und die hundert anderen Stühle anspielen wollen. Die Thematik 
 ist klar: Es geht um Flüchtlingspolitik. Das Diakonische Werk Württemberg hat die Aktion auf dem Marktplatz ins 
@@ -176,7 +176,7 @@ andere geht am 26. Mai zur Europawahl.
 Graphic
  
 Hunderte Stühle sollen ein Zeichen für den Platz für Asyl in Europa zu setzen. Foto: Sebastian Gollnow/dpa"
-2019-05,Main Corpus,2019-05(50).ZIP,_Euroskop__ die Serie von Politico und WELT zu den Stärken und Schwächen der EU-Partner. Folge 6_ Sc.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Euroskop__ die Serie von Politico und WELT zu den Stärken und Schwächen der EU-Partner. Folge 6_ Sc.PDF,"""Euroskop"": die Serie von Politico und WELT zu den Stärken und Schwächen der EU-Partner. Folge 6:",euroskop die serie von politico und welt zu den stärken und schwächen der eupartner folge 6,Die Welt,die welt,Donnerstag 16. Mai 2019,Anja Ettel,WIRTSCHAFT; Wirtschaft; S. 12; Ausg. 113,1077,7675,0f24282b665953d546c5a5a9b101cd1419d9cbf5,,unique,keep,,no,,no,,,9643,no,,,,,"Die schwedische Formel zum Glück hat fünf Buchstaben: ""Lagom"" sagt man im Heimatland von Pippi Langstrumpf 
+2019-05,Main Corpus,2019-05(64).ZIP,_Euroskop__ die Serie von Politico und WELT zu den Stärken und Schwächen der EU-Partner. Folge 6_ Sc.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Euroskop__ die Serie von Politico und WELT zu den Stärken und Schwächen der EU-Partner. Folge 6_ Sc.PDF,"""Euroskop"": die Serie von Politico und WELT zu den Stärken und Schwächen der EU-Partner. Folge 6:",euroskop die serie von politico und welt zu den stärken und schwächen der eupartner folge 6,Die Welt,die welt,Donnerstag 16. Mai 2019,Anja Ettel,WIRTSCHAFT; Wirtschaft; S. 12; Ausg. 113,1077,7675,0f24282b665953d546c5a5a9b101cd1419d9cbf5,,unique,keep,,no,,no,,,9643,no,,,,,"Die schwedische Formel zum Glück hat fünf Buchstaben: ""Lagom"" sagt man im Heimatland von Pippi Langstrumpf 
 und Nils Holgersson und meint damit einen Zustand, in dem alles im Lot ist.
 Über viele Jahre hinweg schien Schweden das Musterbeispiel für das Prinzip dieser inneren Glückseligkeit zu sein. 
 Ein Land, in dem die Arbeitslosigkeit niedrig, die Ungleichheit gering, die Staatsverschuldung harmlos, das 
@@ -256,7 +256,7 @@ Original Gesamtseiten-PDF
 Graphic
  
 Blick auf Stockholm: Wirtschaftliche Themen sind bei den Wählern in den Hintergrund getreten"
-2019-05,Main Corpus,2019-05(50).ZIP,_Neustart im Team_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Neustart im Team_.PDF,"""Neustart im Team""",neustart im team,Südwest Presse,südwest presse,Dienstag 7. Mai 2019,,Politik,312,2252,10015d27cddc92095eb317a7b3fec6618bc4ba8f,,unique,keep,,no,,no,,,2847,no,,,,,"Was mit dem Blick auf die illegale Einwanderung und die Integration oft übersehen wird, ist die Tatsache, dass 
+2019-05,Main Corpus,2019-05(64).ZIP,_Neustart im Team_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Neustart im Team_.PDF,"""Neustart im Team""",neustart im team,Südwest Presse,südwest presse,Dienstag 7. Mai 2019,,Politik,312,2252,10015d27cddc92095eb317a7b3fec6618bc4ba8f,,unique,keep,,no,,no,,,2847,no,,,,,"Was mit dem Blick auf die illegale Einwanderung und die Integration oft übersehen wird, ist die Tatsache, dass 
 Deutschland bereits seit Jahren Flüchtlinge aus aller Welt aufnimmt - im Rahmen sogenannter 
 Umsiedlungsprogramme, ""Resettlement"" genannt. Damit erhalten Flüchtlinge legale Wege für eine Einreise, ohne 
 sich auf die gefährlichen Schleuserrouten begeben zu müssen. 10 900 von ihnen nimmt Deutschland allein in den 
@@ -284,7 +284,7 @@ Graphic
 
 ""Neustart im Team""
 Die Bundesintegrationsbeauftragte Annette Widmann-Mauz (CDU). Foto: Soeren Stache/dpa"
-2019-05,Main Corpus,2019-05(50).ZIP,_Nicht die Falschen abschieben_ Beauftragte der Bundesregierung zieht positive Zwischenbilanz und fo.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Nicht die Falschen abschieben_ Beauftragte der Bundesregierung zieht positive Zwischenbilanz und fo.PDF,"""Nicht die Falschen abschieben"" Beauftragte der Bundesregierung zieht positive Zwischenbilanz und fordert",nicht die falschen abschieben beauftragte der bundesregierung zieht positive zwischenbilanz und fordert,Südwest Presse,südwest presse,Dienstag 21. Mai 2019,,Politik,295,2195,453a1334c62262f51db7927c0b92a3133cc58205,,unique,keep,,no,,no,,,3293,no,,,,,"Integration funktioniert, nicht bei allen Zuwanderern, aber bei ganz vielen. Annette Widmann-Mauz, 
+2019-05,Main Corpus,2019-05(64).ZIP,_Nicht die Falschen abschieben_ Beauftragte der Bundesregierung zieht positive Zwischenbilanz und fo.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\_Nicht die Falschen abschieben_ Beauftragte der Bundesregierung zieht positive Zwischenbilanz und fo.PDF,"""Nicht die Falschen abschieben"" Beauftragte der Bundesregierung zieht positive Zwischenbilanz und fordert",nicht die falschen abschieben beauftragte der bundesregierung zieht positive zwischenbilanz und fordert,Südwest Presse,südwest presse,Dienstag 21. Mai 2019,,Politik,295,2195,453a1334c62262f51db7927c0b92a3133cc58205,,unique,keep,,no,,no,,,3293,no,,,,,"Integration funktioniert, nicht bei allen Zuwanderern, aber bei ganz vielen. Annette Widmann-Mauz, 
 Integrationsbeauftragte der Bundesregierung, macht dies zum Auftakt der zweitägigen Bundeskonferenz ihrer 
 Kollegen aus Ländern und Kommunen in Ulm deutlich. 2,2 Millionen Eingewanderte haben Integrationskurse 
 besucht. 30 Prozent der 2015/2016 aus den Hauptmigrationsländern Gekommenen sind erwerbstätig, die meisten 
@@ -311,7 +311,7 @@ Graphic
 ""Nicht die Falschen abschieben"" Beauftragte der Bundesregierung zieht positive Zwischenbilanz und fordert 
 gezielte Förderung für Frauen.
 Ministerin Annette Widmann-Mauz. Foto: Stefan Puchner/dpa"
-2019-05,Main Corpus,2019-05(50).ZIP,Anti-Folter-Komitee kritisiert Misshandlung bei Abschiebung Bei einem Flug von München nach Kabul be.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Anti-Folter-Komitee kritisiert Misshandlung bei Abschiebung Bei einem Flug von München nach Kabul be.PDF,Anti-Folter-Komitee kritisiert Misshandlung bei Abschiebung Bei einem Flug von München nach Kabul,antifolterkomitee kritisiert misshandlung bei abschiebung bei einem flug von münchen nach kabul,"taz, die tageszeitung",taz die tageszeitung,Freitag 10. Mai 2019,Eva Oer,SCHWERPUNKT; S. 2,747,5231,eb854839278a0e803be8d63d46befac0576431ea,,unique,keep,,no,,no,,,7130,no,,,,,"Von Eva Oer
+2019-05,Main Corpus,2019-05(64).ZIP,Anti-Folter-Komitee kritisiert Misshandlung bei Abschiebung Bei einem Flug von München nach Kabul be.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Anti-Folter-Komitee kritisiert Misshandlung bei Abschiebung Bei einem Flug von München nach Kabul be.PDF,Anti-Folter-Komitee kritisiert Misshandlung bei Abschiebung Bei einem Flug von München nach Kabul,antifolterkomitee kritisiert misshandlung bei abschiebung bei einem flug von münchen nach kabul,"taz, die tageszeitung",taz die tageszeitung,Freitag 10. Mai 2019,Eva Oer,SCHWERPUNKT; S. 2,747,5231,eb854839278a0e803be8d63d46befac0576431ea,,unique,keep,,no,,no,,,7130,no,,,,,"Von Eva Oer
 So kann Abschiebung aussehen: Nach etwa 15 Minuten griff der sechste Begleitbeamte mit seiner linken Hand die 
 Genitalien des Rückzuführenden und drückte mehrmals länger zu, um den Rückzuführenden dazu zu bringen, sich 
 zu beruhigen. Das hat das Anti-Folterkomitee (CPT) des Europarats an Bord eines Abschiebeflugs von München 
@@ -371,7 +371,100 @@ darauf abzielt, durch Zufügung
 starker Schmerzen kooperatives Verhalten
 zu erreichen, ist unverhältnismäßig
 und unangemessen"
-2019-05,Main Corpus,2019-05(50).ZIP,Awo fragt Flüchtlinge_ Wie muss Mann sein_ Ein Kurs thematisiert den Umgang junger Männer mit dem ei.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Awo fragt Flüchtlinge_ Wie muss Mann sein_ Ein Kurs thematisiert den Umgang junger Männer mit dem ei.PDF,Awo fragt Flüchtlinge: Wie muss Mann sein? Ein Kurs thematisiert den Umgang junger Männer mit dem,awo fragt flüchtlinge wie muss mann sein ein kurs thematisiert den umgang junger männer mit dem,Rheinische Post,rheinische post,Donnerstag 30. Mai 2019,"Gottschlich, Peter",S. 18,413,2873,4a47d5e9bb160526d68ece0b2bab774ee6c5ca18,,unique,keep,,no,,no,,,3620,no,,,,,"MOERS (got) „Das Erwachsenwerden ist immer schwierig“, sagt Stephanie Walbrunn, Leiterin der Awo-
+2019-05,Main Corpus,2019-05(64).ZIP,"Asylbewerber von Geiselnahme-Vorwurf freigesprochen Der Familienvater hatte aus Furcht, abgeschoben.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Asylbewerber von Geiselnahme-Vorwurf freigesprochen Der Familienvater hatte aus Furcht, abgeschoben.PDF","Asylbewerber von Geiselnahme-Vorwurf freigesprochen Der Familienvater hatte aus Furcht, abgeschoben zu",asylbewerber von geiselnahmevorwurf freigesprochen der familienvater hatte aus furcht abgeschoben zu,Rheinische Post,rheinische post,Freitag 17. Mai 2019,,S. 18,308,2204,c9a665a6eeec33175e68df79a15e476df815dca4,,unique,keep,,no,,no,,,3201,no,,,,,"(oli/BL) Ein Asylbewerber, der im vergangenen September damit gedroht haben soll, seine kleine Tochter vom 
+dritten Stock eines Hauses an der Philadelphiastraße aus in die Tiefe zu stürzen, ist vom Vorwurf der Geiselnahme 
+freigesprochen worden. Ein Psychiater hatte den 30-Jährigen als psychisch krank eingestuft. Außerdem habe er 
+sich in einer Ausnahmesituation befunden. Das Landgericht sprach den Mann daraufhin am Donnerstag frei, der 
+Haftbefehl wurde aufgehoben. Er sei schuldunfähig gewesen. Weil der Mann nicht als gemeingefährlich gilt, sei 
+eine Unterbringung in einer geschlossenen Psychiatrie nicht angebracht, sagte eine Gerichtssprecherin.
+Um seine Abschiebung und die seiner Familie zu verhindern, soll der Mann im vergangenen September damit 
+gedroht haben, die Eineinhalbjährige in die Tiefe fallen zu lassen. Vor Gericht hatte er bestritten, das Kind dabei 
+über die Brüstung gehalten zu haben.
+In den Morgenstunden des 19. September 2018 waren Polizisten und Mitarbeiter der Ausländerbehörde an der 
+Wohnung der Familie erschienen, um sie abzuschieben. Um dies zu verhindern, soll er zunächst einen Polizisten 
+mit einem Messer bedroht haben. Dann soll er seine Tochter über ein Balkongeländer im dritten Stock gehalten 
+haben, um die Polizei zum Rückzug zu bewegen. Es kann nicht ausgeschlossen werden, dass seine 
+Steuerungsfähigkeit aufgrund einer Erkrankung zur Tatzeit aufgehoben war. Das hatte ein Gutachter berichtet. Der 
+Angeklagte leide unter einer paranoiden schizophrenen Psychose. Aufgrund der geplanten Abschiebung sei er 
+angespannt und gewesen und habe seine Handlungen nicht vollständig steuern können. Er habe sich und seine 
+Familie bedroht gefühlt, als Polizeibeamte und Mitarbeiter des Ausländeramtes am Morgen in seine Wohnung 
+kamen. Wenige Stunden später konnte der Angeklagte bei einem SEK-Einsatz festgenommen werden.
+Das Gericht ging davon aus, dass die Anklagevorwürfe grundsätzlich zutreffen, man den 30-Jährigen dafür aber 
+aufgrund der besonderen Umstände aber nicht verurteilen könne.
+
+Asylbewerber von Geiselnahme-Vorwurf freigesprochen Der Familienvater hatte aus Furcht, abgeschoben zu 
+werden, Polizisten bedroht. Seine Tat habe er nicht steue...."
+2019-05,Main Corpus,2019-05(64).ZIP,Auch andere Länder werben.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Auch andere Länder werben.PDF,Auch andere Länder werben,auch andere länder werben,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 9. Mai 2019,,WIRTSCHAFT; S. 13,296,2283,47b4ab79c9234cd131a3bfba25511bccdc7a19d8,,unique,keep,,no,,no,,,3295,no,,,,,"VON RASMUS BUCHSTEINER
+D ie Bundesagentur für Arbeit (BA) warnt vor einem Rückgang der Arbeitsmigration nach Deutschland aus anderen 
+EU-Ländern. ""Deutschland wird als Einwanderungsland für Europäerinnen und Europäer zunehmend unattraktiver, 
+da die Arbeitsbedingungen und Löhne - insbesondere in Engpassberufen wie der Pflege - häufig nicht ihren 
+Vorstellungen entsprechen"", heißt es in einer internen Analyse der Nürnberger Behörde. ""Steigende Mieten und 
+Lebenshaltungskosten sowie hohe Sozialabgaben mindern ebenfalls den Anreiz, eine Tätigkeit in Deutschland 
+aufzunehmen.""
+Die Möglichkeiten von Fachkräfteeinwanderung aus dem europäischen Ausland seien endlich und sollten ""durch 
+die verstärkte Rekrutierung von Fachkräften aus Drittstaaten"" ergänzt werden, so die Analyse der BA.
+Der Bundestag berät an diesem Donnerstag erstmals über die Pläne der Bundesregierung zur 
+Fachkräftezuwanderung, die auf einen verstärkten Zuzug von qualifizierten Arbeitsmigranten aus Nicht-EU-Ländern 
+abzielen. Die Ausgestaltung des Gesetzes ist innerhalb der Unionsfraktion noch umstritten.
+Laut Bundesagentur für Arbeit verzeichnen immer mehr EU-Länder ähnliche berufliche Engpässe wie Deutschland. 
+Ebenso seien viele europäische Länder ebenfalls mit demografischen Herausforderungen konfrontiert. Dort liege 
+die Arbeitslosenquote inzwischen ähnlich niedrig wie in der Bundesrepublik, in Polen und Rumänien betrage sie 
+circa vier Prozent. ""Insgesamt ist festzustellen, dass viele mobile Arbeitnehmerinnen und -nehmer in ihre 
+Heimatländer zurückkehren"", heißt es in der BA-Analyse. Viele Mangelberufe in Deutschland - etwa in 
+Gastronomie, Gesundheit und Pflege - seien inzwischen auch in anderen EU-Ländern zu Engpassberufen 
+geworden. Staaten wie Polen, Bulgarien und Kroatien seien inzwischen dazu übergangen, selbst Fachkräfte 
+anzuwerben.
+Die BA reagiert mit der Analyse auf eine Anfrage des CDU-Bundestagsabgeordneten Peter Weiß. ""Wir werden uns 
+sehr anstrengen müssen, überhaupt Fachkräfte nach Deutschland zu bekommen"", sagte der arbeitsmarktpolitische 
+Sprecher der Union im Bundestag dem RND. ""Es ist nicht so, dass alle automatisch zu uns kommen."" Die Welt 
+habe sich verändert: ""Wir konkurrieren inzwischen mit Ländern wie Kroatien um Fachkräfte.""
+
+Auch andere Länder werben"
+2019-05,Main Corpus,2019-05(64).ZIP,Auf der Skala der Zuversicht ist Deutschland nur Mittelklasse Ein neuer Index macht die Stimmung der.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Auf der Skala der Zuversicht ist Deutschland nur Mittelklasse Ein neuer Index macht die Stimmung der.PDF,Auf der Skala der Zuversicht ist Deutschland nur Mittelklasse Ein neuer Index macht die Stimmung der,auf der skala der zuversicht ist deutschland nur mittelklasse ein neuer index macht die stimmung der,Welt am Sonntag,welt am sonntag,12. Mai 2019,Michael Gassmann,WIRTSCHAFT; WIRTSCHAFT; S. 34; Ausg. 19,571,4139,87c4dfd1d940ebf3c4cc55a3b22332a2d50585b9,,unique,keep,,no,,no,,,5394,no,,,,,"Vor ziemlich genau einem Jahr machte ein britisches Wirtschaftsblatt Deutschland das vielleicht größte 
+Kompliment, das Briten Deutschen machen können. ""Cool Germany"", prangte in großen Lettern auf dem Titelblatt 
+des ""Economist"". Natürlich gebe es Mängel hier und da, doch viele Belastungen vom Zusammenbruch der DDR-
+Wirtschaft bis zur Einwanderungswelle 2015 habe das Land weggesteckt und sei dabei sogar aufgeblüht. Ganz 
+schön cool, fand der Autor. Ein Jahr später zeigt sich, dass zumindest die deutschen Konsumenten wohl doch nicht 
+ganz so gelassen auf Signale der Abschwächung reagieren.
+""Am aktuellen Rand liegt das Verbrauchervertrauen in Deutschland gerade noch im oberen Drittel der betrachteten 
+Länder"", lautet ein Kernergebnis eines neuen Index zum Verbrauchervertrauen, den das Institut der deutschen 
+Wirtschaft (IW) in Köln gemeinsam mit der New Yorker Denkfabrik The Conference Board (TCB) jetzt erstmals 
+vorlegt. Die Resultate liegen WELT AM SONNTAG exklusiv vor. Danach erreicht die Bundesrepublik bei der neuen 
+Messziffer für die Konsumentwicklung einen Wert von 104 und landet damit auf Platz 21 von 64 verglichenen 
+Ländern, etwa auf einer Ebene mit Polen und der Schweiz. Künftig soll der ""TCB-IW-Verbrauchervertrauen"" 
+vierteljährlich publiziert werden.
+Trotz florierendem Arbeitsmarkt und anhaltend guter Einkommensentwicklung sagten nur rund die Hälfte der 
+deutschen Befragten im ersten Quartal 2019, dass jetzt eine gute Zeit zur Anschaffung von Gütern sei. 
+""Möglicherweise haben die Regulierungsdiskussionen hinsichtlich der Dieselfahrzeuge und die 
+Zulassungsstockungen bei Personenkraftwagen zu einer moderateren Kaufneigung beigetragen"", heißt es in der 
+Auswertung. In Deutschland zeige sich nach einem Rückgang des Verbrauchervertrauens im vergangenen Jahr 
+eine Stabilisierung, was für eine ""entschleunigte Konsumkonjunktur"" spreche. Zu ähnlichen Einschätzungen waren 
+auch andere Indikatoren zur Konsumkonjunktur gekommen, wie der GfK-Konsumklimaindex oder das HDE-
+Konsumbarometer. Die Stärke der neuen Kennziffer und ihr Nutzen liege aber vor allem in der internationalen 
+Vergleichbarkeit, begründet das IW die Einführung des Maßstabs. Dafür führt die Nielsen-Marktbeobachtung in 
+Zusammenarbeit mit The Conference Board seit 2005 regelmäßig Online-Befragungen durch, an denen inzwischen 
+32.000 Konsumenten in mehr als fünf Dutzend Ländern teilnehmen - nun auch in Deutschland. Die Fragen 
+
+Auf der Skala der Zuversicht ist Deutschland nur Mittelklasse Ein neuer Index macht die Stimmung der 
+Verbraucher international vergleichbar. Sie zeigt: Richtig ....
+beziehen sich auf die Beschäftigungsperspektiven in den nächsten zwölf Monaten und auf die eigene finanzielle 
+Situation. Ferner werden die Teilnehmer um eine Einschätzung gebeten, ob aktuell eine gute Zeit für größere 
+Anschaffungen sei.
+Die Ergebnisse sind zum Teil verblüffend. So waren Pakistan (mit einem Wert von 135) und Indien im ersten 
+Quartal 2019 die Länder mit den optimistischsten Konsumenten, trotz der enormen politischen Spannungen 
+zwischen den beiden Atommächten. Unter den zehn Ländern an der Spitze der Skala der Zuversicht befinden sich 
+weitere asiatische Staaten, darunter Vietnam und Indonesien. Auch die USA, China und arabische Nationen sowie 
+- als einziges europäische Land - Dänemark rangieren in der Spitzengruppe. Pessimismus macht sich nach dem 
+neuen Index vor allem in Südkorea breit, dem Schlusslicht mit 49 Punkten. Nicht viel besser ist die Stimmung der 
+Verbraucher in der Ukraine und in Russland.
+Deutschland hätte auf den ersten Blick Grund, entspannt in die Konsum-Zukunft zu schauen. So geht der 
+Aufschwung am Arbeitsmarkt nach einer IW-Prognose vom April vorerst weiter. Die Zahl der Erwerbstätigen soll 
+danach im Jahresdurchschnitt 2019 rund 45,2 Millionen erreichen. Das wären fast sechs Millionen mehr als noch 
+2005. Doch viele Deutsche nähmen angesichts zahlreicher politischer Unsicherheiten vorweg, dass die positive 
+Arbeitsmarktentwicklung früher oder später ""an Schwung verlieren wird"". Vielleicht muss Deutschland doch noch an 
+seiner Coolness arbeiten.
+Original Gesamtseiten-PDF"
+2019-05,Main Corpus,2019-05(64).ZIP,Awo fragt Flüchtlinge_ Wie muss Mann sein_ Ein Kurs thematisiert den Umgang junger Männer mit dem ei.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Awo fragt Flüchtlinge_ Wie muss Mann sein_ Ein Kurs thematisiert den Umgang junger Männer mit dem ei.PDF,Awo fragt Flüchtlinge: Wie muss Mann sein? Ein Kurs thematisiert den Umgang junger Männer mit dem,awo fragt flüchtlinge wie muss mann sein ein kurs thematisiert den umgang junger männer mit dem,Rheinische Post,rheinische post,Donnerstag 30. Mai 2019,"Gottschlich, Peter",S. 18,413,2873,4a47d5e9bb160526d68ece0b2bab774ee6c5ca18,,unique,keep,,no,,no,,,3620,no,,,,,"MOERS (got) „Das Erwachsenwerden ist immer schwierig“, sagt Stephanie Walbrunn, Leiterin der Awo-
 Beratungsstelle für Schwangerschaft und Sexualität in Moers. „Es ist schon schwer für Jugendliche, die in 
 Deutschland aufgewachsen sind. Noch schwerer ist es für Jugendliche, die nach Deutschland geflüchtet sind.“ Sie 
 weiß das aus Erfahrung. 
@@ -401,7 +494,44 @@ Weitere Themen sind die Sexualpädagogik inklusive der Gesundheit, sowie das soz
 Frau oder Mann und Mann. „Die jungen Männer sollen hier ihren eigenen Weg finden, Mann sein zu können“, sagt 
 Matthias Biermann. „Zwei unterschiedliche Kulturen zu kennen, kann dabei ein Vorteil sein. Die Teilnehmer können 
 ihre interkulturelle Kompetenz steigern. Das gilt auch für mich. Ich denke, ich lerne viel.“"
-2019-05,Main Corpus,2019-05(50).ZIP,"Der Störfaktor Das erste Urteil, das SeenotretterInnen schuldig spricht_ zehntausend Euro Strafe für.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Der Störfaktor Das erste Urteil, das SeenotretterInnen schuldig spricht_ zehntausend Euro Strafe für.PDF","Der Störfaktor; Das erste Urteil, das SeenotretterInnen schuldig spricht: zehntausend Euro Strafe für den",der störfaktor das erste urteil das seenotretterinnen schuldig spricht zehntausend euro strafe für den,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 15. Mai 2019,Christian Jakob,SCHWERPUNKT; S. 14,713,4807,71d289b7c7ce4b0a0366b03006028774ad2739ac,,unique,keep,,no,,no,,,6441,no,,,,,"talk of the town
+2019-05,Main Corpus,2019-05(64).ZIP,Das Grundgesetz schätzen und schützen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Das Grundgesetz schätzen und schützen.PDF,Das Grundgesetz schätzen und schützen,das grundgesetz schätzen und schützen,Berliner Zeitung,berliner zeitung,20. Mai 2019,ANETTA KAHANE,MEINUNG; S. 8; Ausg. 115,475,3422,bf017855c9291ac09468ab028c5a9f8fbb753935,,unique,drop,commentary_noncore,no,,no,,,4045,yes,commentary_noncore,,,,"ANETTA KAHANE 
+ Amadeu Antonio Stiftung 
+ Wer heute Studien liest oder sich Zahlen zu Rechtsextremismus ansieht, wer hört, dass Straftaten zu 
+Antisemitismus um fast 20 Prozent gestiegen sind, wer sich das rechte Dauergerede über das Versagen von 
+""Eliten"" anhört, kann den Eindruck haben, dass es nicht gut um die demokratischen Grundwerte aussieht. Ich teile 
+diesen Eindruck nicht. Deutschland hat trotz aller Herausforderungen durch Rechtsextreme, trotz großer Fehler bei 
+der Gestaltung der Einwanderung, trotz mangelnden Mutes für die wirklich großen Debatten unserer Zeit einen 
+guten Job gemacht. Der Rechtsstaat funktioniert. Und die Bürgergesellschaft passt auf, dass es auch so bleibt. 
+ Dieses Grundgesetz, das am 23. Mai seinen 70. Geburtstag begeht, ist in einer Zeit entstanden, in der es eines 
+großen Optimismus bedurfte, sich vorzustellen, wie dieses zerstörte Land zu einer Demokratie heranwachsen 
+könnte. Seine Mütter und Väter wollten unbedingt die größtmögliche Negation des Nationalsozialismus in eine 
+gesetzliche, unveränderbare Norm gießen. Das Grundgesetz gilt nun in guten wie in schlechten Zeiten der 
+Demokratie. 
+ Vor 20 Jahren war ich bei einer großen Feier, die damals Hildegard Hamm-Brücher organisiert und zu der sie alle 
+eingeladen hatte, die das Grundgesetz als zivilisatorische Errungenschaft in Deutschland hervorheben wollten. Als 
+Ostdeutsche, die Ritualen misstraute, war ich überrascht und beeindruckt von der Leidenschaft, mit der alle 
+Beteiligten dieses Grundgesetz feierten. Dieses Jahr feiern wir zwei große Jubiläen: 70 Jahre Grundgesetz und 30 
+Jahre friedliche Revolution. Rechtspopulisten und so manch schwächelnde Vertreter aus Politik und Medien tun 
+gerade so, als wären Teile des Grundgesetzes verhandelbar. Manche Ostdeutsche rufen heute, dies sei gar nicht 
+ihr Grundgesetz. Ja, eine gemeinsame Verfassung zur Vereinigung, die Sinn und Ethos des Grundgesetzes 
+weitergetragen und sogar verbessert hätte, wäre ein wichtiges Signal für alle Bürger gewesen. Dass dies nicht 
+geschah, gehört zu den vielen Fehlern, die bei der Vereinigung gemacht wurden. 
+ Die Feier damals war eben nicht nur ein Ritual, sondern das Fazit eines Kampfes. Die alte Bundesrepublik bekam 
+die Verfassung einst unter dem Schutz der Alliierten geschenkt. Das Grundgesetz danach Stück für Stück mit 
+Leben zu erfüllen, erforderte harte Auseinandersetzungen. Jeder einzelne Fortschritt in der Nachkriegsrepublik 
+
+Das Grundgesetz schätzen und schützen
+musste gegen den Widerstand des Alten, unseligen Erbes des Nationalsozialismus erstritten werden. Jedes 
+Zipfelchen der Überwindung dieses Erbes musste herausgerissen werden aus der Verkrampfung und Vergiftung, 
+von denen dieses Landes durchzogen war. 
+ Heute verstehe ich, weshalb die Leidenschaft der Feiernden so groß war. Sie wussten, was es sie an 
+Anstrengungen gekostet hatte. So wie der alten Bundesrepublik durch die Alliierten dieses Grundgesetz als 
+Startschuss geschenkt worden war, so erhielten es die Bürger der DDR durch die Vereinigung. Keine vollkommen 
+neue, gemeinsame Verfassung, aber immerhin ein sehr gutes Grundgesetz. Viele der Kämpfe um Gleichwertigkeit 
+müssen noch oder wieder ausgefochten werden. Im Osten wie im Westen. Wir sind gerade mittendrin. Dann kann 
+die gesamte Gesellschaft dieses großartige Grundgesetz neu schätzen und schützen lernen. Als 
+Einwanderungsgesellschaft und als Ost-West-Gesellschaft."
+2019-05,Main Corpus,2019-05(64).ZIP,"Der Störfaktor Das erste Urteil, das SeenotretterInnen schuldig spricht_ zehntausend Euro Strafe für.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Der Störfaktor Das erste Urteil, das SeenotretterInnen schuldig spricht_ zehntausend Euro Strafe für.PDF","Der Störfaktor; Das erste Urteil, das SeenotretterInnen schuldig spricht: zehntausend Euro Strafe für den",der störfaktor das erste urteil das seenotretterinnen schuldig spricht zehntausend euro strafe für den,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 15. Mai 2019,Christian Jakob,SCHWERPUNKT; S. 14,713,4807,71d289b7c7ce4b0a0366b03006028774ad2739ac,,unique,keep,,no,,no,,,6441,no,,,,,"talk of the town
 Von Christian Jakob
 Seit Dienstag ist es da: das erste Urteil, das die zivilen europäischen Seenotretter im Mittelmeer schuldig spricht.
 Natürlich haben die Richter auf Malta nicht hineingeschrieben, dass die 10.000 Euro Strafe fällig werden, weil der 
@@ -457,7 +587,7 @@ Wer ihnen entkommt, wird wieder eingefangen und zurückgebracht. Wenn es nach de
 bleiben. Leute wie der Lifeline -Kapitän Claus-Peter Reisch stören dabei. Und das sollen sie zu spüren bekommen.
 Tatsächlich ging es niemals wirklich um die Frage, ob es zulässig war, die Lifeline als Sportboot im Marineregister 
 einzutragen"
-2019-05,Main Corpus,2019-05(50).ZIP,Deutschlands wahres Brexit-Problem Die Europäische Union will sich auf ihrem Gipfel selbst feiern. A.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Deutschlands wahres Brexit-Problem Die Europäische Union will sich auf ihrem Gipfel selbst feiern. A.PDF,Deutschlands wahres Brexit-Problem Die Europäische Union will sich auf ihrem Gipfel selbst feiern. Aber,deutschlands wahres brexitproblem die europäische union will sich auf ihrem gipfel selbst feiern aber,Die Welt,die welt,Donnerstag 9. Mai 2019,Klaus Geiger,POLITIK; Politik; S. 7; Ausg. 107,1040,7223,c8c6a3b68bf9a3000278a5251b61561750bb9c96,,unique,keep,,no,,no,,,8873,no,,,,,"Brüssel
+2019-05,Main Corpus,2019-05(64).ZIP,Deutschlands wahres Brexit-Problem Die Europäische Union will sich auf ihrem Gipfel selbst feiern. A.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Deutschlands wahres Brexit-Problem Die Europäische Union will sich auf ihrem Gipfel selbst feiern. A.PDF,Deutschlands wahres Brexit-Problem Die Europäische Union will sich auf ihrem Gipfel selbst feiern. Aber,deutschlands wahres brexitproblem die europäische union will sich auf ihrem gipfel selbst feiern aber,Die Welt,die welt,Donnerstag 9. Mai 2019,Klaus Geiger,POLITIK; Politik; S. 7; Ausg. 107,1040,7223,c8c6a3b68bf9a3000278a5251b61561750bb9c96,,unique,keep,,no,,no,,,8873,no,,,,,"Brüssel
 Jean-Claude Juncker macht einen Witz. ""Wir verstehen ja alle Englisch"", sagt er, als er auf dem Podium die 
 Sprache wechselt. ""Wir verstehen nur die Engländer nicht."" Der Saal lacht, Juncker blickt zufrieden. Witze auf 
 Kosten der Brexit-Briten gehen immer. Im Pressesaal seiner Behörde blickte der EU-Kommissionspräsident auf 
@@ -533,7 +663,7 @@ Original Gesamtseiten-PDF
 Graphic
  
 Nicht immer einer Meinung: Angela Merkel und Emmanuel Macron"
-2019-05,Main Corpus,2019-05(50).ZIP,Die EU muss Flüchtlinge angemessen behandeln.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die EU muss Flüchtlinge angemessen behandeln.PDF,Die EU muss Flüchtlinge angemessen behandeln,die eu muss flüchtlinge angemessen behandeln,Frankfurter Rundschau,frankfurter rundschau,Dienstag 14. Mai 2019,,MEINUNG; S. 10,629,4756,091a6d76ef3fb972f1235834131721239421e0c7,,unique,drop,commentary_noncore,no,,no,,,5962,yes,commentary_noncore,,,,"W ährend in Deutschland und anderswo inzwischen Flüchtlingsunterkünfte leer stehen, leiden die Menschen in den 
+2019-05,Main Corpus,2019-05(64).ZIP,Die EU muss Flüchtlinge angemessen behandeln.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die EU muss Flüchtlinge angemessen behandeln.PDF,Die EU muss Flüchtlinge angemessen behandeln,die eu muss flüchtlinge angemessen behandeln,Frankfurter Rundschau,frankfurter rundschau,Dienstag 14. Mai 2019,,MEINUNG; S. 10,629,4756,091a6d76ef3fb972f1235834131721239421e0c7,,unique,drop,commentary_noncore,no,,no,,,5962,yes,commentary_noncore,,,,"W ährend in Deutschland und anderswo inzwischen Flüchtlingsunterkünfte leer stehen, leiden die Menschen in den 
 Lagern in der Ostägäis unter menschenunwürdigen Umständen. Die Bilder der Flüchtlinge, die in den griechischen 
 Lagern in der Ostägäis gestrandet sind, machen deutlich, dass am Rande Europas Lebenssituationen für 
 Menschen entstanden sind, die nicht mit der Menschenwürde und den ethischen Grundvorstellungen vereinbar 
@@ -585,7 +715,7 @@ unmenschlicher oder erniedrigender Behandlung oder Strafe (CPT) gegenüber Griec
 Jahres eine Selbstanklage Europas.
 Michael Krawinkel ist Arzt und Professor i. R. der Uni Gießen. Er ist Mitglied von SPD, ProAsyl
 sowie der Ärzte zur Verhütung des Atomkriegs (IPPNW)."
-2019-05,Main Corpus,2019-05(50).ZIP,"Die Grenzen der Polizei Drei Polizeibeamt_innen dringen nachts in eine Schutzeinrichtung ein, um die.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die Grenzen der Polizei Drei Polizeibeamt_innen dringen nachts in eine Schutzeinrichtung ein, um die.PDF","Die Grenzen der Polizei Drei Polizeibeamt*innen dringen nachts in eine Schutzeinrichtung ein, um die Adresse",die grenzen der polizei drei polizeibeamtinnen dringen nachts in eine schutzeinrichtung ein um die adresse,"taz, die tageszeitung",taz die tageszeitung,Dienstag 28. Mai 2019,Uta Schleiermacher,BERLIN; S. 23,711,5196,0b0cf52d96237e86f0680711545ca8b61f26c7ef,,unique,keep,,no,,no,,,6657,no,,,,,"Von Uta Schleiermacher
+2019-05,Main Corpus,2019-05(64).ZIP,"Die Grenzen der Polizei Drei Polizeibeamt_innen dringen nachts in eine Schutzeinrichtung ein, um die.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die Grenzen der Polizei Drei Polizeibeamt_innen dringen nachts in eine Schutzeinrichtung ein, um die.PDF","Die Grenzen der Polizei Drei Polizeibeamt*innen dringen nachts in eine Schutzeinrichtung ein, um die Adresse",die grenzen der polizei drei polizeibeamtinnen dringen nachts in eine schutzeinrichtung ein um die adresse,"taz, die tageszeitung",taz die tageszeitung,Dienstag 28. Mai 2019,Uta Schleiermacher,BERLIN; S. 23,711,5196,0b0cf52d96237e86f0680711545ca8b61f26c7ef,,unique,keep,,no,,no,,,6657,no,,,,,"Von Uta Schleiermacher
 Rechtswidriges und unverhältnismäßiges Vorgehen das ist der Vorwurf an drei Polizist*innen, die Anfang Mai die 
 Adresse eines Jugendlichen aus Afghanistan überprüft haben. Dazu hatten sie sich nachts um vier Uhr Zutritt zu 
 seinem Zimmer in einer Jugendhilfe-WG verschafft. Demnach haben die drei Beamt*innen in der Nacht vom 8. auf 
@@ -638,7 +768,7 @@ vorgegangen sei, zurück. Maßnahmen um festzustellen, ob sich jemand tatsächli
 aufhält, wenn Anhaltspunkte bestehen, dass dies nicht der Fall ist, sind auch in Jugendhilfeeinrichtungen legitim 
 und angezeigt , sagte er.
  Dieser Vorfall ist ein ungeheuerlicher Skandal"
-2019-05,Main Corpus,2019-05(50).ZIP,Die Integration der Flüchtlinge wird schwieriger.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die Integration der Flüchtlinge wird schwieriger.PDF,Die Integration der Flüchtlinge wird schwieriger,die integration der flüchtlinge wird schwieriger,Rheinische Post,rheinische post,Samstag 4. Mai 2019,"Zacharias, Christoph",S. 28,368,2655,61960a4c03106a6e491e7a6c5153666491929e70,,unique,keep,,no,,no,,,3313,no,,,,,"Christoph Zacharias
+2019-05,Main Corpus,2019-05(64).ZIP,Die Integration der Flüchtlinge wird schwieriger.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die Integration der Flüchtlinge wird schwieriger.PDF,Die Integration der Flüchtlinge wird schwieriger,die integration der flüchtlinge wird schwieriger,Rheinische Post,rheinische post,Samstag 4. Mai 2019,"Zacharias, Christoph",S. 28,368,2655,61960a4c03106a6e491e7a6c5153666491929e70,,unique,keep,,no,,no,,,3313,no,,,,,"Christoph Zacharias
 Mettmann Die Zahl der Ehrenamtler, die sich für Flüchtlinge engagieren, nimmt rapide ab. Dies ist ein 
 ernüchterndes Ergebnis, das die Teilnehmer jetzt am Runden Tisch für Flüchtlingsunterstützung erörterten. Nach 
 der Welle der Hilfsbereitschaft in den Jahren 2015 und 2016, als vor allem viele Flüchtlinge aus Syrien nach 
@@ -666,7 +796,7 @@ Die Integration der Flüchtlinge wird schwieriger
 Doch die eigentliche Integration sei nur von haupt- und ehrenamtlichen Helfern am Ort zu leisten. Fazit: Ohne eine 
 neue, gemeinschaftlich organisierte Aktion wird das Thema Integration von Flüchtlingen nicht gelöst. Die Gefahr, 
 dass diese Menschen ins Prekariat abrutschen, also in den verarmten Teil der Gesellschaft, wächst."
-2019-05,Main Corpus,2019-05(50).ZIP,Die letzten Zeugen In den 30er- und 40er-Jahren begründeten Shoah-Flüchtlinge im Norden Manhattans d.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die letzten Zeugen In den 30er- und 40er-Jahren begründeten Shoah-Flüchtlinge im Norden Manhattans d.PDF,Die letzten Zeugen In den 30er- und 40er-Jahren begründeten Shoah-Flüchtlinge im Norden Manhattans die,die letzten zeugen in den 30er und 40erjahren begründeten shoahflüchtlinge im norden manhattans die,Berliner Zeitung,berliner zeitung,18. Mai 2019,Sebastian Moll,MAG; S. AM05; Ausg. 114,2660,17533,4222fdd68300cb15506167c3ee54a37e5b2048b5,,unique,keep,,no,,no,,,18463,no,,,,,"Mina Stern lebt seit 66 Jahren in New York, doch das Englische macht ihr bisweilen noch immer Mühe. 
+2019-05,Main Corpus,2019-05(64).ZIP,Die letzten Zeugen In den 30er- und 40er-Jahren begründeten Shoah-Flüchtlinge im Norden Manhattans d.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die letzten Zeugen In den 30er- und 40er-Jahren begründeten Shoah-Flüchtlinge im Norden Manhattans d.PDF,Die letzten Zeugen In den 30er- und 40er-Jahren begründeten Shoah-Flüchtlinge im Norden Manhattans die,die letzten zeugen in den 30er und 40erjahren begründeten shoahflüchtlinge im norden manhattans die,Berliner Zeitung,berliner zeitung,18. Mai 2019,Sebastian Moll,MAG; S. AM05; Ausg. 114,2660,17533,4222fdd68300cb15506167c3ee54a37e5b2048b5,,unique,keep,,no,,no,,,18463,no,,,,,"Mina Stern lebt seit 66 Jahren in New York, doch das Englische macht ihr bisweilen noch immer Mühe. 
 Manchmal fällt ihr nicht gleich die richtige Vokabel ein, wenn sie eine Geschichte erzählt, Worte wie ""Waschküche"", 
 die sie dann einfach auf Deutsch sagt. Das ""th"" bekommt sie auch nicht so recht hin, und wenn sie Ortsnamen aus 
 ihrer einstigen Heimat wie ""Gedern"" oder ""Amöneburg"" sagt, dann klingt noch immer ein dickes Oberhessisch 
@@ -849,7 +979,7 @@ beginnen. Doch heute ist Deutschland für die meisten nur noch eine dunkle Erinn
  In den 30er- und 40er-Jahren begründeten Shoah-Flüchtlinge im Norden Manhattans die größte jüdische 
 Gemeinde außerhalb Deutschlands. Doch allmählich verwischen ihre Spuren. Ein Rundgang 
  Von Sebastian Moll (Text und Fotos)"
-2019-05,Main Corpus,2019-05(50).ZIP,Die Sicherheit der anderen Malene Gürgen über die neuen Fallzahlen zu rechter Gewalt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die Sicherheit der anderen Malene Gürgen über die neuen Fallzahlen zu rechter Gewalt.PDF,Die Sicherheit der anderen Malene Gürgen über die neuen Fallzahlen zu rechter Gewalt,die sicherheit der anderen malene gürgen über die neuen fallzahlen zu rechter gewalt,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 15. Mai 2019,Malene Gürgen,MEINUNG UND DISKUSSION; S. 8,317,2228,c86fe168230671e3c9477fe6330e50034cf82f50,,unique,drop,commentary_noncore,no,,no,,,3112,yes,commentary_noncore,,,,"Malene Gürgen über die neuen Fallzahlen zu rechter Gewalt
+2019-05,Main Corpus,2019-05(64).ZIP,Die Sicherheit der anderen Malene Gürgen über die neuen Fallzahlen zu rechter Gewalt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die Sicherheit der anderen Malene Gürgen über die neuen Fallzahlen zu rechter Gewalt.PDF,Die Sicherheit der anderen Malene Gürgen über die neuen Fallzahlen zu rechter Gewalt,die sicherheit der anderen malene gürgen über die neuen fallzahlen zu rechter gewalt,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 15. Mai 2019,Malene Gürgen,MEINUNG UND DISKUSSION; S. 8,317,2228,c86fe168230671e3c9477fe6330e50034cf82f50,,unique,drop,commentary_noncore,no,,no,,,3112,yes,commentary_noncore,,,,"Malene Gürgen über die neuen Fallzahlen zu rechter Gewalt
 Für das Jahr 2018 wurden erneut mehr als 20.000 rechtsextreme Straftaten erfasst, im Schnitt mehr als 50 Delikte 
 am Tag. Es gab fast zwanzig Prozent mehr antisemitische Straftaten als im Vorjahr, von denen über 90 Prozent als 
 rechtsextrem kategorisiert wurden. 173 Angriffe auf Flüchtlingsunterkünfte wurden gezählt, deutlich weniger als 
@@ -873,7 +1003,7 @@ das sich offenbar nicht einmal von den eigenen Statistiken überzeugen lässt.
 der tag 2
 
 Die Sicherheit der anderen Malene Gürgen über die neuen Fallzahlen zu rechter Gewalt"
-2019-05,Main Corpus,2019-05(50).ZIP,Die Wohnung ist verletzlich Die Berliner Polizei holt Menschen zur Abschiebung aus deren Wohnungen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die Wohnung ist verletzlich Die Berliner Polizei holt Menschen zur Abschiebung aus deren Wohnungen.PDF,Die Wohnung ist verletzlich Die Berliner Polizei holt Menschen zur Abschiebung aus deren Wohnungen und,die wohnung ist verletzlich die berliner polizei holt menschen zur abschiebung aus deren wohnungen und,"taz, die tageszeitung",taz die tageszeitung,Montag 27. Mai 2019,Susanne Memarnia,BERLIN AKTUELL; S. 21,777,5650,c06b2f02c407949c01b67aae37225154d25eb139,,unique,keep,,no,,no,,,7052,no,,,,,"Von Susanne Memarnia
+2019-05,Main Corpus,2019-05(64).ZIP,Die Wohnung ist verletzlich Die Berliner Polizei holt Menschen zur Abschiebung aus deren Wohnungen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Die Wohnung ist verletzlich Die Berliner Polizei holt Menschen zur Abschiebung aus deren Wohnungen.PDF,Die Wohnung ist verletzlich Die Berliner Polizei holt Menschen zur Abschiebung aus deren Wohnungen und,die wohnung ist verletzlich die berliner polizei holt menschen zur abschiebung aus deren wohnungen und,"taz, die tageszeitung",taz die tageszeitung,Montag 27. Mai 2019,Susanne Memarnia,BERLIN AKTUELL; S. 21,777,5650,c06b2f02c407949c01b67aae37225154d25eb139,,unique,keep,,no,,no,,,7052,no,,,,,"Von Susanne Memarnia
 Der 70. Geburtstag des Grundgesetzes wird dieser Tage viel gefeiert. Allerdings profitiert nicht jedeR in 
 Deutschland von den darin festgeschriebenen Grundrechten, erklärt der Berliner Flüchtlingsrat aus Anlass des 
 Jubiläums: Das Grundrecht der Unverletzlichkeit der Wohnung wird von der Berliner Polizei im Kontext von 
@@ -934,7 +1064,7 @@ Eine fatale Entwicklung, findet Böhlo: Gerade wenn es um Grundrechte geht, muss
 Buchstaben des Gesetzes halten. Diese Striktheit ist der Rechtsstaat. Gerade wo es unbequem wird, muss man 
 genau und korrekt sein. 
  Gerade wo es unbequem wird, muss man korrekt sein"
-2019-05,Main Corpus,2019-05(50).ZIP,Ein völlig falsches Signal.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Ein völlig falsches Signal.PDF,Ein völlig falsches Signal,ein völlig falsches signal,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 2. Mai 2019,,LESERFORUM; S. 18,213,1529,73ddd6ce59641cc417942956d3630f21dd5eaf30,,unique,keep,,no,,no,,,2241,no,,,,,"Das ""Geordnete-Rückkehr-Gesetz"" ist nichts anderes als eine weitere Enthumanisierung des Lebens Geflüchteter. 
+2019-05,Main Corpus,2019-05(64).ZIP,Ein völlig falsches Signal.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Ein völlig falsches Signal.PDF,Ein völlig falsches Signal,ein völlig falsches signal,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 2. Mai 2019,,LESERFORUM; S. 18,213,1529,73ddd6ce59641cc417942956d3630f21dd5eaf30,,unique,keep,,no,,no,,,2241,no,,,,,"Das ""Geordnete-Rückkehr-Gesetz"" ist nichts anderes als eine weitere Enthumanisierung des Lebens Geflüchteter. 
 Der Bundesregierung einschließlich der SPD fällt mal wieder nichts anderes ein als Abschiebehaft auch in 
 Gefängnissen und Abschiebung für Menschen, die in diesem Land Schutz, Hilfe und Perspektive suchen. Der 
 Union geht das Gesetz immer noch nicht weit genug. Die meisten der von Seehofer als ausreisepflichtig 
@@ -949,7 +1079,7 @@ darstellen und dass jeder Schritt weg von der Humanität vor allen Dingen die Re
 dazu bei, dass die Verrohung in dieser Gesellschaft weiter zunimmt. Bleibt nur zu hoffen, dass zumindest in der 
 Sozialdemokratie eine Debatte darüber stattfindet. Der Druck der Zivilgesellschaft ist jetzt mehr denn je gefragt, um 
 zu verhindern, dass das Gesetz das Parlament passiert. Manfred Kirsch, Neuwied"
-2019-05,Main Corpus,2019-05(50).ZIP,Einer muss in Haft Im Prozess um prügelnde Asylbewerber in Amberg wirken sich deren Geständnisse str.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Einer muss in Haft Im Prozess um prügelnde Asylbewerber in Amberg wirken sich deren Geständnisse str.PDF,Einer muss in Haft Im Prozess um prügelnde Asylbewerber in Amberg wirken sich deren Geständnisse,einer muss in haft im prozess um prügelnde asylbewerber in amberg wirken sich deren geständnisse,"taz, die tageszeitung",taz die tageszeitung,Samstag 11. Mai 2019,Patrick Guyton,AKTUELLES; S. 4,444,3264,fb521a191de44870be994c501279b2dc2fcadd78,,unique,keep,,no,,no,,,4931,no,,,,,"Von Patrick Guyton
+2019-05,Main Corpus,2019-05(64).ZIP,Einer muss in Haft Im Prozess um prügelnde Asylbewerber in Amberg wirken sich deren Geständnisse str.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Einer muss in Haft Im Prozess um prügelnde Asylbewerber in Amberg wirken sich deren Geständnisse str.PDF,Einer muss in Haft Im Prozess um prügelnde Asylbewerber in Amberg wirken sich deren Geständnisse,einer muss in haft im prozess um prügelnde asylbewerber in amberg wirken sich deren geständnisse,"taz, die tageszeitung",taz die tageszeitung,Samstag 11. Mai 2019,Patrick Guyton,AKTUELLES; S. 4,444,3264,fb521a191de44870be994c501279b2dc2fcadd78,,unique,keep,,no,,no,,,4931,no,,,,,"Von Patrick Guyton
 Am Freitag fiel das Urteil im Prozess gegen die vier jungen Asylbewerber, die im Dezember 2018 im 
 oberpfälzischen Amberg wahllos Passanten beleidigt und verprügelt hatten: Drei Afghanen erhalten 
 Bewährungsstrafen von sechs bis 13 Monaten; der als Haupttäter angesehene Mann aus dem Iran muss für zwei 
@@ -985,7 +1115,7 @@ Gerichtssprecher Stich hatte zuvor schon betont: Das waren keine Vorgänge von S
 er: Das Verfahren ist abgelaufen, wie es das Gesetz verlangt ohne Berücksichtigung öffentlicher Befindlichkeiten 
 oder medialer Interessen. 
 Die NPD hatte nach der Tat eine Bürgerwehr gebildet und war durch Amberg gezogen"
-2019-05,Main Corpus,2019-05(50).ZIP,Europas Bürger glauben trotz Krisen an die EU Im vergangenen Jahrzehnt erlebte die Europäische Union.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Europas Bürger glauben trotz Krisen an die EU Im vergangenen Jahrzehnt erlebte die Europäische Union.PDF,Europas Bürger glauben trotz Krisen an die EU Im vergangenen Jahrzehnt erlebte die Europäische Union die,europas bürger glauben trotz krisen an die eu im vergangenen jahrzehnt erlebte die europäische union die,Die Welt,die welt,Dienstag 14. Mai 2019,Klaus Geiger,POLITIK; Politik; S. 5; Ausg. 111,1046,7077,9bd8bead78fa1a7dc8a27949bcac0f2deee024ea,,unique,keep,,no,,no,,,8502,no,,,,,"Trotz der großen Krisen des vergangenen Jahrzehnts sehen die Menschen in Deutschland und Europa die EU 
+2019-05,Main Corpus,2019-05(64).ZIP,Europas Bürger glauben trotz Krisen an die EU Im vergangenen Jahrzehnt erlebte die Europäische Union.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Europas Bürger glauben trotz Krisen an die EU Im vergangenen Jahrzehnt erlebte die Europäische Union.PDF,Europas Bürger glauben trotz Krisen an die EU Im vergangenen Jahrzehnt erlebte die Europäische Union die,europas bürger glauben trotz krisen an die eu im vergangenen jahrzehnt erlebte die europäische union die,Die Welt,die welt,Dienstag 14. Mai 2019,Klaus Geiger,POLITIK; Politik; S. 5; Ausg. 111,1046,7077,9bd8bead78fa1a7dc8a27949bcac0f2deee024ea,,unique,keep,,no,,no,,,8502,no,,,,,"Trotz der großen Krisen des vergangenen Jahrzehnts sehen die Menschen in Deutschland und Europa die EU 
 überwiegend positiv. 70 Prozent der Deutschen halten die Mitgliedschaft in der Europäischen Union für ""eine gute 
 Sache"", nur elf Prozent teilen diese Auffassung nicht, wie aus einer Umfrage des Instituts YouGov im Auftrag von 
 WELT hervorgeht. Die Erhebung in acht Ländern wurde beauftragt von den acht Zeitungen der Leading European 
@@ -1056,7 +1186,7 @@ Parteien besorgt sind, mit 56 Prozent am höchsten. 51 Prozent aller Befragten s
 Europawahl in ihren Augen genauso wichtig sei wie ihre nationale Parlamentswahl, in Deutschland liegt der Wert 
 bei 55 Prozent.
 Original Gesamtseiten-PDF"
-2019-05,Main Corpus,2019-05(50).ZIP,"Friede, Freude, Einwanderung Von wegen. Seehofer stellt den Entwurf zum Fachkräfteeinwanderungsgeset.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Friede, Freude, Einwanderung Von wegen. Seehofer stellt den Entwurf zum Fachkräfteeinwanderungsgeset.PDF","Friede, Freude, Einwanderung Von wegen. Seehofer stellt den Entwurf zum Fachkräfteeinwanderungsgesetz",friede freude einwanderung von wegen seehofer stellt den entwurf zum fachkräfteeinwanderungsgesetz,"taz, die tageszeitung",taz die tageszeitung,Freitag 10. Mai 2019,Dinah Riese,INLAND; S. 10,503,3694,7d0c4e46689526019477207f41bd853ec9b339dc,,unique,keep,,no,,no,,,5007,no,,,,,"Aus Berlin Dinah Riese
+2019-05,Main Corpus,2019-05(64).ZIP,"Friede, Freude, Einwanderung Von wegen. Seehofer stellt den Entwurf zum Fachkräfteeinwanderungsgeset.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Friede, Freude, Einwanderung Von wegen. Seehofer stellt den Entwurf zum Fachkräfteeinwanderungsgeset.PDF","Friede, Freude, Einwanderung Von wegen. Seehofer stellt den Entwurf zum Fachkräfteeinwanderungsgesetz",friede freude einwanderung von wegen seehofer stellt den entwurf zum fachkräfteeinwanderungsgesetz,"taz, die tageszeitung",taz die tageszeitung,Freitag 10. Mai 2019,Dinah Riese,INLAND; S. 10,503,3694,7d0c4e46689526019477207f41bd853ec9b339dc,,unique,keep,,no,,no,,,5007,no,,,,,"Aus Berlin Dinah Riese
 Eher unmotiviert steht Bundesinnenminister Horst Seehofer (CSU) an diesem Donnerstag vor den Abgeordneten 
 des Bundestags. Ein klares Bekenntnis sei der heute in erster Lesung beratene Gesetzentwurf der 
 Bundesregierung, liest er von seinen Zetteln ab, und zwar zur Fachkräfteeinwanderung aus Drittstaaten . Die 
@@ -1096,7 +1226,37 @@ Bereich der Abschiebung vor, die erste Lesung ist für kommende Woche geplant.
 Die Union hat auch in puncto Fachkräfte noch Redebedarf. CDU-Innenpolitiker Mathias Middelberg gratuliert den 
 Ministern zwar zu einer brauchbaren Vorlage . Aber: Er freue sich auf die parlamentarischen Beratungen. 
 Middelberg und andere Unions-Politiker hatten die Beschäftigungsduldung kritisiert."
-2019-05,Main Corpus,2019-05(50).ZIP,Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen Nor(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen Nor(2).PDF,Grenzerfahrungen von Polizisten aus NRW; Fünf Polizisten aus NRW sichern im Niemandsland zwischen,grenzerfahrungen von polizisten aus nrw fünf polizisten aus nrw sichern im niemandsland zwischen,Rheinische Post,rheinische post,Montag 6. Mai 2019,,S. 4,836,5898,86118a952f36007b3c4350b4b8083811637c03f0,variant_001,regional_variant,review,,no,,no,,,7358,no,,,near_001,variant_001,"Thomas Reisener
+2019-05,Main Corpus,2019-05(64).ZIP,Für ein sozialeres Europa.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Für ein sozialeres Europa.PDF,Für ein sozialeres Europa,für ein sozialeres europa,Frankfurter Rundschau,frankfurter rundschau,Mittwoch 8. Mai 2019,,FRANKFURT; S. F5,352,2530,66fa0208804bc1dcff7ce755f61d26f5fb74c1d4,,unique,keep,,no,,no,,,3579,no,,,,,"VON CHRISTOPH MANUS
+M ehr als 40 Organisationen und Initiativen rufen auf, am 19. Mai, eine Woche vor der Europawahl, in Frankfurt für 
+ein ""Europa für alle"" und gegen Nationalismus auf die Straße zu gehen. Zum Trägerkreis des Bündnisses für die 
+Demonstration gehören Attac Deutschland, der Paritätische Hessen, der Dachverband der 
+Migrantinnenorganisationen Damigra Frankfurt, die DGB-Region Frankfurt-Rhein-Main, Pro Asyl und die 
+Naturfreundejugend Hessen. Am selben Tag beginnen, jeweils um 12 Uhr, unter demselben Motto Großdemos in 
+sechs weiteren deutschen und anderen europäischen Städten.
+Ziel sei es, deutlich zu machen, dass weite Teile der Bevölkerung, Europa nicht den Nationalisten überlassen 
+wollten, sagte Roland Süß von Attac, der Anmelder der Demonstration. Klarmachte er aber auch, dass sich die 
+Europäische Union (EU) ändern müsse. Er forderte eine sozialökologische Umgestaltung Europas, eine andere 
+Wirtschaftspolitik.
+Die EU brauche soziale Stabilitätskriterien, sagte Yasmin Alinaghi, Landesgeschäftsführerin des Paritätischen. Statt 
+einen Wettlauf um die Senkung von Sozialstandards müsse es einen um die besseren Löhne, Renten und die 
+bessere Infrastruktur geben. Wenn die EU nicht gegen Armut vorgehe, schade das auch den Reicheren. Die lebten 
+irgendwann hinter Gittern, in Gated Communities. Die Wirtschaftsinteressen dürften nicht länger über die 
+Interessen der Menschen gestellt werden, sagte Michael Erhardt für die DGB-Gewerkschaften. In Europa gebe es 
+genug Geld, nur eine Verteilungsschieflage.
+Günter Burkhardt, Geschäftsführer von Pro Asyl, kritisierte, wie die Europäische Union Menschenrechte verletze, 
+dass zivilisatorische Standards einrissen, wenn man etwa Tausende im Mittelmeer ertrinken lasse. Es gehe aber 
+nun um die Grundfrage, ob es weiterhin ein demokratisches Europa gebe oder dieses zerfalle. Gewännen 
+Rechtsextreme weiter an Macht, heiße es gute Nacht für Demokratie und Menschenrechte. Ekin Polat von Damigra 
+warb für ein Europa frei von Rassismus, Hetze und Mehrfachdiskriminierung, in dem die Rechte aller Frauen ohne 
+Unterschied geschützt seien.
+Die Demonstration beginnt mit einer Kundgebung auf dem Opernplatz. Dort soll der folgende Demonstrationszug 
+auch enden. Um 14.30 Uhr beginnt die Abschlusskundgebung. Es sprechen Vertreter des Trägerkreises, aber auch 
+
+Für ein sozialeres Europa
+etwa von Medico International, Campact und ""Mehr Demokratie Hessen"". OB Peter Feldmann (SPD) hält ein 
+Grußwort.
+Mehr zur Demonstration unter www.ein-europa-für-alle.de"
+2019-05,Main Corpus,2019-05(64).ZIP,Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen Nor(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen Nor(2).PDF,Grenzerfahrungen von Polizisten aus NRW; Fünf Polizisten aus NRW sichern im Niemandsland zwischen,grenzerfahrungen von polizisten aus nrw fünf polizisten aus nrw sichern im niemandsland zwischen,Rheinische Post,rheinische post,Montag 6. Mai 2019,,S. 4,836,5898,86118a952f36007b3c4350b4b8083811637c03f0,variant_001,regional_variant,review,,no,,no,,,7358,no,,,near_001,variant_001,"Thomas Reisener
 Thessaloniki Vor ein paar Monaten, als es an der nordgriechischen Grenze noch richtig kalt war, hat einer von 
 ihnen einen Kohleofen in die Wache geschleppt. Auch die ramponierten Küchenmöbel, mit denen die Polizisten 
 sich in dem brüchigen Flachbau am Rande des Grenzortes Evzoni eine provisorische Kantine eingerichtet haben, 
@@ -1158,7 +1318,7 @@ Budget Nach der Flüchtlingskrise 2015 wurde der Frotex-Etat massiv auf inzwisch
 aufgestockt.
 Personal Frontex hat 670 Mitarbeiter. Sie steuern den Einsatz von rund 11.000 potenziellen Einsatzkräften, die die 
 EU-Mitgliedstaaten stellen. Von diesen Kräften sind aber meistens nur rund 2000 gleichzeitig im Einsatz."
-2019-05,Main Corpus,2019-05(50).ZIP,Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen Nor.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen Nor.PDF,Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen,grenzerfahrungen von polizisten aus nrw fünf polizisten aus nrw sichern im niemandsland zwischen,Rheinische Post,rheinische post,Montag 6. Mai 2019,,S. 4,836,5898,1667518602bb3b3e1031530b8ebb0b6aed2f915b,variant_001,regional_variant,review,,no,,no,,,7343,no,,,near_001,variant_001,"Thomas Reisener
+2019-05,Main Corpus,2019-05(64).ZIP,Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen Nor.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen Nor.PDF,Grenzerfahrungen von Polizisten aus NRW Fünf Polizisten aus NRW sichern im Niemandsland zwischen,grenzerfahrungen von polizisten aus nrw fünf polizisten aus nrw sichern im niemandsland zwischen,Rheinische Post,rheinische post,Montag 6. Mai 2019,,S. 4,836,5898,1667518602bb3b3e1031530b8ebb0b6aed2f915b,variant_001,regional_variant,review,,no,,no,,,7343,no,,,near_001,variant_001,"Thomas Reisener
 Thessaloniki Vor ein paar Monaten, als es an der nordgriechischen Grenze noch richtig kalt war, hat einer von 
 ihnen einen Kohleofen in die Wache geschleppt. Auch die ramponierten Küchenmöbel, mit denen die Polizisten 
 sich in dem brüchigen Flachbau am Rande des Grenzortes Evzoni eine provisorische Kantine eingerichtet haben, 
@@ -1220,7 +1380,7 @@ Budget Nach der Flüchtlingskrise 2015 wurde der Frotex-Etat massiv auf inzwisch
 aufgestockt.
 Personal Frontex hat 670 Mitarbeiter. Sie steuern den Einsatz von rund 11.000 potenziellen Einsatzkräften, die die 
 EU-Mitgliedstaaten stellen. Von diesen Kräften sind aber meistens nur rund 2000 gleichzeitig im Einsatz."
-2019-05,Main Corpus,2019-05(50).ZIP,Höchste Zeit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Höchste Zeit.PDF,Höchste Zeit,höchste zeit,Berliner Zeitung,berliner zeitung,10. Mai 2019,RASMUS BUCHSTEINER,MEINUNG; S. 8; Ausg. 107,584,4169,88416ee82e370857a02296efc77a4c908f86be16,,unique,drop,commentary_noncore,no,,no,,,5259,yes,commentary_noncore,,,,"RASMUS BUCHSTEINER 
+2019-05,Main Corpus,2019-05(64).ZIP,Höchste Zeit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Höchste Zeit.PDF,Höchste Zeit,höchste zeit,Berliner Zeitung,berliner zeitung,10. Mai 2019,RASMUS BUCHSTEINER,MEINUNG; S. 8; Ausg. 107,584,4169,88416ee82e370857a02296efc77a4c908f86be16,,unique,drop,commentary_noncore,no,,no,,,5259,yes,commentary_noncore,,,,"RASMUS BUCHSTEINER 
  ist der Meinung, dass Deutschland ein Gesetz für die 
  Einwanderung von Arbeitskräften dringend braucht. 
  Es geht um die Zukunft unseres Landes."" Deutschland sei faktisch bereits ein Einwanderungsland und braucht 
@@ -1265,7 +1425,7 @@ Arbeitslose das Nachsehen haben, weniger Chancen und weniger Förderung erhalten
 Weiterbildung zu investieren, in eine bessere Vereinbarkeit von Beruf und Familien und Programme, die 
 Langzeitarbeitslosen wieder Perspektiven bieten. Nur so gibt es am Ende auch die notwendige Akzeptanz für die 
 Maßnahmen, die jetzt notwendig sind."
-2019-05,Main Corpus,2019-05(50).ZIP,Job-Integration klappt besser als gedacht Sachverständigenrat für Migration stützt das geplante Einw.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Job-Integration klappt besser als gedacht Sachverständigenrat für Migration stützt das geplante Einw.PDF,Job-Integration klappt besser als gedacht Sachverständigenrat für Migration stützt das geplante,jobintegration klappt besser als gedacht sachverständigenrat für migration stützt das geplante,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 08. Mai 2019,,INLAND; S. 5,480,3579,3f2fbdf816db578e223732c0599c86d89371f398,,unique,keep,,no,,no,,,4822,no,,,,,"Von Dinah Riese
+2019-05,Main Corpus,2019-05(64).ZIP,Job-Integration klappt besser als gedacht Sachverständigenrat für Migration stützt das geplante Einw.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Job-Integration klappt besser als gedacht Sachverständigenrat für Migration stützt das geplante Einw.PDF,Job-Integration klappt besser als gedacht Sachverständigenrat für Migration stützt das geplante,jobintegration klappt besser als gedacht sachverständigenrat für migration stützt das geplante,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 08. Mai 2019,,INLAND; S. 5,480,3579,3f2fbdf816db578e223732c0599c86d89371f398,,unique,keep,,no,,no,,,4822,no,,,,,"Von Dinah Riese
 Deutschland hat in den vergangenen fünf Jahren eine beispiellose Dynamik in der Rechtsetzung im Bereich 
 Migration an den Tag gelegt. So sieht es Thomas Bauer, der Vorsitzende des Sachverständigenrats deutscher 
 Stiftungen für Integration und Migration (SVR). Am Dienstag stellte der SVR in Berlin sein Jahresgutachten vor. 
@@ -1304,7 +1464,7 @@ Ausländerzentralregister (AZR) sollte man mit Vorsicht genießen. Das Gutachten
 Bundesinnenministerium, wonach es bei diesen Daten teils erhebliche Defizite sowie eine signifikante Anzahl 
 inkonsistenter oder unplausibel erscheinender Datensätze gebe. Das AZR ist meist Grundlage, wenn über die Zahl 
 ausreisepflichtiger Personen gesprochen wird."
-2019-05,Main Corpus,2019-05(50).ZIP,Jugendliche wollen mitbestimmen Am Michael-Ende-Gymnasium Tönisvorst ist die Europawahl schon entsch.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Jugendliche wollen mitbestimmen Am Michael-Ende-Gymnasium Tönisvorst ist die Europawahl schon entsch.PDF,Jugendliche wollen mitbestimmen Am Michael-Ende-Gymnasium Tönisvorst ist die Europawahl schon,jugendliche wollen mitbestimmen am michaelendegymnasium tönisvorst ist die europawahl schon,Rheinische Post,rheinische post,Freitag 24. Mai 2019,"Wickerath, Stephanie",S. 31,593,3958,73207501627e93a4f4dff141a37f7c520d7c70ea,,unique,keep,,no,,no,,,5571,no,,,,,"Stephanie Wickerath
+2019-05,Main Corpus,2019-05(64).ZIP,Jugendliche wollen mitbestimmen Am Michael-Ende-Gymnasium Tönisvorst ist die Europawahl schon entsch.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Jugendliche wollen mitbestimmen Am Michael-Ende-Gymnasium Tönisvorst ist die Europawahl schon entsch.PDF,Jugendliche wollen mitbestimmen Am Michael-Ende-Gymnasium Tönisvorst ist die Europawahl schon,jugendliche wollen mitbestimmen am michaelendegymnasium tönisvorst ist die europawahl schon,Rheinische Post,rheinische post,Freitag 24. Mai 2019,"Wickerath, Stephanie",S. 31,593,3958,73207501627e93a4f4dff141a37f7c520d7c70ea,,unique,keep,,no,,no,,,5571,no,,,,,"Stephanie Wickerath
 Tönisvorst Klimaschutz und Flüchtlingspolitik, das sind die beiden großen politischen Themen, die die Schüler des 
 Michael-Ende-Gymnasiums (MEG) besonders interessieren. Etwa 460 Jugendliche der Jahrgangsstufen neun bis 
 elf haben am MEG in dieser Woche ihre Stimme für Europa abgegeben. Juniorwahl heißt das Projekt, an dem das 
@@ -1348,7 +1508,7 @@ Auch bei den Bundestagswahlen 2017 gab es eine Juniorwahl am Michael-Ende-Gymnas
 CDU 24 Prozent, die Grünen kamen auf 21,3 Prozent, die SPD hatte 19,8 Prozent und die FDP 12,4 Prozent der 
 Stimmen. AfD und Linke waren mit 3,6 Prozent weit abgeschlagen und wären. Damit wären sie nach dem Willen 
 der Schüler nicht in den Bundestag eingezogen."
-2019-05,Main Corpus,2019-05(50).ZIP,Junger Afghane nach Prügelattacke abgeschoben.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Junger Afghane nach Prügelattacke abgeschoben.PDF,Junger Afghane nach Prügelattacke abgeschoben,junger afghane nach prügelattacke abgeschoben,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 23. Mai 2019,,POLITIK; S. 5,364,2718,785216cf614c60ad1d2fe176a8ae2debc9297722,,unique,keep,,no,,no,,,4075,no,,,,,"VON PITT VON BEBENBURG
+2019-05,Main Corpus,2019-05(64).ZIP,Junger Afghane nach Prügelattacke abgeschoben.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Junger Afghane nach Prügelattacke abgeschoben.PDF,Junger Afghane nach Prügelattacke abgeschoben,junger afghane nach prügelattacke abgeschoben,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 23. Mai 2019,,POLITIK; S. 5,364,2718,785216cf614c60ad1d2fe176a8ae2debc9297722,,unique,keep,,no,,no,,,4075,no,,,,,"VON PITT VON BEBENBURG
 A us Deutschland sind am Dienstagabend erneut 24 abgelehnte Asylbewerber nach Afghanistan abgeschoben 
 worden, darunter zwei aus Hessen. Einer der betroffenen Männer ist ein 18-Jähriger, der wegen einer 
 Prügelattacke im ostbayerischen Amberg vor Gericht gestanden hatte.
@@ -1379,7 +1539,7 @@ zurückgebracht. Nach einer Sammelabschiebung im Juli 2018 beging einer der 69 M
 Ankunft in Kabul Suizid und befeuerte damit die Debatte über die umstrittenen Abschiebungen. Kritiker weisen 
 darauf hin, dass die Sicherheitslage in Afghanistan weiter angespannt ist. Insgesamt starben einem UN-Bericht 
 zufolge von Januar bis Ende März 581 Zivilisten in dem Konflikt. mit dpa"
-2019-05,Main Corpus,2019-05(50).ZIP,Kehrseiten des Grenzschutzes Die Kontrollen zwischen Deutschland und Österreich sorgen für Unmut und.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Kehrseiten des Grenzschutzes Die Kontrollen zwischen Deutschland und Österreich sorgen für Unmut und.PDF,Kehrseiten des Grenzschutzes Die Kontrollen zwischen Deutschland und Österreich sorgen für Unmut und,kehrseiten des grenzschutzes die kontrollen zwischen deutschland und österreich sorgen für unmut und,Südwest Presse,südwest presse,Donnerstag 16. Mai 2019,,Wirtschaft,662,4706,25499acd547430b010716b737d71197f24c1edb2,,unique,keep,,no,,no,,,6063,no,,,,,"Jeder Radiohörer in Bayern kennt diese Verkehrsnachrichten: ""Und nun zu den Wartezeiten an der Grenze: In 
+2019-05,Main Corpus,2019-05(64).ZIP,Kehrseiten des Grenzschutzes Die Kontrollen zwischen Deutschland und Österreich sorgen für Unmut und.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Kehrseiten des Grenzschutzes Die Kontrollen zwischen Deutschland und Österreich sorgen für Unmut und.PDF,Kehrseiten des Grenzschutzes Die Kontrollen zwischen Deutschland und Österreich sorgen für Unmut und,kehrseiten des grenzschutzes die kontrollen zwischen deutschland und österreich sorgen für unmut und,Südwest Presse,südwest presse,Donnerstag 16. Mai 2019,,Wirtschaft,662,4706,25499acd547430b010716b737d71197f24c1edb2,,unique,keep,,no,,no,,,6063,no,,,,,"Jeder Radiohörer in Bayern kennt diese Verkehrsnachrichten: ""Und nun zu den Wartezeiten an der Grenze: In 
 Kiefersfelden 30 Minuten bei der Einreise, am Walserberg 40 Minuten und in Passau/Suben 20 Minuten wegen der 
 Grenzkontrollen."" Stau, Stau, Stau von Österreich nach Deutschland hinein. So geht das nun schon seit mehr als 
 dreieinhalb Jahren, als der damalige Bundesinnenminister Thomas de Maizière (CDU) am 13. September 2015 die 
@@ -1431,7 +1591,7 @@ Graphic
 Polizisten kontrollieren bei Kiefersfelden Fahrzeuge, die von Österreich nach Deutschland kommen. Foto: Sven 
 Hoppe/dpa
 Joachim Maislinger, Bürgermeister von Wals-Riezenheim Foto: Patrick Guyton"
-2019-05,Main Corpus,2019-05(50).ZIP,Kurz will Kickl aus der Regierung kicken Noch sind die FPÖ-Minister im Amt. Doch besonders den Innen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Kurz will Kickl aus der Regierung kicken Noch sind die FPÖ-Minister im Amt. Doch besonders den Innen.PDF,Kurz will Kickl aus der Regierung kicken; Noch sind die FPÖ-Minister im Amt. Doch besonders den,kurz will kickl aus der regierung kicken noch sind die fpöminister im amt doch besonders den,"taz, die tageszeitung",taz die tageszeitung,Dienstag 21. Mai 2019,Ralf Leonhard,SCHWERPUNKT; S. 2,911,6595,25544e5df0cd23d93004bf46015cc29bd287ff93,,unique,keep,,no,,no,,,8110,no,,,,,"Aus Wien Ralf Leonhard
+2019-05,Main Corpus,2019-05(64).ZIP,Kurz will Kickl aus der Regierung kicken Noch sind die FPÖ-Minister im Amt. Doch besonders den Innen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Kurz will Kickl aus der Regierung kicken Noch sind die FPÖ-Minister im Amt. Doch besonders den Innen.PDF,Kurz will Kickl aus der Regierung kicken; Noch sind die FPÖ-Minister im Amt. Doch besonders den,kurz will kickl aus der regierung kicken noch sind die fpöminister im amt doch besonders den,"taz, die tageszeitung",taz die tageszeitung,Dienstag 21. Mai 2019,Ralf Leonhard,SCHWERPUNKT; S. 2,911,6595,25544e5df0cd23d93004bf46015cc29bd287ff93,,unique,keep,,no,,no,,,8110,no,,,,,"Aus Wien Ralf Leonhard
 Nach dem Rücktritt von Vizekanzler Heinz-Christian Strache am Samstag ist das Ausscheiden sämtlicher FPÖ-
 Kabinettsmitglieder nur eine Frage der Zeit. Strache selbst zeigt aber kaum Einsicht. Am Wochenende postete er 
 ein trotziges Jetzt erst recht! und streute Gerüchte, er werde als Parteichef in Wien ein politisches Comeback 
@@ -1503,7 +1663,7 @@ Innenminister wäre Bundeskanzler Kurz gern los. Doch dagegen ste....
 Unklar ist, welche Projekte der gescheiterten Regierung, die schon auf den Weg gebracht wurden, schließlich 
 umgesetzt werden. Die groß angekündigte Steuerreform ist noch nicht Gesetz, auch die umstrittene Privatisierung 
 der Flüchtlingsbetreuung könnte vom Bundesrat noch gestoppt werden. (rld)"
-2019-05,Main Corpus,2019-05(50).ZIP,Land hält an Blankenburg fest Flüchtlinge Schließungspläne vom Tisch   Aufnahmebehörde will nun inve.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Land hält an Blankenburg fest Flüchtlinge Schließungspläne vom Tisch   Aufnahmebehörde will nun inve.PDF,Land hält an Blankenburg fest; Flüchtlinge Schließungspläne vom Tisch Aufnahmebehörde will nun,land hält an blankenburg fest flüchtlinge schliessungspläne vom tisch aufnahmebehörde will nun,Nordwest-Zeitung,nordwestzeitung,06. Mai 2019,,OLDENBURG; S. 27,415,3206,172d16ed4a8cf3188f42d13d6cefbae304fecc67,,unique,keep,,no,,no,,,4247,no,,,,,"Oldenburg - Mindestens 600 Asylbewerber sollten einziehen. Und würde das nicht reichen, könnten in Containern 
+2019-05,Main Corpus,2019-05(64).ZIP,Land hält an Blankenburg fest Flüchtlinge Schließungspläne vom Tisch   Aufnahmebehörde will nun inve.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Land hält an Blankenburg fest Flüchtlinge Schließungspläne vom Tisch   Aufnahmebehörde will nun inve.PDF,Land hält an Blankenburg fest; Flüchtlinge Schließungspläne vom Tisch Aufnahmebehörde will nun,land hält an blankenburg fest flüchtlinge schliessungspläne vom tisch aufnahmebehörde will nun,Nordwest-Zeitung,nordwestzeitung,06. Mai 2019,,OLDENBURG; S. 27,415,3206,172d16ed4a8cf3188f42d13d6cefbae304fecc67,,unique,keep,,no,,no,,,4247,no,,,,,"Oldenburg - Mindestens 600 Asylbewerber sollten einziehen. Und würde das nicht reichen, könnten in Containern 
 noch schnell mehr Menschen untergebracht werden.
 Unter dem Eindruck der hohen Flüchtlingszahlen bauten Land und Kommunen im Jahr 2015 große Kapazitäten zur 
 Unterbringung auf. So geschah es auch beim ehemaligen Kloster Blankenburg. Stolz setzte Innenminister Boris 
@@ -1543,7 +1703,68 @@ Standort Blankenburg festhalten.
 PDF-Datei dieses Dokuments
 Land hält an Blankenburg fest; Flüchtlinge Schließungspläne vom Tisch Aufnahmebehörde will nun 
 investieren"
-2019-05,Main Corpus,2019-05(50).ZIP,Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert wor(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert wor(2).PDF,Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert worden,neue panne im fall des toten syrers daten zur person von amad a sollen bei der polizei geändert worden,Rheinische Post,rheinische post,Dienstag 7. Mai 2019,"Kowalewsky, Reinhard",S. 3,353,2446,7402693f0e0ffc1fa5ce0a7e07e72eb7ccb1f8bf,exact_001,duplicate_exact,review,,no,,no,,,3447,no,,exact_001,,,"Reinhard Kowalewsky
+2019-05,Main Corpus,2019-05(64).ZIP,Maritimes Flair voller Highlights Auf Zeitreise beim Tagesausflug nach New York Spannende Unterwasse.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Maritimes Flair voller Highlights Auf Zeitreise beim Tagesausflug nach New York Spannende Unterwasse.PDF,Maritimes Flair voller Highlights Auf Zeitreise beim Tagesausflug nach New York Spannende,maritimes flair voller highlights auf zeitreise beim tagesausflug nach new york spannende,Nordwest-Zeitung,nordwestzeitung,21. Mai 2019,,VERLAGSBEILAGE; S. 61,386,2832,2c1df6741947e3c443f4ccd2a3f65c21f9865a80,,unique,keep,,no,,no,,,3911,no,,,,,"Zwischen Bremerhaven und New York liegt nur noch das Meer da liegt es nahe, an Bord zu gehen und in 
+Richtung Freiheitsstatue aufzubrechen. Genau das machen Besucher imDeutschen Auswandererhaus: 
+Gemeinsam betreten sie das schwankende Schiff, erkunden knarzende Kojen und absolvieren mit klopfendem 
+Herzen den Einwanderungstest auf Ellis Island inmitten originalgetreuer Rekonstruktionen und immer auf den 
+Spuren historischer Auswanderer. Anschließend entdecken sie die Lebensgeschichten von Einwanderern nach 
+Deutschland. Kinder- und Familienführungen sowie Familiennachtwanderungen sprechen Groß und Klein 
+gleichermaßen an. Und in der neuen Sonderausstellung Ich packe meinen Koffer erleben Familien das Thema 
+Migration aus Kindersicht.
+Auf Augenhöhe, nur durch bodentiefe Scheiben getrennt, begegnen Eisbär, Robbe, Puma & Co. der ganzen 
+Familie. Kurze Wege führen imZoo am Meer Bremerhaven an Tiergehegen vorbei, die wunderbar in die Umgebung 
+integriert wurden und immer wieder den Blick auf das Meer ermöglichen.
+Im Nordsee-Aquarium werden in modern inszenierte Unterwasserwelten verschiedene Lebensräume der Nordsee 
+gezeigt. Besondere Hingucker sind bizarre Tiere, wie der seltsam geformte Seehase oder Seepferdchen, der 
+gewaltige Stör oder der Oktopus mit seinem Farbenspiel. Für die Kleinen gibt es eine besondere 
+
+Maritimes Flair voller Highlights Auf Zeitreise beim Tagesausflug nach New York Spannende 
+Unterwasserwelten und wilde Tiere Die Reise um die Welt feiert 10. Geb....
+Kinderbeschilderung, spannende Forscherpfade und einen Abenteuerspielplatz. Die täglichen Robben- und 
+Pinguinfütterungen sind ein weiteres Highlight für Mensch und Tier.
+Große und kleine Weltentdecker erleben imKlimahaus Bremerhaven eine spannende und einzigartige Reise um die 
+Welt. Begeben auch Sie sich auf die Spuren von fünf Millionen Besuchern im Klimahaus Bremerhaven 8° Ost. Sie 
+durchqueren die eisige Antarktis , durchstreifen den tropisch-warmen Regenwald oder beobachten am Sandstrand 
+von Samoa unzählige bunte und exotische Fische, die in riesigen Aquarien ihre Kreise ziehen. Unterwegs 
+begegnen ihnen Menschen, die aus ihrem Alltag erzählen und berichten, wie sich ihr Leben und das jeweils 
+vorherrschende Klima gegenseitig beeinflussen. Sie werden schwitzen, frieren, staunen und lachen Gänsehaut 
+bei über 30° C inklusive.
+TIPP: Zum 10. Geburtstag gibt es am 10. Juni 10 % auf alles an den Tageskassen(Ausgenommen sind Bücher, 
+Globen und Landkarten) .
+PDF-Datei dieses Dokuments
+
+Maritimes Flair voller Highlights Auf Zeitreise beim Tagesausflug nach New York Spannende 
+Unterwasserwelten und wilde Tiere Die Reise um die Welt feiert 10. Geb....
+
+Maritimes Flair voller Highlights Auf Zeitreise beim Tagesausflug nach New York Spannende 
+Unterwasserwelten und wilde Tiere Die Reise um die Welt feiert 10. Geb...."
+2019-05,Main Corpus,2019-05(64).ZIP,Mutmaßlicher IS-Unterstützer vor Gericht.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Mutmaßlicher IS-Unterstützer vor Gericht.PDF,Mutmaßlicher IS-Unterstützer vor Gericht,mutmasslicher isunterstützer vor gericht,Berliner Zeitung,berliner zeitung,02. Mai 2019,dpa,BERLIN; S. 9; Ausg. 100,343,2401,3e0e8a1ebf26011bff0e40eb27dda9d39a869394,,unique,keep,,no,,no,,,3469,no,,,,,"Gegen einen mutmaßlichen Terrorunterstützer, der in Berlin und Brandenburg in ein islamistisches Netzwerk 
+eingebunden gewesen sein soll, hat der Prozess vor dem Berliner Kammergericht begonnen. Dem 30-Jährigen aus 
+Tschetschenien wird Terrorismusfinanzierung sowie Unterstützung terroristischer Vereinigungen und Beihilfe zum 
+Betrug zur Last gelegt. Nun hat der Prozess begonnen. Der 30-Jährige soll 2014 einem Anhänger der Terrormiliz 
+""Islamischer Staat"" (IS), der monatelang zu Unrecht Sozialleistungen bezogen habe, das Geld nach Syrien 
+geschickt haben. Der Angeklagte war den Ermittlungen zufolge 2011 nach Deutschland eingereist. Sein Antrag auf 
+Asyl sei 2013 abgelehnt worden. Im Frühjahr 2015 habe der Mann Deutschland verlassen. Im August 2018 wurde 
+er aufgrund eines europäischen Haftbefehls in den Niederlanden festgenommen. (dpa) 
+ Mann beschimpft Mutter und Kinder fremdenfeindlich 
+ Drei Kinder und eine Frau sind fremdenfeindlich beleidigt worden. In Weißensee beschimpfte ein Mann eine 
+Mutter und ihre zwei kleinen Kinder in einer Straßenbahn der Linie 12, wie die Polizei am Mittwoch mitteilte. Laut 
+Angaben eines Augenzeugen berührte der Täter die Kinder am späten Dienstagabend an den Armen und an den 
+Schultern. Der Zeuge sei dazwischengegangen. Am Pasedagplatz schubste der Täter den Zeugen und beleidigte 
+ihn. Dann stieg er in einen Bus. In Friedrichshain beschimpfte laut Polizei ein Mann einen fünf Jahre alten Jungen 
+in einem Waggon der U-Bahnlinie 1. Den Angaben der Mutter zufolge setzte sich der Mann am U-Bahnhof 
+Warschauer Straße neben das Kind. Als die Frau mit dem Kind den Waggon wechseln wollte, beleidigte der Mann 
+das Kind fremdenfeindlich. In beiden Fällen ermittelt der Staatsschutz. (dpa) 
+ Schafe weiden wieder im Schlossgarten 
+ Im Schlossgarten Charlottenburg halten wieder Schafe die Wiesen kurz. Nach guten Erfahrungen und Zuspruch 
+von Besuchern im Vorjahr würden auch in dieser Saison wieder gehörnte Gotlandschafe zur Beweidung eingesetzt, 
+teilte die Stiftung Preußische Schlösser und Gärten mit. Am Dienstag kamen rund 50 Tiere an. Sie sollen bis etwa 
+November bleiben. Besucher dürfen die umzäunten Wiesenflächen nicht betreten und die Tiere nicht füttern. 
+ Schon früher seien die Wiesen beweidet worden, hieß es. Der Garten war ab 1695 von Kurfürstin Sophie 
+Charlotte geschaffen worden. (dpa) 
+
+Mutmaßlicher IS-Unterstützer vor Gericht"
+2019-05,Main Corpus,2019-05(64).ZIP,Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert wor(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert wor(2).PDF,Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert worden,neue panne im fall des toten syrers daten zur person von amad a sollen bei der polizei geändert worden,Rheinische Post,rheinische post,Dienstag 7. Mai 2019,"Kowalewsky, Reinhard",S. 3,353,2446,7402693f0e0ffc1fa5ce0a7e07e72eb7ccb1f8bf,exact_001,duplicate_exact,review,,no,,no,,,3447,no,,exact_001,,,"Reinhard Kowalewsky
 Düsseldorf/Kleve Im Herbst starb der unschuldig inhaftierte syrische Flüchtling Amad A. an den Folgen eines 
 Brandes in seiner Zelle in Kleve. Jetzt kommt heraus, dass es vor der Inhaftierung am 6. Juli 2018 eine fälschliche 
 Änderung seiner Daten gab. Eine Beamtin der Kreispolizei in Siegen hatte am 4. Juli 2018 in eine Datenbank der 
@@ -1570,7 +1791,7 @@ Der SPD-Abgeordnete und Jurist Sven Wolf geht noch weiter: „Staatsanwaltschaft
 müssen genau nachhaken. Wir müssen klären, ob das alles nur eine Verkettung schlimmer Fehler war oder ob es 
 doch irgendwo eine Manipulation gab. Ich hoffe, dass das alles nur Dummheit war.“ Auch Michael Mertens, 
 Landeschef der Gewerkschaft der Polizei (GdP), fordert weitere Ermittlungen in dem Fall."
-2019-05,Main Corpus,2019-05(50).ZIP,Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert wor.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert wor.PDF,Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert worden,neue panne im fall des toten syrers daten zur person von amad a sollen bei der polizei geändert worden,Rheinische Post,rheinische post,Dienstag 7. Mai 2019,"Kowalewsky, Reinhard",S. 3,353,2446,7402693f0e0ffc1fa5ce0a7e07e72eb7ccb1f8bf,exact_001,duplicate_exact,review,,no,,no,,,3432,no,,exact_001,,,"Reinhard Kowalewsky
+2019-05,Main Corpus,2019-05(64).ZIP,Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert wor.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert wor.PDF,Neue Panne im Fall des toten Syrers Daten zur Person von Amad A. sollen bei der Polizei geändert worden,neue panne im fall des toten syrers daten zur person von amad a sollen bei der polizei geändert worden,Rheinische Post,rheinische post,Dienstag 7. Mai 2019,"Kowalewsky, Reinhard",S. 3,353,2446,7402693f0e0ffc1fa5ce0a7e07e72eb7ccb1f8bf,exact_001,duplicate_exact,review,,no,,no,,,3432,no,,exact_001,,,"Reinhard Kowalewsky
 Düsseldorf/Kleve Im Herbst starb der unschuldig inhaftierte syrische Flüchtling Amad A. an den Folgen eines 
 Brandes in seiner Zelle in Kleve. Jetzt kommt heraus, dass es vor der Inhaftierung am 6. Juli 2018 eine fälschliche 
 Änderung seiner Daten gab. Eine Beamtin der Kreispolizei in Siegen hatte am 4. Juli 2018 in eine Datenbank der 
@@ -1597,7 +1818,7 @@ Der SPD-Abgeordnete und Jurist Sven Wolf geht noch weiter: „Staatsanwaltschaft
 müssen genau nachhaken. Wir müssen klären, ob das alles nur eine Verkettung schlimmer Fehler war oder ob es 
 doch irgendwo eine Manipulation gab. Ich hoffe, dass das alles nur Dummheit war.“ Auch Michael Mertens, 
 Landeschef der Gewerkschaft der Polizei (GdP), fordert weitere Ermittlungen in dem Fall."
-2019-05,Main Corpus,2019-05(50).ZIP,Polizeiwagen statt Behördentermin In Göttingen ist ein Mann auf dem Weg zu einem Termin im Rathaus a.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Polizeiwagen statt Behördentermin In Göttingen ist ein Mann auf dem Weg zu einem Termin im Rathaus a.PDF,Polizeiwagen statt Behördentermin; In Göttingen ist ein Mann auf dem Weg zu einem Termin im Rathaus,polizeiwagen statt behördentermin in göttingen ist ein mann auf dem weg zu einem termin im rathaus,"taz, die tageszeitung",taz die tageszeitung,Freitag 10. Mai 2019,Reimar Paul,NORD AKTUELL; S. 25,637,4716,387f450841d00eb9c913ac6a7736c97186751808,,unique,keep,,no,,no,,,6363,no,,,,,"Von Reimar Paul
+2019-05,Main Corpus,2019-05(64).ZIP,Polizeiwagen statt Behördentermin In Göttingen ist ein Mann auf dem Weg zu einem Termin im Rathaus a.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Polizeiwagen statt Behördentermin In Göttingen ist ein Mann auf dem Weg zu einem Termin im Rathaus a.PDF,Polizeiwagen statt Behördentermin; In Göttingen ist ein Mann auf dem Weg zu einem Termin im Rathaus,polizeiwagen statt behördentermin in göttingen ist ein mann auf dem weg zu einem termin im rathaus,"taz, die tageszeitung",taz die tageszeitung,Freitag 10. Mai 2019,Reimar Paul,NORD AKTUELL; S. 25,637,4716,387f450841d00eb9c913ac6a7736c97186751808,,unique,keep,,no,,no,,,6363,no,,,,,"Von Reimar Paul
 Transparente und Megafondurchsagen vor dem Rathaus, ein paar Polizeiwagen um die Ecke: Erneut haben 
 Geflüchtete und ihre Unterstützer am Donnerstag in Göttingen gegen eine verschärfte Abschiebepraxis der Stadt 
 protestiert. Anlass war dieses Mal die Festnahme eines algerischen Flüchtlings am Vortag unmittelbar vor dem Sitz 
@@ -1650,7 +1871,7 @@ Weiter bemängelte das Bündnis, dass die Stadt Göttingen Geflüchteten häufig
 ausstelle. Teilweise werden diese sogar durch Papiere ersetzt, die besagten, dass eine Abschiebung auch ohne 
 das Vorliegen eines gültigen Passes eingeleitet sei.
  Es ist ein unmenschlicher Skandal, dass inzwischen Leute regelmäßig am helllichten Tag verschleppt werden"
-2019-05,Main Corpus,2019-05(50).ZIP,Riesen-Chance für Flüchtlinge in Region Integration Wie der Oldenburger Verein Pro Connect Menschen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Riesen-Chance für Flüchtlinge in Region Integration Wie der Oldenburger Verein Pro Connect Menschen.PDF,Riesen-Chance für Flüchtlinge in Region Integration Wie der Oldenburger Verein Pro Connect Menschen und,riesenchance für flüchtlinge in region integration wie der oldenburger verein pro connect menschen und,Nordwest-Zeitung,nordwestzeitung,24. Mai 2019,,WIRTSCHAFT; S. 25,1037,7356,2f17b851535139788d64afd1e0109f39961b3208,,unique,keep,,no,,no,,,8637,no,,,,,"Oldenburg - Beim Team von Anja Friedrich in der Zentrale des Oldenburger Vereins Pro Connect klingelte das 
+2019-05,Main Corpus,2019-05(64).ZIP,Riesen-Chance für Flüchtlinge in Region Integration Wie der Oldenburger Verein Pro Connect Menschen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Riesen-Chance für Flüchtlinge in Region Integration Wie der Oldenburger Verein Pro Connect Menschen.PDF,Riesen-Chance für Flüchtlinge in Region Integration Wie der Oldenburger Verein Pro Connect Menschen und,riesenchance für flüchtlinge in region integration wie der oldenburger verein pro connect menschen und,Nordwest-Zeitung,nordwestzeitung,24. Mai 2019,,WIRTSCHAFT; S. 25,1037,7356,2f17b851535139788d64afd1e0109f39961b3208,,unique,keep,,no,,no,,,8637,no,,,,,"Oldenburg - Beim Team von Anja Friedrich in der Zentrale des Oldenburger Vereins Pro Connect klingelte das 
 Telefon. Der Landkreis Ammerland war dran: Ein Unternehmen habe sich dort gemeldet, das gern auch einen 
 geflüchteten Menschen einstellen würde jemand, der fließend Französisch spricht. Denn die Firma hat viel mit 
 Frankreich zu tun. Und, ja, da hatten wir tatsächlich jemanden aus Afrika, der passte, in unserer Datenbank , 
@@ -1732,7 +1953,88 @@ an. Mancher Geflüchtete kommt zudem direkt vorbei.
 Andere tun es nicht. Sie sollen aber gezielter angesprochen, gestärkt und begleitet werden. So sagt Ernst Jünke 
 mit Blick in die Zukunft: Wir werden uns künftig mehr um die Frauen kümmern. 
 PDF-Datei dieses Dokuments"
-2019-05,Main Corpus,2019-05(50).ZIP,Saudi -Arabien meldet Drohnenangriffe auf Öl-Pipeline Spannungen am Golf_ Spanien zieht Kriegsschiff.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Saudi -Arabien meldet Drohnenangriffe auf Öl-Pipeline Spannungen am Golf_ Spanien zieht Kriegsschiff.PDF,Saudi-Arabien meldet Drohnenangriffe auf Öl-Pipeline; Spannungen am Golf: Spanien zieht Kriegsschiff aus,saudiarabien meldet drohnenangriffe auf ölpipeline spannungen am golf spanien zieht kriegsschiff aus,Die Welt,die welt,Mittwoch 15. Mai 2019,Ansgar Graw,TITEL; TITEL; S. 1; Ausg. 112,405,3130,4f6eeb90f0c17dedb3b7b7c476374aaceef108d1,,unique,keep,,no,,no,,,5331,no,,,,,"Angesichts wachsender Spannungen zwischen den Vereinigten Staaten und dem Iran wächst in der deutschen 
+2019-05,Main Corpus,2019-05(64).ZIP,Rückkehr der Grenzen Dänemark baut derzeit einen Zaum an der Grenze zu Deutschland. Noch wirksamer a.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Rückkehr der Grenzen Dänemark baut derzeit einen Zaum an der Grenze zu Deutschland. Noch wirksamer a.PDF,Rückkehr der Grenzen Dänemark baut derzeit einen Zaum an der Grenze zu Deutschland. Noch wirksamer,rückkehr der grenzen dänemark baut derzeit einen zaum an der grenze zu deutschland noch wirksamer,"taz, die tageszeitung",taz die tageszeitung,Samstag 25. Mai 2019,Friederike Gräff,"SCHWERPUNKT; S. 53,55",1093,7620,7dcf6fb53541077160d003cdb3149d09c71f9059,,unique,keep,,no,,no,,,9109,no,,,,,"Von Friederike Gräff
+Gleich fahren wir über die Grenze , sagte ich kürzlich zu meinen Kindern. Wie sieht eine Grenze aus? , fragten sie 
+mich. Wer heute drei und sechs Jahre alt ist, Europäerin und vor allem in Europa unterwegs, kann sich unter einer 
+Grenze wenig vorstellen. Wir sind kurz darauf über die Landesgrenze gefahren, aber wie unbedeutend wirkt die, 
+wenn man nicht kontrolliert wird. Ein leeres Schalterhäuschen, das ist alles. Das ist in seiner Unspektakulärheit 
+spektakulär.
+Zwar baut Dänemark gerade einen neuen Grenzzaun, offiziell, um die Wildschweine aus Deutschland am 
+Einwandern zu hindern; aber noch wichtiger sind andere, unsichtbare Grenzen. Sie laufen mitten durch 
+Deutschland, durch Hamburg, durch das Oldenburger Land, durch eine beliebige Kleinstadt: Es sind soziale 
+Grenzen und sie trennen zwischen einheimischen Arbeitskräften und solchen aus Osteuropa, sie trennen auch bei 
+denen, die ganz unten angekommen sind: zwischen deutschen und nicht-deutschen Obdachlosen.
+In Niedersachsen, einer Hochburg der Fleischindustrie, verläuft eine dieser Grenzen. Es gibt dort ein Dorf im 
+Oldenburger Land, wo man ein eigenes Wort für die Werkvertragsarbeiter aus Osteuropa schuf. Eimermenschen 
+nannte man sie, weil sie ihre Messer in einem Eimer mit zur Arbeit in die Schlachtbetriebe trugen. Das war den 
+deutschen Unternehmen, die an den billigen Arbeitskräften verdienten und verdienen, unangenehm und sie stellten 
+diese Praxis ab. Aber auch nur diese.
+Peter Kossen ist Priester im Oldenburger Münsterland und hat einen Verein zur Verteidigung der Rechte der 
+osteuropäischen Arbeiter gegründet. Wissen Sie, was sich hier ein kleiner Junge zu Weihnachten gewünscht hat? , 
+sagt er: Einen Trecker und einen Polen. 
+
+Rückkehr der Grenzen Dänemark baut derzeit einen Zaum an der Grenze zu Deutschland. Noch wirksamer 
+aber sind andere, unsichtbare Grenzen: Sie sorgen dafür, dass....
+Es gibt eine seltsame Gleichzeitigkeit von Sichtbarkeit und Unsichtbarkeit der osteuropäischen ArbeiterInnen: Sie 
+steigen mitten in den Stadtzentren aus den Reisebussen, die sie an ihre Arbeitsplätze bringen. Ihre Kinder 
+besuchen die örtlichen Kitas, wo die Erzieherinnen besorgt sind, weil sie durch den Lärm in den Unterkünften 
+übernächtigt und erschöpft sind. Aber die Bruchbuden, die man ihnen als Wohnort vermietet, scheinen hinter einer 
+gläsernen Wand zu stehen. Eine Insel für sich.
+So ähnlich beschreibt Mirela Barut von der Servicestelle Arbeitnehmerfreizügigkeit in Hamburg die Situation von 
+osteuropäischen Pflegekräften in der häuslichen Pflege. Oft sind es Frauen, die kein Deutsch sprechen, kaum 
+Pflegekenntnisse haben und froh sind über eine Arbeit, bei der sie ein Vielfaches dessen verdienen, was zu Hause 
+möglich wäre. Der Preis, den sie dafür zahlen: dass sie statt der im Arbeitsvertrag angegebenen Zeiten nahezu 
+pausenlos im Einsatz sind. Die Angehörigen der Gepflegten, so vermutet Barut, wüssten davon und nähmen es 
+billigend in Kauf. Wie viele Frauen das betrifft? Die wenigsten kommen zur Beratung, daher kann Mirela Barut nur 
+eines sagen: Wir gehen davon aus, dass es sehr viele gibt. 
+Und dann gibt es noch eine dieser neuen, unsichtbaren Grenzen und sie verläuft unter denen, die ohnehin unten 
+angekommen sind: den Obdachlosen. In Hamburg dürfen Obdachlose aus den osteuropäischen EU-Staaten nicht 
+dauerhaft ins Winternotprogramm. Stattdessen werden sie an eine Wärmestube verwiesen. Die Sozialsenatorin 
+sagt zur Begründung, es würden von dubiosen Arbeitgebern ganze Busse von Arbeitern vor die Türen des 
+Winternotprogramms gefahren. Diesen Missbrauch wolle man verhindern.
+Es ist ein grundsätzlicher Streit angesichts der Ungleichbehandlung der Obdachlosen ausgebrochen. Auf der einen 
+Seite die Hamburger Senatorin stellvertretend für eine Regierung, die offenkundig Angst hat, zum Ziel aller 
+Bedürftigen aus den ärmeren Nachbarländern zu werden. Und auf der anderen Seite SozialarbeiterInnen, die 
+sagen: Es kann nicht sein, dass man diese Leute ohne Hilfe lässt.
+Und, politischer gesprochen: Ein Land, das so deutlich vom EU-Binnenmarkt profitiert wie Deutschland, kann nicht 
+nur nehmen. Es muss auch geben. Und dazwischen stehen einige nicht alle der einheimischen Obdachlosen, die 
+Furcht haben, das wenige, was sie haben, teilen zu müssen.
+Für die, die auf der falschen Seite der neuen Grenzen stehen, hat es lange keine Lobby gegeben. Die 
+Gewerkschaften taten sich schwer, in den Werkvertragsarbeitern mehr als potenzielle Instrumente der 
+Lohndrückerei zu sehen. Und auch für die Pflege- und Reinigungskräfte, die Paketauslieferer aus Osteuropa ist 
+bislang kaum jemand auf die Straße gegangen.
+Es sind Branchen, in denen schon die einheimischen Kräfte alles andere als privilegiert sind. Zumal in einer Zeit, in 
+der, so sagt es der Hamburger Historiker Stefan Rahner, die Arbeitswelt neoliberal aufgeweicht ist. In den 60er-
+Jahren, als die ersten Gastarbeiter für die Bundesrepublik angeworben wurden, bekamen sie reguläre 
+Arbeitsverträge. Befristete, wie sie heute allgegenwärtig sind, waren die Ausnahme.
+Und doch: Ein bisschen tut sich. Die Gewerkschaften haben Ansprechstellen für die osteuropäischen ArbeiterInnen 
+gegründet, und mit mehr oder weniger Erfolg versucht, sie als Mitglieder zu gewinnen. Auf Demos gegen Leiharbeit 
+sieht man GewerkschaftlerInnen mit Transparenten, auf denen steht: Wir lassen uns nicht spalten. 
+Seit Einführung des Mindestlohns müssen die Unternehmen zumindest erfinderischer sein, um ihn zu unterlaufen. 
+Und als Peter Kossens Verein Aktion Würde und Gerechtigkeit aus der Taufe gehoben wurde, sprach immerhin 
+der nordrhein-westfälische Arbeits- und Sozialminister. Gerade eben wurde nach langem Ringen ein Gesetz für die 
+Paketbranche verabschiedet, wonach künftig die großen Paketdienste die Sozialabgaben für die Zusteller 
+nachzahlen müssen, wenn die Subunternehmer gegen Lohn- und Arbeitsstandards verstoßen.
+Wenig Interesse
+Alle diese Gesetze und Vorschriften werden nichts nützen, wenn niemand ihre Einhaltung überprüft. Angesichts 
+des Personalmangels in der Pflege, so sagt es Mirela Barut, gebe es in der Politik wenig Interesse, den Import 
+osteuropäischer Pflegekräfte zu unterbinden. Und fragt man bei denen nach, die sich für die Rechte der 
+Rückkehr der Grenzen Dänemark baut derzeit einen Zaum an der Grenze zu Deutschland. Noch wirksamer 
+aber sind andere, unsichtbare Grenzen: Sie sorgen dafür, dass....
+osteuropäischen ArbeiterInnen einsetzen, dann ist das Fazit sehr klar: Bislang habe sich wenig getan vielleicht 
+eine leichte Besserung , so sagt es ein Gewerkschaftler.
+Und doch: Da ist eine kleine Öffentlichkeit, die sich dafür interessiert, wie es nicht-deutschen ArbeiterInnen, wie 
+es nicht-deutschen Obdachlosen hier ergeht. Die einen Wert jenseits von Profit kennt oder zumindest ehrlich 
+rechnet: Wer von den Kräften aus Osteuropa profitiert, kann sich nicht wegdrehen, wenn aus diesen Ländern auch 
+Menschen kommen, die stranden.
+In Bukarest, so erzählt es ein Gewerkschaftler, der kürzlich dort war, gebe es nur noch ein Krankenhaus, das 
+Patienten nach einem Herzinfarkt ordentlich versorgen könne. Es gibt inzwischen PolitikerInnen, die 
+Handlungsbedarf sehen und auch handeln.
+All das ist so lückenhaft, mühsam und kompromisslastig wie alles, was in der EU geschieht. Es ist nicht mehr als 
+das, was der Anstand und die politische Vernunft gebietet. Und doch: Dieses Anständige hat auch etwas 
+Imponierendes, oder sagen wir zumindest Aufmunterndes, das man leicht übersieht. So leicht, wie man die alten 
+Grenzen übersieht und wie erstaunlich es ist, dass sie verschwunden sind."
+2019-05,Main Corpus,2019-05(64).ZIP,Saudi -Arabien meldet Drohnenangriffe auf Öl-Pipeline Spannungen am Golf_ Spanien zieht Kriegsschiff.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Saudi -Arabien meldet Drohnenangriffe auf Öl-Pipeline Spannungen am Golf_ Spanien zieht Kriegsschiff.PDF,Saudi-Arabien meldet Drohnenangriffe auf Öl-Pipeline; Spannungen am Golf: Spanien zieht Kriegsschiff aus,saudiarabien meldet drohnenangriffe auf ölpipeline spannungen am golf spanien zieht kriegsschiff aus,Die Welt,die welt,Mittwoch 15. Mai 2019,Ansgar Graw,TITEL; TITEL; S. 1; Ausg. 112,405,3130,4f6eeb90f0c17dedb3b7b7c476374aaceef108d1,,unique,keep,,no,,no,,,5331,no,,,,,"Angesichts wachsender Spannungen zwischen den Vereinigten Staaten und dem Iran wächst in der deutschen 
 Politik die Sorge vor einer militärischen Eskalation. Im Falle einer militärischen Konfrontation drohe ""auch ein neuer 
 Flüchtlingsstrom Richtung Europa"", warnte Alexander Graf Lambsdorff, Vizevorsitzender der FDP-
 Bundestagsfraktion, im Gespräch mit WELT. ""Das würde Deutschland unmittelbar betreffen und könnte 
@@ -1766,7 +2068,7 @@ Beitrag zur Stärkung der israelischen Verteidigungsfähigkeit"" leisten. Washin
 Präsident Trump aufgekündigten Nuklearabkommen mit Teheran wieder beizutreten.
  Kommentar Seite 3 und Seite 6
 Original Gesamtseiten-PDF"
-2019-05,Main Corpus,2019-05(50).ZIP,Schwatzanwälte gerügt Mit Plaudereien und erotischen Fantasien zum  Bamf-Skandal  haben Ermittler la.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Schwatzanwälte gerügt Mit Plaudereien und erotischen Fantasien zum  Bamf-Skandal  haben Ermittler la.PDF,Schwatzanwälte gerügt Mit Plaudereien und erotischen Fantasien zum Bamf-Skandal haben Ermittler laut,schwatzanwälte gerügt mit plaudereien und erotischen fantasien zum bamfskandal haben ermittler laut,"taz, die tageszeitung",taz die tageszeitung,Samstag 11. Mai 2019,Benno Schirrmeister,BREMEN AKTUELL; S. 62,685,5288,b1ffb0ac91e6b876f754431a9b9ee868b2acfbb5,,unique,keep,,no,,no,,,6771,no,,,,,"Von Benno Schirrmeister
+2019-05,Main Corpus,2019-05(64).ZIP,Schwatzanwälte gerügt Mit Plaudereien und erotischen Fantasien zum  Bamf-Skandal  haben Ermittler la.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Schwatzanwälte gerügt Mit Plaudereien und erotischen Fantasien zum  Bamf-Skandal  haben Ermittler la.PDF,Schwatzanwälte gerügt Mit Plaudereien und erotischen Fantasien zum Bamf-Skandal haben Ermittler laut,schwatzanwälte gerügt mit plaudereien und erotischen fantasien zum bamfskandal haben ermittler laut,"taz, die tageszeitung",taz die tageszeitung,Samstag 11. Mai 2019,Benno Schirrmeister,BREMEN AKTUELL; S. 62,685,5288,b1ffb0ac91e6b876f754431a9b9ee868b2acfbb5,,unique,keep,,no,,no,,,6771,no,,,,,"Von Benno Schirrmeister
 Schroff fällt die Antwort der Staatsanwaltschaft aus: Wir machen dazu keine Angaben , so der Sprecher der 
 Ermittlungsbehörde. Schade, denn der Beschluss des Bremer Verwaltungsgerichts vom 7. Mai macht die Bremer 
 Staatsanwaltschaft zum Gegenstand der Rechtsgeschichte. Aber nachvollziehbar: Ihre Rolle dabei ist unrühmlich. 
@@ -1822,7 +2124,7 @@ Straftatbestand Verletzung von Privatgeheimnissen erfüllen, vielleicht aber sog
 gewertet werden. Darauf steht eine Freiheitsstrafe von bis zu fünf Jahren. Ermitteln muss die Staatsanwaltschaft 
 Bremen.
  Es steht außer Frage, dass wir den Beschluss so akzeptieren werden"
-2019-05,Main Corpus,2019-05(50).ZIP,Stets mit Stil Claus Löser über den einst in Hollywood gefeierten Schauspieler und Meister-Regisseur.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Stets mit Stil Claus Löser über den einst in Hollywood gefeierten Schauspieler und Meister-Regisseur.PDF,Stets mit Stil Claus Löser über den einst in Hollywood gefeierten Schauspieler und Meister-Regisseur Wilhelm,stets mit stil claus löser über den einst in hollywood gefeierten schauspieler und meisterregisseur wilhelm,Berliner Zeitung,berliner zeitung,18. Mai 2019,CLAUS LÖSER,TT; S. 28; Ausg. 114,726,5280,d04986c0042506e411e34dbe4ff12a25f60157d4,,unique,keep,,no,,no,,,6697,no,,,,,"Seinen letzten Film drehte Wilhelm Dieterle 1966 für das österreichische Fernsehen. ""Samba"" war eine fiebrig-
+2019-05,Main Corpus,2019-05(64).ZIP,Stets mit Stil Claus Löser über den einst in Hollywood gefeierten Schauspieler und Meister-Regisseur.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Stets mit Stil Claus Löser über den einst in Hollywood gefeierten Schauspieler und Meister-Regisseur.PDF,Stets mit Stil Claus Löser über den einst in Hollywood gefeierten Schauspieler und Meister-Regisseur Wilhelm,stets mit stil claus löser über den einst in hollywood gefeierten schauspieler und meisterregisseur wilhelm,Berliner Zeitung,berliner zeitung,18. Mai 2019,CLAUS LÖSER,TT; S. 28; Ausg. 114,726,5280,d04986c0042506e411e34dbe4ff12a25f60157d4,,unique,keep,,no,,no,,,6697,no,,,,,"Seinen letzten Film drehte Wilhelm Dieterle 1966 für das österreichische Fernsehen. ""Samba"" war eine fiebrig-
 flirrende Emigrations-Parabel, in der sich europäische Flüchtlinge in einem verwunschen wirkenden Hotel im 
 brasilianischen Urwald aufzehrende Kleinkriege liefern. Mit dem auf einem autobiografischen Text von Ulrich 
 Becher basierenden Stoff schloss sich für den Regisseur ein Kreis. In vielen seiner Arbeiten ging es um 
@@ -1874,7 +2176,7 @@ entstanden, ließ Dieterle in schierer Verzweiflung über die aktuelle Entwicklu
  CLAUS LÖSER 
  ist Filmhistoriker, Kritiker und Kinoliebhaber. Er kuratiert das Filmprogramm in der Brotfabrik. 
  DAS FLIEGENDE AUGE"
-2019-05,Main Corpus,2019-05(50).ZIP,Stück für Stück weniger Rechte.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Stück für Stück weniger Rechte.PDF,Stück für Stück weniger Rechte,stück für stück weniger rechte,Frankfurter Rundschau,frankfurter rundschau,Freitag 17. Mai 2019,,POLITIK; S. 4,457,3612,cfc6675cf9be362b20c1f37a5a158a67946243e2,,unique,keep,,no,,no,,,4626,no,,,,,"VON VIKTOR FUNK
+2019-05,Main Corpus,2019-05(64).ZIP,Stück für Stück weniger Rechte.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Stück für Stück weniger Rechte.PDF,Stück für Stück weniger Rechte,stück für stück weniger rechte,Frankfurter Rundschau,frankfurter rundschau,Freitag 17. Mai 2019,,POLITIK; S. 4,457,3612,cfc6675cf9be362b20c1f37a5a158a67946243e2,,unique,keep,,no,,no,,,4626,no,,,,,"VON VIKTOR FUNK
 W ährend die Zahlen neuer Asylanträge in Deutschland zurückgehen, verschärft die Bundesregierung zum 
 wiederholten Male die Lebenssituation geflüchteter Menschen hierzulande. Allein seit dem Jahr 2015, als 
 besonders viele Flüchtlinge aus Syrien, Irak und Afghanistan nach Deutschland kamen, gab es mehr als 20 
@@ -1916,7 +2218,62 @@ dafür, dass nicht mehr Abschiebungen durchgeführt werden, sind vielfältig. Es
 Seite des Ausreisepflichtigen zu suchen. Hier wird dringend mehr Evidenz benötigt"", so SVR-Vorsitzender Thomas 
 Bauer.
 Inhaftierung in gewöhnlichen Gefängnissen"
-2019-05,Main Corpus,2019-05(50).ZIP,Und nun zu den Wartezeiten.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Und nun zu den Wartezeiten.PDF,Und nun zu den Wartezeiten,und nun zu den wartezeiten,Frankfurter Rundschau,frankfurter rundschau,Mittwoch 15. Mai 2019,,PANORAMA; S. 39,751,5375,e2dff77e93bdd64d8751721e2994f5a1bdf76c14,,unique,keep,,no,,no,,,6429,no,,,,,"VON PATRICK GUYTON
+2019-05,Main Corpus,2019-05(64).ZIP,Tragendes Fundament.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Tragendes Fundament.PDF,Tragendes Fundament,tragendes fundament,Frankfurter Rundschau,frankfurter rundschau,Donnerstag 23. Mai 2019,,MEINUNG; S. 11,721,5090,f963ff510114775b622c2369aed62881e185cdf4,,unique,keep,,no,,no,,,5868,yes,commentary_noncore,,,,"E s wirkt wie ein zynischer Kommentar zum Jubiläum: Einen Tag, bevor sich die Verkündung des Grundgesetzes 
+zum 70. Mal jährt, landete ein Flugzeug mit 24 abgelehnten Asylbewerbern aus Afghanistan in Kabul. Insgesamt 
+600 Menschen sind nun in das von Krieg und Terror zerrissene Land verfrachtet worden, seit im Dezember 2016 
+die Abschiebungen dorthin begannen. Ziemlich genau gleich hoch ist die Zahl der Zivilisten, die allein von Januar 
+bis März dieses Jahres dem Krieg dort zum Opfer fielen.
+Als das Grundgesetz am 23. Mai 1949 verkündet wurde und gleich danach in Kraft trat, hatte die neue 
+Bundesrepublik ein zutiefst humanes, wenn auch eigentlich selbstverständliches Versprechen abgegeben: ""Jeder 
+hat das Recht auf Leben und körperliche Unversehrtheit"", hieß und heißt es in Artikel zwei. Jeder, wohlgemerkt 
+(Frauen waren in der patriarchalen Sprache jener Zeit automatisch mitgemeint).
+Allerdings: Das Beispiel Afghanistan zeigt, wie Politik die Garantien des Grundgesetzes bis an die Grenze des 
+Verfassungsbruchs strapaziert. Das gilt nicht nur beim Thema Flucht und Asyl. Es gilt zum Beispiel auch bei 
+sogenannten Sicherheitsgesetzen, wo den Leuten wahrheitswidrig weisgemacht wird, der Eingriff ins 
+Persönlichkeitsrecht könne schon niemanden treffen, der sich nichts zuschulden kommen lässt.
+So paradox es klingt: Wo immer so etwas stattfindet, zeigt sich zugleich der hohe Wert dieser Verfassung. Es gibt 
+wohl keinen bedeutenden Text in diesem Land, auf den sich die Verteidiger des Menschenrechts besser berufen 
+können.
+Also alles gut? Das auch wieder nicht. Denn wie das Beispiel Abschiebung zeigt, können die verfassungsmäßigen 
+Rechte ihre Schutzwirkung nicht immer entfalten. Zwar sagt das Grundgesetz nicht, dass das Recht auf körperliche 
+Unversehrtheit nur für Deutsche gelte. Es sagt auch nicht, dass dieses Recht verwirkt habe, wer sich in 
+Deutschland einer Straftat schuldig gemacht hat. Aber das hilft nichts: Die Entscheidungsträger definieren die 
+Gefahr für Leib und Leben so lange weg, bis der Verfassungsbruch keiner mehr zu sein scheint.
+Besonders das Argument, man schiebe ja vor allem Straftäter und ""Gefährder"" ab (ein Begriff, den das 
+Grundgesetz schon gar nicht kennt), strahlt einen erstaunlichen Zynismus aus. Jedenfalls dann, wenn man diese 
+
+Tragendes Fundament
+Praxis an der großen Idee der Verfassung misst: Das Menschenrechtsversprechen ist - eigentlich - weder an 
+Bedingungen noch an Einschränkungen geknüpft.
+Demgegenüber steckt in dem Hinweis auf Straftäter und ""Gefährder"" das unausgesprochene Eingeständnis, dass 
+die Abschiebepraxis diese Unbedingtheit des Grundrechtsschutzes infrage stellt. Wer behauptet, dass das Recht 
+auf körperliche Unversehrtheit auch in Afghanistan gewährleistet sei, müsste konsequenterweise ohne Rücksicht 
+auf das Strafregister der Betroffenen abschieben - und das auch offen zugeben. Wer aber eingestehen würde, dass 
+Abschiebung in den Krieg menschenrechtswidrig ist, müsste es sein lassen, und zwar für alle.
+Sorgen macht aber noch etwas anderes: Die beschriebene Praxis sorgt kaum für öffentliche Kontroversen. Die 
+Erkenntnis, dass Grundrechte erst durch ihre absolute Geltung zu Grundrechten werden, scheint im öffentlichen 
+Bewusstsein nicht so stark verankert zu sein, wie es dem humanitären Geist dieser Verfassung entspräche. Sonst 
+wäre der Widerstand gegen eine Politik, die diesem Geist zuwiderläuft, sicher größer.
+Bundespräsident Frank-Walter Steinmeier hat am Mittwoch gesagt: ""Eine Verfassung muss sich gerade dann 
+behaupten, wenn es hart auf hart kommt."" Und er hat eine Frage hinzugefügt: ""Hätten wir in einer solchen Phase 
+genügend Verfassungspatrioten?"" Steinmeier antwortete zwar mit Ja, aber die Sorge, dass es in Zeiten 
+gewachsener Rechtsstaatsverachtung an Verteidigern des Grundgesetzes fehlen könnte, war ihm deutlich 
+anzumerken.
+Dieser Verteidiger bedarf es in der Tat. Und zu ihnen sollten auch jene gehören, die mit Recht beklagen, dass die 
+Verfassung nach dem Mauerfall nicht neu und vielleicht noch besser geschrieben wurde. Ja, das wäre ein Schritt 
+von großer politischer und symbolischer Tragweite gewesen. Aber gegen den Inhalt, gegen die Werte des 
+Grundgesetzes spricht es im Großen und Ganzen nicht.
+Auch das Argument, es handele sich gar nicht um eine echte Verfassung, kann den Wert des Grundgesetzes nicht 
+mindern. Zwar steht es immer noch unter dem Vorbehalt einer ""von dem deutschen Volke in freier Entscheidung 
+beschlossenen"" Verfassung. Aber außer bei rechten ""Reichsbürgern"", die sich ein besetztes Deutschland 
+zusammenfaseln, ist ziemlich unumstritten: Das bundesdeutsche Staatswesen ruht spätestens seit der Erlangung 
+vollständiger Souveränität der Bundesrepublik in legaler und legitimer Weise auf dem Grundgesetz. Ihm ist nicht 
+anzulasten, was schiefläuft im Land.
+Aber auch die beste Verfassung braucht ein tragendes Fundament. Es kann nur aus einer Gesellschaft bestehen, 
+die gegen alles aufsteht, was dem Geist des Grundgesetzes widerspricht. Nicht nur gegen die Abschiebe-Politiker 
+in Bund und Ländern. Berichte S. 2-4
+Stephan Hebel"
+2019-05,Main Corpus,2019-05(64).ZIP,Und nun zu den Wartezeiten.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Und nun zu den Wartezeiten.PDF,Und nun zu den Wartezeiten,und nun zu den wartezeiten,Frankfurter Rundschau,frankfurter rundschau,Mittwoch 15. Mai 2019,,PANORAMA; S. 39,751,5375,e2dff77e93bdd64d8751721e2994f5a1bdf76c14,,unique,keep,,no,,no,,,6429,no,,,,,"VON PATRICK GUYTON
 J eder Radiohörer in Bayern kennt diese Verkehrsnachrichten: ""Und nun zu den Wartezeiten an der Grenze: In 
 Kiefersfelden 30 Minuten bei der Einreise, am Walserberg 40 Minuten und in Passau/Suben 20 Minuten wegen der 
 Grenzkontrollen."" Stau, Stau, Stau von Österreich nach Deutschland hinein. So geht das nun schon seit mehr als 
@@ -1979,7 +2336,7 @@ Graphic
  
 Mal schnell einkaufen? Die Grenze bei Salzburg. G. SCHIFFMANN/afpHimmelreich? Joachim Maislinger sagt: ""Ich 
 wohne am Stau."" guyton"
-2019-05,Main Corpus,2019-05(50).ZIP,"Verloren auf der Europa-Route Das Rote Kreuz hilft Flüchtlingsfamilien, die auseinandergerissen wurd.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Verloren auf der Europa-Route Das Rote Kreuz hilft Flüchtlingsfamilien, die auseinandergerissen wurd.PDF","Verloren auf der Europa-Route; Das Rote Kreuz hilft Flüchtlingsfamilien, die auseinandergerissen wurden.",verloren auf der europaroute das rote kreuz hilft flüchtlingsfamilien die auseinandergerissen wurden,Südwest Presse,südwest presse,Samstag 25. Mai 2019,,Blick in die Welt,519,3726,92cf052bc162d8761667ebd851a025e97f139ec1,,unique,keep,,no,,no,,,4937,no,,,,,"Migranten und Flüchtlinge, die ihre Kinder suchen, ihre Eltern oder Geschwister, von denen sie getrennt wurden 
+2019-05,Main Corpus,2019-05(64).ZIP,"Verloren auf der Europa-Route Das Rote Kreuz hilft Flüchtlingsfamilien, die auseinandergerissen wurd.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Verloren auf der Europa-Route Das Rote Kreuz hilft Flüchtlingsfamilien, die auseinandergerissen wurd.PDF","Verloren auf der Europa-Route; Das Rote Kreuz hilft Flüchtlingsfamilien, die auseinandergerissen wurden.",verloren auf der europaroute das rote kreuz hilft flüchtlingsfamilien die auseinandergerissen wurden,Südwest Presse,südwest presse,Samstag 25. Mai 2019,,Blick in die Welt,519,3726,92cf052bc162d8761667ebd851a025e97f139ec1,,unique,keep,,no,,no,,,4937,no,,,,,"Migranten und Flüchtlinge, die ihre Kinder suchen, ihre Eltern oder Geschwister, von denen sie getrennt wurden 
 auf dem langen Weg aus Afrika und Asien nach Deutschland, sie hoffen auf den Suchdienst des Deutschen Roten 
 Kreuzes.
 Oft sind es Minderjährige, die vermisst werden oder selber Suchanfragen stellen. Auf der Flucht vor Krieg und 
@@ -2022,7 +2379,69 @@ ein großer Erfolg.""
 Graphic
  
 Wenn auf der Flucht Familien getrennt werden, hilft der DRK-Suchdienst. Oft die letzte Hoffnung. Foto: DRK"
-2019-05,Main Corpus,2019-05(50).ZIP,Von Anfang an als Einwanderungsland entworfen Im Grundgesetz wurde bewusst die Rechtsbasis für ein a.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Von Anfang an als Einwanderungsland entworfen Im Grundgesetz wurde bewusst die Rechtsbasis für ein a.PDF,Von Anfang an als Einwanderungsland entworfen Im Grundgesetz wurde bewusst die Rechtsbasis für ein,von anfang an als einwanderungsland entworfen im grundgesetz wurde bewusst die rechtsbasis für ein,Die Welt,die welt,Donnerstag 16. Mai 2019,Torsten Krauel,POLITIK; Politik; S. 5; Ausg. 113,1144,8274,0d29c3b6e2777b8e777b79311100e9423a92c62e,,unique,keep,,no,,no,,,9641,no,,,,,"Stolpert Deutschland mit einem 70 Jahre alten Grundgesetz blind in die Einwanderungswelt von 2019? Nein. Die 
+2019-05,Main Corpus,2019-05(64).ZIP,Verwirrung um fälschungssichere Schülerausweise Kommunalministerin Ina Scharrenbach (CDU) greift ein(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Verwirrung um fälschungssichere Schülerausweise Kommunalministerin Ina Scharrenbach (CDU) greift ein(2).PDF,Verwirrung um fälschungssichere Schülerausweise Kommunalministerin Ina Scharrenbach (CDU) greift eine,verwirrung um fälschungssichere schülerausweise kommunalministerin ina scharrenbach cdu greift eine,Rheinische Post,rheinische post,Freitag 17. Mai 2019,"Dalkowski, Sebastian",S. 3,388,2916,7f218a1ac2432be427963f266eee6d52793a9475,exact_002,duplicate_exact,review,,no,,no,,,4148,no,,exact_002,,,"Düsseldorf (seda) Die NRW-Kommunalministerin Ina Scharrenbach (CDU) hat mit einer Äußerung zu 
+fälschungssicheren Schülerausweisen für Verwirrung bei Kommunen gesorgt. Mehrere Medien hatten am 
+Donnerstag ein Zitat der Ministerin verbreitet: „Kommunen aus dem Ruhrgebiet wie Duisburg und Gelsenkirchen 
+wünschen die Einführung von fälschungssicheren Schülerausweisen. Die Landesregierung prüft das und steht dem 
+Wunsch aufgeschlossen gegenüber.“ Den Grund dafür lieferte sie auch: „Städte berichten von Versuchen von 
+Zuwanderern aus Südosteuropa, mit kopierten und gefälschten Schülerausweisen und Schulbescheinigungen 
+Kindergeld für Kinder zu beantragen, die gar nicht in NRW leben.“
+Gegenüber unserer Redaktion bestätigte ein Sprecher der Ministerin die Zitate. Doch hört man sich bei den 
+Kommunen um, dann sind diese Aussagen auf einer Delegationsreise nach Brüssel so gar nicht gefallen. „Hilfreich 
+wäre die Einführung eines einheitlichen Formulars für Schulbescheinigungen, das beispielsweise bei der 
+Arbeitsagentur zur Beantragung von Kindergeld vorgelegt werden muss und die dortige Prüfung sicherlich 
+erleichtern würde“, sagt eine Sprecherin der Stadt Duisburg. Das aber betreffe auch deutsche Kinder und habe 
+nichts mit gefälschten Bescheinigungen zu tun. Von einem fälschungssicheren Schülerausweis sei nie die Rede 
+gewesen.
+EU-Bürger können, wenn sie in Deutschland wohnen, Kindergeld für ihre Kinder beantragen. Schülerausweise und 
+Schulbescheinigungen sind dabei allerdings nur bedingt von Nutzen. Ein Antrag muss bei der Familienkasse der 
+Bundesagentur für Arbeit gestellt werden. Um die Existenz des Kindes nachzuweisen, ist eine Geburtsurkunde oder 
+ein anderes amtliches Dokument nötig. Eine Schulbescheinigung ist nur dann notwendig, wenn das Kind das 18. 
+Lebensjahr erreicht hat, um zu belegen, dass es weiterhin zur Schule geht. Aus Sicht eines EU-Ausländers wäre es 
+nicht nötig, mit einer Bescheinigung vorzutäuschen, dass sein Kind in Deutschland wohnt. Denn Kindergeld kann er 
+in Deutschland auch beantragen, wenn das Kind in der Heimat lebt.
+
+Verwirrung um fälschungssichere Schülerausweise Kommunalministerin Ina Scharrenbach (CDU) greift eine 
+vermeintliche Forderung einiger Städte auf – die wissen al....
+Betrugsversuche mit anderen Dokumenten kommen aber dennoch vor. Ein Sprecher der Stadt Hamm berichtet, 
+dass Migranten gefälschte Personalausweise oder Führerscheine vorlegten, um zum Beispiel vorzutäuschen, dass 
+sie aus einem EU-Land kommen. Der Sprecherin der Stadt Duisburg sind Versuche durch EU-Ausländer bekannt, 
+Geburtsurkunden zu fälschen, um die Existenz von Kindern vorzugaukeln, die es gar nicht gebe, oder diese jünger 
+zu machen. Außerdem gebe es Schleuser, die EU-Ausländer aus Osteuropa nach Deutschland lockten, in billigen 
+Immobilien unterbrächten und Minijobs besorgten – und diese dann aufforderten, sogenannte Aufstockerleistungen 
+zu beantragen."
+2019-05,Main Corpus,2019-05(64).ZIP,Verwirrung um fälschungssichere Schülerausweise Kommunalministerin Ina Scharrenbach (CDU) greift ein.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Verwirrung um fälschungssichere Schülerausweise Kommunalministerin Ina Scharrenbach (CDU) greift ein.PDF,Verwirrung um fälschungssichere Schülerausweise Kommunalministerin Ina Scharrenbach (CDU) greift eine,verwirrung um fälschungssichere schülerausweise kommunalministerin ina scharrenbach cdu greift eine,Rheinische Post,rheinische post,Freitag 17. Mai 2019,"Dalkowski, Sebastian",S. 3,388,2916,7f218a1ac2432be427963f266eee6d52793a9475,exact_002,duplicate_exact,review,,no,,no,,,4163,no,,exact_002,,,"Düsseldorf (seda) Die NRW-Kommunalministerin Ina Scharrenbach (CDU) hat mit einer Äußerung zu 
+fälschungssicheren Schülerausweisen für Verwirrung bei Kommunen gesorgt. Mehrere Medien hatten am 
+Donnerstag ein Zitat der Ministerin verbreitet: „Kommunen aus dem Ruhrgebiet wie Duisburg und Gelsenkirchen 
+wünschen die Einführung von fälschungssicheren Schülerausweisen. Die Landesregierung prüft das und steht dem 
+Wunsch aufgeschlossen gegenüber.“ Den Grund dafür lieferte sie auch: „Städte berichten von Versuchen von 
+Zuwanderern aus Südosteuropa, mit kopierten und gefälschten Schülerausweisen und Schulbescheinigungen 
+Kindergeld für Kinder zu beantragen, die gar nicht in NRW leben.“
+Gegenüber unserer Redaktion bestätigte ein Sprecher der Ministerin die Zitate. Doch hört man sich bei den 
+Kommunen um, dann sind diese Aussagen auf einer Delegationsreise nach Brüssel so gar nicht gefallen. „Hilfreich 
+wäre die Einführung eines einheitlichen Formulars für Schulbescheinigungen, das beispielsweise bei der 
+Arbeitsagentur zur Beantragung von Kindergeld vorgelegt werden muss und die dortige Prüfung sicherlich 
+erleichtern würde“, sagt eine Sprecherin der Stadt Duisburg. Das aber betreffe auch deutsche Kinder und habe 
+nichts mit gefälschten Bescheinigungen zu tun. Von einem fälschungssicheren Schülerausweis sei nie die Rede 
+gewesen.
+EU-Bürger können, wenn sie in Deutschland wohnen, Kindergeld für ihre Kinder beantragen. Schülerausweise und 
+Schulbescheinigungen sind dabei allerdings nur bedingt von Nutzen. Ein Antrag muss bei der Familienkasse der 
+Bundesagentur für Arbeit gestellt werden. Um die Existenz des Kindes nachzuweisen, ist eine Geburtsurkunde oder 
+ein anderes amtliches Dokument nötig. Eine Schulbescheinigung ist nur dann notwendig, wenn das Kind das 18. 
+Lebensjahr erreicht hat, um zu belegen, dass es weiterhin zur Schule geht. Aus Sicht eines EU-Ausländers wäre es 
+nicht nötig, mit einer Bescheinigung vorzutäuschen, dass sein Kind in Deutschland wohnt. Denn Kindergeld kann er 
+in Deutschland auch beantragen, wenn das Kind in der Heimat lebt.
+
+Verwirrung um fälschungssichere Schülerausweise Kommunalministerin Ina Scharrenbach (CDU) greift eine 
+vermeintliche Forderung einiger Städte auf – die wissen al....
+Betrugsversuche mit anderen Dokumenten kommen aber dennoch vor. Ein Sprecher der Stadt Hamm berichtet, 
+dass Migranten gefälschte Personalausweise oder Führerscheine vorlegten, um zum Beispiel vorzutäuschen, dass 
+sie aus einem EU-Land kommen. Der Sprecherin der Stadt Duisburg sind Versuche durch EU-Ausländer bekannt, 
+Geburtsurkunden zu fälschen, um die Existenz von Kindern vorzugaukeln, die es gar nicht gebe, oder diese jünger 
+zu machen. Außerdem gebe es Schleuser, die EU-Ausländer aus Osteuropa nach Deutschland lockten, in billigen 
+Immobilien unterbrächten und Minijobs besorgten – und diese dann aufforderten, sogenannte Aufstockerleistungen 
+zu beantragen."
+2019-05,Main Corpus,2019-05(64).ZIP,Von Anfang an als Einwanderungsland entworfen Im Grundgesetz wurde bewusst die Rechtsbasis für ein a.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Von Anfang an als Einwanderungsland entworfen Im Grundgesetz wurde bewusst die Rechtsbasis für ein a.PDF,Von Anfang an als Einwanderungsland entworfen Im Grundgesetz wurde bewusst die Rechtsbasis für ein,von anfang an als einwanderungsland entworfen im grundgesetz wurde bewusst die rechtsbasis für ein,Die Welt,die welt,Donnerstag 16. Mai 2019,Torsten Krauel,POLITIK; Politik; S. 5; Ausg. 113,1144,8274,0d29c3b6e2777b8e777b79311100e9423a92c62e,,unique,keep,,no,,no,,,9641,no,,,,,"Stolpert Deutschland mit einem 70 Jahre alten Grundgesetz blind in die Einwanderungswelt von 2019? Nein. Die 
 Mitglieder des Parlamentarischen Rats haben 1948 bis 1949 das Grundgesetz bewusst für ein aufnahmewilliges, 
 integrationsfähiges Land entworfen.
 Am 19. Januar 1949 beispielsweise ging es im Hauptausschuss um das Grundrecht auf Asyl. Heinz Renner (KPD) 
@@ -2112,7 +2531,79 @@ Original Gesamtseiten-PDF
 Graphic
  
 Italienische Immigranten bei ihrer Ankunft in München im Jahr 1959"
-2019-05,Main Corpus,2019-05(50).ZIP,"Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung_ Oder ist sie eine Last_ Die Migratio(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung_ Oder ist sie eine Last_ Die Migratio(2).PDF","Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung? Oder ist sie eine Last? Die",wer kommt wer geht profitiert deutschland von der zuwanderung oder ist sie eine last die,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,2. Mai 2019,Kolja Rudzio,"WIRTSCHAFT;Wer kommt, wer geht; S. 19-20; Ausg. 19",1605,11585,f19ccfde132cda789d9133647cbfd7b4012cd245,variant_002,regional_variant,review,,no,,no,,,13280,no,,,near_002,variant_002,"VON KOLJA RUDZIO
+2019-05,Main Corpus,2019-05(64).ZIP,Von der Straße ins Parlament Im neuen EU-Parlament haben die Grünen jetzt 69 von 751 Sitzen. Aber wi.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Von der Straße ins Parlament Im neuen EU-Parlament haben die Grünen jetzt 69 von 751 Sitzen. Aber wi.PDF,Von der Straße ins Parlament Im neuen EU-Parlament haben die Grünen jetzt 69 von 751 Sitzen. Aber wie,von der strasse ins parlament im neuen euparlament haben die grünen jetzt 69 von 751 sitzen aber wie,"taz, die tageszeitung",taz die tageszeitung,Dienstag 28. Mai 2019,Ingo Arzt,SCHWERPUNKT; S. 3,1023,6950,2df530b863edf64d81cdbc850dd978220c4147fb,,unique,keep,,no,,no,,,8892,no,,,,,"Aus Berlin Ingo Arzt
+AfD-Chef Jörg Meuthen will Umweltschutz . Das ist zwar so glaubhaft, als würde Christian Linder eine Räterepublik 
+fordern und vielleicht war Meuthen schlicht emotional verwirrt, am Sonntagabend, nach der EU-Wahl. Schließlich 
+waren die Grünen mit ihrem Pro-EU Kurs für mehr Klimaschutz da gelandet, wo Meuthen hin wollte bei über 20 
+Prozent. Die AfD mit einem Anti-Europa-Anti-Flüchtlinge-Anti-Anti-Kurs kam gerade mal auf die Hälfte.
+Jedenfalls, als ZDF-Moderator Christian Sievers Meuthen fragte, wozu man die EU brauche, da erwiderte der: 
+Binnenmarkt, Umweltschutz, Grenzschutz. In der Reihenfolge. Vor einem Jahr noch zerbrach sich das Land den 
+Kopf, wie sich die Debattenhoheit der Rechten brechen ließe. Dann setzte sich eine völlig unbekannte, 16-Jährige 
+junge Frau namens Greta in Schweden vor das Parlament und schulstreikte. Sie fegte die braune Debattenhoheit 
+weg, als verfüge die Thunberg über telepathische Kräfte. Die EU-Wahl mutierte in Deutschland schneller zu einer 
+Klimawahl, als Rezo Die Zerstörung der CDU sagen kann.
+Danke, Weltgeist. Aber künftig europaweit 18 grüne EU-Parlamentarier mehr macht noch kein Gramm CO2 
+weniger in der Atmosphäre.
+Mit Glück war dieser Rechtsruck in Deutschland der letzten Jahr nur eine statistische Anomalie. So wie es 
+manchmal verregnete, kalte Sommer gibt, die noch kein Ende der globalen Erwärmung bedeuten, so gibt es 
+politisch verregnete Zeiten. Der langfristige Trend der letzten Jahrzehnte allerdings ist eine Ökologisierung von 
+Politik und Wirtschaft. Wenn die Grünen abräumen, ist das meist ein Zeichen, dass der Rest beim Klimaschutz 
+gerade versagt.
+
+Von der Straße ins Parlament Im neuen EU-Parlament haben die Grünen jetzt 69 von 751 Sitzen. Aber wie 
+können sie ihre Klimaschutz-Pläne umsetzen? Eine Möglichke....
+69 von 751 Abgeordneten sind jetzt Grüne. Absolute Mehrheit knapp verfehlt. Jetzt muss sich der Rest bewegen. 
+Aber die gute Nachricht ist, dass in der letzten Legislaturperiode das Europaparlament bei fast allen Klimagesetzen 
+CO2-Minderungen bis 2030 insgesamt und für Autos etwa auch ohne grün-diktatorische Vollmachten mehr wollte 
+als die Mitgliedstaaten oder die EU-Kommission. Und sich teilweise damit auch durchsetzte.
+Es gibt eben auch gute Umweltpolitiker in anderen Fraktion, etwa bei den Liberalen aus Skandinavien die nennt 
+Rebecca Harms als Beispiel, wenn man sie fragt. Klimaschutz ist mehr als 20 Prozent für die Grünen in 
+Deutschland. Zum Glück. Darin liegt die Chance in den nächsten fünf Jahren in Brüssel.
+Die Frage derzeit ist, ob es für den Klimaschutz einen guten Start in Brüssel gibt, um die Forderungen der Straße 
+auch ins Parlament zu tragen. Die Chancen stehen gut, besser gesagt: Wenn die Liberalen den Arsch hochkriegen, 
+dann stehen sie sogar sehr gut. Am heutigen Dienstag werden die Staats- und Regierungschefs der EU beginnen, 
+um den neuen Chef der Kommission auszuhandeln. Der muss aber vom Parlament gewählt werden. Manfred 
+Weber, Frans Timmermans oder Margrethe Vestager sind im Rennen. Letztere oder den derzeitigen Brexit-
+Beauftragten Michel Barnier will der französische Präsident Emmanuel Macron durchsetzen. Da wird es in Sachen 
+Klima interessant: Alle Kandidat*innen brauchen die Stimmen der Europäischen Volkspartei, also in Deutschland 
+der Union, und der Sozialdemokraten. Das reicht aber nicht. Dazu sind entweder die Stimmen der Grünen-Fraktion 
+nötig oder die der liberalen Fraktion, in der auch die FDP sitzt. Letzteres sind die eigentlichen Gewinner der Wahl. 
+Keine Fraktion hat so viele Sitze hinzugewonnen, 39 an der Zahl.
+Und das gibt den Liberalen schicksalhafte Bedeutung. Der Beitrag der FDP in Deutschland zum Klimaschutz 
+begrenzt sich vor allem darauf, zu behaupten, die Grünen würden Steaks verbieten wollen. Sieht man mal von ihrer 
+Idee ab, den Emissionshandel auszuweiten. Den sie zuvor auf EU-Ebene torpediert haben, aber egal.
+Aber in anderen Ländern sind die Liberalen wesentlich progressiver. So stimmten viele Alde-Abgeordneten Ende 
+2018 für deutlich schärfere CO2-Grenzwerte für Pkws, die deutschen FDPler waren dagegen. Als drittstärkste 
+Fraktion versucht Alde gerade, die eigene Kandidatin Margrethe Vestager als künftige Kommissionspräsidentin 
+durchzusetzen, die bisherige EU-Kommissarin für Wettbewerb. Das European Environmental Bureau, eine 
+Dachorganisation europäischer Umweltverbände in Brüssel, gibt ihr und ihrer Fraktion einen Vertrauensvorschuss: 
+Um das Artensterben zu stoppen, wollen die Liberalen ein ähnliches internationales Abkommen wie zum 
+Klimaschutz aushandeln. Vestager will die Steuervergünstigungen für Kerosin abschaffen und tritt für eine 
+nachhaltigere Landwirtschaft ein. Sie will gleich mehrere Kommissare, die sich mit Klima- und Umweltschutz 
+beschäftigen, etablieren. Eine Gruppe von Alde-Abgeordneten forderte im März, die EU solle ihre CO2-Emissionen 
+bis 2030 um 55 Prozent senken statt um 40 Prozent.
+Eine entscheidende Rolle in der nächsten Woche wird der französische Präsident Emmanuel Macron spielen. Der 
+geht seit zwei Jahren mit diversen guten Ideen zum Klimaschutz hausieren. Er forderte beispielsweise eine 
+Klimabank, um den ökologischen Wandel in Europa zu finanzieren, höhere Kosten zum Ausstoß für CO2 und 
+dachte sogar nach, an den EU-Grenzen eine Art Klimazoll einzuführen, wenn Billigprodukte mit schlechter 
+Klimabilanz eingeführt werden. Und Macron will die Europawahl nutzen, um die Blockade der Bundesregierung 
+gegenüber seinen Ideen aufzubrechen und ist strikt gegen den deutschen Kandidaten Manfred Weber. Das sagt 
+einer, er es wissen muss: der Grünen-Politiker Daniel Cohn-Bendit, der nach noch am Wahlabend zwei Stunden 
+mit Macron zusammensaß. Ein Grund ist, dass der französische Präsident gegen die Spitzenkandidaten-Idee in der 
+jetzigen Form ist. Aber eben auch: Macron ist gegen Weber, weil der nicht Träger einer Politik des ökologischen 
+Wandels ist , sagt Cohn-Bendit.
+Größter Block in der Alde-Fraktion ist Macrons En Marche. Das bedeutet also: Beide Fraktionen, Grüne wie 
+Liberale, deren Stimmen für die Wahl eines Kommissionspräsidenten nötig sind, wollen mehr ökologischen Umbau. 
+Auch während der nächsten fünf Jahre wird ohne die beiden kaum ein Gesetz Mehrheit finden es sei denn, die 
+EVP stimmt mit Rechtspopulisten und verabschiedet sich endgültig vom Klimaschutz.
+Das allerdings dürfte kaum möglich sein, angesichts der grünen Polonaise in Deutschland. Denn während die 
+Rechtspopulisten noch plakatieren, man müsse den Diesel retten, schaffen ihn die Autokonzerne ab. Die Union 
+Von der Straße ins Parlament Im neuen EU-Parlament haben die Grünen jetzt 69 von 751 Sitzen. Aber wie 
+können sie ihre Klimaschutz-Pläne umsetzen? Eine Möglichke....
+schielt nach hinten auf die AfD, während der Rest der Gesellschaft die eigene Regierung wie einen störrischen, 
+alten Esel in Richtung Klimaschutz zerrt.
+Eine entscheidende Rolle wird der französische Präsident Macron spielen"
+2019-05,Main Corpus,2019-05(64).ZIP,"Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung_ Oder ist sie eine Last_ Die Migratio(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung_ Oder ist sie eine Last_ Die Migratio(2).PDF","Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung? Oder ist sie eine Last? Die",wer kommt wer geht profitiert deutschland von der zuwanderung oder ist sie eine last die,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,2. Mai 2019,Kolja Rudzio,"WIRTSCHAFT;Wer kommt, wer geht; S. 19-20; Ausg. 19",1605,11585,f19ccfde132cda789d9133647cbfd7b4012cd245,variant_002,regional_variant,review,,no,,no,,,13280,no,,,near_002,variant_002,"VON KOLJA RUDZIO
  Flüchtlingstreck 2015 in Slowenien
 Die Migration macht Deutschland zu schaffen, und zwar doppelt. Davon ist der Wirtschaftsexperte Heribert Dieter 
 überzeugt. Einerseits würden Geringqualifizierte einwandern und den Sozialstaat belasten, andererseits 
@@ -2238,7 +2729,7 @@ Wie die ökonomische Bilanz für dieses Kapitel der Migration am Ende ausfällt,
 76Prozent der Flüchtlinge haben keine abgeschlossene Ausbildung.Bei Deutschen ohne Migrationshintergrund 
 sind es nur 10 Prozent
 ***"
-2019-05,Main Corpus,2019-05(50).ZIP,"Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung_ Oder ist sie eine Last_ Die Migratio.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung_ Oder ist sie eine Last_ Die Migratio.PDF","Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung? Oder ist sie eine Last? Die",wer kommt wer geht profitiert deutschland von der zuwanderung oder ist sie eine last die,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,2. Mai 2019,Kolja Rudzio,"WIRTSCHAFT;Wer kommt, wer geht; S. 19-20; Ausg. 19",1605,11602,711c4551b3fea53ec9b4655ca144f209e27aa47f,variant_002,regional_variant,review,,no,,no,,,13289,no,,,near_002,variant_002,"VON KOLJA RUDZIO
+2019-05,Main Corpus,2019-05(64).ZIP,"Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung_ Oder ist sie eine Last_ Die Migratio.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung_ Oder ist sie eine Last_ Die Migratio.PDF","Wer kommt, wer geht Profitiert Deutschland von der Zuwanderung? Oder ist sie eine Last? Die",wer kommt wer geht profitiert deutschland von der zuwanderung oder ist sie eine last die,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,2. Mai 2019,Kolja Rudzio,"WIRTSCHAFT;Wer kommt, wer geht; S. 19-20; Ausg. 19",1605,11602,711c4551b3fea53ec9b4655ca144f209e27aa47f,variant_002,regional_variant,review,,no,,no,,,13289,no,,,near_002,variant_002,"VON KOLJA RUDZIO
 Die Migration macht Deutschland zu schaffen, und zwar doppelt. Davon ist der Wirtschaftsexperte Heribert Dieter 
 überzeugt. Einerseits würden Geringqualifizierte einwandern und den Sozialstaat belasten, andererseits 
 wanderten die Leistungsträger aus. Diese Entwicklung sei dramatisch, Deutschland stehe eine »strukturelle Krise« 
@@ -2367,7 +2858,7 @@ Wie die ökonomische Bilanz für dieses Kapitel der Migration am Ende ausfällt,
 sind es nur 10 Prozent
 ***
  Flüchtlingstreck 2015 in Slowenien"
-2019-05,Main Corpus,2019-05(50).ZIP,Wie Flüchtlinge im Hörsaal integriert werden Bildung ist einer der wichtigsten Schlüssel zur Integra.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wie Flüchtlinge im Hörsaal integriert werden Bildung ist einer der wichtigsten Schlüssel zur Integra.PDF,Wie Flüchtlinge im Hörsaal integriert werden Bildung ist einer der wichtigsten Schlüssel zur Integration - und,wie flüchtlinge im hörsaal integriert werden bildung ist einer der wichtigsten schlüssel zur integration  und,Südwest Presse,südwest presse,Freitag 17. Mai 2019,,Politik,287,2175,d968833bb8ac26f6d07ce6e4d87f197573ad7381,,unique,keep,,no,,no,,,3235,no,,,,,"Mehr als jeder zweite Flüchtling in der Europäischen Union ist zwischen 18 und 34 Jahre alt. Hochschulen spielen 
+2019-05,Main Corpus,2019-05(64).ZIP,Wie Flüchtlinge im Hörsaal integriert werden Bildung ist einer der wichtigsten Schlüssel zur Integra.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wie Flüchtlinge im Hörsaal integriert werden Bildung ist einer der wichtigsten Schlüssel zur Integra.PDF,Wie Flüchtlinge im Hörsaal integriert werden Bildung ist einer der wichtigsten Schlüssel zur Integration - und,wie flüchtlinge im hörsaal integriert werden bildung ist einer der wichtigsten schlüssel zur integration  und,Südwest Presse,südwest presse,Freitag 17. Mai 2019,,Politik,287,2175,d968833bb8ac26f6d07ce6e4d87f197573ad7381,,unique,keep,,no,,no,,,3235,no,,,,,"Mehr als jeder zweite Flüchtling in der Europäischen Union ist zwischen 18 und 34 Jahre alt. Hochschulen spielen 
 deshalb bei der Integration von Asylbewerbern eine besondere Rolle - und Deutschland schlägt sich dabei im 
 Vergleich gut. Das bescheinigt die EU-Kommission der Bundesregierung in einer Analyse, auf die 
 Bildungsministerin Anja Karliczek (CDU) gegenüber dieser Zeitung hingewiesen hat. ""Integration durch Bildung 
@@ -2392,7 +2883,434 @@ Graphic
 Wie Flüchtlinge im Hörsaal integriert werden Bildung ist einer der wichtigsten Schlüssel zur Integration - und 
 Deutschland leistet laut EU-Kommission Vorbildlic....
 Flüchtlinge bei einer Einführungsveranstaltung der Universität Bremen. Foto: Carmen Jaspersen/dpa"
-2019-05,Main Corpus,2019-05(50).ZIP,Wie umgehen mit Trumps Amerika_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wie umgehen mit Trumps Amerika_.PDF,Wie umgehen mit Trumps Amerika?,wie umgehen mit trumps amerika,Frankfurter Rundschau,frankfurter rundschau,Montag 27. Mai 2019,,MEINUNG; S. 10,717,4810,b25aabe15d224b2e79cc3ab3055abb32b02192a4,,unique,keep,,no,,no,,,5811,yes,commentary_noncore,,,,"I ch lebe als US-Amerikanerin nun seit über dreißig Jahren in Deutschland. Daher sind mir Phasen des stärkeren 
+2019-05,Main Corpus,2019-05(64).ZIP,Wie rechts ist die Polizei_ Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover qu.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wie rechts ist die Polizei_ Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover qu.PDF,Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen,wie rechts ist die polizei ein berliner kommissar zeigt den hitlergruss ein polizist in hannover quält einen,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,9. Mai 2019,"Mohamed Amjahid, Kai Biermann, Christian Fuchs, Astrid Geisler, Luisa Hommerich, Anne Kunze, Henrik",DOSSIER;Wie rechts ist die Polizei?; S. 17-19; Ausg. 20,5545,39355,7d18261b38d0db00f44cb84c99e298eb434c2bfa,,unique,keep,,no,,no,,,41029,no,,,,,"UNSERE AUTOREN: MOHAMED AMJAHID, KAI BIERMANN, CHRISTIAN FUCHS, ASTRID GEISLER, LUISA 
+HOMMERICH, ANNE KUNZE, HENRIK MERKER, YASSIN MUSHARBASH, DANIEL MÜLLER, KARSTEN 
+POLKE-MAJEWSKI, HOLGER STARK, FRIDA THURM, SASCHA VENOHR UND FRITZ ZIMMERMANN
+ Polizeirevier in der Frankfurter Zeil
+ Fußballfans in Cottbus
+ Truppentransporter in Dresden
+Dass sie eine miese Türkensau sei, hat Seda Basay-Yildiz schon oft gehört. Auch dass sie sich aus Deutschland 
+verpissen solle, im Reich der Kamelmilch- und Urintrinker sei sie besser aufgehoben. Es sind harte Worte, aber es 
+sind eben auch nur: Worte.
+Am 2. August 2018 hat die Frankfurter Rechtsanwältin zum ersten Mal Angst, dass den Worten Taten folgen 
+könnten.
+An diesem Tag trifft um 15.41 Uhr ein Fax in ihrer Kanzlei ein. Basay-Yildiz ist gerade in Tunis, sie kämpft für 
+einen ihrer Mandanten, der von Deutschland nach Tunesien abgeschoben werden soll. Faxe an ihr Büro werden 
+automatisch zu ihrer E-Mail-Adresse weitergeleitet. Weil in Tunis der Empfang schlecht ist, liest die Anwältin das 
+Schreiben erst spätabends im Hotel. Es ist nur vier Zeilen lang.
+
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+Im Briefkopf steht: »Dieses kostenlose Fax wurde Ihnen von Uwe Böhnhardt geschickt.« Böhnhardt war einer der 
+Terroristen des Nationalsozialistischen Untergrunds (NSU). Basay-Yildiz liest weiter. »Als Vergeltung«, steht da, 
+»schlachten wir deine Tochter.« Es folgt der volle Name des gerade einmal zwei Jahre alten Mädchens und die 
+Meldeadresse der Familie.
+Seda Basay-Yildiz hat immer darauf geachtet, dass ihre Privatanschrift privat bleibt. Sie steht nicht im 
+Telefonbuch, nicht im Internet. Wie haben die Absender des Schreibens sie herausgefunden? Das Fax endet mit 
+den Worten: »Gruß, NSU 2.0«.
+Noch aus Tunis meldet sich Basay-Yildiz am nächsten Morgen bei der Frankfurter Polizei. Diese beginnt mit den 
+Ermittlungen. Und muss bald erkennen, dass sie dabei in den Spiegel schaut.
+Die Absender des Drohschreibens haben zwar eine Verschlüsselungstechnik verwendet, die eine Rückverfolgung 
+erschwert. Die Ermittler finden aber heraus, dass an jenem 2. August 2018 zwischen 14 und 14.15 Uhr im 1. 
+Polizeirevier in der Frankfurter Einkaufsstraße Zeil über einen Polizeicomputer Daten des Einwohnermeldeamts 
+abgefragt wurden. Ein Polizist muss dafür lediglich seinen Namen und den Abfragegrund in den Computer 
+eingeben.
+ Habe man keinen Grund, denke man sich eben einen aus, sagt ein ehemaliger Beamter der Frankfurter Wache 
+gegenüber der ZEIT. Zum Beispiel: Verfolgung einer Straftat. Das werde laufend so gemacht, meist habe es 
+einen banalen Hintergrund, zum Beispiel dass ein Polizist ein paar Informationen über einen neuen Nachbarn 
+einholen möchte. 
+Wer auch immer an diesem Tag die Einwohnermeldeamtdaten abfragt, interessiert sich nicht für seine Nachbarn. 
+Sondern für Seda Basay-Yildiz.
+Keine zwei Stunden später erhält die Anwältin das Drohschreiben.
+Einen Monat später, am 11. September, durchsuchen Ermittler die Dienststelle und die Wohnung der 
+Polizeibeamtin Miriam D., die am 2. August an jenem Computer des Frankfurter Reviers gearbeitet hat. Bei der 
+Auswertung ihres Handys stoßen sie auf eine WhatsApp-Gruppe mit dem Namen »Itiot«. Sie stellen rund 50 
+Bilder und Kommentare sicher. Hakenkreuze, Witze über Juden und Menschen mit Down-Syndrom. Eines der 
+Bilder zeigt Adolf Hitler. Er sitzt vor einem rauchenden Schornstein. Am unteren Rand des Bildes steht: »Umso 
+größer der Jude, desto wärmer die Bude.«
+Die Chatgruppe hat sieben Mitglieder. Fünf sind Polizisten in der 3. Dienstgruppe des 1. Reviers in Frankfurt, einer 
+ist Polizist aus Marburg, die siebte Person ist die Lebensgefährtin eines der Beamten.
+Die rechtsradikalen Nachrichten wurden verschickt und gelesen von Staatsdienern, die ihren Eid auf das 
+Grundgesetz geschworen haben.
+Genau wie der Polizist aus Hannover, der im Jahr 2014 eine WhatsApp-Nachricht an Kollegen schrieb: »Hab den 
+weggeschlagen. Nen Afghanen. Mit Einreiseverbot. Hab dem meine Finger in die Nase gesteckt. Und gewürgt. 
+War witzig. Und an den Fußfesseln durch die Wache geschliffen. Das war so schön. Gequikt wie ein Schwein. 
+Das war ein Geschenk von Allah.«
+Genau wie die Polizisten aus Cottbus, die 2018 nicht gegen rechtsradikale Fußballfans einschritten, weil sie 
+angeblich den Ku-Klux-Klan nicht kannten, in dessen Aufmachung die Fans auftraten.
+Genau wie die Polizisten aus Duisburg, in deren Einsatzfahrzeug erst in der vorigen Woche ein Aufkleber der als 
+rechtsextrem eingestuften Identitären Bewegung entdeckt wurde: »Wehr dich! Es ist dein Land!«
+Alles bloß Einzelfälle?
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+Ja, alles bloß Einzelfälle, das ist die Standardantwort, wenn man mit hochrangigen Vertretern der Kriminalpolizei, 
+der Bundespolizei oder der Innenministerien der Länder spricht. Die offiziellen Zahlen zu rechtsextremen 
+Verfehlungen von Beamten sind, sofern es sie überhaupt gibt, so niedrig, dass sie nicht zu der Vielzahl von 
+Meldungen passen, wonach Polizisten immer wieder mit rechtsradikalen Parolen auffällig werden, mit 
+rassistischen Drohungen oder sogar Gewalttaten.
+Berlin, 2017: Ein LKA-Beamter schickt seinem Vorgesetzten eine SMS, in der er ihn auffordert, sich von »Merkel & 
+Co und ihren scheiß Gut-Menschen« fernzuhalten, eine weitere Nachricht schließt er mit »88«, dem Nazi-Code für 
+»Heil Hitler«.
+Kirtorf, 2018: Zwei Brüder, beide Polizeibeamte, fallen auf einer Kirmes in betrunkenem Zustand mit 
+rechtsgerichteten Aussagen auf, einer soll sich selbst als rechtsradikal bezeichnet haben. In seiner Wohnung in 
+der hessischen Kleinstadt wird später ein ganzes Zimmer voller NS-Devotionalien gefunden.
+München, 2019: In einer Chatgruppe mit rund 40 Polizisten verschiedener Einheiten werden antisemitische und 
+rassistische Bilder geteilt.
+Die angeblichen Einzelfälle sie haben Wellen geschlagen bis ins Bundeskanzleramt. Kürzlich erkundigte sich 
+Angela Merkel erschrocken bei ihren Leuten, was denn da bitte schön los sei bei der Polizei. Der hessische 
+Innenminister musste sich im Landtag mehrmals zu den Vorfällen in Frankfurt befragen lassen. Der 
+Innenausschuss des Bundestages beschäftigte sich in einer Sitzung mit den »Verdachtsfällen sämtlicher 
+extremistischer Phänomenbereiche in den Sicherheitsbehörden«.
+Laut einer Umfrage von infratest dimap vom Dezember 2016 haben 88 Prozent der Deutschen »sehr großes oder 
+großes Vertrauen« in die Polizei. Sie liegt damit, weit vor dem Bundesverfassungsgericht und der 
+Bundesregierung, an der Spitze aller abgefragten deutschen Institutionen. Doch womöglich kennen die Bürger die 
+Polizei nicht so gut, wie sie glauben.
+ Ein Reporterteam der ZEIT ist mehrere Monate lang durch die Republik gereist, auf der Suche nach einer 
+Antwort auf die Frage, was da los ist auf den Revieren. 
+Wie rechts ist die deutsche Polizei?
+Im Sommer vergangenen Jahres, wenige Wochen bevor Seda Basay-Yildiz das erste Drohfax erhält, spaziert 
+Yitzhak Melamed, Philosophie-Professor an der Johns-Hopkins-Universität in Baltimore, mit einer Kollegin am 
+Rheinufer in Bonn entlang. In vier Stunden soll er an der Universität einen Vortrag halten. Die beiden begegnen 
+einem jungen Mann. Als er Melameds schwarze Kippa sieht, versucht er, sie ihm vom Kopf zu schlagen. Immer 
+wieder schreit er: »Keine Juden in Deutschland!« Es dauert nicht lange, bis die ersten Polizisten am Tatort 
+eintreffen.
+Was dann geschieht, lässt sich aus den Ermittlungsakten rekonstruieren. Der Schläger versucht zu fliehen, 
+Yitzhak Melamed folgt ihm intuitiv. Und die Beamten? Sie folgen Melamed, überwältigen den jüdischen Professor, 
+fixieren ihn am Boden und legen ihm Handschellen an. Einer der Polizisten schlägt ihm mehrmals ins Gesicht. 
+Melameds Brille bricht entzwei, das Armband seiner Uhr reißt. Fotos werden später mehrere Hämatome in 
+Melameds rechter Gesichtshälfte zeigen.
+Zwei Tage später veröffentlicht Yitzhak Melamed einen langen, wütenden Beitrag bei Facebook, in dem er der 
+Polizei Rassismus vorwirft. Er prangert nicht nur die Brutalität der Polizisten an, er beschreibt auch die aggressive 
+Stimmung auf dem Bonner Revier: Wie niemand Erste Hilfe leistete, obwohl sein Gesicht blutete. Wie man 
+versucht habe, ihm einzureden, dass er zuerst ausfällig geworden sei. Melamed schreibt: »Dann insinuierten sie, 
+dass sie, wenn ich die Presse informiere, mich beschuldigen würden, ich hätte Widerstand geleistet.«
+ Und genau das passiert. Die Bonner Polizeibeamten verzerren den Tathergang, um ihre Kollegen zu entlasten. 
+Erst versuchen sie die Schuld an Melameds Verletzungen auf den jungen Mann abzuwälzen, der, wie man 
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+inzwischen weiß, wegen Körperverletzung und schweren Raubs mehrfach vorbestraft ist und an jenem Tag unter 
+Drogeneinfluss stand. Als dann mehrere Augenzeugen, unter anderem Melameds Kollegin, widersprechen, 
+ändern sie ihre Geschichte und behaupten, der prügelnde Polizist habe sich gegen den aufsässigen Melamed 
+verteidigt. Melamed bestreitet das im Gespräch mit der ZEIT , er habe sich nicht gewehrt. 
+Kurz nach der Tat melden sich die Bonner Polizeipräsidentin Ursula Brohl-Sowa, der nordrhein-westfälische 
+Innenminister Herbert Reul und Emily Haber, die deutsche Botschafterin in Washington, bei Yitzhak Melamed. Alle 
+drei bitten im Namen ihrer Behörde oder der Bundesrepublik Deutschland um Entschuldigung für das 
+Geschehene. Alle drei versprechen eine schonungslose Aufklärung.
+Anfang März 2019 stellt die Staatsanwaltschaft Bonn das Verfahren gegen den Polizisten ein. Der Beamte wurde 
+von einer Augenzeugin entlastet. Diese ist nicht nur selbst Polizistin, sie ist auch die Lebensgefährtin des 
+Beschuldigten und war ebenfalls am Tatort.
+Der Fall Melamed ist ein Paradebeispiel dafür, wie Beamte sich gegenseitig schützen und vor der Justiz entlasten. 
+Er zeigt auch, wie wenig Bereitschaft es in der Polizei gibt, politische Fehltritte aufzuarbeiten.
+Eutin, 2016: Polizeianwärter diffamieren Kollegen mit Migrationshintergrund als »Kümmeltürken« und »Kanaken«. 
+Verfahren eingestellt.
+Neubrandenburg, 2018: Ein Vollzugsbeamter posiert vor einem Hitler-Bild. Verfahren eingestellt.
+Schlüchtern, 2019: Am Holocaust-Gedenktag hängen Beamte die deutsche und die hessische Flagge vor dem 
+Polizeirevier verkehrt herum auf. Verfahren eingestellt.
+In einem Kongressbau am Berliner Alexanderplatz treffen sich im Februar 2019 knapp 2000 Polizisten, Politiker, 
+Wirtschaftsvertreter und Wissenschaftler zum Europäischen Polizeikongress. Der Waffenhersteller Heckler & 
+Koch präsentiert Maschinenpistolen und lässt Fruchtgummi in Pistolenform verteilen, Volkswagen hat einen 
+Streifenwagen in der Halle geparkt.
+Die Teilnehmer des Kongresses hätten einiges zu besprechen, allein in den vorangegangenen vier Wochen sind 
+ein Dutzend neuer Fälle mutmaßlich rechtsradikaler Umtriebe in der Polizei bekannt geworden. Im 
+Zusammenhang mit den Drohungen gegen die Rechtsanwältin Basay-Yildiz ermittelt die Frankfurter 
+Staatsanwaltschaft gegen die sieben Mitglieder der Chatgruppe. Ihnen wird Volksverhetzung, Bedrohung und das 
+Verwenden von Kennzeichen verfassungswidriger Organisationen vorgeworfen. Einer ist inzwischen freiwillig aus 
+dem Dienst ausgeschieden, den anderen wurde die Ausübung der Dienstgeschäfte untersagt Gehalt beziehen sie 
+weiter.
+In den Workshops und Vorträgen des Kongresses aber geht es vor allem um Clan-Kriminalität, Cybercrime und 
+internationale Polizeimissionen. Rechtsextremismus in der Polizei ist kein Thema.
+Dann sitzt der Berliner Innensenator Andreas Geisel, der oberste Vorgesetzte aller Berliner Polizisten, auf der 
+Bühne. Auch er sagt nichts zum Rechtsradikalismus, aber er spricht über das Gefühlsleben seiner Beamten und 
+damit irgendwie doch über das Thema. Geisel erzählt, unter den Berliner Polizeianwärtern hätten inzwischen 38 
+Prozent einen Migrationshintergrund, so viele wie in keinem anderen Bundesland, was Geisel ausdrücklich 
+begrüßt. Aber er sagt auch, Berliner Polizisten, die in den Achtzigerjahren in den Staatsdienst eingetreten seien, 
+hätten oft den Eindruck: Das ist nicht mehr meine Polizei.
+In Wirklichkeit ist die Polizei der Bundesrepublik nach wie vor überwiegend weiß, männlich, deutschstämmig und 
+politisch konservativ. Autoritätsgläubige und ordnungsliebende Menschen findet man unter Polizisten häufiger als 
+Freigeister. Der Bochumer Strafrechtsprofessor Tobias Singelnstein sagt: »Es gibt in der Polizei eine größere 
+Affinität zu rechten Positionen als im Durchschnitt der Bevölkerung.«
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+Singelnstein leitet eine der größten empirischen Untersuchungen zu Polizei und Gewalt, die es in Deutschland je 
+gegeben hat, er spricht mit vielen Beamten, mit Revierleitern ebenso wie mit Streifenpolizisten. »Die AfD und der 
+gesellschaftliche Rechtsruck gehen an der Polizei nicht spurlos vorüber, sie haben sie nach rechts verschoben«, 
+sagt Singelnstein. »Wie in der Gesellschaft insgesamt sind inzwischen auch in der Polizei Sachen sagbar, die 
+bislang nicht sagbar waren.«
+Singelnstein ist mittlerweile überzeugt, dass es unter Polizisten häufig eine verzerrte Wahrnehmung der 
+Wirklichkeit gebe. Es genüge ein Blick auf die Diskussion um Clankriminalität. Schon in der öffentlichen 
+Wahrnehmung, auch in der Medienberichterstattung, werde mit dem Begriff »Clan« ein Bild von kriminellen 
+Arabern transportiert. Für Polizisten sei dieses Zerrbild noch viel naheliegender. Sie haben es in ihrem Beruf ja vor 
+allem dann mit Ausländern zu tun, wenn diese gegen Gesetze verstoßen. In den Köpfen mancher Polizisten 
+werden Migranten auf diese Weise von Mitbürgern zu Verdächtigen.
+»Viele Polizeibeamte sehen in ihrem Alltag vor allem die negativen Seiten der Gesellschaft«, sagt auch Holger 
+Münch, der Präsident des Bundeskriminalamts (BKA). »Das prägt natürlich, und das muss man immer wieder 
+reflektieren.« Münch steht an einem Aprilmittwoch in seinem Büro in einem Hochhaus in Berlin-Treptow, der Blick 
+geht über die Spree. »Bei 260.000 Beschäftigten ist nicht auszuschließen, dass sich unter ihnen auch schwarze 
+Schafe befinden«, sagt Münch. Das sei trotzdem nicht zu akzeptieren. Dann erzählt Münch, wie er neulich auf 
+einer Betriebsversammlung von Polizisten angesprochen wurde, die sich wünschten, dass sich das BKA deutlich 
+von fremdenfeindlichen Aussagen distanziere. Wie seine Mitarbeiter regelrecht einforderten, dass ihr Chef da 
+draußen klarstelle, dass nicht alle Polizisten so seien.
+ Tatsächlich denkt zweifellos nur eine kleine Minderheit der deutschen Polizisten rechtsradikal. Tatsächlich ist es 
+nur eine kleine Minderheit, die Ausländer grundsätzlich für kriminell hält. Tatsächlich zeigen sich viele Polizisten 
+gegenüber der ZEIT entsetzt über die Vorfälle in den eigenen Reihen. 
+Aber es steht eben auch zweifellos fest: Es gibt diese Rechten. Und es gibt einen Raum, in dem sie sich bewegen 
+können.
+Das BKA hat seine eigenen Erfahrungen damit gemacht, was passieren kann, wenn Polizisten vom Feinstaub 
+rassistischer Vorurteile betäubt werden. Als die Neonazi-Terroristen Uwe Mundlos, Uwe Böhnhardt und Beate 
+Zschäpe im Jahr 2000 ihre Mordserie begannen, glaubten die Ermittler des BKA an alle möglichen und 
+unmöglichen Hintergründe, an Streitereien im türkischen Milieu, an die kurdische PKK, an die libanesische 
+Hisbollah. Die vom bayerischen LKA eingesetzte sogenannte Besondere Aufbauorganisation hieß »Bosporus«, 
+die Anschläge wurden erst von den Medien und bald auch behördenintern »Döner-Morde« genannt.
+Nur wenige Monate vor dem Auffliegen der rechten Terrorzelle ließen sich Ermittler zu den unaufgeklärten 
+Mordfällen mit den Worten zitieren, hinter den Taten stehe eine »mächtige Allianz zwischen rechtsnationalen 
+Türken, dem türkischen Geheimdienst und Gangstern«. Nur deutsche Rechtsextremisten kamen als Täter für die 
+Polizei nie infrage bis zur tödlichen Selbstenttarnung von Böhnhardt und Mundlos nach einem Überfall in 
+Eisenach.
+Die Tochter des ersten NSU-Mordopfers Enver Simsek, Semiya Simsek, die später im Prozess gegen Beate 
+Zschäpe als Nebenklägerin auftrat und dort von der nun vom »NSU 2.0« bedrohten Anwältin Seda Basay-Yildiz 
+vertreten wurde, erinnerte sich später an die Verdächtigungen gegen ihren Vater: »Auf einmal war er der 
+Fremdgeher, auf einmal hat er Drogen nach Deutschland geschmuggelt. Auf einmal hatte er mit der Mafia zu tun. 
+So haben wir jahrelang mit diesen Vorwürfen gelebt.«
+Bei der offiziellen Gedenkveranstaltung zu Ehren der Opfer des NSU entschuldigte sich Bundeskanzlerin Angela 
+Merkel bei den Familien für die rassistische Vorverurteilung: »Einige Angehörige standen jahrelang selbst zu 
+Unrecht unter Verdacht. Das ist besonders beklemmend. Dafür bitte ich Sie um Verzeihung.« Sie gab damals das 
+Versprechen ab, dass vom Staat alles Mögliche getan würde, »damit sich so etwas nie wiederholen kann«.
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+Und nun das. Eine mögliche neue rechtsextreme Zelle, die aus Frankfurter Polizisten besteht. Und die Familie der 
+Anwältin eines NSU-Opfers mit dem Tode bedroht.
+Hamburg, 2014: Zwei Streifenpolizisten posten in einem Chat ihrer Dienstgruppe Bilder eines Weihnachtsbaums, 
+der mit Hakenkreuz-Christbaumkugeln geschmückt ist.
+Königsbrunn, 2014: Zwei Polizeianwärter aus einer Kleinstadt südlich von Augsburg schicken rassistische Bilder 
+via WhatsApp an ihre Klasse. Von den Empfängern gibt es keine Beschwerde, erst ein Ausbilder greift ein.
+Leipzig, 2015: Ein Bereitschaftspolizist lobt in einem Chat mit einem stadtbekannten Neonazi dessen 
+Verschwörungstheorien als »weise Worte« und spricht von Linken als »marodierenden Gutmenschen«.
+Wie viele politisch motivierte Straftaten von Polizisten in Deutschland begangen werden, ist nicht zu ermitteln. 
+Zwar veröffentlicht das Bundesinnenministerium genau zu dieser Form der Kriminalität eine jährliche Statistik, in 
+der man lesen kann, dass es 2017 in Deutschland rund 20.000 Straftaten mit rechtsextremistischem Hintergrund 
+gegeben hat. Von Propagandadelikten und volksverhetzenden Hasspostings über Körperverletzung bis zu Mord. 
+Was aber darin nicht erfasst ist: Wer die Taten begangen hat und welche Berufe diese Menschen ausüben. Ob sie 
+beispielsweise Polizisten waren.
+ Die ZEIT hat die Innenministerien der 16 Bundesländer sowie die Führungen von Bundespolizei und 
+Bundeskriminalamt gefragt, wie viele rechtsgerichtete Vorfälle es seit dem Auffliegen des NSU in ihren Reihen 
+gegeben hat. Die Antworten zeugen von Ahnungslosigkeit. Nirgends gibt es eine belastbare Statistik. 
+Berlin schreibt in umständlichem Bürokratendeutsch, das Merkmal Beruf werde gar nicht erfasst, wenn eine 
+Anzeige aufgenommen werde. Es existiere »kein Automatismus«, der sicherstelle, dass politisch motivierte 
+Straftaten von Polizeibeamten »der für die Prüfung von Disziplinarmaßnahmen zuständigen Dienststelle zur 
+Kenntnis« gegeben würden. Kein Automatismus das soll wohl heißen: Die Ermittler entscheiden selbst, ob und 
+wem sie einen Verdacht weitergeben. Und was sie lieber unter Verschluss halten.
+Auch in Sachsen und Nordrhein-Westfalen gibt es keine Erhebungen zum Rechtsextremismus in der Polizei, 
+Hessen und Thüringen antworten gar nicht erst, andere Bundesländer listen Einzelfälle auf.
+Zählt man diese Fälle zusammen, die elf der 16 Bundesländer liefern, gab es dort in den vergangenen neun 
+Jahren 42 Disziplinarverfahren gegen Polizeibeamte wegen Verdachts auf Rechtsextremismus.
+42 Fälle in neun Jahren angesichts dieser Angabe könnte man meinen, Rechtsextremismus komme in der 
+deutschen Polizei praktisch nicht vor.
+Vor knapp zwei Monaten allerdings nannte der hessische Innenminister in einer Sitzung im Landtag auf 
+mehrmaliges Nachfragen hin eine Zahl, die eine andere Geschichte erzählt. In Hessen hatte man nämlich nach 
+den Drohungen gegen Seda Basay-Yildiz etwas genauer hingesehen. Das Ergebnis: 38 Disziplinarverfahren 
+gegen mutmaßlich rechtsradikale Beamte in nur vier Monaten.
+Offensichtlich klafft zwischen der Außendarstellung der Behörden und der Wirklichkeit eine Lücke.
+Hans Soltau erlebt das jeden Tag. Weil der Polizeibeamte frei reden möchte, kann hier weder sein richtiger Name 
+noch die Großstadt genannt werden, in der er seit Jahrzehnten arbeitet.
+Unweit vom Hauptbahnhof nimmt er an einem Restauranttisch Platz. Eine massive Säule im Speisesaal dient als 
+Sichtschutz nach draußen. Soltau erzählt von Kollegen, die nachts so lange durch das Rotlichtviertel fahren, bis 
+sie einen ausländisch aussehenden Menschen finden, der angetrunken ist. Der sich von ihnen provozieren lässt 
+und zurückpöbelt. Dieses »Opfer« würde dann auf der Wache den Kollegen wie eine Trophäe präsentiert. Ein 
+Flüchtling, ein Araber, ein Nichtweißer weniger auf der Straße. Wenigstens für eine Nacht.
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+Jeden Morgen um neun Uhr treffen sich auf Soltaus Wache die Kollegen zu einem Lagebericht über die Straftaten 
+vom Vortag. Normalerweise gebe es in seinem Abschnitt etwa 17 bis 20 Ladendiebstähle pro Tag. Die meisten 
+würden von Deutschen begangen, etwa von drogenabhängigen Obdachlosen. Als besonders bemerkenswert 
+vorgestellt werde aber fast immer nur der eine Fall, in dem der Täter nicht deutscher Herkunft sei oder am besten 
+ein Asylbewerber. »Erfolg«, sagt Soltau, »wird bei uns daran gemessen, wie viele Migranten möglichst hart 
+bestraft werden können.«
+Hans Soltau ist froh, bald in Rente zu gehen.
+Die Anwältin Seda Basay-Yildiz erhält nach dem 2. August 2018 weitere Drohschreiben. Das zweite erreicht sie 
+vier Tage vor Weihnachten, die Absender haben anscheinend genau verfolgt, dass es Durchsuchungen auf der 
+Wache an der Frankfurter Zeil gegeben hat. Ihr sei »offensichtlich nicht bewusst, was Du unseren Polizeikollegen 
+angetan hast«, heißt es in dem Schreiben. Diesmal nennen die Absender nicht nur den Namen von Basay-Yildiz 
+Tochter, sondern auch den ihres Vaters und ihrer Mutter. Der Text endet mit: »Heil Hitler, Du Türken-Sau!«
+Die Polizei wird später davon ausgehen, dass die Daten aus derselben Meldeabfrage im Polizeicomputer wie jene 
+aus dem August 2018 stammen. Wieder wird das Schreiben über einen Faxdienst verschickt, wieder ist eine 
+Rückverfolgung nicht möglich.
+ Die Hauptbeschuldigte Miriam D. bestreitet, die Daten abgefragt zu haben. Die anderen Beamten schweigen zu 
+den Vorwürfen. Wie die ZEIT aus Ermittlerkreisen erfuhr, geht man dort zwar davon aus, dass die Schreiben 
+von Polizisten, vermutlich direkt von der Frankfurter Dienststelle, verschickt wurden, der zweifelsfreie Nachweis 
+aber werde ohne Zeugenaussagen kaum zu führen sein. »Die Täter haben gute Chancen, nicht erwischt zu 
+werden«, heißt es. Die Strafverfolger sind zunehmend frustriert. 
+Seda Basay-Yildiz hat in den vergangenen Monaten oft zu rekapitulieren versucht, wie sie ins Visier der 
+Rechtsradikalen geraten konnte. Lag es daran, dass sie während der NSU-Affäre die Ermittler kritisiert hatte? 
+Oder daran, dass sie einmal in einem Interview gefragt hatte, was man denn noch alles tun müsse, um in 
+Deutschland als Deutsche betrachtet zu werden und nicht als Türkin? Oder daran, dass sie mehrere Islamisten 
+verteidigt hat?
+Mitte Januar folgt das dritte Fax, zwei Tage später, am 16. Januar, das vierte. Die Verfasser drohen Basay-Yildiz, 
+sie werde ihren tunesischen Mandanten »nie wieder« sehen. Und als wollten sie beweisen, wie viel sie über 
+Basay-Yildiz und ihre Familie wissen, nennen die Absender diesmal auch die Geburtsdaten ihrer Eltern. Am »Tag 
+X« sei sie fällig. Gezeichnet: »SEK Frankfurt, der Einsatzleiter«.
+Wenn ein, sagen wir, rechtsradikaler Tischler oder Ingenieur, straffrei davonkommt, weil ihm die Justiz kein 
+Vergehen nachweisen kann, hat er nichts weiter zu befürchten. Sein Arbeitgeber kann ihm nichts anhaben. Bei 
+rechtsradikalen Polizisten ist das anders. Wie alle Beamten können sie aus dem Staatsdienst entlassen werden, 
+wenn sie sich offen gegen diesen Staat stellen.
+So wie die beiden Polizisten, von denen Dieter Romann im Bundestag berichtet.
+Romann ist der Präsident der Bundespolizei. Im Februar 2019 muss er neben anderen hochrangigen Beamten 
+im Innenausschuss des Deutschen Bundestags Rede und Antwort stehen. In dieser nicht öffentlichen Sitzung 
+erzählt Romann von einer Begebenheit Ende August 2018.
+Damals sitzen im oberbayerischen Rosenheim mehrere Männer auf der Terrasse einer Gaststätte. Sie trinken und 
+reden, und was sie da reden, klingt nicht sehr freundlich. Fremdenfeindliche Äußerungen seien gefallen, sagt 
+Romann, einer der Männer soll den Arm zum Hitlergruß gehoben haben. Ein anderer Gast ruft die Polizei. Als die 
+Beamten eintreffen und die Personalien aufnehmen, stellen sie fest: Sie haben es mit Kollegen zu tun, zwei 
+Beamten der Bundespolizei, 44 und 55 Jahre alt, abgeordnet nach Rosenheim für Grenzkontrollen. »Drei Stunden 
+später wurde einem Beamten die Ausübung der Dienstgeschäfte untersagt«, sagt Dieter Romann im 
+Innenausschuss. Vier Tage darauf sei ein Disziplinarverfahren eingeleitet worden, inzwischen sei der Beamte 
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+vorläufig des Dienstes enthoben, »unter Einbehalt eines Großteils seiner Bezüge«. Romann will deutlich machen: 
+Wir tun etwas!
+Wenn es nur immer so einfach wäre. In der Realität passiert es sehr selten, dass rechtsradikale Polizisten 
+tatsächlich aus dem Staatsdienst entfernt werden und wenn doch, dann meist am Ende eines langwierigen und 
+komplizierten Prozesses.
+Das zeigt der Fall des Berliner Polizeikommissars Andreas T., der 2007 im Zuge von Ermittlungen in der Neonazi-
+Szene aufgefallen war. T. soll an der Erstellung von Rechtsrock-CDs mit volksverhetzenden Texten beteiligt 
+gewesen sein. Bei einer Hausdurchsuchung fanden Polizisten Fotos, auf denen ihr Kollege den Hitlergruß zeigte. 
+Der Kommissar hatte sich seine rechtsextremen Überzeugungen sogar in die Haut stechen lassen: Wolfsangel, 
+Odal- und Sigrune, das Logo der Neonazi-Band Skrewdriver. Sein Körper war ein wandelndes rechtsextremes 
+Werbebanner.
+Die Staatsanwaltschaft erhob Anklage gegen Andreas T. wegen Volksverhetzung. Vier Jahre zog sich das 
+Verfahren hin, am Ende reichten die Beweise nicht für eine Verurteilung. Erst danach erhob das Land Berlin eine 
+Disziplinarklage gegen den Beamten, um ihn aus dem Polizeidienst zu entfernen. Doch sowohl das 
+Verwaltungsgericht als auch das Oberverwaltungsgericht lehnten T.s Entlassung ab. Rechtsradikale 
+Tätowierungen zu tragen sei noch kein verfassungsfeindliches Verhalten, so die Begründung.
+Erst das Bundesverwaltungsgericht in Leipzig verwarf dieses Urteil. Es stellte 2017 in einer 
+Grundsatzentscheidung klar: Ein Beamter, der sich mit einer verfassungsfeindlichen Einstellung »derart 
+identifiziert, dass er sie sich in die Haut eintätowieren lässt, ist nicht tragbar«. T. musste den Polizeidienst 
+verlassen. Zehn Jahre, nachdem er erstmals auffällig geworden war. Zehn Jahre, in denen er zwar vom Dienst 
+suspendiert war, aber weiterhin sein volles Beamtengehalt erhalten hatte.
+Pirna, 2015: Ein Bundespolizist weigert sich, einen Strafzettel zu bezahlen. Sein Personalausweis sei 
+gegenstandslos, er sei nicht deutscher Staatsangehöriger, sondern Deutscher mit Staatsangehörigkeit im 
+»Königreich Sachsen«.
+ Trier, 2018: Das Verwaltungsgericht entfernt einen Polizisten aus dem Dienst, der einer Kollegin über WhatsApp 
+ein E-Book mit dem Titel Die BRD GmbH empfohlen und den Polizeipräsidenten als »Bandenführer« 
+bezeichnet hatte. 
+Göttingen, 2018: Auch hier wird eine Beamtin aus dem Dienst entfernt. Sie hatte beim Einwohnermeldeamt für 
+sich und ihre Tochter »Staatsangehörigkeitsausweise« beantragt. Als Geburtsland nannte sie: das »Königreich 
+Preußen«.
+Die Argumentation dieser Beamten war die der sogenannten Reichsbürger, einer rechten Gruppierung, die den 
+deutschen Staat ablehnt. Und mit ihm seine Institutionen: die Ämter, die Regierung und die Polizei. Wie kann ein 
+Polizist »Reichsbürger« sein? Wie kann er den Staat nicht anerkennen, für den er arbeitet? Die »Reichsbürger« 
+werden seit 2016 vom Verfassungsschutz beobachtet. Allein in Bayern wurden seither 18 Disziplinarverfahren 
+gegen Beamte eröffnet, die als »Reichsbürger« gelten.
+Strafverfahren haben schlimmstenfalls eine Gefängnisstrafe zur Folge, Disziplinarklagen die Entfernung aus dem 
+Staatsdienst. Das Problem in der Praxis ist in beiden Fällen das gleiche: Vorgesetzte müssen gegen ihre eigenen 
+Mitarbeiter aussagen, Kollegen gegen Kollegen. Loyalität und Sympathie behindern die Aufarbeitung. Einige 
+Bundesländer haben inzwischen externe Beschwerdestellen eingerichtet, doch letztlich bleibt es dabei: Polizisten 
+ermitteln gegen Polizisten oder eben nicht.
+Am Ende werden die auffällig gewordenen Beamten oftmals einfach nur in eine andere Dienststelle versetzt. Aus 
+den Augen, aus dem Sinn.
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+Rafael Behr ist Professor an der Akademie der Polizei in Hamburg, seit Jahrzehnten erforscht er das Innenleben 
+der Polizei. Behr neigt nicht zu Alarmismus, er glaubt nicht, dass die Bundesrepublik dabei ist, sich in einen 
+rechten Polizeistaat zu verwandeln. Was er aber feststellt, ist, dass sich an vielen Stellen innerhalb der Polizei 
+»rechtsorientierte subkulturelle Milieus« gebildet hätten. Parallelgesellschaften.
+Behr hat beobachtet, dass diese Männer es sind deutlich mehr Männer als Frauen nicht als Rechtsextremisten in 
+die Polizei aufgenommen werden, sondern sich innerhalb des Polizeidienstes radikalisieren. Einen nicht 
+unwesentlichen Beitrag dazu leiste die AfD, die in Polizeikreisen viele Unterstützer findet.
+Der AfD-Fraktion im Deutschen Bundestag gehören derzeit vier aktive und ein ehemaliger Polizist an, mehr als 
+jeder anderen Fraktion. Auch bei den drei im Herbst anstehenden Landtagswahlen im Osten bewerben sich 
+Polizisten für die AfD um Mandate: fünf in Thüringen, zwei in Sachsen, einer in Brandenburg.
+Die AfD ist eine legale Partei, auch Polizisten dürfen ihr beitreten und sich in ihrem Namen für politische Ämter 
+bewerben. Zweifel an den rechtsstaatlichen Überzeugungen einzelner Kandidaten drängen sich dennoch auf.
+In Thüringen steht der Polizeikommissar Torsten Czuppon aus Sömmerda auf der AfD-Liste für die Landtagswahl. 
+Auf seiner Facebook-Seite zeigt er Fanartikel des philippinischen Präsidenten Rodrigo Duterte. Der lässt 
+Drogensüchtige, Dealer und Kriminelle ohne Gerichtsverfahren exekutieren.
+In Brandenburg kandidiert der Bundespolizist Wilko Möller für die AfD. Er hatte auf Facebook ein Bild von sich 
+selbst als jungem Mann gepostet, er trägt Tarnjacke und Waffe, auf dem Bild steht: »Klagt nicht, kämpft«. Ein 
+Spruch, der mit den Fallschirmjägern der Wehrmacht in Verbindung gebracht wird.
+In Sachsen möchte der Polizist Sebastian Wippel erneut für die AfD in den Landtag. Er hatte im August 2016 für 
+Aufregung gesorgt, als er nach zwei Terroranschlägen in Süddeutschland bekundete, es sei bedauerlich, dass 
+keine politisch Verantwortlichen unter den Opfern seien.
+Geht es um rechtes Denken in der Polizei, steht kein Bundesland so sehr im Fokus wie Sachsen. Hier 
+präsentierten Beamte öffentlich den »Survivor R«, einen gepanzerten Truppentransporter des 
+Spezialeinsatzkommandos (SEK), der auf den Sitzen Stickereien trug, die an NS-Symbolik erinnerten.
+Hier trug ein SEK-Beamter auf seiner Uniform bei einer Demonstration von Linken ein Abzeichen mit einem von 
+Odins Raben, einem von Neonazis gern verwendeten Zeichen aus der germanischen Mythologie.
+Hier verpassten im vergangenen Herbst zwei Beamte einem SEK-Kollegen für einen Einsatz in Berlin den Alias-
+Namen »Uwe Böhnhardt«. Der Polizist sollte ausgerechnet den türkischen Staatspräsidenten Recep Tayyip 
+Erdoan beschützen.
+Petric Kleine sitzt im März 2019 in seinem Büro in einem Funktionsbau am Dresdner Stadtrand. »Der Blick auf die 
+Polizei in Sachsen ist berechtigt«, sagt Kleine, »es gab diese Vorkommnisse.« Seit 2017 ist er Präsident des 
+Landeskriminalamts Sachsen. Von Beginn an stand er mit seiner Behörde unter Druck.
+Am Tag nach Bekanntwerden des Böhnhardt-Skandals lässt Kleine die rund 70 Mitglieder des SEK antreten. Die 
+beiden verantwortlichen Beamten wirft er aus der Eliteeinheit hinaus. Er droht gar mit der Auflösung des gesamten 
+SEK. Außerdem lässt er die Diensträume des Kommandos durchsuchen und die Stickereien von den Kopfstützen 
+des »Survivor« entfernen. Er scheucht Beamte über das LKA-Gelände, um nach verdächtigen Aufklebern auf den 
+Autos von Mitarbeitern zu suchen. Er ordnet an, dass vor Einsätzen die Uniformen der SEK-Beamten auf 
+unerlaubte Abzeichen kontrolliert werden.
+Jetzt, in seinem Büro, atmet Kleine tief durch. Vor allem der »Fall Böhnhardt« beschäftigt ihn noch immer: »Das 
+war an Blödheit nicht zu überbieten.«
+Blödheit. Es ist ein merkwürdiges Wort, das der LKA-Präsident da verwendet. Ist es wirklich nur Blödheit, wenn es 
+zwei Polizeibeamte des SEK witzig finden, einem Kollegen den Alias-Namen eines rechtsterroristischen Mörders 
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+zu geben? »Ich unterstelle denen keine rechte Einstellung«, sagt Kleine. Die Beamten seien schon lange Teil des 
+SEK gewesen, sie hätten sich stets tadellos verhalten.
+Kleine sagt, er brauche ein funktionierendes SEK. Bei Geiselnahmen und Terroranschlägen gehört es zur 
+Aufgabe der Beamten, Leben zu retten.
+Polizisten müssen sich im Ernstfall bedingungslos aufeinander verlassen können. Diesen Korpsgeist, der oft 
+verhindert, dass Dinge nach außen dringen, möchte Kleine nutzen. Er wünsche sich für das LKA, dass die 
+Kollegen aufeinander achten, rechtsradikale Tendenzen früh erkennen und ansprechen. Der Korpsgeist, der Teil 
+des Problems ist, er soll auch Teil der Lösung werden.
+Wer Missstände beseitigen will, muss sie erst einmal sehen. Der sächsische LKA-Präsident Petric Kleine sagt, er 
+sehe sie. Auch der Bundespolizeipräsident Dieter Romann sagt das, der BKA-Präsident Holger Münch ebenfalls. 
+Aber hatte man nicht schon nach dem NSU-Desaster gehofft, dass das Problem erkannt wird?
+Zumindest innerhalb der Polizeiausbildung, da sind sich alle Fachleute einig, sei es gelungen, das Gespür für 
+demokratische Werte zu schärfen. Wer dort noch vor der Verbeamtung mit rechten Äußerungen auffällt, wird 
+sofort rausgeworfen.
+Ungleich schwerer scheint es zu sein, jene Polizisten zu erreichen und zu kontrollieren, die Tag für Tag mit den 
+Abgründen der Gesellschaft konfrontiert sind. Die Basis des Polizeiapparats. Hier kann der Befund nur lauten, 
+dass ein tief greifender Wandel in der Behörde bisher nicht stattgefunden hat. Obwohl er dringend nötig wäre. Für 
+Armin Schuster, Polizist und Bundestagsabgeordneter der CDU, ist dies eine Frage der »gesellschaftlichen 
+Hygiene«. Schuster sagt: »Jeder Polizist ist Botschafter für das Demokratieverständnis in unserem Land«.
+Wie kann es sein, dass rechte Umtriebe unter Polizisten nicht systematisch erfasst werden?
+Wie soll sich etwas ändern, wenn es keine Regeln dafür gibt, wie mit solchen Vorfällen umzugehen ist?
+Wie sollen die Bürger, die mit ihrem Steuergeld das Gehalt jedes Polizeibeamten finanzieren, Vertrauen haben in 
+eine Behörde, in der es Menschen gibt, die nur einen Teil der Bevölkerung beschützen wollen?
+Zumindest in Hessen hatte der Polizeiskandal um die Drohungen gegen die Anwältin Seda Basay-Yildiz 
+Konsequenzen. Auf den Polizeicomputern ist ein Zufallsgenerator installiert worden, der bei Abfragen von 
+Einwohnermeldedaten detaillierte Gründe für die Nachforschung verlangt. Eine unabhängige Ombudsstelle soll 
+künftig Beschwerden über polizeiliches Fehlverhalten entgegennehmen.
+Es ist ein Anfang. In einem von 16 Bundesländern.
+Seda Basay-Yildiz hat in einem Aktenordner mit der Aufschrift »privat« all ihre Briefe abgelegt, auch die 
+Drohbriefe. Die Aufschrift trifft es nicht wirklich, die Drohungen sind nicht »privat«, sondern hochpolitisch, sie 
+richten sich an Basay-Yildiz, aber sie treffen die freie Gesellschaft als Ganzes.
+Bis zu dieser Affäre hatte die Anwältin noch nie Anzeige erstattet, egal, wie unflätig die Menschen ihr gegenüber 
+waren. Aber diesmal war eine Grenze überschritten. Neulich meldete sich Bundespräsident Frank-Walter 
+Steinmeier bei ihr und bat um ein Treffen. Er wollte ihr Mut zusprechen.
+Mittlerweile hat das hessische Landeskriminalamt 60 Beamte beauftragt, ihren Fall und weitere rechtsextreme 
+Umtriebe in der hessischen Polizei zu untersuchen. Solche Sonderkommissionen werden sonst vor allem bei 
+Terroranschlägen, Amokläufen oder Mordserien zusammengestellt. Diesmal kämpfen die Beamten gegen einen 
+Feind im Inneren.
+***
+Wie rechts ist die Polizei? Ein Berliner Kommissar zeigt den Hitlergruß. Ein Polizist in Hannover quält einen 
+afghanischen Flüchtling. Aus einer Frankfurter Pol....
+Kirtorf, 2018: In der Wohnung eines Polizisten in der hessischen Kleinstadt wird ein ganzes Zimmer mit NS-
+Devotionalien gefunden Neubrandenburg, 2018: Ein Vollzugsbeamter posiert vor einem Hitler-Bild Frankfurt, 
+2018: Die Anwältin Seda Basay-Yildiz erhält mehrere Todesdrohungen. Die Täter sind mutmaßlich Polizisten, die 
+sich in einer WhatsApp-Gruppe zahlreiche Bilder von Hakenkreuzen und Witze über Juden zusenden 
+Königsbrunn, 2014:In der bayerischen Kleinstadt schicken zwei Polizeianwärter rassistische Bilder via WhatsApp 
+an ihre Klasse Hamburg, 2014: Zwei Polizisten posten in einem Chat ihrer Dienstgruppe Bilder eines 
+Weihnachtsbaums, an dem Hakenkreuz-Kugeln hängen Cottbus, 2018: Polizisten schreiten nicht gegen rechte 
+Fußballfans ein, weil sie angeblich den Ku-Klux-Klan nicht kennen, in dessen Aufmachung die Fans auftreten 
+Eutin, 2016: Polizeianwärter diffamieren Kollegen mit Migrationshintergrund als »Kümmeltürken« und »Kanaken« 
+Hannover, 2014: Ein Polizist schreibt in einer SMS über einen festgenommenen Afghanen: »Hab dem meine 
+Finger in die Nase gesteckt. Und gewürgt. Und an den Fußfesseln durch die Wache geschliffen. Das war so 
+schön« Leipzig, 2015: Ein Polizist lobt in einem Chat mit einem stadtbekannten Neonazi dessen 
+Verschwörungstheorien als »weise Worte« Dresden, 2017: Polizisten präsentieren ein Transportfahrzeug. Auf den 
+Sitzen: Stickereien, die an NS-Symbole erinnern Berlin, 2017: Ein Beamter schließt eine SMS an einen 
+Vorgesetzten mit »88«, dem Code für »Heil Hitler«
+***"
+2019-05,Main Corpus,2019-05(64).ZIP,Wie umgehen mit Trumps Amerika_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wie umgehen mit Trumps Amerika_.PDF,Wie umgehen mit Trumps Amerika?,wie umgehen mit trumps amerika,Frankfurter Rundschau,frankfurter rundschau,Montag 27. Mai 2019,,MEINUNG; S. 10,717,4810,b25aabe15d224b2e79cc3ab3055abb32b02192a4,,unique,keep,,no,,no,,,5811,yes,commentary_noncore,,,,"I ch lebe als US-Amerikanerin nun seit über dreißig Jahren in Deutschland. Daher sind mir Phasen des stärkeren 
 anti-amerikanischen Sentiments bekannt. Ich denke an die achtziger Jahre zur Zeit der Stationierung der Pershing 
 II-Raketen. Damals hieß es: ""Je kürzer die Reichweite, umso toter die Deutschen."" Ich erinnere mich auch gut an 
 die US-geführte Koalition der Willigen und deren umstrittenen Einmarsch in den Irak 2003. Damals in Freiburg 
@@ -2442,7 +3360,7 @@ wird. Ein amtierender Präsident wie Trump lässt sich nur schwer abwählen. Mit
 Kandidatinnen und Kanditaten weiß auch die demokratische Partei noch nicht, was sie will. Die Antwort muss eine 
 deutsche und europäische Strategie sein, wie mit diesem ablehnenden und unilateralen Amerika umzugehen ist.
 Greta Olson ist Amerikanistik-Professorin an der Uni Gießen."
-2019-05,Main Corpus,2019-05(50).ZIP,Wiener Lehren für die Union In Deutschland galt der österreichische Kanzler als Gegenbild zur späten.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wiener Lehren für die Union In Deutschland galt der österreichische Kanzler als Gegenbild zur späten.PDF,Wiener Lehren für die Union; In Deutschland galt der österreichische Kanzler als Gegenbild zur späten Merkel.,wiener lehren für die union in deutschland galt der österreichische kanzler als gegenbild zur späten merkel,Die Welt,die welt,Dienstag 21. Mai 2019,Robin Alexander,FORUM; Leitartikel; S. 3; Ausg. 117,1032,7491,c3ae1f4a3588028eba961414e07b1439a5105ab7,,unique,keep,,no,,no,,,8927,yes,commentary_noncore,,,,"Es gibt zwei Sebastian Kurz. Der eine ist der österreichische Bundeskanzler, dessen rechtspopulistischer 
+2019-05,Main Corpus,2019-05(64).ZIP,Wiener Lehren für die Union In Deutschland galt der österreichische Kanzler als Gegenbild zur späten.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Wiener Lehren für die Union In Deutschland galt der österreichische Kanzler als Gegenbild zur späten.PDF,Wiener Lehren für die Union; In Deutschland galt der österreichische Kanzler als Gegenbild zur späten Merkel.,wiener lehren für die union in deutschland galt der österreichische kanzler als gegenbild zur späten merkel,Die Welt,die welt,Dienstag 21. Mai 2019,Robin Alexander,FORUM; Leitartikel; S. 3; Ausg. 117,1032,7491,c3ae1f4a3588028eba961414e07b1439a5105ab7,,unique,keep,,no,,no,,,8927,yes,commentary_noncore,,,,"Es gibt zwei Sebastian Kurz. Der eine ist der österreichische Bundeskanzler, dessen rechtspopulistischer 
 Stellvertreter sein Land gerade vor der ganzen Welt blamiert hat. Kurz' Regierung ist gescheitert. Ob er es schafft, 
 seine Reformagenda und seine Karriere mit anständigeren Partnern fortzusetzen, entscheiden bald die 
 österreichischen Wähler. Aber der andere Sebastian Kurz ist eine deutsche Geschichte. Es ist die Geschichte einer 
@@ -2518,7 +3436,7 @@ Nun hat ihn sein rechter Koalitionspartner blamier....
 Die CDU ist gewarnt - auchin der sächsischen AfD gibt es zahlreiche kleine Straches
  robin.alexander@welt.de (robin.alexander@welt.de ) 
 Original Gesamtseiten-PDF"
-2019-05,Main Corpus,2019-05(50).ZIP,Worte schieben sich vor den Menschen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Worte schieben sich vor den Menschen.PDF,Worte schieben sich vor den Menschen,worte schieben sich vor den menschen,Frankfurter Rundschau,frankfurter rundschau,Montag 6. Mai 2019,,MAGAZIN; S. 18,1262,9001,9c15afda23f6ccf66941942edc8ac554a5f13dbe,,unique,keep,,no,,no,,,9846,no,,,,,"U nsere politischen Debatten werden bestimmt von einer Parallelgesellschaft alter weißer Männer. Aufgeheizt von 
+2019-05,Main Corpus,2019-05(64).ZIP,Worte schieben sich vor den Menschen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Worte schieben sich vor den Menschen.PDF,Worte schieben sich vor den Menschen,worte schieben sich vor den menschen,Frankfurter Rundschau,frankfurter rundschau,Montag 6. Mai 2019,,MAGAZIN; S. 18,1262,9001,9c15afda23f6ccf66941942edc8ac554a5f13dbe,,unique,keep,,no,,no,,,9846,no,,,,,"U nsere politischen Debatten werden bestimmt von einer Parallelgesellschaft alter weißer Männer. Aufgeheizt von 
 amokartigen Fragestellungen, erliegen sie der Illusion, es könnte angebracht sein, draufzuhauen. Der rhetorische 
 Trick besteht darin, Nichtanwesende mit Erwartungen zu foltern, die selbstverständlich klingen. Wenn Menschen 
 ohne deutsche Staatsbürgerschaft morden, folgt die Klarstellung: ""Sie haben nicht zu morden!"" Wenn 
@@ -2618,7 +3536,7 @@ Graphic
  
 ""So ist der Mensch: Heute bringt er diezarten Blätter der Hoffnung hervor, morgen ihre Blüten.""William 
 Shakespeare Fotos: Getty (2)"
-2019-05,Main Corpus,2019-05(50).ZIP,Zahl politisch motivierter Straftaten ist gesunken Kriminalität Niedersachsens Innenminister Boris P.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Zahl politisch motivierter Straftaten ist gesunken Kriminalität Niedersachsens Innenminister Boris P.PDF,Zahl politisch motivierter Straftaten ist gesunken Kriminalität Niedersachsens Innenminister Boris Pistorius sieht,zahl politisch motivierter straftaten ist gesunken kriminalität niedersachsens innenminister boris pistorius sieht,Nordwest-Zeitung,nordwestzeitung,07. Mai 2019,,NIEDERSACHSEN; S. 6,391,2924,9f9c658cfcc29dfc10722a1da9a3ad7bdd5025af,,unique,keep,,no,,no,,,4192,no,,,,,"Hannover - Die politisch motivierte Kriminalität in Niedersachsen ist weiter rückläufig: Die Polizei registrierte im 
+2019-05,Main Corpus,2019-05(64).ZIP,Zahl politisch motivierter Straftaten ist gesunken Kriminalität Niedersachsens Innenminister Boris P.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Zahl politisch motivierter Straftaten ist gesunken Kriminalität Niedersachsens Innenminister Boris P.PDF,Zahl politisch motivierter Straftaten ist gesunken Kriminalität Niedersachsens Innenminister Boris Pistorius sieht,zahl politisch motivierter straftaten ist gesunken kriminalität niedersachsens innenminister boris pistorius sieht,Nordwest-Zeitung,nordwestzeitung,07. Mai 2019,,NIEDERSACHSEN; S. 6,391,2924,9f9c658cfcc29dfc10722a1da9a3ad7bdd5025af,,unique,keep,,no,,no,,,4192,no,,,,,"Hannover - Die politisch motivierte Kriminalität in Niedersachsen ist weiter rückläufig: Die Polizei registrierte im 
 vergangenen Jahr 2501 Straftaten mit politischem Hintergrund. Das ist ein Achtel weniger als 2017. Gegenüber 
 dem Jahr 2016 ging die Zahl sogar um 40 Prozent zurück. In einigen Deliktfeldern sind die Rückgänge besonders 
 deutlich: Zählte die Polizei im Jahr 2016 noch 70 rechtsmotivierte Angriffe auf Flüchtlingsunterkünfte, waren es 
@@ -2650,7 +3568,7 @@ Pistorius kündigte eine genauere Untersuchung antisemitischer Motive an. Für d
 Antisemitismusbeauftragten des Landes zeigte sich der Minister offen. Allerdings sei dessen Einführung Sache des 
 Parlaments.
 PDF-Datei dieses Dokuments"
-2019-05,Main Corpus,2019-05(50).ZIP,Zu viel Wenn und Aber.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Zu viel Wenn und Aber.PDF,Zu viel Wenn und Aber,zu viel wenn und aber,Frankfurter Rundschau,frankfurter rundschau,Freitag 10. Mai 2019,,MEINUNG; S. 11,607,4296,884de86319ac65783ec43fe103237ca684b3e3fe,,unique,drop,commentary_noncore,no,,no,,,5612,yes,commentary_noncore,,,,"E s geht um die Zukunft unseres Landes."" Deutschland sei faktisch bereits ein Einwanderungsland, es brauche 
+2019-05,Main Corpus,2019-05(64).ZIP,Zu viel Wenn und Aber.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Zu viel Wenn und Aber.PDF,Zu viel Wenn und Aber,zu viel wenn und aber,Frankfurter Rundschau,frankfurter rundschau,Freitag 10. Mai 2019,,MEINUNG; S. 11,607,4296,884de86319ac65783ec43fe103237ca684b3e3fe,,unique,drop,commentary_noncore,no,,no,,,5612,yes,commentary_noncore,,,,"E s geht um die Zukunft unseres Landes."" Deutschland sei faktisch bereits ein Einwanderungsland, es brauche 
 ""dauerhafte und befristete Zuwanderung für den Arbeitsmarkt, so wie andere Länder auch"". Es gehe um einen 
 notwendigen Paradigmenwechsel und ein Gesetz, das die bestehenden Vorschriften zur Zuwanderung neu fasst.
 Diese Sätze stammen nicht etwa von Innenminister Horst Seehofer oder Arbeitsminister Hubertus Heil. Oder aus 
@@ -2696,7 +3614,29 @@ Deshalb gilt es, massiv in Weiterbildung zu investieren, in eine bessere Vereinb
 Programme, die Langzeitarbeitslosen wieder Perspektiven bieten. Nur so gibt es am Ende auch die notwendige 
 Akzeptanz für den Paradigmenwechsel, der jetzt notwendig ist.
 Rasmus Buchsteiner"
-2019-05,Main Corpus,2019-05(50).ZIP,Zuschüsse für Meerbuscher Flüchtlingsinitiativen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Zuschüsse für Meerbuscher Flüchtlingsinitiativen.PDF,Zuschüsse für Meerbuscher Flüchtlingsinitiativen,zuschüsse für meerbuscher flüchtlingsinitiativen,Rheinische Post,rheinische post,Mittwoch 15. Mai 2019,,S. 29,189,1540,d98725f7b775fd677d13812f958de43cf68b0dc9,,unique,keep,,no,,no,,,2193,no,,,,,"(RP) Das Landesprogramm „Komm-an NRW“ unterstützt die Integration von Flüchtlingen in den Kommunen und 
+2019-05,Main Corpus,2019-05(64).ZIP,Zunehmend unattraktiv Bundesagentur warnt vor Rückgang der Arbeitsmigration aus anderen EU-Staaten.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Zunehmend unattraktiv Bundesagentur warnt vor Rückgang der Arbeitsmigration aus anderen EU-Staaten.PDF,Zunehmend unattraktiv; Bundesagentur warnt vor Rückgang der Arbeitsmigration aus anderen EU-Staaten,zunehmend unattraktiv bundesagentur warnt vor rückgang der arbeitsmigration aus anderen eustaaten,Berliner Zeitung,berliner zeitung,09. Mai 2019,RASMUS BUCHSTEINER (RND),WIRTSCH; S. 7; Ausg. 106,263,2108,0aa2ac0dbe208ead0de8cc2e72b1af1a79a43840,,unique,keep,,no,,no,,,3311,no,,,,,"VON RASMUS BUCHSTEINER (RND) 
+ Die Bundesagentur für Arbeit (BA) warnt vor einem Rückgang der Arbeitsmigration nach Deutschland aus 
+anderen EU-Ländern. ""Deutschland wird als Einwanderungsland für Europäerinnen und Europäer zunehmend 
+unattraktiver, da die Arbeitsbedingungen und Löhne - insbesondere in Engpassberufen wie der Pflege - häufig nicht 
+ihren Vorstellungen entsprechen"", heißt es in einer internen Analyse der Nürnberger Behörde, die dem 
+RedaktionsNetzwerk Deutschland (RND) vorliegt. ""Steigende Mieten und Lebenshaltungskosten sowie hohe 
+Sozialabgaben mindern ebenfalls den Anreiz, eine Tätigkeit in Deutschland aufzunehmen."" Die Möglichkeiten von 
+Fachkräfteeinwanderung aus dem europäischen Ausland seien endlich und sollten ""durch die verstärkte 
+Rekrutierung von Fachkräften aus Drittstaaten"" ergänzt werden. 
+ Der Bundestag berät an diesem Donnerstag erstmals über die Pläne der Bundesregierung zur 
+Fachkräftezuwanderung, die auf einen verstärkten Zuzug von qualifizierten Arbeitsmigranten aus Nicht-EU-Ländern 
+abzielen. Die Ausgestaltung des Gesetzes ist innerhalb der Unionsfraktion noch umstritten. 
+ Laut Bundesagentur für Arbeit verzeichnen immer mehr EU-Länder ähnliche berufliche Engpässe wie 
+Deutschland. Viele europäische Länder seien ebenfalls mit demografischen Herausforderungen konfrontiert. Dort 
+liege die Arbeitslosenquote inzwischen ähnlich niedrig wie in der Bundesrepublik, in Polen und Rumänien betrage 
+sie circa 4 Prozent. ""Insgesamt ist festzustellen, dass viele mobile Arbeitnehmerinnen und -nehmer in ihre 
+Heimatländer zurückkehren"", heißt es in der BA-Analyse. Viele Mangelberufe in Deutschland - etwa in Gastronomie 
+und Pflege - seien inzwischen auch in anderen EU-Ländern zu Engpassberufen geworden. Staaten wie Polen, 
+Bulgarien und Kroatien seien inzwischen dazu übergangen, selbst Fachkräfte anzuwerben. Die BA reagiert mit der 
+Analyse auf eine Anfrage des CDU-Bundestagsabgeordneten Peter Weiß. ""Wir werden uns sehr anstrengen 
+müssen, überhaupt Fachkräfte nach Deutschland zu bekommen"", sagt der arbeitsmarktpolitische Sprecher der 
+Unionsfraktion."
+2019-05,Main Corpus,2019-05(64).ZIP,Zuschüsse für Meerbuscher Flüchtlingsinitiativen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\Zuschüsse für Meerbuscher Flüchtlingsinitiativen.PDF,Zuschüsse für Meerbuscher Flüchtlingsinitiativen,zuschüsse für meerbuscher flüchtlingsinitiativen,Rheinische Post,rheinische post,Mittwoch 15. Mai 2019,,S. 29,189,1540,d98725f7b775fd677d13812f958de43cf68b0dc9,,unique,keep,,no,,no,,,2193,no,,,,,"(RP) Das Landesprogramm „Komm-an NRW“ unterstützt die Integration von Flüchtlingen in den Kommunen und 
 das bürgerschaftliche Engagement in der Flüchtlingshilfe. Das Land hat dem Kreis für das Jahr 2019 Zuschüsse in 
 Höhe von mehr als 172.450 Euro bewilligt, die nun an 13 Einrichtungen, Vereine und Initiativen im Kreis 
 weitergeleitet wurden. Auch Meerbuscher Initiativen waren dabei. Über Fördermittel freuen sich die Diakonie 
@@ -2712,7 +3652,7 @@ Flüchtlingsinitiativen, Träger der freien Wohlfahrtspflege, Kirchengemeinden, 
 Freiwilligenagenturen oder Migranten-Selbsthilfe-Organisationen sein. Die Anträge werden vorab mit der jeweiligen 
 Kommune abgestimmt, damit gewährleistet ist, dass die beabsichtigten Maßnahmen mit ihren 
 Integrationsbemühungen vereinbar sind und diese unterstützen."
-2019-05,Main Corpus,2019-05(50).ZIP,„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer(2).PDF,„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer,integration ist ein grosser kraftakt der filmemacher hat an einer kölner schule den alltag in einer,Rheinische Post,rheinische post,Samstag 11. Mai 2019,"Krings, Dorothee",S. 25,946,6115,6cd127b903e823f0fe58d20e9fb7cf6c459a8d70,exact_002,duplicate_exact,review,,no,,no,,,7031,no,,exact_002,,,"Was ist der Unterschied zwischen finden und erfinden? Und wie hieß nochmal der Mathematiker – Albert 
+2019-05,Main Corpus,2019-05(64).ZIP,„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer(2).PDF,„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer,integration ist ein grosser kraftakt der filmemacher hat an einer kölner schule den alltag in einer,Rheinische Post,rheinische post,Samstag 11. Mai 2019,"Krings, Dorothee",S. 25,946,6115,6cd127b903e823f0fe58d20e9fb7cf6c459a8d70,exact_003,duplicate_exact,review,,no,,no,,,7031,no,,exact_003,,,"Was ist der Unterschied zwischen finden und erfinden? Und wie hieß nochmal der Mathematiker – Albert 
 Schweinsteiger? Ute Vecchio unterrichtet an einer Realschule in Köln Kinder, die gerade erst in Deutschland 
 angekommen sind und Fuß fassen müssen – in der Sprache, in einer Schule, in einem fremden Land. In seiner 
 Doku „Klasse Deutsch“ beobachtet Florian Heinzen-Ziob den Alltag in einer solchen Klasse.
@@ -2781,7 +3721,7 @@ Filmerfahrung gesammelt und an der Hochschule für Medien in Köln Film studiert
 Filmemacher. „Klasse Deutsch“ ist sein zweiter Langfilm.
 Kino Am Montag ist er zur Vorführung seines Films um 19 Uhr im Kino Metropol in Düsseldorf zu Gast und spricht 
 im Anschluss über seine Doku."
-2019-05,Main Corpus,2019-05(50).ZIP,„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer.PDF,„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer,integration ist ein grosser kraftakt der filmemacher hat an einer kölner schule den alltag in einer,Rheinische Post,rheinische post,Samstag 11. Mai 2019,"Krings, Dorothee",S. 25,946,6115,6cd127b903e823f0fe58d20e9fb7cf6c459a8d70,exact_002,duplicate_exact,review,,no,,no,,,7018,no,,exact_002,,,"Was ist der Unterschied zwischen finden und erfinden? Und wie hieß nochmal der Mathematiker – Albert 
+2019-05,Main Corpus,2019-05(64).ZIP,„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2019-05\raw_unarchive\„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer.PDF,„Integration ist ein großer Kraftakt“ Der Filmemacher hat an einer Kölner Schule den Alltag in einer,integration ist ein grosser kraftakt der filmemacher hat an einer kölner schule den alltag in einer,Rheinische Post,rheinische post,Samstag 11. Mai 2019,"Krings, Dorothee",S. 25,946,6115,6cd127b903e823f0fe58d20e9fb7cf6c459a8d70,exact_003,duplicate_exact,review,,no,,no,,,7018,no,,exact_003,,,"Was ist der Unterschied zwischen finden und erfinden? Und wie hieß nochmal der Mathematiker – Albert 
 Schweinsteiger? Ute Vecchio unterrichtet an einer Realschule in Köln Kinder, die gerade erst in Deutschland 
 angekommen sind und Fuß fassen müssen – in der Sprache, in einer Schule, in einem fremden Land. In seiner 
 Doku „Klasse Deutsch“ beobachtet Florian Heinzen-Ziob den Alltag in einer solchen Klasse.

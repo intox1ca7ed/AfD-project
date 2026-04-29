@@ -2,27 +2,27 @@
 
 ## Overall
 
-- Total file count: 50
-- Unique article count after duplicate collapse: 39
+- Total file count: 58
+- Unique article count after duplicate collapse: 47
 - Exact duplicate groups: 7
 - Suspicious near-duplicate groups: 4
 - Repeated regional-edition variant groups: 4
 - Malformed records: 0
-- Keep: 26
+- Keep: 33
 - Review: 22
-- Drop: 2
+- Drop: 3
 
 ## Outlet Frequency
 
 | Publication | Count |
 | --- | ---: |
 | Rheinische Post | 15 |
-| Frankfurter Rundschau | 11 |
+| Frankfurter Rundschau | 14 |
+| taz, die tageszeitung | 6 |
 | Nordwest-Zeitung | 6 |
-| taz, die tageszeitung | 5 |
+| Die Welt | 5 |
 | Welt am Sonntag | 5 |
-| Die Welt | 3 |
-| Der Tagesspiegel | 2 |
+| Der Tagesspiegel | 4 |
 | Berliner Zeitung | 2 |
 | Südwest Presse | 1 |
 ## Duplicate Groups

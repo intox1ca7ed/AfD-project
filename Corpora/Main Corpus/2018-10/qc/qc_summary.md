@@ -2,32 +2,36 @@
 
 ## Overall
 
-- Total file count: 50
-- Unique article count after duplicate collapse: 30
-- Exact duplicate groups: 2
+- Total file count: 94
+- Unique article count after duplicate collapse: 69
+- Exact duplicate groups: 5
 - Suspicious near-duplicate groups: 1
 - Repeated regional-edition variant groups: 1
 - Malformed records: 0
-- Keep: 27
-- Review: 22
-- Drop: 1
+- Keep: 59
+- Review: 30
+- Drop: 5
 
 ## Outlet Frequency
 
 | Publication | Count |
 | --- | ---: |
-| Rheinische Post | 28 |
-| Der Tagesspiegel | 4 |
-| Frankfurter Rundschau | 4 |
-| Die Welt | 4 |
-| taz, die tageszeitung | 4 |
-| Berliner Zeitung | 2 |
-| Südwest Presse | 2 |
-| Nordwest-Zeitung | 2 |
+| Rheinische Post | 42 |
+| taz, die tageszeitung | 12 |
+| Der Tagesspiegel | 9 |
+| Die Welt | 9 |
+| Berliner Zeitung | 8 |
+| Frankfurter Rundschau | 5 |
+| Südwest Presse | 4 |
+| Nordwest-Zeitung | 4 |
+| Welt am Sonntag | 1 |
 ## Duplicate Groups
 
-- exact_001 (12 items): Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(10).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(11).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(15).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(17).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(19).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(20).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(22).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(3).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(4).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(6).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(9).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach.PDF
-- exact_002 (10 items): Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(12).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(13).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(14).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(16).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(18).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(2).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(21).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(5).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(7).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(8).PDF
+- exact_001 (2 items): Die Opfer eines grauenhaften Krieges „Deine Liebe ist Feuer“ feiert am Samstag Premiere auf der Stud(2).PDF | Die Opfer eines grauenhaften Krieges „Deine Liebe ist Feuer“ feiert am Samstag Premiere auf der Stud.PDF
+- exact_002 (4 items): Interkulturelle Tage mit Kochen und Kunst(2).PDF | Interkulturelle Tage mit Kochen und Kunst(3).PDF | Interkulturelle Tage mit Kochen und Kunst(4).PDF | Interkulturelle Tage mit Kochen und Kunst.PDF
+- exact_003 (2 items): Landsleute bedroht und erpresst(2).PDF | Landsleute bedroht und erpresst.PDF
+- exact_004 (9 items): Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(10).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(11).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(15).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(17).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(19).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(20).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(22).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(6).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(9).PDF
+- exact_005 (13 items): Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(12).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(13).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(14).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(16).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(18).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(2).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(21).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(3).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(4).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(5).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(7).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach(8).PDF | Vergewaltigung_ Acht Männer in Haft Nach der Vergewaltigung einer 18-Jährigen in Freiburg sitzen ach.PDF
 
 ## Suspicious Near-Duplicate Groups
 

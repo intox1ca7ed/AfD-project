@@ -2,34 +2,39 @@
 
 ## Overall
 
-- Total file count: 50
-- Unique article count after duplicate collapse: 45
-- Exact duplicate groups: 2
+- Total file count: 99
+- Unique article count after duplicate collapse: 89
+- Exact duplicate groups: 7
 - Suspicious near-duplicate groups: 3
 - Repeated regional-edition variant groups: 3
 - Malformed records: 0
-- Keep: 35
-- Review: 10
-- Drop: 5
+- Keep: 72
+- Review: 20
+- Drop: 7
 
 ## Outlet Frequency
 
 | Publication | Count |
 | --- | ---: |
-| Rheinische Post | 10 |
-| Die Welt | 8 |
-| Der Tagesspiegel | 7 |
-| taz, die tageszeitung | 7 |
+| Rheinische Post | 27 |
+| taz, die tageszeitung | 16 |
+| Die Welt | 13 |
+| Der Tagesspiegel | 11 |
+| Frankfurter Rundschau | 8 |
+| Nordwest-Zeitung | 7 |
+| Berliner Zeitung | 6 |
 | Südwest Presse | 6 |
-| Berliner Zeitung | 4 |
-| Frankfurter Rundschau | 3 |
+| Welt am Sonntag | 3 |
 | Die ZEIT (inklusive ZEIT Magazin) | 2 |
-| Nordwest-Zeitung | 2 |
-| Welt am Sonntag | 1 |
 ## Duplicate Groups
 
-- exact_001 (2 items): Das Herz ist eng Analyse Der Flüchtlingspolitik ist der Kompass abhandengekommen, nachdem die Folgen(2).PDF | Das Herz ist eng Analyse Der Flüchtlingspolitik ist der Kompass abhandengekommen, nachdem die Folgen.PDF
-- exact_002 (2 items): Deutschland muss menschlich bleiben(2).PDF | Deutschland muss menschlich bleiben.PDF
+- exact_001 (2 items): Bundesregierung ringt um Aufnahme von Moria-Flüchtlingen(2).PDF | Bundesregierung ringt um Aufnahme von Moria-Flüchtlingen.PDF
+- exact_002 (2 items): Das Herz ist eng Analyse Der Flüchtlingspolitik ist der Kompass abhandengekommen, nachdem die Folgen(2).PDF | Das Herz ist eng Analyse Der Flüchtlingspolitik ist der Kompass abhandengekommen, nachdem die Folgen.PDF
+- exact_003 (2 items): Deutschland muss menschlich bleiben(2).PDF | Deutschland muss menschlich bleiben.PDF
+- exact_004 (2 items): Einigung nach Ultimatum Nach heftigem Streit haben sich Union und SPD geeinigt, zusätzlich rund 1500(2).PDF | Einigung nach Ultimatum Nach heftigem Streit haben sich Union und SPD geeinigt, zusätzlich rund 1500.PDF
+- exact_005 (2 items): Handeln nach dem christlichen Imperativ Das griechische Flüchtlingsdrama appelliert an Europa als We(2).PDF | Handeln nach dem christlichen Imperativ Das griechische Flüchtlingsdrama appelliert an Europa als We.PDF
+- exact_006 (2 items): Laschet sagt schnelle Hilfe für Migranten in Moria zu Zahlreiche Politiker erhöhen den Druck auf Bun(2).PDF | Laschet sagt schnelle Hilfe für Migranten in Moria zu Zahlreiche Politiker erhöhen den Druck auf Bun.PDF
+- exact_007 (2 items): NRW-Städte wollen Flüchtlinge aufnehmen Nach dem Brand im Lager Moria möchten einige Kommunen möglic(2).PDF | NRW-Städte wollen Flüchtlinge aufnehmen Nach dem Brand im Lager Moria möchten einige Kommunen möglic.PDF
 
 ## Suspicious Near-Duplicate Groups
 
