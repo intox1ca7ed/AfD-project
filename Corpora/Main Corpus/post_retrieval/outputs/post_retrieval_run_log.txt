@@ -1,0 +1,2 @@
+2026-04-29T20:49:36 | master_rows=10541 text_rows=10541 months=156 parquet=yes
+2026-04-29T20:50:11 | master_rows=10541 text_rows=10541 months=156 parquet=yes

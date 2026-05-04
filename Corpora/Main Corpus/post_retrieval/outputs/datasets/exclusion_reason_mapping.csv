@@ -1,0 +1,11 @@
+﻿month_folder,source_file_name,raw_exclusion_reason,standardized_exclusion_reason
+2025-12,Unqualifizierte als Erste zurück Dürfen letztlich alle syrischen Flüchtlinge in Deutschland bleiben_.PDF,commentary_noncore,commentary_noncore
+2025-12,Trump 2.0.PDF,duplicate_exact,duplicate_exact
+2025-09,Vom Flüchtling zum erfolgreichen Bäckermeister.PDF,duplicate_near,duplicate_near
+2025-12,No Headline In Original.PDF,malformed,malformed_or_unreadable
+2025-03,"„Briefmarke auf den Schmarotzerarsch und raus“ Ausländerfeindliche Kommentare, Werbung für die AfD,(2).PDF",commentary_noncore; reader_letter,reader_letter_or_opinion
+2025-03,"„Briefmarke auf den Schmarotzerarsch und raus“ Ausländerfeindliche Kommentare, Werbung für die AfD,.PDF",reader_letter,reader_letter_or_opinion
+2025-12,Fünf Mobilheime als Reserve Flüchtlinge Wardenburg schafft zusätzliche Unterkünfte an(2).PDF,regional_variant,regional_variant
+2022-10,Mehr Platz für Geflüchtete.PDF,regional_variant_review,unknown_or_missing
+2025-12,"„Ein Spiel auf Zeit“ Asylpolitik Mehr als 1200 Afghanen stecken in Pakistan fest, obwohl Deutschland.PDF",unique,unknown_or_missing
+2013-08,Kritik des Flüchtlingsrats.PDF,very_short_low_value,very_short_low_value

@@ -1,0 +1,16 @@
+Retrieval Freeze Checks
+freeze_date=2026-05-04
+
+1) Are all 156 monthly batches present? YES (found=156)
+2) Are all expected shock corpora present? YES (missing=none)
+3) Are any monthly folders missing required outputs? none
+4) Are there duplicate month folders? none
+5) Are there naming inconsistencies? none
+6) Any obvious broken paths / empty registries? Chemnitz::chemnitz_extra
+
+Warnings (non-blocking):
+- Shock cologne: frozen_with_warning (warnings=raw_unarchive_empty)
+- Shock corrective_revelation: frozen_with_warning (warnings=raw_unarchive_empty)
+
+Items requiring manual check (blockers):
+- Shock chemnitz_extra: needs_manual_check (missing=Corpora\Chemnitz\qc\extra\article_registry.csv; warnings=raw_unarchive_empty)

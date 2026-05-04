@@ -1,0 +1,6 @@
+run_timestamp,pipeline_status,step_name,step_status,duration_seconds,return_code,missing_outputs
+20260504_113320,success,freeze_retrieval,success,3.321,0,
+20260504_113320,success,build_master_articles,success,2.686,0,
+20260504_113320,success,build_monthly_summary,success,0.926,0,
+20260504_113320,success,descriptive_qc,success,2.53,0,
+20260504_113320,success,indicator_prep,success,1.663,0,

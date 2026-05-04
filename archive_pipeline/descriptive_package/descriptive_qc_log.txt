@@ -1,0 +1,36 @@
+Descriptive QC Log
+build_timestamp=2026-05-04T11:33:30
+input_master=C:\PythonProjects\AfD-project\master_tables\master_articles_all.csv
+input_monthly=C:\PythonProjects\AfD-project\monthly_tables\monthly_summary_main_corpus.csv
+input_freeze_manifest=C:\PythonProjects\AfD-project\freeze\retrieval_freeze_manifest.csv
+
+main_rows=10541 kept_rows=8891 dropped_rows=1632
+monthly_rows=156 expected_months=156
+missing_months=none
+sumback_raw_match=YES
+sumback_kept_match=YES
+sumback_dropped_match=YES
+
+Generated tables:
+- anomaly_scan_summary.csv
+- article_length_bins.csv
+- article_length_summary.csv
+- drop_reasons_by_year.csv
+- drop_reasons_overall.csv
+- duplicate_patterns_by_month.csv
+- malformed_by_year.csv
+- source_concentration_by_year.csv
+- source_dominance_by_month.csv
+- suspicious_months_flags.csv
+- top_sources_by_year_top10.csv
+- top_sources_overall.csv
+- volume_by_month.csv
+- volume_by_year.csv
+
+Generated figures:
+- drop_reasons_bar.png
+- duplicate_burden_over_time.png
+- monthly_kept_article_count_over_time.png
+- top15_sources.png
+- word_count_distribution.png
+- yearly_kept_article_totals.png

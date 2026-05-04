@@ -1,0 +1,70 @@
+Indicator-Ready Schema Specification
+
+Build timestamp: 2026-05-04T11:33:32
+
+1) Recommended join keys
+- Article-level primary key: article_id
+- Article-to-month key: month (YYYY-MM in master table) joined to monthly month_id
+- Monthly primary key: month_id
+- Batch traceability key: batch_id (equal to month_id for Main Corpus monthly panel)
+
+2) Recommended polling merge keys
+- Poll merge key: month_id (YYYY-MM)
+- Suggested polling columns (future): poll_date, poll_month_id, afd_support_percent, poll_source
+- Merge mode recommendation: left join from monthly_summary_main_corpus to polling table on month_id
+
+3) Date standardization rules
+- Article date must be ISO YYYY-MM-DD in `date` where parseable.
+- Monthly key must remain YYYY-MM in `month_id` and `month` (article-level month).
+- Keep original raw date text in `date_raw` for auditability.
+- Never use locale-formatted strings as join keys.
+
+4) Naming conventions
+- Structural/raw variables: keep current names unchanged (e.g., raw_article_count, kept_article_count, drop_reason).
+- Model-derived future variables: prefix with `ind_`.
+- Binary dummies: suffix `_dummy` or `_flag`.
+- Shares/rates: suffix `_share`.
+- Score/probability outputs: suffix `_score`.
+
+5) Structural vs model-derived distinction
+Structural/raw variables (already populated):
+- IDs and join keys: article_id, batch_id, month_id, month
+- Corpus/process metadata: corpus_name, corpus_type, protocol_version, freeze_status
+- QC and filtering fields: keep_drop_review, drop_reason, duplicate_category, malformed_flag
+- Core volume/length fields: raw_article_count, kept_article_count, dropped_article_count, word_count
+
+Model-derived variables (currently placeholders only):
+- ind_sentiment_score
+- ind_negative_tone_score
+- ind_migration_tone_score
+- ind_security_tone_score
+- ind_topic_label
+- ind_topic_confidence
+- ind_shock_window_flag
+- ind_shock_name
+- ind_source_family
+- ind_regional_flag
+- ind_article_count_indicator
+- ind_log_article_count
+- ind_standardized_salience
+- ind_negative_share
+- ind_migration_share
+- ind_security_share
+- ind_mean_sentiment
+- ind_source_concentration_index
+- ind_shock_month_dummy
+- ind_post_shock_window_dummy
+
+6) Backward-compatibility rules
+- Do not rename article_id, month_id, batch_id, or keep_drop_review.
+- New model columns must be additive only.
+- Existing structural columns must retain type/meaning across versions.
+- If a future indicator definition changes, add version metadata instead of reusing a column with different semantics.
+
+7) Output files produced in this task
+- indicator_prep/indicator_blueprint.txt
+- indicator_prep/indicator_ready_schema.txt
+- indicator_prep/master_articles_all_indicator_ready.csv
+- indicator_prep/master_articles_all_indicator_ready.parquet
+- indicator_prep/monthly_summary_main_corpus_indicator_ready.csv
+- indicator_prep/monthly_summary_main_corpus_indicator_ready.parquet

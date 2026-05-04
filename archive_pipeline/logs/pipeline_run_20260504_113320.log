@@ -1,0 +1,96 @@
+Pipeline Run Log
+run_timestamp=2026-05-04T11:33:20
+project_root=C:\PythonProjects\AfD-project
+config=C:\PythonProjects\AfD-project\workflow\pipeline_config.json
+
+[1/5] step=freeze_retrieval
+start=2026-05-04T11:33:20
+script=freeze/build_retrieval_freeze.py
+inputs=Corpora; Corpora/corpora-protocol.md
+expected_outputs=freeze/retrieval_freeze_note.txt; freeze/retrieval_freeze_manifest.csv; freeze/retrieval_freeze_checks.txt
+end=2026-05-04T11:33:24
+duration_seconds=3.321
+return_code=0
+stdout_begin
+Wrote: C:\PythonProjects\AfD-project\freeze\retrieval_freeze_note.txt
+Wrote: C:\PythonProjects\AfD-project\freeze\retrieval_freeze_manifest.csv
+Wrote: C:\PythonProjects\AfD-project\freeze\retrieval_freeze_checks.txt
+main_batches_found=156
+warnings=2 blockers=1
+stdout_end
+status=success
+
+[2/5] step=build_master_articles
+start=2026-05-04T11:33:24
+script=master_tables/build_master_articles.py
+inputs=freeze/retrieval_freeze_manifest.csv
+expected_outputs=master_tables/master_articles_all.csv; master_tables/master_articles_all.parquet; master_tables/master_articles_kept.csv; master_tables/master_articles_kept.parquet; master_tables/master_articles_data_dictionary.txt; master_tables/master_articles_build_log.txt
+end=2026-05-04T11:33:26
+duration_seconds=2.686
+return_code=0
+stdout_begin
+Wrote: C:\PythonProjects\AfD-project\master_tables\master_articles_all.csv
+Wrote: C:\PythonProjects\AfD-project\master_tables\master_articles_kept.csv
+Wrote: C:\PythonProjects\AfD-project\master_tables\master_articles_all.parquet
+Wrote: C:\PythonProjects\AfD-project\master_tables\master_articles_kept.parquet
+Wrote: C:\PythonProjects\AfD-project\master_tables\master_articles_data_dictionary.txt
+Wrote: C:\PythonProjects\AfD-project\master_tables\master_articles_build_log.txt
+rows_all=10708 rows_kept=9001
+batches_processed=159 batches_failed=1
+stdout_end
+status=success
+
+[3/5] step=build_monthly_summary
+start=2026-05-04T11:33:26
+script=monthly_tables/build_monthly_summary_main.py
+inputs=master_tables/master_articles_all.csv; freeze/retrieval_freeze_manifest.csv
+expected_outputs=monthly_tables/monthly_summary_main_corpus.csv; monthly_tables/monthly_summary_main_corpus.parquet; monthly_tables/monthly_summary_data_dictionary.txt; monthly_tables/monthly_summary_build_log.txt
+end=2026-05-04T11:33:27
+duration_seconds=0.926
+return_code=0
+stdout_begin
+Wrote: C:\PythonProjects\AfD-project\monthly_tables\monthly_summary_main_corpus.csv
+Wrote: C:\PythonProjects\AfD-project\monthly_tables\monthly_summary_main_corpus.parquet
+Wrote: C:\PythonProjects\AfD-project\monthly_tables\monthly_summary_data_dictionary.txt
+Wrote: C:\PythonProjects\AfD-project\monthly_tables\monthly_summary_build_log.txt
+rows=156
+stdout_end
+status=success
+
+[4/5] step=descriptive_qc
+start=2026-05-04T11:33:27
+script=descriptive_package/build_descriptive_qc.py
+inputs=master_tables/master_articles_all.csv; monthly_tables/monthly_summary_main_corpus.csv; freeze/retrieval_freeze_manifest.csv
+expected_outputs=descriptive_package/descriptive_statistics_report.md; descriptive_package/descriptive_qc_log.txt; descriptive_package/tables; descriptive_package/figures
+end=2026-05-04T11:33:30
+duration_seconds=2.53
+return_code=0
+stdout_begin
+Wrote: C:\PythonProjects\AfD-project\descriptive_package\descriptive_statistics_report.md
+Wrote: C:\PythonProjects\AfD-project\descriptive_package\descriptive_qc_log.txt
+Tables: 14
+Figures: 6
+stdout_end
+status=success
+
+[5/5] step=indicator_prep
+start=2026-05-04T11:33:30
+script=indicator_prep/build_indicator_prep.py
+inputs=master_tables/master_articles_all.csv; monthly_tables/monthly_summary_main_corpus.csv; descriptive_package/descriptive_statistics_report.md
+expected_outputs=indicator_prep/indicator_blueprint.txt; indicator_prep/indicator_ready_schema.txt; indicator_prep/master_articles_all_indicator_ready.csv; indicator_prep/monthly_summary_main_corpus_indicator_ready.csv
+end=2026-05-04T11:33:32
+duration_seconds=1.663
+return_code=0
+stdout_begin
+Wrote: C:\PythonProjects\AfD-project\indicator_prep\indicator_blueprint.txt
+Wrote: C:\PythonProjects\AfD-project\indicator_prep\indicator_ready_schema.txt
+Wrote: C:\PythonProjects\AfD-project\indicator_prep\master_articles_all_indicator_ready.csv
+Wrote: C:\PythonProjects\AfD-project\indicator_prep\master_articles_all_indicator_ready.parquet
+Wrote: C:\PythonProjects\AfD-project\indicator_prep\monthly_summary_main_corpus_indicator_ready.csv
+Wrote: C:\PythonProjects\AfD-project\indicator_prep\monthly_summary_main_corpus_indicator_ready.parquet
+Wrote: C:\PythonProjects\AfD-project\indicator_prep\indicator_prep_build_log.txt
+stdout_end
+status=success
+
+pipeline_status=success
+pipeline_end_timestamp=2026-05-04T11:33:32

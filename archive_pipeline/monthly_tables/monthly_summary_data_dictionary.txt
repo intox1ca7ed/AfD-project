@@ -1,0 +1,58 @@
+Monthly Summary Data Dictionary
+
+Dataset purpose:
+- One-row-per-month structural summary for Main Corpus (2013-01 to 2025-12).
+- Time-series-ready table for later merge with AfD polling and later indicator construction.
+
+Count definitions:
+- raw_article_count: all rows from master_articles_all for the month (keep + drop + review).
+- kept_article_count: rows where keep_drop_review == keep.
+- dropped_article_count: rows where keep_drop_review == drop.
+- keep_share / kept_share_of_raw: kept_article_count / raw_article_count.
+- dropped_share: dropped_article_count / raw_article_count.
+
+Source-top fields:
+- source_top1/2/3 and counts are computed from kept rows only.
+- Ties are broken lexicographically by publication name.
+
+Duplicate-related fields:
+- duplicate_exact_count, duplicate_near_count, regional_variant_count are drop_reason-based counts from dropped rows.
+- duplicate_burden = (duplicate_exact_count + duplicate_near_count + regional_variant_count) / raw_article_count.
+
+Shock placeholders:
+- shock_month_flag is 1 for 2016-01, 2018-08, 2024-01; else 0.
+- shock_window_flag_placeholder reserved for later custom window definitions.
+
+Columns:
+- month_id: Month key in YYYY-MM format.
+- year: Calendar year integer extracted from month_id.
+- month: Calendar month integer (1-12) extracted from month_id.
+- batch_id: Main corpus batch identifier (same as month_id).
+- raw_article_count: All master rows in month (keep + drop + review).
+- kept_article_count: Count of keep rows in month.
+- dropped_article_count: Count of drop rows in month.
+- keep_share: kept_article_count divided by raw_article_count.
+- unique_source_count: Number of distinct publications among kept rows.
+- total_word_count_kept: Sum of word_count over kept rows.
+- mean_word_count_kept: Mean word_count over kept rows.
+- median_word_count_kept: Median word_count over kept rows.
+- duplicate_exact_count: Dropped rows with drop_reason=duplicate_exact.
+- duplicate_near_count: Dropped rows with drop_reason=duplicate_near.
+- regional_variant_count: Dropped rows with drop_reason=regional_variant.
+- malformed_count: Rows with malformed_flag=yes (all row types).
+- reader_letter_drop_count: Dropped rows with drop_reason=reader_letter.
+- commentary_noncore_drop_count: Dropped rows with drop_reason=commentary_noncore.
+- very_short_low_value_drop_count: Dropped rows with drop_reason=very_short_low_value.
+- source_top1: Most frequent kept-row publication in month.
+- source_top1_count: Count for source_top1.
+- source_top2: Second most frequent kept-row publication in month.
+- source_top2_count: Count for source_top2.
+- source_top3: Third most frequent kept-row publication in month.
+- source_top3_count: Count for source_top3.
+- freeze_status: Batch freeze status from retrieval_freeze_manifest.
+- notes: Batch notes from retrieval_freeze_manifest.
+- kept_share_of_raw: Alias of keep_share for explicit naming.
+- duplicate_burden: Share of raw rows dropped for duplicate reasons.
+- dropped_share: Share of raw rows with keep_drop_review=drop.
+- shock_month_flag: Flag for designated shock months.
+- shock_window_flag_placeholder: Reserved placeholder for future shock-window variables.

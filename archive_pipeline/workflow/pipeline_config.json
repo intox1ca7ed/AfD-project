@@ -1,0 +1,78 @@
+﻿{
+  "project_root": "C:/PythonProjects/AfD-project",
+  "python_executable": "python",
+  "steps": [
+    {
+      "name": "freeze_retrieval",
+      "script": "freeze/build_retrieval_freeze.py",
+      "inputs": [
+        "Corpora",
+        "Corpora/corpora-protocol.md"
+      ],
+      "outputs": [
+        "freeze/retrieval_freeze_note.txt",
+        "freeze/retrieval_freeze_manifest.csv",
+        "freeze/retrieval_freeze_checks.txt"
+      ]
+    },
+    {
+      "name": "build_master_articles",
+      "script": "master_tables/build_master_articles.py",
+      "inputs": [
+        "freeze/retrieval_freeze_manifest.csv"
+      ],
+      "outputs": [
+        "master_tables/master_articles_all.csv",
+        "master_tables/master_articles_all.parquet",
+        "master_tables/master_articles_kept.csv",
+        "master_tables/master_articles_kept.parquet",
+        "master_tables/master_articles_data_dictionary.txt",
+        "master_tables/master_articles_build_log.txt"
+      ]
+    },
+    {
+      "name": "build_monthly_summary",
+      "script": "monthly_tables/build_monthly_summary_main.py",
+      "inputs": [
+        "master_tables/master_articles_all.csv",
+        "freeze/retrieval_freeze_manifest.csv"
+      ],
+      "outputs": [
+        "monthly_tables/monthly_summary_main_corpus.csv",
+        "monthly_tables/monthly_summary_main_corpus.parquet",
+        "monthly_tables/monthly_summary_data_dictionary.txt",
+        "monthly_tables/monthly_summary_build_log.txt"
+      ]
+    },
+    {
+      "name": "descriptive_qc",
+      "script": "descriptive_package/build_descriptive_qc.py",
+      "inputs": [
+        "master_tables/master_articles_all.csv",
+        "monthly_tables/monthly_summary_main_corpus.csv",
+        "freeze/retrieval_freeze_manifest.csv"
+      ],
+      "outputs": [
+        "descriptive_package/descriptive_statistics_report.md",
+        "descriptive_package/descriptive_qc_log.txt",
+        "descriptive_package/tables",
+        "descriptive_package/figures"
+      ]
+    },
+    {
+      "name": "indicator_prep",
+      "script": "indicator_prep/build_indicator_prep.py",
+      "inputs": [
+        "master_tables/master_articles_all.csv",
+        "monthly_tables/monthly_summary_main_corpus.csv",
+        "descriptive_package/descriptive_statistics_report.md"
+      ],
+      "outputs": [
+        "indicator_prep/indicator_blueprint.txt",
+        "indicator_prep/indicator_ready_schema.txt",
+        "indicator_prep/master_articles_all_indicator_ready.csv",
+        "indicator_prep/monthly_summary_main_corpus_indicator_ready.csv"
+      ]
+    }
+  ]
+}

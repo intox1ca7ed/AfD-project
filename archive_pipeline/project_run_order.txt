@@ -1,0 +1,41 @@
+﻿Project Run Order
+
+1) Freeze Retrieval Stage
+- Script: `python freeze/build_retrieval_freeze.py`
+- Key outputs:
+  - `freeze/retrieval_freeze_note.txt`
+  - `freeze/retrieval_freeze_manifest.csv`
+  - `freeze/retrieval_freeze_checks.txt`
+
+2) Build Master Article Table
+- Script: `python master_tables/build_master_articles.py`
+- Key outputs:
+  - `master_tables/master_articles_all.parquet`
+  - `master_tables/master_articles_kept.parquet`
+  - `master_tables/master_articles_build_log.txt`
+
+3) Build Monthly Summary
+- Script: `python monthly_tables/build_monthly_summary_main.py`
+- Key outputs:
+  - `monthly_tables/monthly_summary_main_corpus.parquet`
+  - `monthly_tables/monthly_summary_build_log.txt`
+
+4) Run Descriptive Statistics and QC
+- Script: `python descriptive_package/build_descriptive_qc.py`
+- Key outputs:
+  - `descriptive_package/descriptive_statistics_report.md`
+  - `descriptive_package/descriptive_qc_log.txt`
+  - `descriptive_package/tables/*.csv`
+  - `descriptive_package/figures/*.png`
+
+5) Prepare Indicator Schema/Placeholders
+- Script: `python indicator_prep/build_indicator_prep.py`
+- Key outputs:
+  - `indicator_prep/indicator_blueprint.txt`
+  - `indicator_prep/indicator_ready_schema.txt`
+  - `indicator_prep/*_indicator_ready.parquet`
+
+Optional orchestrated run (all steps above):
+- `python workflow/run_pipeline.py`
+- Config file: `workflow/pipeline_config.json`
+- Central logs: `logs/`

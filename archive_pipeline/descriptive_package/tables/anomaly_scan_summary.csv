@@ -1,0 +1,6 @@
+﻿metric,value
+empty_text_rows,0.0
+empty_text_share,0.0
+unexpected_publication_values,1.0
+very_long_articles_above_p99_count,89.0
+very_short_articles_count,88.0
