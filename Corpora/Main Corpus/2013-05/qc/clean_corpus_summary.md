@@ -1,10 +1,10 @@
 # Clean 2013-05 Corpus Summary
 
-- Total original files: 84
-- Kept files: 70
-- Dropped files: 14
+- Total original files: 64
+- Kept files: 54
+- Dropped files: 10
 - Review files: 0
-- Duplicate groups collapsed: 3
+- Duplicate groups collapsed: 0
 
 ## Representative Selection Rule
 

@@ -2,39 +2,35 @@
 
 ## Overall
 
-- Total file count: 84
-- Unique article count after duplicate collapse: 81
+- Total file count: 64
+- Unique article count after duplicate collapse: 64
 - Exact duplicate groups: 0
-- Suspicious near-duplicate groups: 3
-- Repeated regional-edition variant groups: 3
+- Suspicious near-duplicate groups: 0
+- Repeated regional-edition variant groups: 0
 - Malformed records: 0
-- Keep: 67
-- Review: 6
-- Drop: 11
+- Keep: 54
+- Review: 0
+- Drop: 10
 
 ## Outlet Frequency
 
 | Publication | Count |
 | --- | ---: |
-| taz, die tageszeitung | 19 |
-| Rheinische Post | 17 |
+| taz, die tageszeitung | 16 |
 | Der Tagesspiegel | 16 |
-| Südwest Presse | 11 |
 | Die Welt | 11 |
-| Berliner Zeitung | 8 |
+| Südwest Presse | 10 |
+| Berliner Zeitung | 7 |
 | Frankfurter Rundschau | 2 |
+| Rheinische Post | 2 |
 ## Duplicate Groups
 
 - None
 
 ## Suspicious Near-Duplicate Groups
 
-- near_001 (2 items): Eine Million Zuwanderer 2012.PDF | Eine Million Zuwanderer in Deutschland in einem Jahr.PDF
-- near_002 (2 items): Nettetaler engagiert sich in Syrien.PDF | Nettetaler engagiert sich in Syriens Krisenregionen.PDF
-- near_003 (2 items): Stoffels_ Flüchtlinge brauchen besonderen Schutz.PDF | Stoffels_ Minderjährige Flüchtlinge brauchen besonderen Schutz.PDF
+- None
 
 ## Repeated Regional Variants
 
-- variant_001 (2 items): Eine Million Zuwanderer 2012.PDF | Eine Million Zuwanderer in Deutschland in einem Jahr.PDF
-- variant_002 (2 items): Nettetaler engagiert sich in Syrien.PDF | Nettetaler engagiert sich in Syriens Krisenregionen.PDF
-- variant_003 (2 items): Stoffels_ Flüchtlinge brauchen besonderen Schutz.PDF | Stoffels_ Minderjährige Flüchtlinge brauchen besonderen Schutz.PDF
+- None

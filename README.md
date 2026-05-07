@@ -1,34 +1,41 @@
-﻿# AfD Project
+# AfD Project
 
 ## Project Overview
 This repository supports the empirical thesis workflow on media shocks and AfD support in Germany.
 
+## Section Navigation
+- `notebooks/README.md`
+- `scripts/README.md`
+- `data/README.md`
+- `archive_pipeline/README.md`
+- `Corpora/README.md`
+- `docs/README.md`
+- `figures/README.md`
+
 ## Main Folders
-- `Corpora/`: immutable source corpus layer (main monthly corpus + shock corpora).
+- `Corpora/`: source corpus layer (main monthly corpus + shock corpora).
 - `data/`: analysis-ready canonical datasets and descriptive tables.
 - `figures/`: research-facing descriptive figures.
 - `docs/`: research-facing documentation and summaries.
-- `scripts/`: single-entry rebuild/refresh scripts.
+- `scripts/`: project-level helper/rebuild scripts.
 - `notebooks/`: analysis notebook workspace.
 - `archive_pipeline/`: archived technical pipeline artifacts for audit/reproducibility.
 
 ## Main Datasets
-- `data/master_articles.parquet` (canonical article-level)
+- `data/master_articles.parquet` (canonical article-level table)
 - `data/master_articles_light.csv` (light inspection export)
-- `data/monthly_summary.parquet` (canonical monthly-level)
+- `data/monthly_summary.parquet` (canonical monthly structure)
 - `data/monthly_summary.csv` (light inspection export)
+- `data/monthly_nexis_volume.csv` (manual monthly Nexis totals + download counts)
+- `data/monthly_media_salience_indicator.csv` (volume-based salience indicators)
 
 ## Reproducibility
-- Technical post-retrieval artifacts are preserved under `archive_pipeline/`.
-- To refresh clean outputs from archived artifacts:
+- Refresh clean outputs from archived artifacts:
   - `python scripts/build_postretrieval_dataset.py`
-- To run archived technical pipeline first, then refresh:
+- Run archived technical pipeline first, then refresh:
   - `python scripts/build_postretrieval_dataset.py --run-archived-pipeline`
 
 ## Important Rules
-- Do not manually edit raw corpus files in `Corpora/`.
+- Do not manually edit source corpus files in `Corpora/` unless intentionally reprocessing corpus batches.
 - Do not manually edit canonical derived datasets in `data/`.
-- Regenerate outputs via scripts.
-
-## Archive Location
-- Original post-retrieval build folders/logs are intentionally preserved in `archive_pipeline/`.
+- Regenerate outputs via scripts/notebooks designed for that layer.

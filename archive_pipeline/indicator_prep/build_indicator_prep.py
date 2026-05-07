@@ -41,15 +41,22 @@ def write_text(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")
 
+def find_repo_root(start: Path) -> Path:
+    for candidate in [start, *start.parents]:
+        if (candidate / "Corpora").exists():
+            return candidate
+    raise RuntimeError("Could not locate repository root containing 'Corpora/'")
+
 
 def main() -> int:
-    project_root = Path(__file__).resolve().parents[1]
+    stage_root = Path(__file__).resolve().parents[1]
+    _project_root = find_repo_root(stage_root)
 
-    master_path = project_root / "master_tables" / "master_articles_all.csv"
-    monthly_path = project_root / "monthly_tables" / "monthly_summary_main_corpus.csv"
-    descriptive_report_path = project_root / "descriptive_package" / "descriptive_statistics_report.md"
+    master_path = stage_root / "master_tables" / "master_articles_all.csv"
+    monthly_path = stage_root / "monthly_tables" / "monthly_summary_main_corpus.csv"
+    descriptive_report_path = stage_root / "descriptive_package" / "descriptive_statistics_report.md"
 
-    out_dir = project_root / "indicator_prep"
+    out_dir = stage_root / "indicator_prep"
     out_dir.mkdir(parents=True, exist_ok=True)
 
     master = pd.read_csv(master_path, encoding="utf-8-sig", low_memory=False)

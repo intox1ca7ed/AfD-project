@@ -1,12 +1,12 @@
 ﻿month_id,kept_article_count,source_top1,source_top1_count,top1_share
 2013-01,38,Rheinische Post,10,0.2631578947368421
-2013-02,54,"taz, die tageszeitung",14,0.25925925925925924
-2013-03,82,"taz, die tageszeitung",25,0.3048780487804878
-2013-04,58,"taz, die tageszeitung",15,0.25862068965517243
-2013-05,70,"taz, die tageszeitung",16,0.22857142857142856
-2013-06,93,"taz, die tageszeitung",25,0.26881720430107525
-2013-07,112,Berliner Zeitung,24,0.21428571428571427
-2013-08,153,"taz, die tageszeitung",37,0.24183006535947713
+2013-02,41,"taz, die tageszeitung",11,0.2682926829268293
+2013-03,61,"taz, die tageszeitung",24,0.39344262295081966
+2013-04,55,"taz, die tageszeitung",15,0.2727272727272727
+2013-05,54,Der Tagesspiegel,14,0.25925925925925924
+2013-06,71,"taz, die tageszeitung",24,0.3380281690140845
+2013-07,91,Berliner Zeitung,24,0.26373626373626374
+2013-08,130,"taz, die tageszeitung",35,0.2692307692307692
 2013-09,80,Rheinische Post,14,0.175
 2013-10,125,"taz, die tageszeitung",28,0.224
 2013-11,117,Frankfurter Rundschau,29,0.24786324786324787

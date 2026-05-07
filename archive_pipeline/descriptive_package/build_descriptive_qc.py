@@ -32,14 +32,21 @@ def ensure_dir(path: Path) -> None:
 def safe_share(n: float, d: float) -> float:
     return float(n) / float(d) if d else 0.0
 
+def find_repo_root(start: Path) -> Path:
+    for candidate in [start, *start.parents]:
+        if (candidate / "Corpora").exists():
+            return candidate
+    raise RuntimeError("Could not locate repository root containing 'Corpora/'")
+
 
 def main() -> int:
-    project_root = Path(__file__).resolve().parents[1]
-    master_path = project_root / "master_tables" / "master_articles_all.csv"
-    monthly_path = project_root / "monthly_tables" / "monthly_summary_main_corpus.csv"
-    freeze_manifest_path = project_root / "freeze" / "retrieval_freeze_manifest.csv"
+    stage_root = Path(__file__).resolve().parents[1]
+    _project_root = find_repo_root(stage_root)
+    master_path = stage_root / "master_tables" / "master_articles_all.csv"
+    monthly_path = stage_root / "monthly_tables" / "monthly_summary_main_corpus.csv"
+    freeze_manifest_path = stage_root / "freeze" / "retrieval_freeze_manifest.csv"
 
-    out_root = project_root / "descriptive_package"
+    out_root = stage_root / "descriptive_package"
     tables_dir = out_root / "tables"
     figs_dir = out_root / "figures"
     ensure_dir(tables_dir)

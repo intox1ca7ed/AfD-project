@@ -95,6 +95,12 @@ def write_csv(path: Path, rows: list[dict[str, Any]], columns: list[str]) -> Non
 def normalize_token(s: str) -> str:
     return " ".join((s or "").strip().lower().split())
 
+def find_repo_root(start: Path) -> Path:
+    for candidate in [start, *start.parents]:
+        if (candidate / "Corpora").exists():
+            return candidate
+    raise RuntimeError("Could not locate repository root containing 'Corpora/'")
+
 
 def parse_date_to_iso(raw: str) -> str:
     raw = (raw or "").strip()
@@ -164,9 +170,10 @@ def find_qc_articles_path(registry_path: Path) -> Path:
 
 
 def main() -> int:
-    project_root = Path(__file__).resolve().parents[1]
-    freeze_manifest = project_root / "freeze" / "retrieval_freeze_manifest.csv"
-    out_dir = project_root / "master_tables"
+    stage_root = Path(__file__).resolve().parents[1]
+    project_root = find_repo_root(stage_root)
+    freeze_manifest = stage_root / "freeze" / "retrieval_freeze_manifest.csv"
+    out_dir = stage_root / "master_tables"
     out_dir.mkdir(parents=True, exist_ok=True)
 
     if not freeze_manifest.exists():

@@ -1,5 +1,5 @@
 ﻿batch_id,corpus_name,source_archive,file_name,file_path,title_original,title_normalized,publication,publication_normalized,date,byline,section,word_count,body_char_count,body_hash_exact,duplicate_group_id,duplicate_category,keep_drop_review,drop_reason,kept_representative_of_group,representative_selection_reason,malformed_flag,malformed_reason,notes,raw_text_chars,low_value_flag,low_value_reason,exact_duplicate_group,near_duplicate_group,repeated_variant_group,body_text
-2013-05,Main Corpus,2013-05(84).ZIP,_ Mit 68 ist man nicht mehr alt_ Demograf Vaupel über die steigende Lebenserwartung und dringend not.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\_ Mit 68 ist man nicht mehr alt_ Demograf Vaupel über die steigende Lebenserwartung und dringend not.PDF,"""Mit 68 ist man nicht mehr alt"" Demograf Vaupel über die steigende Lebenserwartung und dringend notwendige",mit 68 ist man nicht mehr alt demograf vaupel über die steigende lebenserwartung und dringend notwendige,Berliner Zeitung,berliner zeitung,Dienstag 14. Mai 2013,,POLITIK; S. 6; Ausg. 110,787,5413,fdefac928dbea45dec83103b303a90c9bd53d9f3,,unique,keep,,no,,no,,,6420,no,,,,,"An diesem Dienstag laden Bundeskanzlerin Angela Merkel und Bundesinnenminister Hans-Peter Friedrich zum 2. 
+2013-05,Main Corpus,2013-05(64).ZIP,_ Mit 68 ist man nicht mehr alt_ Demograf Vaupel über die steigende Lebenserwartung und dringend not.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\_ Mit 68 ist man nicht mehr alt_ Demograf Vaupel über die steigende Lebenserwartung und dringend not.PDF,"""Mit 68 ist man nicht mehr alt"" Demograf Vaupel über die steigende Lebenserwartung und dringend notwendige",mit 68 ist man nicht mehr alt demograf vaupel über die steigende lebenserwartung und dringend notwendige,Berliner Zeitung,berliner zeitung,Dienstag 14. Mai 2013,,POLITIK; S. 6; Ausg. 110,787,5413,fdefac928dbea45dec83103b303a90c9bd53d9f3,,unique,keep,,no,,no,,,6420,no,,,,,"An diesem Dienstag laden Bundeskanzlerin Angela Merkel und Bundesinnenminister Hans-Peter Friedrich zum 2. 
 Demografiegipfel nach Berlin. Die Hauptthemen werden soziale sowie rentenpolitische Fragen sein. Nach Ansicht 
 von James W. Vaupel fehlt es Deutschland gerade in diesen Punkten an Flexibilität.
 Herr Vaupel, die meisten Menschen freuen sich auf das Ende ihres Arbeitslebens. Sie aber möchten gerne bis 85 
@@ -63,7 +63,7 @@ Herausforderungen des demografischen Wandels am besten profitieren kann.
 Das Gespräch führte Kerstin Krupp.
 ""Mit 68 ist man nicht mehr alt"" Demograf Vaupel über die steigende Lebenserwartung und dringend notwendige 
 Zuwanderung"
-2013-05,Main Corpus,2013-05(84).ZIP,"_Ein Dach über dem Kopf_ MIGRATION Franz Allert, der im Senat für die Unterbringung von Flüchtlingen.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\_Ein Dach über dem Kopf_ MIGRATION Franz Allert, der im Senat für die Unterbringung von Flüchtlingen.PDF","""Ein Dach über dem Kopf"" MIGRATION Franz Allert, der im Senat für die Unterbringung von Flüchtlingen",ein dach über dem kopf migration franz allert der im senat für die unterbringung von flüchtlingen,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 08. Mai 2013,MARINA MAI,BERLIN AKTUELL; S. 22,710,5049,3075839ed3db423147e1985a7e685d79a96e5ec8,,unique,keep,,no,,no,,,6469,no,,,,,"INTERVIEW MARINA MAI
+2013-05,Main Corpus,2013-05(64).ZIP,"_Ein Dach über dem Kopf_ MIGRATION Franz Allert, der im Senat für die Unterbringung von Flüchtlingen.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\_Ein Dach über dem Kopf_ MIGRATION Franz Allert, der im Senat für die Unterbringung von Flüchtlingen.PDF","""Ein Dach über dem Kopf"" MIGRATION Franz Allert, der im Senat für die Unterbringung von Flüchtlingen",ein dach über dem kopf migration franz allert der im senat für die unterbringung von flüchtlingen,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 08. Mai 2013,MARINA MAI,BERLIN AKTUELL; S. 22,710,5049,3075839ed3db423147e1985a7e685d79a96e5ec8,,unique,keep,,no,,no,,,6469,no,,,,,"INTERVIEW MARINA MAI
 taz: Hunderttausende Syrer vegetieren derzeit unter katastrophalen Bedingungen in den Nachbarstaaten Syriens. 
 Bundesinnenminister Hans-Peter Friedrich (CSU) hat internationalen Partnern die Aufnahme von 5.000 dieser 
 Syrer ab Juni zugesagt. Wann kommen wie viele von ihnen nach Berlin?
@@ -120,7 +120,7 @@ Solche nicht. In der Motardstraße haben Künstler vor wenigen Jahren gemeinsam 
 Baracken bemalt. Ich bin für Ideen ansprechbar. Meine Verwaltung ist allein aus Zeitgründen noch nicht auf diese 
 Szene zugegangen.
  Manche Ämter sind kreativ dabei, Standorte zu verhindern"
-2013-05,Main Corpus,2013-05(84).ZIP,"_Vielfalt sollte Chefsache sein_ DIVERSITÄT Die Privatsender sind den Printmedien da oft voraus, sag.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\_Vielfalt sollte Chefsache sein_ DIVERSITÄT Die Privatsender sind den Printmedien da oft voraus, sag.PDF","""Vielfalt sollte Chefsache sein""; DIVERSITÄT Die Privatsender sind den Printmedien da oft voraus, sagt die",vielfalt sollte chefsache sein diversität die privatsender sind den printmedien da oft voraus sagt die,"taz, die tageszeitung",taz die tageszeitung,Dienstag 28. Mai 2013,DANIEL BAX,THEMEN DES TAGES; S. 03,689,4734,ae6e1a7def72097ca5b25fe09fb64fd5de86fe0b,,unique,keep,,no,,no,,,5866,no,,,,,"taz: Frau Mysorekar, warum gibt es so wenige Journalisten mit Migrationshintergrund?
+2013-05,Main Corpus,2013-05(64).ZIP,"_Vielfalt sollte Chefsache sein_ DIVERSITÄT Die Privatsender sind den Printmedien da oft voraus, sag.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\_Vielfalt sollte Chefsache sein_ DIVERSITÄT Die Privatsender sind den Printmedien da oft voraus, sag.PDF","""Vielfalt sollte Chefsache sein""; DIVERSITÄT Die Privatsender sind den Printmedien da oft voraus, sagt die",vielfalt sollte chefsache sein diversität die privatsender sind den printmedien da oft voraus sagt die,"taz, die tageszeitung",taz die tageszeitung,Dienstag 28. Mai 2013,DANIEL BAX,THEMEN DES TAGES; S. 03,689,4734,ae6e1a7def72097ca5b25fe09fb64fd5de86fe0b,,unique,keep,,no,,no,,,5866,no,,,,,"taz: Frau Mysorekar, warum gibt es so wenige Journalisten mit Migrationshintergrund?
 Sheila Mysorekar: Ein Grund ist: Die meisten Journalisten in Deutschland stammen aus bildungsbürgerlichen 
 Familien, die meisten Kinder von Einwanderern nicht. Wenn diese es zum Studium bringen, dann streben sie oft 
 einen soliden und angesehenen Beruf wie Ingenieur oder Arzt an. Als Journalist verdient man nicht so viel Geld und 
@@ -175,7 +175,7 @@ Wirtschaftsunternehmen ist man da schon weiter. Doch auch die Wald-und-Wiesen-Re
 dass mehr Interkulturalität für alle gut ist. Der Blick wird offener, die Berichterstattung dadurch vielfältiger und 
 davon profitieren auch alle Leser und Zuschauer
 INTERVIEW: DANIEL BAX"
-2013-05,Main Corpus,2013-05(84).ZIP,"Abschiebung abgewendet MIGRATION Weil die Ausländerbehörde Harburg mit falschen Daten rechnete, wurd.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Abschiebung abgewendet MIGRATION Weil die Ausländerbehörde Harburg mit falschen Daten rechnete, wurd.PDF","Abschiebung abgewendet MIGRATION Weil die Ausländerbehörde Harburg mit falschen Daten rechnete,",abschiebung abgewendet migration weil die ausländerbehörde harburg mit falschen daten rechnete,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 02. Mai 2013,JANINA KRUPOP,HAMBURG AKTUELL; S. 20,350,2517,04d562231aeaf9bd2decc3b1793db28b544587bd,,unique,keep,,no,,no,,,3653,no,,,,,"Allieu Jalloh lebt seit 17 Jahren in Deutschland. 2010 heiratete er Umu Kultumy. Beide besuchten die 
+2013-05,Main Corpus,2013-05(64).ZIP,"Abschiebung abgewendet MIGRATION Weil die Ausländerbehörde Harburg mit falschen Daten rechnete, wurd.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Abschiebung abgewendet MIGRATION Weil die Ausländerbehörde Harburg mit falschen Daten rechnete, wurd.PDF","Abschiebung abgewendet MIGRATION Weil die Ausländerbehörde Harburg mit falschen Daten rechnete,",abschiebung abgewendet migration weil die ausländerbehörde harburg mit falschen daten rechnete,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 02. Mai 2013,JANINA KRUPOP,HAMBURG AKTUELL; S. 20,350,2517,04d562231aeaf9bd2decc3b1793db28b544587bd,,unique,keep,,no,,no,,,3653,no,,,,,"Allieu Jalloh lebt seit 17 Jahren in Deutschland. 2010 heiratete er Umu Kultumy. Beide besuchten die 
 Sprachschule, er lernte Koch und arbeitet Vollzeit. Dabei verdient er laut Lohnbescheid 1.253,85 Euro netto im 
 Monat. Jallohs Einkommen ist entscheidend für seinen Aufenthaltstitel und von dem hängt auch die 
 Aufenthaltserlaubnis seiner Frau ab. Damit Jalloh eine so genannte Niederlassungserlaubnis bekommt, muss er 
@@ -206,7 +206,7 @@ Hamburg lebenden Menschen für ihn ein Staatsziel und eine Herzensangelegenheit 
 noch nicht in der Ausländerbehörde angekommen. JANINA KRUPOP
  Die Dokumente lagen vor. Die Behörde hat das falsch berechnet 
 JALLOHS ANWALT"
-2013-05,Main Corpus,2013-05(84).ZIP,Abschiebung in ein fremdes Land ASYL Emine Harb ist vor 23 Jahren aus dem Libanon nach Deutschland g.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Abschiebung in ein fremdes Land ASYL Emine Harb ist vor 23 Jahren aus dem Libanon nach Deutschland g.PDF,Abschiebung in ein fremdes Land; ASYL Emine Harb ist vor 23 Jahren aus dem Libanon nach Deutschland,abschiebung in ein fremdes land asyl emine harb ist vor 23 jahren aus dem libanon nach deutschland,"taz, die tageszeitung",taz die tageszeitung,Montag 13. Mai 2013,PASCAL BEUCKER,INLAND; S. 07,442,3033,59bec9c5a7cd1039b89028af2558048844c74e36,,unique,keep,,no,,no,,,4427,no,,,,,"KÖLN taz | Das Lächeln im Münsterland : so preist sich die Stadt Rhede im Kreis Borken an. Auch Emine Harb 
+2013-05,Main Corpus,2013-05(64).ZIP,Abschiebung in ein fremdes Land ASYL Emine Harb ist vor 23 Jahren aus dem Libanon nach Deutschland g.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Abschiebung in ein fremdes Land ASYL Emine Harb ist vor 23 Jahren aus dem Libanon nach Deutschland g.PDF,Abschiebung in ein fremdes Land; ASYL Emine Harb ist vor 23 Jahren aus dem Libanon nach Deutschland,abschiebung in ein fremdes land asyl emine harb ist vor 23 jahren aus dem libanon nach deutschland,"taz, die tageszeitung",taz die tageszeitung,Montag 13. Mai 2013,PASCAL BEUCKER,INLAND; S. 07,442,3033,59bec9c5a7cd1039b89028af2558048844c74e36,,unique,keep,,no,,no,,,4427,no,,,,,"KÖLN taz | Das Lächeln im Münsterland : so preist sich die Stadt Rhede im Kreis Borken an. Auch Emine Harb 
 lebt hier gerne. Nach ihrer Flucht aus dem Libanon vor 23 Jahren wurde Rhede zu ihrer neuen Heimat. An diesem 
 Dienstag soll es damit vorbei sein. Um 7.15 Uhr werde sie abgeholt, hat ihr die Abteilung für Sicherheit und 
 Ordnung des Kreises mitgeteilt. Wenn nicht noch ein Wunder geschieht, wird sie in die Türkei abgeschoben.
@@ -237,7 +237,7 @@ humanitäre Lösung . Doch die Chancen stehen schlecht. Immerhin können Emine H
 Töchter darauf hoffen, nicht auch noch abgeschoben zu werden. Vergangene Woche empfahl der 
 Petitionsausschuss des nordrhein-westfälischen Landtags, ihnen eine Aufenthaltserlaubnis zu erteilen. PASCAL 
 BEUCKER"
-2013-05,Main Corpus,2013-05(84).ZIP,Abzug aus Afghanistan Helfer brauchen Hilfe.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Abzug aus Afghanistan Helfer brauchen Hilfe.PDF,Abzug aus Afghanistan; Helfer brauchen Hilfe,abzug aus afghanistan helfer brauchen hilfe,Der Tagesspiegel,der tagesspiegel,Donnerstag 23. Mai 2013,,MEINUNG; S. 6; Ausg. 21695,183,1319,f6f9fdd56b234f5a22d97f40e4cfd1943546335f,,unique,drop,commentary_noncore,no,,no,,,1853,yes,commentary_noncore,,,,"Lässt die Bundesregierung ihre afghanischen Helfer im Stich? Verantwortungslos, ohne Fingerspitzengefühl, 
+2013-05,Main Corpus,2013-05(64).ZIP,Abzug aus Afghanistan Helfer brauchen Hilfe.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Abzug aus Afghanistan Helfer brauchen Hilfe.PDF,Abzug aus Afghanistan; Helfer brauchen Hilfe,abzug aus afghanistan helfer brauchen hilfe,Der Tagesspiegel,der tagesspiegel,Donnerstag 23. Mai 2013,,MEINUNG; S. 6; Ausg. 21695,183,1319,f6f9fdd56b234f5a22d97f40e4cfd1943546335f,,unique,drop,commentary_noncore,no,,no,,,1853,yes,commentary_noncore,,,,"Lässt die Bundesregierung ihre afghanischen Helfer im Stich? Verantwortungslos, ohne Fingerspitzengefühl, 
 kleinlich-bürokratisch? Man kann das so sehen. Und viele sehen das so. Vielleicht dringen die leisen Töne der 
 deutschen Diplomatie auch gar nicht zu den Übersetzern, Fahrern und Technikern durch, dass sie sich nun an 
 einen deutschen ""Ressortbeauftragten"" vor Ort wenden können, wenn sie sich bedroht fühlen. Es kann ja ernsthaft 
@@ -250,20 +250,7 @@ Wiederaufbaus Afghanistans auch nicht wünschenswert, diesen allen Asyl zu gewä
 anderes tut die Bundesrepublik - jeden Einzelfall prüfen müssen. Solcherlei Vernunft ist nicht politisch verwertbar, 
 ist kein ""Signal"" und keine dramatische Geste - solcherlei Vernunft ist einfach nur: vernünftig.mis
 Seite 1"
-2013-05,Main Corpus,2013-05(84).ZIP,Alte Büroräume werden zur Unterkunft.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Alte Büroräume werden zur Unterkunft.PDF,Alte Büroräume werden zur Unterkunft,alte büroräume werden zur unterkunft,Südwest Presse,südwest presse,Donnerstag 23. Mai 2013,,Alb-Donau und Region; S. 21,178,1266,3d7d264408049b5dbeb313875a0dcad4b5f850e5,,unique,keep,,no,,no,,,1831,no,,,,,"Die Gemeinde Blaustein richtet ein ehemaliges Bürogebäude des Kalkwerks in Herrlingen für die Unterbringung 
-von Flüchtlingen her. Wie Bürgermeister Thomas Kayser dem Gemeinderat berichtete, muss Blaustein nach der 
-geltenden Regelung insgesamt 20 Flüchtlinge aufnehmen. Für vier Asylbewerber gibt es bereits eine Wohnung im 
-Ortsteil Lautern. 16 Personen sollen nun in dem Gebäude in der Herrlinger Blautalstraße Platz finden. Das Haus 
-gehört der Gemeinde. Unten befinden sich Garagen, das Obergeschoss wurde bisher von der Feuerwehr als Büro- 
-und Jugendräume genutzt. Das Gebäude solle in einen würdigen Zustand versetzt werden, sagte Kayser. Auf eine 
-energetische Sanierung wird verzichtet, weil die Gemeinde für das gesamte Gelände des ehemaligen Kalkwerks an 
-der Blautalstraße Pläne entwerfen will und das alte Bürogebäude dann wohl abgebrochen wird. Wie 
-Ortsbaumeister Markus Krämer sagte, werden jetzt unter anderem die Installationen erneuert und Rauchmelder 
-eingebaut. Er rechnet mit Kosten von 40 000 Euro.
-Das Haus sei für die Unterbringung von Flüchtlingen gut geeignet, meinte Ursula Rieger-Wäckerle (Grüne). Es 
-liege zentral, die Bewohner hätten es nicht weit in den Ort. Der Gemeinderat befürwortete einstimmig den Antrag 
-auf Nutzungsänderung."
-2013-05,Main Corpus,2013-05(84).ZIP,Arrivederci und Auf Wiedersehen ASYLPOLITIK Wie Italien und Deutschland die Verantwortung für Flücht.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Arrivederci und Auf Wiedersehen ASYLPOLITIK Wie Italien und Deutschland die Verantwortung für Flücht.PDF,Arrivederci und Auf Wiedersehen ASYLPOLITIK Wie Italien und Deutschland die Verantwortung für Flüchtlinge,arrivederci und auf wiedersehen asylpolitik wie italien und deutschland die verantwortung für flüchtlinge,"taz, die tageszeitung",taz die tageszeitung,Freitag 31. Mai 2013,KRISTIANA LUDWIG,AKTUELLES; S. 02,555,4017,0b338a1081bfd563f0874d8648ee9ea4eb6a84f6,,unique,keep,,no,,no,,,5800,no,,,,,"AUS HAMBURG KRISTIANA LUDWIG
+2013-05,Main Corpus,2013-05(64).ZIP,Arrivederci und Auf Wiedersehen ASYLPOLITIK Wie Italien und Deutschland die Verantwortung für Flücht.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Arrivederci und Auf Wiedersehen ASYLPOLITIK Wie Italien und Deutschland die Verantwortung für Flücht.PDF,Arrivederci und Auf Wiedersehen ASYLPOLITIK Wie Italien und Deutschland die Verantwortung für Flüchtlinge,arrivederci und auf wiedersehen asylpolitik wie italien und deutschland die verantwortung für flüchtlinge,"taz, die tageszeitung",taz die tageszeitung,Freitag 31. Mai 2013,KRISTIANA LUDWIG,AKTUELLES; S. 02,555,4017,0b338a1081bfd563f0874d8648ee9ea4eb6a84f6,,unique,keep,,no,,no,,,5800,no,,,,,"AUS HAMBURG KRISTIANA LUDWIG
 Der Brief von der Stadt Hamburg lag am Mittwochmorgen in seinem Zelteingang: Kuaku J. und die sechs anderen 
 Flüchtlinge hätten bis 15 Uhr Zeit, um die Parkanlage im Stadtteil St. Pauli zu verlassen, stand dort. Mit ihrem Zwei-
 Personen-Iglu und den beiden Teppichen, unter denen sie seit Wochen schlafen, verstießen sie gegen die Grün- 
@@ -306,7 +293,7 @@ Zuletzt hatte Scheele mit den Kirchen über eine kurzfristige zeitlich begrenzte
 verhandelt, sagt dessen Sprecher. Die Hamburger hätten allerdings Schwierigkeiten gehabt, sich mit der Diakonie 
 auf einen Preis zu einigen , hieß es vom Innenministerium in Berlin.
 Italien schickte sie mit 500 Euro weg. Jetzt will Deutschland die Flüchtlinge loswerden"
-2013-05,Main Corpus,2013-05(84).ZIP,Ausland Kompakt I Amnesty International _ Organisation kritisiert Asylpolitik der EU ++ Weissrusslan.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Ausland Kompakt I Amnesty International _ Organisation kritisiert Asylpolitik der EU ++ Weissrusslan.PDF,Ausland Kompakt I; Amnesty International: Organisation kritisiert Asylpolitik der EU ++ Weissrussland:,ausland kompakt i amnesty international organisation kritisiert asylpolitik der eu  weissrussland,Die Welt,die welt,Freitag 24. Mai 2013,,POLITIK; Kompakt; S. 6; Ausg. 118,243,2030,19f3e01b9852d6174f8101a1ac7b335743f89064,,unique,keep,,no,,no,,,3347,no,,,,,"Amnesty International
+2013-05,Main Corpus,2013-05(64).ZIP,Ausland Kompakt I Amnesty International _ Organisation kritisiert Asylpolitik der EU ++ Weissrusslan.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Ausland Kompakt I Amnesty International _ Organisation kritisiert Asylpolitik der EU ++ Weissrusslan.PDF,Ausland Kompakt I; Amnesty International: Organisation kritisiert Asylpolitik der EU ++ Weissrussland:,ausland kompakt i amnesty international organisation kritisiert asylpolitik der eu  weissrussland,Die Welt,die welt,Freitag 24. Mai 2013,,POLITIK; Kompakt; S. 6; Ausg. 118,243,2030,19f3e01b9852d6174f8101a1ac7b335743f89064,,unique,keep,,no,,no,,,3347,no,,,,,"Amnesty International
 Organisation kritisiert Asylpolitik der EU
 In ihrem Jahresbericht zur weltweiten Lage der Menschenrechte kritisiert die Organisation Amnesty International 
 (ai) neben vielen autoritären Staaten die Europäische Union für ihre Asylpolitik. Auch müssten alle EU-Länder die 
@@ -331,16 +318,7 @@ Die zweitstärkste Partei der Sozialisten in Bulgarien ist mit der Bildung der n
 Dies wurde möglich, nachdem Wahlsieger Boiko Borissow (Gerb) aus Mangel an Koalitionspartnern auf die 
 Regierungsbildung verzichtete. Den Präsidentenauftrag nahm der parteilose Finanzexperte Plamen Orescharski 
 entgegen. Er war von 2005 bis 2009 Finanzminister in einer von Sozialisten dominierten Regierung gewesen."
-2013-05,Main Corpus,2013-05(84).ZIP,Batirbekov_ Asylantrag abgelehnt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Batirbekov_ Asylantrag abgelehnt.PDF,Batirbekov: Asylantrag abgelehnt,batirbekov asylantrag abgelehnt,Rheinische Post,rheinische post,25. Mai 2013 Samstag,,,127,924,ae92046fb64f7409e29602e3ac8312d3bc62b23d,,unique,keep,,no,,no,,,1396,no,,,,,"Alpen (up) Schlechte Nachrichten für Robert Batiribekov. Der 45-jährige Russe, der mit einer Unterbrechung seit 
-2004 in der Alpener Asyl-Unterkunft an der Ulrichstraße lebt (die RP berichtete ausführlich), kann nicht in 
-Deutschland bleiben. Das Verwaltungsgericht Düsseldorf hat seinen Antrag auf Asyl abgelehnt und ihn 
-aufgefordert, die Bundesrepublik bald freiwillig zu verlassen. Die Evangelische Kirchengemeinde Alpen hatte sich 
-dafür starkgemacht, dass der gut integrierte Ingenieur bleiben kann. Wie Pastor Dr. Hartmut Becks sagte, werde 
-die Kirchengemeinde Batirbekov finanziell unterstützen, damit er in Russland zurechtkommen kann. Er hoffe, dass 
-sich zu einem späteren Zeitpunkt eine Möglichkeit für den in der Kirchengemeinde beliebten Russen ergibt, wieder 
-nach Deutschland einzureisen und dann für immer in Deutschland bleiben zu können. Denn Batirbekov hat einen 
-minderjährigen Sohn, der in Moers lebt."
-2013-05,Main Corpus,2013-05(84).ZIP,Bei Krediten benachteiligt Kanzlerin Merkel fordert mehr _geistige Offenheit_ in Deutschland für Mig.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Bei Krediten benachteiligt Kanzlerin Merkel fordert mehr _geistige Offenheit_ in Deutschland für Mig.PDF,"Bei Krediten benachteiligt Kanzlerin Merkel fordert mehr ""geistige Offenheit"" in Deutschland für Migranten",bei krediten benachteiligt kanzlerin merkel fordert mehr geistige offenheit in deutschland für migranten,Berliner Zeitung,berliner zeitung,Mittwoch 29. Mai 2013,Stefan Sauer,WIRTSCHAFT; S. 10; Ausg. 122,400,3037,dd00f6507c294bf2c1b5437de825d37338e27d20,,unique,keep,,no,,no,,,4124,no,,,,,"Bundeskanzlerin Angela Merkel (CDU) fordert zur besseren Integration von Einwanderern gleiche Chancen auch 
+2013-05,Main Corpus,2013-05(64).ZIP,Bei Krediten benachteiligt Kanzlerin Merkel fordert mehr _geistige Offenheit_ in Deutschland für Mig.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Bei Krediten benachteiligt Kanzlerin Merkel fordert mehr _geistige Offenheit_ in Deutschland für Mig.PDF,"Bei Krediten benachteiligt Kanzlerin Merkel fordert mehr ""geistige Offenheit"" in Deutschland für Migranten",bei krediten benachteiligt kanzlerin merkel fordert mehr geistige offenheit in deutschland für migranten,Berliner Zeitung,berliner zeitung,Mittwoch 29. Mai 2013,Stefan Sauer,WIRTSCHAFT; S. 10; Ausg. 122,400,3037,dd00f6507c294bf2c1b5437de825d37338e27d20,,unique,keep,,no,,no,,,4124,no,,,,,"Bundeskanzlerin Angela Merkel (CDU) fordert zur besseren Integration von Einwanderern gleiche Chancen auch 
 für Unternehmer mit Migrationshintergrund. Am Dienstag, anlässlich des nun bereits sechsten Integrationsgipfels 
 der Bundesregierung, stellte Merkel fest, es gebe für Existenzgründer mit ausländischen Wurzeln eine ""strukturelle 
 Benachteiligung"", etwa bei der Kreditvergabe. Dies müsse sich ändern. Deutschland benötige mehr ""geistige 
@@ -372,7 +350,7 @@ fast 30 Prozent der Gesamtbevölkerung.
 Die Aussagekraft dieser erstmals veröffentlichten Erhebungsergebnisse ist freilich noch beschränkt, wie die BA 
 selbst einräumt. Künftig sollen alle drei Monate Daten zur Integration von Migranten in den Arbeitsmarkt 
 veröffentlich werden und so auch Veränderungen und Trends aufzeigen."
-2013-05,Main Corpus,2013-05(84).ZIP,Bekenntnis zur Einwanderung DANIEL BAX ÜBER DAS THEMA ARBEITSMARKT BEIM INTEGRATIONSGIPFEL.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Bekenntnis zur Einwanderung DANIEL BAX ÜBER DAS THEMA ARBEITSMARKT BEIM INTEGRATIONSGIPFEL.PDF,Bekenntnis zur Einwanderung; DANIEL BAX ÜBER DAS THEMA ARBEITSMARKT BEIM,bekenntnis zur einwanderung daniel bax über das thema arbeitsmarkt beim,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 29. Mai 2013,DANIEL BAX,MEINUNG UND DISKUSSION; S. 12,258,1847,1360f6bb0e4910b7a1b66bbc9841ba64b108e04c,,unique,drop,commentary_noncore,no,,no,,,2792,yes,commentary_noncore,,,,"DANIEL BAX ÜBER DAS THEMA ARBEITSMARKT BEIM INTEGRATIONSGIPFEL
+2013-05,Main Corpus,2013-05(64).ZIP,Bekenntnis zur Einwanderung DANIEL BAX ÜBER DAS THEMA ARBEITSMARKT BEIM INTEGRATIONSGIPFEL.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Bekenntnis zur Einwanderung DANIEL BAX ÜBER DAS THEMA ARBEITSMARKT BEIM INTEGRATIONSGIPFEL.PDF,Bekenntnis zur Einwanderung; DANIEL BAX ÜBER DAS THEMA ARBEITSMARKT BEIM,bekenntnis zur einwanderung daniel bax über das thema arbeitsmarkt beim,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 29. Mai 2013,DANIEL BAX,MEINUNG UND DISKUSSION; S. 12,258,1847,1360f6bb0e4910b7a1b66bbc9841ba64b108e04c,,unique,drop,commentary_noncore,no,,no,,,2792,yes,commentary_noncore,,,,"DANIEL BAX ÜBER DAS THEMA ARBEITSMARKT BEIM INTEGRATIONSGIPFEL
 Deutschland ist ein Einwanderungsland das erkennt selbst die CDU heute an, auch wenn die Kanzlerin es immer 
 noch nicht ganz so deutlich sagen möchte. Beim diesjährigen Integrationsgipfel hat sich Merkel der neuen 
 Einwanderungswelle aus den EU-Nachbarländern gewidmet, weil sie stolz darauf ist, die Anerkennung 
@@ -392,20 +370,7 @@ Nicht vergessen sollte die Bundesregierung dabei aber auch, etwas gegen die Arbe
 erschreckend viele Migranten, die schon sehr lange hier leben, leiden. Und sie sollte die Arbeitsmöglichkeiten für 
 Flüchtlinge und Asylbewerber erleichtern. Denn auch deren Potenziale sollte man nicht verschleudern.
 Inland SEITE 6"
-2013-05,Main Corpus,2013-05(84).ZIP,Bezahlte Italien Flüchtlinge für Fahrt nach Deutschland_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Bezahlte Italien Flüchtlinge für Fahrt nach Deutschland_.PDF,Bezahlte Italien Flüchtlinge für Fahrt nach Deutschland?,bezahlte italien flüchtlinge für fahrt nach deutschland,Rheinische Post,rheinische post,29. Mai 2013 Mittwoch,,,174,1317,3458e952e490a46926314021225599ae92e0e453,,unique,keep,,no,,no,,,2023,no,,,,,"Hamburg (dpa) Mehrere Hundert afrikanische Flüchtlinge sind über Italien nach Deutschland gekommen, weil die 
-dortigen Behörden sie entgegen europäischen Vereinbarungen mit Geld und Aufenthaltspapieren zur Weiterreise 
-animiert haben sollen. Rund 300 Frauen und Männer aus Libyen, Ghana und Togo sind nach Angaben der 
-Hamburger Sozialbehörde in der Hansestadt gestrandet, obwohl sie von Italien hätten betreut werden müssen. 
-Das Bundesinnenministerium hatte im März in einem der Deutschen Presse-Agentur vorliegenden Brief an die 
-Ausländerbeauftragten der Länder geschrieben, dass Italien Flüchtlingen bis zu 500 Euro zahle, wenn sie das Land 
-verließen. Außerdem würden ihnen Fremdenpässe und jeweils drei Monate gültige Aufenthaltstitel für den 
-gesamten Schengen-Raum ausgestellt - also für jene europäischen Länder, zwischen denen es inzwischen keine 
-Grenzkontrollen mehr gibt. Etliche der Flüchtlinge seien obdachlos, weil sie in der Bundesrepublik keinerlei 
-Anspruch auf Unterstützung haben, erklärte Hamburgs Sozialsenator Detlef Scheele (SPD). Sie hätten keine 
-Arbeitserlaubnis und kein Recht auf Unterbringung und Sozialleistungen. Die Stadt bemühe sich zwar, für die 
-obdachlosen Flüchtlinge Unterkünfte und Hilfe zu organisieren. Scheele schränkte jedoch ein: ""Die Rückreise ist 
-die einzige Option."""
-2013-05,Main Corpus,2013-05(84).ZIP,Brandstiftung Ursache für Feuer in Wohnheim.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Brandstiftung Ursache für Feuer in Wohnheim.PDF,Brandstiftung Ursache für Feuer in Wohnheim,brandstiftung ursache für feuer in wohnheim,Südwest Presse,südwest presse,Samstag 25. Mai 2013,,Südwestumschau; S. 6,182,1335,b6b237eb7b6834b05e07d6d4c8bc6ab4b617799f,,unique,keep,,no,,no,,,2041,no,,,,,"Als Ursache eines Brandes in einem Heim für Asylbewerber in Friedrichshafen hat die Polizei fahrlässige 
+2013-05,Main Corpus,2013-05(64).ZIP,Brandstiftung Ursache für Feuer in Wohnheim.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Brandstiftung Ursache für Feuer in Wohnheim.PDF,Brandstiftung Ursache für Feuer in Wohnheim,brandstiftung ursache für feuer in wohnheim,Südwest Presse,südwest presse,Samstag 25. Mai 2013,,Südwestumschau; S. 6,182,1335,b6b237eb7b6834b05e07d6d4c8bc6ab4b617799f,,unique,keep,,no,,no,,,2041,no,,,,,"Als Ursache eines Brandes in einem Heim für Asylbewerber in Friedrichshafen hat die Polizei fahrlässige 
 Brandstiftung ermittelt. Das Feuer, das am frühen Morgen des 14. Mai in dem Wohnheim ausgebrochen war, soll 
 von einer Couch, die als Raucherplatz genutzt wurde, ausgegangen sein, teilte die Polizei gestern mit. Bei dem 
 Brand wurden sieben Menschen verletzt. Sechs Bewohner mussten mit Verdacht auf Rauchvergiftung ins 
@@ -418,16 +383,7 @@ Erst im Aufenthaltsraum des Wohnheims, wo das Feuer ausgebrochen war, wurden die
 sie den Brandschutt dort abgetragen hatten, konnte die Raucher-Couch als Brandherd lokalisiert werden. Damit hat 
 sich bestätigt, wovon Polizei und Feuerwehr von vorneherein ausgegangen waren: dass es sich bei dem Brand 
 nicht um vorsätzliche Brandstiftung oder gar einen fremdenfeindlichen Anschlag gehandelt hat."
-2013-05,Main Corpus,2013-05(84).ZIP,Caritas wirbt um Migranten als Pflegekräfte.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Caritas wirbt um Migranten als Pflegekräfte.PDF,Caritas wirbt um Migranten als Pflegekräfte,caritas wirbt um migranten als pflegekräfte,Rheinische Post,rheinische post,18. Mai 2013 Samstag,,,114,919,f1459d4b90b33d65a2effe40792ee0ba90e4a3b3,,unique,drop,very_short_low_value,no,,no,,,1557,yes,very_short_low_value,,,,"Köln (dpa) Die Caritas spricht gezielt junge Menschen mit Migrationshintergrund an, eine Ausbildung in einem 
-Pflegeberuf zu starten. Wie der Diözesan-Caritasverband für das Kölner Erzbistum betonte, fehlen bereits heute 
-nach Schätzungen des Arbeitgeberverbandes Pflege rund 30 000 Fachkräfte. Pflegefachkräfte aus dem Ausland 
-anzuwerben sei oft problematisch, da ihnen Berufsqualifikationen nicht anerkannt würden. ""Zudem werden 
-Menschen entwurzelt oder sie gehen ihren Ländern als Fachkräfte verloren."" Die erste Zuwanderer-Generation 
-hierzulande sei alt und oft auch pflegebedürftig, betonte der Caritasverband. Eine kultursensible Pflege werde 
-immer wichtiger. Bisher hätten rund 20 Prozent der Altenpflegekräfte einen Migrationshintergrund. ""Sie sind 
-aufgrund ihrer Mehrsprachigkeit und interkulturellen Lebenserfahrung ein großes Potenzial für die Pflege in 
-Deutschland"", sagt Caritasdirektor Frank Hensel."
-2013-05,Main Corpus,2013-05(84).ZIP,Der Gipfel zur Pyramide.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Der Gipfel zur Pyramide.PDF,Der Gipfel zur Pyramide,der gipfel zur pyramide,Der Tagesspiegel,der tagesspiegel,Dienstag 14. Mai 2013,,ZWEITE; S. 2; Ausg. 21687,658,4814,ac674b38cee1e052509b05918d829f3df3826e9c,,unique,keep,,no,,no,,,6007,no,,,,,"Deutschland wird immer älter.
+2013-05,Main Corpus,2013-05(64).ZIP,Der Gipfel zur Pyramide.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Der Gipfel zur Pyramide.PDF,Der Gipfel zur Pyramide,der gipfel zur pyramide,Der Tagesspiegel,der tagesspiegel,Dienstag 14. Mai 2013,,ZWEITE; S. 2; Ausg. 21687,658,4814,ac674b38cee1e052509b05918d829f3df3826e9c,,unique,keep,,no,,no,,,6007,no,,,,,"Deutschland wird immer älter.
 An diesem Dienstag lädt
 die Bundesregierung in Berlin
 zum zweiten Demografiegipfel.
@@ -481,7 +437,7 @@ gesamte Arbeitsleben.""
 Und so werden am heutigen Dienstag nicht nur verschiedene Zwischenergebnisse präsentiert, sondern auch 
 unterschiedliche Forderungen, die sich daraus ableiten. Mit diesen kann sich dann die nächste Bundesregierung 
 auseinandersetzen. Auch eine Herausforderung. Oder eine Chance. Christian Tretbar"
-2013-05,Main Corpus,2013-05(84).ZIP,Deutschland drum herum Irgendwie muss es weitergehen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Deutschland drum herum Irgendwie muss es weitergehen.PDF,Deutschland drum herum Irgendwie muss es weitergehen,deutschland drum herum irgendwie muss es weitergehen,Der Tagesspiegel,der tagesspiegel,Samstag 25. Mai 2013,,TITEL; S. 1; Ausg. 21697,392,2393,3c5dac268454e81b5f85352c6015dd6cf18cdb39,,unique,keep,,no,,no,,,2948,no,,,,,"Was nun die Einwanderer und deren Qualifikation angeht, hat Maria Leitner ihre eigene Position. ""Mei"", sagt sie, 
+2013-05,Main Corpus,2013-05(64).ZIP,Deutschland drum herum Irgendwie muss es weitergehen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Deutschland drum herum Irgendwie muss es weitergehen.PDF,Deutschland drum herum Irgendwie muss es weitergehen,deutschland drum herum irgendwie muss es weitergehen,Der Tagesspiegel,der tagesspiegel,Samstag 25. Mai 2013,,TITEL; S. 1; Ausg. 21697,392,2393,3c5dac268454e81b5f85352c6015dd6cf18cdb39,,unique,keep,,no,,no,,,2948,no,,,,,"Was nun die Einwanderer und deren Qualifikation angeht, hat Maria Leitner ihre eigene Position. ""Mei"", sagt sie, 
 und ich übersetze jetzt lieber aus dem Oberösterreichischen ins Deutsche, ""ich habe ja früher selber drüben 
 gearbeitet, in Wegscheid, an der Kasse, aber jetzt kommen die Bayern zu uns und arbeiten hier. Fragen Sie mich 
 nicht, warum, ich nehme an, dass wir bessere Löhne zahlen."" 
@@ -505,19 +461,7 @@ Augen wischt, kann man dennoch sehen.
 Helmut Schümann umrundet derzeit Deutschland - manchmal mit dem Bus, manchmal im Regionalzug, aber 
 meistens zu Fuß.
 Mehr dazu auf www.tagesspiegel.de"
-2013-05,Main Corpus,2013-05(84).ZIP,Deutschland entwickelt sich zum Magneten.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Deutschland entwickelt sich zum Magneten.PDF,Deutschland entwickelt sich zum Magneten,deutschland entwickelt sich zum magneten,Rheinische Post,rheinische post,8. Mai 2013 Mittwoch,Von Eva Quadbeck,,172,1233,a082de8f4087753838b8bb09a8733dc6b64337c2,,unique,keep,,no,,no,,,1906,no,,,,,"Das Wort Einwanderung hat in Deutschland in den vergangenen Jahren einen positiven Klang bekommen. Lange 
-hat es gedauert. Zu lange wurden in Deutschland die Spielregeln für den Zuzug ideologisch diskutiert, während 
-andere Wirtschaftsnationen ihren Wohlstand auch darauf gründeten, dass sie Fachkräfte in ihre Länder ließen. Die 
-Deutschen hingegen wollten erst nicht, und dann kamen zu wenige Fachleute, weil andere Länder schneller, 
-effizienter und smarter bei der Integration der Zuzügler vorgingen. Am Ende profitiert Deutschland nun von der 
-Finanz- und Schuldenkrise in Europa. Hierzulande fehlen die Fachkräfte, in Spanien, Griechenland, Italien und 
-Portugal stehen sie auf der Straße. Die Osteuropäer lockt, dass in Deutschland die Löhne höher sind. Um am Ende 
-nicht nur Nutznießer der Krise zu sein, sondern auch dauerhaft ein attraktives Einwanderungsland zu werden, muss 
-Deutschland noch ein paar Hausaufgaben erledigen. Die bürokratischen Hürden sind teilweise noch zu hoch. Auch 
-fehlt es vor Ort vielfach an Konzepten, nicht nur die Erwerbspersonen, sondern auch ihre Familien zu integrieren. 
-Dies ist angesichts der demografischen Entwicklung dringend notwendig. bericht eine million zuwanderer 2012, 
-titelseite"
-2013-05,Main Corpus,2013-05(84).ZIP,Deutschland wird Magnet für Zuwanderer Mehr als eine Million Menschen kamen 2012 - vor allem aus Süd.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Deutschland wird Magnet für Zuwanderer Mehr als eine Million Menschen kamen 2012 - vor allem aus Süd.PDF,Deutschland wird Magnet für Zuwanderer Mehr als eine Million Menschen kamen 2012 - vor allem aus Süd-,deutschland wird magnet für zuwanderer mehr als eine million menschen kamen 2012  vor allem aus süd,Die Welt,die welt,Mittwoch 8. Mai 2013,Stefan Von Borstel,TITEL; S. 1; Ausg. 106,407,2890,73e4e73be77a830a2902bebd31806b3a5c3afffb,,unique,keep,,no,,no,,,4165,no,,,,,"Die Wirtschaftskrise in Südeuropa und die EU-Osterweiterung haben Deutschland im vergangenen Jahr mehr als 
+2013-05,Main Corpus,2013-05(64).ZIP,Deutschland wird Magnet für Zuwanderer Mehr als eine Million Menschen kamen 2012 - vor allem aus Süd.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Deutschland wird Magnet für Zuwanderer Mehr als eine Million Menschen kamen 2012 - vor allem aus Süd.PDF,Deutschland wird Magnet für Zuwanderer Mehr als eine Million Menschen kamen 2012 - vor allem aus Süd-,deutschland wird magnet für zuwanderer mehr als eine million menschen kamen 2012  vor allem aus süd,Die Welt,die welt,Mittwoch 8. Mai 2013,Stefan Von Borstel,TITEL; S. 1; Ausg. 106,407,2890,73e4e73be77a830a2902bebd31806b3a5c3afffb,,unique,keep,,no,,no,,,4165,no,,,,,"Die Wirtschaftskrise in Südeuropa und die EU-Osterweiterung haben Deutschland im vergangenen Jahr mehr als 
 eine Million Zuwanderer gebracht - so viele wie seit 17 Jahren nicht mehr. Ihre Zahl stieg um 13 Prozent oder 
 123.000 auf 1,081 Millionen. Zugleich zählten die Statistiker 712.000 Abwanderer, fünf Prozent mehr als im Vorjahr. 
 Damit ergab sich für 2012 ein Wanderungsüberschuss von 369.000 Zuwanderern. Das ist ebenfalls der höchste 
@@ -551,7 +495,7 @@ Zuwanderer abzubauen - auch aus Staaten außerhalb der EU.
 Graphic
  
 Babette Reiche"
-2013-05,Main Corpus,2013-05(84).ZIP,"Deutschland, ein Einwanderungsland Eine Million Zuwanderer kamen im vergangenen Jahr Vor allem Südeu.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Deutschland, ein Einwanderungsland Eine Million Zuwanderer kamen im vergangenen Jahr Vor allem Südeu.PDF","Deutschland, ein Einwanderungsland Eine Million Zuwanderer kamen im vergangenen Jahr Vor allem",deutschland ein einwanderungsland eine million zuwanderer kamen im vergangenen jahr vor allem,Berliner Zeitung,berliner zeitung,Mittwoch 8. Mai 2013,Thorsten Knuf,POLITIK; Ausg. 106,379,2755,3bec0272fc2bad151b2ec4d87b95a9ba4f21a8d6,,unique,keep,,no,,no,,,4084,no,,,,,"Deutschland ist für Zuwanderer so attraktiv wie seit fast 20 Jahren nicht mehr. Während in weiten Teilen Europas 
+2013-05,Main Corpus,2013-05(64).ZIP,"Deutschland, ein Einwanderungsland Eine Million Zuwanderer kamen im vergangenen Jahr Vor allem Südeu.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Deutschland, ein Einwanderungsland Eine Million Zuwanderer kamen im vergangenen Jahr Vor allem Südeu.PDF","Deutschland, ein Einwanderungsland Eine Million Zuwanderer kamen im vergangenen Jahr Vor allem",deutschland ein einwanderungsland eine million zuwanderer kamen im vergangenen jahr vor allem,Berliner Zeitung,berliner zeitung,Mittwoch 8. Mai 2013,Thorsten Knuf,POLITIK; Ausg. 106,379,2755,3bec0272fc2bad151b2ec4d87b95a9ba4f21a8d6,,unique,keep,,no,,no,,,4084,no,,,,,"Deutschland ist für Zuwanderer so attraktiv wie seit fast 20 Jahren nicht mehr. Während in weiten Teilen Europas 
 die Wirtschaft darniederliegt und die Arbeitslosigkeit explodiert, suchen immer mehr Menschen ihr Glück in der 
 Bundesrepublik.
 Wie das Statistische Bundesamt am Dienstag mitteilte, stieg die Zahl der Zuzüge aus dem Ausland im 
@@ -581,18 +525,7 @@ Südeuropäer suchen hier Arbeit / Viele sind jung und gut ausgebil....
 Südeuropäer, die ihre Heimat unmittelbar nach Abschluss ihrer Berufs- oder Hochschulausbildung verlassen 
 haben.
 Kommentar Seite 4"
-2013-05,Main Corpus,2013-05(84).ZIP,Die Akte Ciftlik.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Die Akte Ciftlik.PDF,Die Akte Ciftlik,die akte ciftlik,"taz, die tageszeitung",taz die tageszeitung,Freitag 03. Mai 2013,,NORD AKTUELL; S. 22,139,986,2bb87bd4d880aff3566ac31a2e8120dcca524ca5,,unique,keep,,no,,no,,,1710,no,,,,,"Bülent Ciftlik, der am heutigen Freitag seinen 41. Geburtstag feiert, ist Sohn türkischer Einwanderer, die 1963 nach 
-Deutschland kamen. Er ist in Hamburg geboren und machte dort sein Abitur.
-- Seit 2001 war Ciftlik als politischer Referent und zwischen 2004 und 2009 als Pressesprecher der Hamburger 
-SPD tätig.
-- 2008 wurde Ciftlik für die SPD in die Hamburgische Bürgerschaft gewählt. Nach seiner erstinstanzlichen 
-Verurteilung wegen Vermittlung einer Scheinehe verließ Ciftlik auf Druck von Landeschef Olaf Scholz Anfang Juli 
-2010 die SPD-Fraktion. Den gegen ihn verhängten Parteiausschluss hat Ciftlik juristisch angefochten.
-- Der Prozess gegen Ciftlik vor dem Hamburger Landgericht dauert seit Februar 2010 an. Erneut wird die 
-Scheinehe verhandelt, zudem wirft die Staatsanwaltschaft Ciftlik vor, Urkunden gefälscht sowie drei Zeugen zu 
-einer Falschaussage angestiftet zu haben ein Delikt, das mit einer Haftstrafe zwischen drei Monaten und fünf 
-Jahren geahndet werden kann."
-2013-05,Main Corpus,2013-05(84).ZIP,Die Republik wächst Zuwanderer strömen nach Deutschland.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Die Republik wächst Zuwanderer strömen nach Deutschland.PDF,Die Republik wächst Zuwanderer strömen nach Deutschland,die republik wächst zuwanderer strömen nach deutschland,Südwest Presse,südwest presse,Mittwoch 8. Mai 2013,,Politik; S. 1,359,2503,c08d75f919287e1a250326b8d103de35c14674d6,,unique,keep,,no,,no,,,3920,no,,,,,"Bundesarbeitsministerin Ursula von der Leyen (CDU) begrüßt den verstärkten Zuzug von einwanderern nach 
+2013-05,Main Corpus,2013-05(64).ZIP,Die Republik wächst Zuwanderer strömen nach Deutschland.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Die Republik wächst Zuwanderer strömen nach Deutschland.PDF,Die Republik wächst Zuwanderer strömen nach Deutschland,die republik wächst zuwanderer strömen nach deutschland,Südwest Presse,südwest presse,Mittwoch 8. Mai 2013,,Politik; S. 1,359,2503,c08d75f919287e1a250326b8d103de35c14674d6,,unique,keep,,no,,no,,,3920,no,,,,,"Bundesarbeitsministerin Ursula von der Leyen (CDU) begrüßt den verstärkten Zuzug von einwanderern nach 
 Deutschland: ""Es geht nicht nur um die Zahl, vor allem die neue Qualität der Zuwanderung ist ein Glücksfall. Das 
 hilft unserem Land, macht es jünger, kreativer und internationaler."" Im Idealfall werde der europäische Arbeitsmarkt 
 zur Drehscheibe für Berufswissen und Wohlstand. Über die berufliche Qualifikation der Menschen, die 2012 kamen, 
@@ -621,7 +554,7 @@ Die Republik wächst Zuwanderer strömen nach Deutschland
 579 000 der Rückkehrer hatten keinen deutschen Pass. Aus den Zu- und Fortzügen ergibt sich ein 
 Einwohnergewinn von 369 000 Menschen, auch dies ist der höchste Wert seit 1995. Im Vergleich zum Vorjahr 
 betrug das Plus an Zuwanderern 13 Prozent."
-2013-05,Main Corpus,2013-05(84).ZIP,DOKUMENTARFILM The Invisible Men.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\DOKUMENTARFILM The Invisible Men.PDF,DOKUMENTARFILM; The Invisible Men,dokumentarfilm the invisible men,Der Tagesspiegel,der tagesspiegel,Mittwoch 8. Mai 2013,,TICKET; S. 6; Ausg. 21682,150,940,24d5d0702cc73f91294e7f5d71305ad3038c350e,,unique,keep,,no,,no,,,1578,no,,,,,"Louie, 33, ist ein schwuler Palästinenser. Seit zehn Jahren versteckt er sich vor seiner Familie und der Polizei in Tel 
+2013-05,Main Corpus,2013-05(64).ZIP,DOKUMENTARFILM The Invisible Men.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\DOKUMENTARFILM The Invisible Men.PDF,DOKUMENTARFILM; The Invisible Men,dokumentarfilm the invisible men,Der Tagesspiegel,der tagesspiegel,Mittwoch 8. Mai 2013,,TICKET; S. 6; Ausg. 21682,150,940,24d5d0702cc73f91294e7f5d71305ad3038c350e,,unique,keep,,no,,no,,,1578,no,,,,,"Louie, 33, ist ein schwuler Palästinenser. Seit zehn Jahren versteckt er sich vor seiner Familie und der Polizei in Tel 
 Aviv. Abdu, 24, wurde in Ramallah geoutet. Er wurde verhaftet, gefoltert, konnte fliehen. In wenigen Tagen wird er 
 Israel legal verlassen. Der 23-jährige Faris hat es auf der Flucht vor seiner Familie auch bis nach Tel Aviv 
 geschafft. Nur weil allen Asyl im Ausland gewährt wurde, gelang es dem israelischen Regisseur Yavriv Mozer, die 
@@ -630,7 +563,7 @@ Mozer fängt eine Atmosphäre ein, die von Angst geprägt ist. Davor, erkannt un
 Abschiebung und vor der Familie. Die einzige Hoffnung ist das Asyl. Mozers Film ist wichtig und richtig. Er 
 beschreibt genau, voller Traurigkeit und Verzweiflung, Mut, Hoffnung und Lebensfreude. Emotional. Markus Raska
 IL/NL 2012, 69 Min., R: Yariv Mozer"
-2013-05,Main Corpus,2013-05(84).ZIP,Edle Tropfen mit exotischer Seele Italienische Einwanderer legten den Grundstock für hochwertige Wei.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Edle Tropfen mit exotischer Seele Italienische Einwanderer legten den Grundstock für hochwertige Wei.PDF,"Edle Tropfen mit exotischer Seele Italienische Einwanderer legten den Grundstock für hochwertige Weine, die",edle tropfen mit exotischer seele italienische einwanderer legten den grundstock für hochwertige weine die,Die Welt,die welt,Samstag 11. Mai 2013,Ulrike Wiebrecht,SONDERTHEMEN; Ausg. 108,620,4477,93624045f416000fa2563c8daa237ac498a173e0,,unique,keep,,no,,no,,,5837,no,,,,,"Brazilian Soul: Darunter mag man sich vieles vorstellen. Aber ein Weinlabel? Kaum einer weiß, dass Brasilien pro 
+2013-05,Main Corpus,2013-05(64).ZIP,Edle Tropfen mit exotischer Seele Italienische Einwanderer legten den Grundstock für hochwertige Wei.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Edle Tropfen mit exotischer Seele Italienische Einwanderer legten den Grundstock für hochwertige Wei.PDF,"Edle Tropfen mit exotischer Seele Italienische Einwanderer legten den Grundstock für hochwertige Weine, die",edle tropfen mit exotischer seele italienische einwanderer legten den grundstock für hochwertige weine die,Die Welt,die welt,Samstag 11. Mai 2013,Ulrike Wiebrecht,SONDERTHEMEN; Ausg. 108,620,4477,93624045f416000fa2563c8daa237ac498a173e0,,unique,keep,,no,,no,,,5837,no,,,,,"Brazilian Soul: Darunter mag man sich vieles vorstellen. Aber ein Weinlabel? Kaum einer weiß, dass Brasilien pro 
 Jahr 3,2 Mio. Hektoliter qualitätvollen Rebensaft produziert. Doch das könnte sich bald ändern, wenn er vermehrt in 
 den Regalen deutscher Weinhandlungen oder Supermärkte steht. Mack & Schühle AG, einer der größten 
 Weinimporteure Deutschlands, lanciert besagtes Label, um den Produkten des Weinguts Vinícola Aurora den Weg 
@@ -680,7 +613,7 @@ Graphic
 Getty Images
 Das Tal Belo de Sul in der Serra Gaucha ist „Erbgut"": Italienische Einwanderer kultivierten hier den Weinanbau
 Getty Images"
-2013-05,Main Corpus,2013-05(84).ZIP,"Ein unpolitischer Vorstoß Deutschland hat jede Menge Defizite, wenn es um die Fragen der Einwanderun.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Ein unpolitischer Vorstoß Deutschland hat jede Menge Defizite, wenn es um die Fragen der Einwanderun.PDF","Ein unpolitischer Vorstoß Deutschland hat jede Menge Defizite, wenn es um die Fragen der",ein unpolitischer vorstoss deutschland hat jede menge defizite wenn es um die fragen der,Frankfurter Rundschau,frankfurter rundschau,Montag 13. Mai 2013,Anetta Kahane,MEINUNG; S. 10,478,3512,7105329731061ba5342042662846c80354c3b35a,,unique,drop,commentary_noncore,no,,no,,,4443,yes,commentary_noncore,,,,"Kolumne 
+2013-05,Main Corpus,2013-05(64).ZIP,"Ein unpolitischer Vorstoß Deutschland hat jede Menge Defizite, wenn es um die Fragen der Einwanderun.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Ein unpolitischer Vorstoß Deutschland hat jede Menge Defizite, wenn es um die Fragen der Einwanderun.PDF","Ein unpolitischer Vorstoß Deutschland hat jede Menge Defizite, wenn es um die Fragen der",ein unpolitischer vorstoss deutschland hat jede menge defizite wenn es um die fragen der,Frankfurter Rundschau,frankfurter rundschau,Montag 13. Mai 2013,Anetta Kahane,MEINUNG; S. 10,478,3512,7105329731061ba5342042662846c80354c3b35a,,unique,drop,commentary_noncore,no,,no,,,4443,yes,commentary_noncore,,,,"Kolumne 
 Gerade bin ich in Chile, einem der spannendsten Länder Lateinamerikas und verspreche, darüber auch bald zu 
 berichten. Doch die Globalisierung sorgt für schnelle Information und so drang die Idee von Frau Leutheusser-
 Schnarrenberger, einen Beauftragten gegen Extremismus beim Kanzleramt zu berufen, bis über die Anden. 
@@ -719,7 +652,7 @@ endlich die Themen Migration, Rassismus und Rechtsextremismus politisch und zusa
 wirklich! Da lachen ja die Lamas!
 Anetta Kahane ist Vorsitzende der Amadeu-Antonio-Stiftung. 
  Anetta Kahane"
-2013-05,Main Corpus,2013-05(84).ZIP,"Ein Zwischenruf zur ... ... Blindheit Barbara John erklärt, was die Deutschen in Sachen Rassismusbek.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Ein Zwischenruf zur ... ... Blindheit Barbara John erklärt, was die Deutschen in Sachen Rassismusbek.PDF",in Sachen Rassismusbekämpfung von der Schweiz lernen könnten,in sachen rassismusbekämpfung von der schweiz lernen könnten,Der Tagesspiegel,der tagesspiegel,Sonntag 5. Mai 2013,,MEINUNG; S. 6; Ausg. 21679,273,2117,78984013ae591ae192ecb31a7623ef832da1d275,,unique,drop,commentary_noncore,no,,no,,,3223,yes,commentary_noncore,,,,"Rassismus in seinen verschiedenen Spielarten wird politisch in Deutschland nicht wirklich ernst genommen. Hier 
+2013-05,Main Corpus,2013-05(64).ZIP,"Ein Zwischenruf zur ... ... Blindheit Barbara John erklärt, was die Deutschen in Sachen Rassismusbek.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Ein Zwischenruf zur ... ... Blindheit Barbara John erklärt, was die Deutschen in Sachen Rassismusbek.PDF",in Sachen Rassismusbekämpfung von der Schweiz lernen könnten,in sachen rassismusbekämpfung von der schweiz lernen könnten,Der Tagesspiegel,der tagesspiegel,Sonntag 5. Mai 2013,,MEINUNG; S. 6; Ausg. 21679,273,2117,78984013ae591ae192ecb31a7623ef832da1d275,,unique,drop,commentary_noncore,no,,no,,,3223,yes,commentary_noncore,,,,"Rassismus in seinen verschiedenen Spielarten wird politisch in Deutschland nicht wirklich ernst genommen. Hier 
 einige Befunde: Seit Jahren wird öffentlich gestritten über die Zahl der Mordopfer rassistisch motivierter Täter. In 
 Baden-Württemberg blieben Polizisten im Polizeidienst, obwohl sie als Mitglieder des rassistischen Ku-Klux-Klan-
 Geheimbunds enttarnt worden waren. Und selbst der Verfassungsschutz im Ländle hatte rassistischen Dreck am 
@@ -740,32 +673,7 @@ agiert zu abwartend, die Zivilgesellschaft zu uneinheitlich, die Sicherheitsbeh�
 ändern, wäre ""Rassendiskriminierung"" ( hier hieße es wohl anders) ein Offizialdelikt wie in der Schweiz (Art. 261 
 StGB), das verfolgt werden muss bei einer begründeten Anzeige. Und viel zu lernen gäbe es auch von der 
 politischen Wirkung der Eidgenössischen Kommission gegen Rassismus."
-2013-05,Main Corpus,2013-05(84).ZIP,Eine Million Zuwanderer 2012.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Eine Million Zuwanderer 2012.PDF,Eine Million Zuwanderer 2012,eine million zuwanderer 2012,Rheinische Post,rheinische post,8. Mai 2013 Mittwoch,Von Eva Quadbeck,,370,2650,df5428b4b57405ca00cd6747a18202ae9f253d0a,variant_001,regional_variant,review,,no,,no,,,3649,no,,,near_001,variant_001,"Die Zuwanderung nach Deutschland liegt auf Rekordniveau. Vor allem aus Osteuropa und aus den Krisen-
-Staaten im Süden kommen Menschen. Der große Teil von ihnen findet einen festen Job. 
- Von Eva Quadbeck Berlin Immer mehr Menschen aus Süd- und Osteuropa suchen ihr Glück in Deutschland. 
-Nach Angaben des Statistischen Bundesamtes sind im vergangenen Jahr knapp 1,1 Millionen Menschen nach 
-Deutschland eingewandert - so viele wie seit 1995 nicht mehr. Berücksichtigt man auch die Fortzüge, bleibt nach 
-offiziellen Angaben der Statistiker ein Überschuss von 369 000 Personen. Das ist ebenfalls der höchste Wert seit 
-1995. Auffällig ist der Anstieg der Zahl der Einwanderer aus den von der Finanz- und Schuldenkrise besonders 
-betroffenen Ländern wie Spanien (plus 45 Prozent), Griechenland und Portugal (je plus 43 Prozent) und Italien 
-(plus 40 Prozent). Die Zuwanderung aus den osteuropäischen Ländern ist ungebrochen stark. Zudem streben 
-immer mehr Bulgaren und Rumänen auf den deutschen Arbeitsmarkt. Von den Neuankömmlingen findet eine 
-große Mehrheit einen sozialversicherungspflichtigen Job, wie eine Analyse der Bundesagentur für Arbeit belegt. 
-Das Bildungsniveau der Zuzügler ist in den vergangenen Jahren gestiegen. Der Anteil der Akademiker kletterte 
-nach einer Studie des Instituts für Arbeitsmarkt- und Berufsforschung von 30 Prozent im Jahr 2005 auf 44 Prozent 
-im Jahr 2009. Viele Zuwanderer bereiten sich gezielt vor: Das Goethe-Institut verzeichnet Rekordzahlen bei 
-Sprachkursen und Prüfungen. Wichtigster Wachstumsmarkt sei Südeuropa, hieß es gestern aus der Münchner 
-Zentrale. ""Die aktuellen Zahlen machen deutlich: Deutschland ist ein Einwanderungsland"", sagte die 
-Integrationsbeauftragte der Bundesregierung, Maria Böhmer (CDU). ""Angesichts des demografischen Wandels und 
-des Fachkräftemangels ist für uns qualifizierte Zuwanderung von großem Nutzen."" Böhmer verwies auf das Gesetz 
-zur Anerkennung von Berufsabschlüssen, das seit einem Jahr in Kraft ist. ""Bislang wurden bereits rund 30 000 
-Anträge auf Anerkennung gestellt. 96 Prozent davon wurden voll oder teilweise anerkannt"", sagte sie. SPD-
-Vizechefin Aydan Özoguz kritisierte hingegen: ""Zu wenige Menschen profitieren von dem Gesetz, denn vielen 
-Menschen mit ausländischem Berufsabschluss fehlt es an Unterstützung - vor, während und nach dem 
-Anerkennungsverfahren."" Özoguz forderte eine ""Willkommenskultur"" in der gesamten Gesellschaft. Die meisten 
-Zuwanderer lassen sich in Bayern nieder - im vergangenen Jahr waren es 192 000 -, gefolgt von NRW (186 000), 
-Baden-Württemberg (171 000) sowie Hessen und Niedersachsen (je rund 90 000). Leitartikel Seite A 2"
-2013-05,Main Corpus,2013-05(84).ZIP,Eine Million Zuwanderer Deutschland zieht so viele Menschen an wie lange nicht - ein Glück für den A.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Eine Million Zuwanderer Deutschland zieht so viele Menschen an wie lange nicht - ein Glück für den A.PDF,Eine Million Zuwanderer; Deutschland zieht so viele Menschen an wie lange nicht - ein Glück für den,eine million zuwanderer deutschland zieht so viele menschen an wie lange nicht  ein glück für den,Frankfurter Rundschau,frankfurter rundschau,Mittwoch 08. Mai 2013,Thorsten Knuf,POLITIK; S. 1,269,1930,fc9b349149d6ebe760b10957c8a91d3f254244c1,,unique,keep,,no,,no,,,3201,no,,,,,"Von Thorsten Knuf
+2013-05,Main Corpus,2013-05(64).ZIP,Eine Million Zuwanderer Deutschland zieht so viele Menschen an wie lange nicht - ein Glück für den A.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Eine Million Zuwanderer Deutschland zieht so viele Menschen an wie lange nicht - ein Glück für den A.PDF,Eine Million Zuwanderer; Deutschland zieht so viele Menschen an wie lange nicht - ein Glück für den,eine million zuwanderer deutschland zieht so viele menschen an wie lange nicht  ein glück für den,Frankfurter Rundschau,frankfurter rundschau,Mittwoch 08. Mai 2013,Thorsten Knuf,POLITIK; S. 1,269,1930,fc9b349149d6ebe760b10957c8a91d3f254244c1,,unique,keep,,no,,no,,,3201,no,,,,,"Von Thorsten Knuf
  Deutschland ist für Zuwanderer so attraktiv wie seit fast 20 Jahren nicht mehr. Während in weiten Teilen Europas 
 die Wirtschaft darniederliegt und die Arbeitslosigkeit explodiert, suchen immer mehr Menschen ihr Glück in der 
 Bundesrepublik.
@@ -785,27 +693,7 @@ sind zum großen Teil sehr gut ausgebildete Leute. Sie sind mutig und engagiert.
 ihren Ländern."" Um die Potenziale optimal zu nutzen, müsse Deutschland gezielte Integrationsangebote 
 unterbreiten, etwa berufsspezifische Deutschkurse. In Städten wie Berlin oder Frankfurt leben inzwischen 
 zahlreiche Südeuropäer mit frischen Berufs- oder Studienabschlüssen. Seite 11"
-2013-05,Main Corpus,2013-05(84).ZIP,Eine Million Zuwanderer in Deutschland in einem Jahr.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Eine Million Zuwanderer in Deutschland in einem Jahr.PDF,Eine Million Zuwanderer in Deutschland in einem Jahr,eine million zuwanderer in deutschland in einem jahr,Rheinische Post,rheinische post,8. Mai 2013 Mittwoch,Von Eva Quadbeck,,274,1986,81c0cc5802ba7511b8293af19ed126fb663c28f0,variant_001,regional_variant,review,,no,,no,,,2908,no,,,near_001,variant_001,"Vor allem aus Osteuropa und den Krisen-Staaten im Süden kommen Menschen. Der große Teil findet einen 
-festen Job. Von Eva Quadbeck Berlin Immer mehr Menschen aus Süd- und Osteuropa suchen ihr Glück in 
-Deutschland. 
-Nach Angaben des Statistischen Bundesamtes sind im vergangenen Jahr knapp 1,1 Millionen Menschen nach 
-Deutschland eingewandert - so viele wie seit 1995 nicht mehr. Berücksichtigt man auch die Fortzüge, bleibt nach 
-offiziellen Angaben der Statistiker ein Überschuss von 369 000 Personen. Das ist ebenfalls der höchste Wert seit 
-1995. Die meisten Zuwanderer lassen sich in Bayern nieder. Auffällig ist der Anstieg der Zahl der Einwanderer aus 
-den von der Finanz- und Schuldenkrise besonders betroffenen Ländern wie Spanien (plus 45 Prozent), 
-Griechenland und Portugal (je plus 43 Prozent) und Italien (plus 40 Prozent). Die Zuwanderung aus den 
-osteuropäischen Ländern ist ungebrochen stark. Zudem streben immer mehr Bulgaren und Rumänen auf den 
-deutschen Arbeitsmarkt. Von den Neuankömmlingen findet eine große Mehrheit einen 
-sozialversicherungspflichtigen Job, wie eine Analyse der Bundesagentur für Arbeit belegt. ""Die aktuellen Zahlen 
-machen deutlich: Deutschland ist ein Einwanderungsland"", sagte die Integrationsbeauftragte der Bundesregierung, 
-Maria Böhmer (CDU). ""Angesichts des demografischen Wandels und des Fachkräftemangels ist für uns 
-qualifizierte Zuwanderung von großem Nutzen."" Böhmer verwies auf das Gesetz zur Anerkennung von 
-Berufsabschlüssen, das seit einem Jahr in Kraft ist. ""Bislang wurden bereits rund 30 000 Anträge auf Anerkennung 
-gestellt. 96 Prozent davon wurden voll oder teilweise anerkannt"", sagte sie. SPD-Vizechefin Aydan Özoguz 
-kritisierte hingegen: ""Zu wenige Menschen profitieren von dem Gesetz, denn vielen Menschen mit ausländischem 
-Berufsabschluss fehlt es an Unterstützung - vor, während und nach dem Anerkennungsverfahren."" Özoguz forderte 
-eine ""Willkommenskultur"" in der gesamten Gesellschaft. Leitartikel Seite A 2"
-2013-05,Main Corpus,2013-05(84).ZIP,Einwanderungsziel_ Deutschland BEWEGUNG Zum dritten Mal in Folge steigt die Zahl der Menschen deutli.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Einwanderungsziel_ Deutschland BEWEGUNG Zum dritten Mal in Folge steigt die Zahl der Menschen deutli.PDF,Einwanderungsziel: Deutschland; BEWEGUNG Zum dritten Mal in Folge steigt die Zahl der Menschen deutlich,einwanderungsziel deutschland bewegung zum dritten mal in folge steigt die zahl der menschen deutlich,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 08. Mai 2013,EVA VÖLPEL,AKTUELLES; S. 02,671,4805,d727188dcb79a5141669613064093242b382f80b,,unique,keep,,no,,no,,,6597,no,,,,,"VON EVA VÖLPEL
+2013-05,Main Corpus,2013-05(64).ZIP,Einwanderungsziel_ Deutschland BEWEGUNG Zum dritten Mal in Folge steigt die Zahl der Menschen deutli.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Einwanderungsziel_ Deutschland BEWEGUNG Zum dritten Mal in Folge steigt die Zahl der Menschen deutli.PDF,Einwanderungsziel: Deutschland; BEWEGUNG Zum dritten Mal in Folge steigt die Zahl der Menschen deutlich,einwanderungsziel deutschland bewegung zum dritten mal in folge steigt die zahl der menschen deutlich,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 08. Mai 2013,EVA VÖLPEL,AKTUELLES; S. 02,671,4805,d727188dcb79a5141669613064093242b382f80b,,unique,keep,,no,,no,,,6597,no,,,,,"VON EVA VÖLPEL
 BERLIN taz | Im vergangenen Jahr sind so viele Einwanderer nach Deutschland gekommen, wie seit rund 20 
 Jahren nicht mehr. Besonders aus den südeuropäischen Krisenstaaten wächst dabei die Zahl der neu 
 Zugezogenen kräftig an. Das zeigen vorläufige Berechnungen, die das Statistische Bundesamt am Dienstag 
@@ -857,7 +745,7 @@ nach Österreich. Von den ausländischen Personen, die genug von Deutschland hat
 Koffer mit dem Reiseziel Polen, gefolgt von Rumänien und Bulgarien.
  Ohne Zuwanderung wird Deutschland seine Leistungskraft nicht halten können 
 SPRECHERIN DES ARBEITSMINISTERIUMS"
-2013-05,Main Corpus,2013-05(84).ZIP,Englischer Starkoch mit Lintorfer Wurzeln.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Englischer Starkoch mit Lintorfer Wurzeln.PDF,Englischer Starkoch mit Lintorfer Wurzeln,englischer starkoch mit lintorfer wurzeln,Rheinische Post,rheinische post,11. Mai 2013 Samstag,von gabriele hannen,,567,4032,a6cd6536270106f5349000d7f6d0a1578ec66753,,unique,keep,,no,,no,,,4910,no,,,,,"Der britische Meisterkoch Rick Stein machte jetzt mit einem Fernsehteam auf einer zehntägigen Recherche-Tour 
+2013-05,Main Corpus,2013-05(64).ZIP,Englischer Starkoch mit Lintorfer Wurzeln.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Englischer Starkoch mit Lintorfer Wurzeln.PDF,Englischer Starkoch mit Lintorfer Wurzeln,englischer starkoch mit lintorfer wurzeln,Rheinische Post,rheinische post,11. Mai 2013 Samstag,von gabriele hannen,,567,4032,a6cd6536270106f5349000d7f6d0a1578ec66753,,unique,keep,,no,,no,,,4910,no,,,,,"Der britische Meisterkoch Rick Stein machte jetzt mit einem Fernsehteam auf einer zehntägigen Recherche-Tour 
 durch Deutschland auch halt in Lintorf, der Heimat seiner Vorfahren. von gabriele hannen lintorf Mit 
 Produktionsleiter, Assistentin, Ton- und Kameramann, Hilfskraft, seinem Sohn Jack und einem bis zum Dach mit 
 Ausrüstung vollgestopften Bully rauschte er auf dem kleinen Platz an der evangelischen Kirche vor. Denn dort, wo 
@@ -896,7 +784,7 @@ geboren, musste statt des erstrebten Medizinstudiums ins väterliche Geschäft e
 familiären Cornwall-Reisen so geprägt, dass er in Padstow Geld aus seinem Erbteil in das Restaurant für 
 Fischspezialitäten steckte. In Lintorf rundete sich jetzt alles: Florian Eggenpöhler, Fahnen-Fan, hisste die Fahne 
 von Cornwall. Natürlich steckte Manfred Buer hinter dieser herzlichen Geste."
-2013-05,Main Corpus,2013-05(84).ZIP,"Erst zum Arzt, dann abgeschoben MEDIZIN Ausländer ohne geregelten Aufenthaltsstatus oder Versicherun.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Erst zum Arzt, dann abgeschoben MEDIZIN Ausländer ohne geregelten Aufenthaltsstatus oder Versicherun.PDF","Erst zum Arzt, dann abgeschoben MEDIZIN Ausländer ohne geregelten Aufenthaltsstatus oder Versicherung",erst zum arzt dann abgeschoben medizin ausländer ohne geregelten aufenthaltsstatus oder versicherung,"taz, die tageszeitung",taz die tageszeitung,Freitag 03. Mai 2013,HEIKE HAARHOFF,INLAND; S. 06,382,2977,a7399caeb99b76382230c2cee13814fd36d75d40,,unique,keep,,no,,no,,,4356,no,,,,,"AUS BERLIN HEIKE HAARHOFF
+2013-05,Main Corpus,2013-05(64).ZIP,"Erst zum Arzt, dann abgeschoben MEDIZIN Ausländer ohne geregelten Aufenthaltsstatus oder Versicherun.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Erst zum Arzt, dann abgeschoben MEDIZIN Ausländer ohne geregelten Aufenthaltsstatus oder Versicherun.PDF","Erst zum Arzt, dann abgeschoben MEDIZIN Ausländer ohne geregelten Aufenthaltsstatus oder Versicherung",erst zum arzt dann abgeschoben medizin ausländer ohne geregelten aufenthaltsstatus oder versicherung,"taz, die tageszeitung",taz die tageszeitung,Freitag 03. Mai 2013,HEIKE HAARHOFF,INLAND; S. 06,382,2977,a7399caeb99b76382230c2cee13814fd36d75d40,,unique,keep,,no,,no,,,4356,no,,,,,"AUS BERLIN HEIKE HAARHOFF
 Sie sind nicht krankenversichert oder haben keinen legalen Aufenthaltsstatus, und das hat Auswirkungen auf ihre 
 Gesundheit: Mehr als eine halbe Million Menschen mit Migrationshintergrund in Deutschland leben nach Angaben 
 der Bundesärztekammer mit dem Risiko, im Krankheitsfall nicht angemessen behandelt zu werden. Wir Ärzte 
@@ -929,23 +817,7 @@ Wiesing: Kranke Menschen stehen dann vor der Entscheidung: Lasse ich mich behand
 ausgewiesen? 
  Kranke stehen vor der Entscheidung: Therapie oder Ausweisung? 
 URBAN WIESING, ETHIKKOMMISSION"
-2013-05,Main Corpus,2013-05(84).ZIP,Feuerwehr_ Unruhiger Mai-Start.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Feuerwehr_ Unruhiger Mai-Start.PDF,Feuerwehr: Unruhiger Mai-Start,feuerwehr unruhiger maistart,Rheinische Post,rheinische post,3. Mai 2013 Freitag,,,226,1666,564997d1b9699680583916b259cd0d104acb3ab4,,unique,keep,,no,,no,,,2082,no,,,,,"Am 1. Mai gab es mehrere Einsätze, so auch beim Tennis-Club Homberg. RATINGEN (RP) Noch während der 
-Aufräumarbeiten vom Tanz in den Mai auf der Hauptfeuer- und Rettungswache startete die Feuerwehr Ratingen 
-recht unruhig in den Maifeiertag. Gegen 9.30 Uhr musste eine Person, welche sich in suizidaler Absicht aus einem 
-Hochhaus stürzen wollte, gerettet werden. Sie wurde nach einer Sicherung durch die Polizei und der Feuerwehr 
-durch den Notarzt erstversorgt und in einem Rettungswagen in eine Fachklinik gebracht. Im unmittelbaren 
-Anschluss alarmierten Lintorfer Bürger die Feuerwehr. Ein defekter Fernseher drohte in einem Einfamilienhaus in 
-der Ina-Seidel-Straße einen Brand zu entwickeln. Noch vor dem Eintreffen der Löschzüge aus Ratingen-Mitte und 
-Lintorf brachten die Bewohner das Gerät ins Freie, bevor es Schaden anrichten konnte. Die Einsatzkräfte konnten 
-daher unverrichteter Dinge wieder einrücken. Auf der Rückfahrt wurden sie allerdings vom Tennisclub Homberg-
-Meiersberg alarmiert. Auf dem Tennisplatz sowie im Clubheim hatte sich Gasgeruch breitgemacht. 
-Geistesgegenwärtig handelten die anwesenden Clubmitglieder, indem sie die Gaszufuhr eines Flüssiggastanks 
-sofort abschieberten und gleichzeitig den Gefahrenbereich evakuierten. Dieses vorbildliche Verhalten sorgte für 
-eine rasche Minderung einer Explosionsgefahr. Beim Eintreffen der Feuerwehr hatte sich der Gasgeruch bereits 
-verflüchtigt, und es konnte mit den Messgeräten der Einsatzkräfte keine explosionsfähige Atmosphäre mehr 
-nachgewiesen werden. Ein Sach- und Fachkundiger muss sich der Sache nunmehr annehmen. Die Gasanlage 
-bleibt selbstverständlich bis dahin außer Betrieb."
-2013-05,Main Corpus,2013-05(84).ZIP,Fünfte Nacht mit Krawallen in Stockholm Wieder Brände und Festnahmen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Fünfte Nacht mit Krawallen in Stockholm Wieder Brände und Festnahmen.PDF,Fünfte Nacht mit Krawallen in Stockholm Wieder Brände und Festnahmen,fünfte nacht mit krawallen in stockholm wieder brände und festnahmen,Der Tagesspiegel,der tagesspiegel,Samstag 25. Mai 2013,,POLITIK; S. 6; Ausg. 21697,225,1712,cdfc6ecaf46c002e10881a4152667daf48f8676b,,unique,keep,,no,,no,,,2509,no,,,,,"Stockholm - Dutzende brennende Gebäude und Autos, Steinwürfe auf Feuerwehrwehrleute: Schwedens 
+2013-05,Main Corpus,2013-05(64).ZIP,Fünfte Nacht mit Krawallen in Stockholm Wieder Brände und Festnahmen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Fünfte Nacht mit Krawallen in Stockholm Wieder Brände und Festnahmen.PDF,Fünfte Nacht mit Krawallen in Stockholm Wieder Brände und Festnahmen,fünfte nacht mit krawallen in stockholm wieder brände und festnahmen,Der Tagesspiegel,der tagesspiegel,Samstag 25. Mai 2013,,POLITIK; S. 6; Ausg. 21697,225,1712,cdfc6ecaf46c002e10881a4152667daf48f8676b,,unique,keep,,no,,no,,,2509,no,,,,,"Stockholm - Dutzende brennende Gebäude und Autos, Steinwürfe auf Feuerwehrwehrleute: Schwedens 
 Hauptstadt Stockholm kommt auch nach fünf Krawallnächten nicht zur Ruhe. In mehreren Vororten lieferten sich 
 randalierende Jugendliche Auseinandersetzungen mit der Polizei. 13 Personen wurden festgenommen, teilten die 
 Behörden am Freitag mit. Verletzte wurden in der Nacht zu Freitag aber nicht gemeldet. Auslöser der Unruhen war 
@@ -963,28 +835,7 @@ Auslöser der Unruhen ist der Tod eines 69-jährigen Mannes in Husby, einem Voro
 Bevölkerung zu 80 Prozent aus Einwanderern besteht. Die Polizei hatte den Mann nach eigenen Angaben aus 
 Notwehr erschossen. Anwohner vermuten einen rassistischen Hintergrund. Die Gewaltausbrüche sind im Laufe der 
 Woche auf andere Vororte mit hohem Migrantenanteil übergegangen. dpa/rtr"
-2013-05,Main Corpus,2013-05(84).ZIP,Gerettet werden Gleichgesinnte AUFNAHME VON FLÜCHTLINGEN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Gerettet werden Gleichgesinnte AUFNAHME VON FLÜCHTLINGEN.PDF,Gerettet werden Gleichgesinnte AUFNAHME VON FLÜCHTLINGEN,gerettet werden gleichgesinnte aufnahme von flüchtlingen,"taz, die tageszeitung",taz die tageszeitung,Samstag 25. Mai 2013,SUSANNE MEMARNIA,BERLIN AKTUELL; S. 42,252,1771,127e5c385e7a45ebd80fcf5bb1e51ee795bfc3fc,,unique,keep,,no,,no,,,2550,no,,,,,"Berlin wird in den nächsten Monaten insgesamt 250 syrische Flüchtlinge aufnehmen. Das ist löblich auch wenn 
-sich das Land dafür nicht auf die Schulter klopfen kann. Die Aufnahme der sogenannten Kontingentflüchtlinge aus 
-dem Bürgerkriegsland ist eine Bundesentscheidung. Ebenso dass es wieder einmal vor allem Christen sind, die 
-Deutschland aufnimmt.
-Beim Irak war das seinerzeit auch so: Ein Krieg fordert Abertausende Opfer Männer, Frauen, Kinder, Muslime, 
-Christen, Säkulare, Behinderte, Linkshänder, Lesben und vermutlich auch Friseure , und wir suchen uns eine 
-angeblich besonders gefährdete Gruppe heraus, der wir helfen wollen. Natürlich nehmen wir eine Gruppe, die uns 
-besonders nahezustehen scheint. Wobei wir in diesem Fall konservativ- christliche Politiker sind, denen die 
-Rettung der Christenheit am Herzen liegt.
-Besonders christlich ist es, mit Verlaub, jedoch nicht, nur Gleichgesinnte retten zu wollen. Warum nimmt man nicht 
-die Kränksten, die Ärmsten? Stattdessen findet man bei der Auswahl der Flüchtlinge vor Ort besonders 
-schützenswerte Christen. Welch ein Zufall.
-Und so schön es ist, dass die syrischen Kontingentflüchtlinge sich in Berlin sofort Wohnung und Arbeit suchen 
-dürfen: Andere Flüchtlinge dürfen im ersten Jahr gar nicht arbeiten und danach auch nur unter bestimmten 
-Bedingungen. Dieses Klassensystem bei der Einwanderung muss ein Ende haben. Und das kann nur heißen: 
-Grenzen auf für alle, ob Bürgerkriegsflüchtling oder nicht.
-Sie, liebe Leserin, lieber Leser, haben Angst, dass dann alle hierherkommen und unser Wohlstandsboot wegen 
-Überfüllung untergeht? Das hat man bei der Grenzöffnung nach Polen auch gedacht. Und was ist passiert? Wir 
-schwimmen noch.
-SUSANNE MEMARNIA
-Warum nimmt man nicht die Kränksten, die Ärmsten?"
-2013-05,Main Corpus,2013-05(84).ZIP,Grün-Rot fordert den Doppelpass Neuer Versuch im Bundesrat für Zulassung der Mehrstaatlichkeit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Grün-Rot fordert den Doppelpass Neuer Versuch im Bundesrat für Zulassung der Mehrstaatlichkeit.PDF,Grün-Rot fordert den Doppelpass Neuer Versuch im Bundesrat für Zulassung der Mehrstaatlichkeit,grünrot fordert den doppelpass neuer versuch im bundesrat für zulassung der mehrstaatlichkeit,Südwest Presse,südwest presse,Mittwoch 15. Mai 2013,,Südwestumschau; S. 5,325,2396,7b4215422c667e24c6a5cc2519ebc6374962c949,,unique,keep,,no,,no,,,3658,no,,,,,"Nach einem gescheiterten Versuch 2011 startet die Landesregierung im Bundesrat einen neuen Versuch für die 
+2013-05,Main Corpus,2013-05(64).ZIP,Grün-Rot fordert den Doppelpass Neuer Versuch im Bundesrat für Zulassung der Mehrstaatlichkeit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Grün-Rot fordert den Doppelpass Neuer Versuch im Bundesrat für Zulassung der Mehrstaatlichkeit.PDF,Grün-Rot fordert den Doppelpass Neuer Versuch im Bundesrat für Zulassung der Mehrstaatlichkeit,grünrot fordert den doppelpass neuer versuch im bundesrat für zulassung der mehrstaatlichkeit,Südwest Presse,südwest presse,Mittwoch 15. Mai 2013,,Südwestumschau; S. 5,325,2396,7b4215422c667e24c6a5cc2519ebc6374962c949,,unique,keep,,no,,no,,,3658,no,,,,,"Nach einem gescheiterten Versuch 2011 startet die Landesregierung im Bundesrat einen neuen Versuch für die 
 Zulassung der doppelten Staatsbürgerschaft. Eine entsprechende Initiative bringt das Land am 7. Juni in den 
 Bundesrat ein, das hat das Kabinett gestern beschlossen. ""Es ist höchste Zeit, faktische Einbürgerungshemmnisse, 
 die in vielen westlichen Staaten längst kein Thema mehr sind, auch in Deutschland zu beseitigen"", sagte 
@@ -1011,7 +862,7 @@ Graphic
 Grün-Rot fordert den Doppelpass Neuer Versuch im Bundesrat für Zulassung der Mehrstaatlichkeit
 Integrationsministerin Bilkay Öney kritisiert, dass das Doppelpass-Verbot vor allem junge Türken trifft. Für EU-
 Bürger gilt es nicht, da gehen auch zwei Pässe. Foto: dpa"
-2013-05,Main Corpus,2013-05(84).ZIP,"Helfer beim Massenmord Wer ist der frühere Auschwitz-Wachmann, der nun verhaftet wurde_ Eine Rekonst.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Helfer beim Massenmord Wer ist der frühere Auschwitz-Wachmann, der nun verhaftet wurde_ Eine Rekonst.PDF","Helfer beim Massenmord; Wer ist der frühere Auschwitz-Wachmann, der nun verhaftet wurde? Eine",helfer beim massenmord wer ist der frühere auschwitzwachmann der nun verhaftet wurde eine,Der Tagesspiegel,der tagesspiegel,Mittwoch 8. Mai 2013,Claudia von Salzen,POLITIK; S. 6; Ausg. 21682,723,4929,9f470201b2438ea2a69f47407ab10baa74fc35b5,,unique,keep,,no,,no,,,6144,no,,,,,"Berlin - Der Mann, der im April 1983 von Chicago nach Deutschland flog, tat das nicht freiwillig. Hans L. sollte aus 
+2013-05,Main Corpus,2013-05(64).ZIP,"Helfer beim Massenmord Wer ist der frühere Auschwitz-Wachmann, der nun verhaftet wurde_ Eine Rekonst.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Helfer beim Massenmord Wer ist der frühere Auschwitz-Wachmann, der nun verhaftet wurde_ Eine Rekonst.PDF","Helfer beim Massenmord; Wer ist der frühere Auschwitz-Wachmann, der nun verhaftet wurde? Eine",helfer beim massenmord wer ist der frühere auschwitzwachmann der nun verhaftet wurde eine,Der Tagesspiegel,der tagesspiegel,Mittwoch 8. Mai 2013,Claudia von Salzen,POLITIK; S. 6; Ausg. 21682,723,4929,9f470201b2438ea2a69f47407ab10baa74fc35b5,,unique,keep,,no,,no,,,6144,no,,,,,"Berlin - Der Mann, der im April 1983 von Chicago nach Deutschland flog, tat das nicht freiwillig. Hans L. sollte aus 
 den USA ausgewiesen werden, weil er bei der Einwanderung 1956 einen entscheidenden Teil seiner 
 Vergangenheit verschwiegen hatte: seine Tätigkeit als SS-Wachmann im nationalsozialistischen Vernichtungslager 
 Auschwitz-Birkenau von 1941 bis 1945. Seiner Ausweisung kam der pensionierte Fabrikarbeiter zuvor, indem er 
@@ -1064,7 +915,7 @@ Nicht nur auf dem Wachturm des nationalsozialistischen Vernichtungslagers Auschw
 Personal eingesetzt, jeder Wachmann musste auch Dienst an der Rampe leisten, wenn die Züge mit den Juden 
 aus ganz Europa dort eintrafen. Die Staatsanwaltschaft Stuttgart will nun Anklage gegen einen Ex-Wachmann 
 erheben. Foto: Friso Gentsch/dpa"
-2013-05,Main Corpus,2013-05(84).ZIP,Im Notfall gibts auch ein Visum BUNDESWEHR Etwa 1.300 afghanische Ortskräfte arbeiten derzeit für di.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Im Notfall gibts auch ein Visum BUNDESWEHR Etwa 1.300 afghanische Ortskräfte arbeiten derzeit für di.PDF,Im Notfall gibts auch ein Visum BUNDESWEHR Etwa 1.300 afghanische Ortskräfte arbeiten derzeit für die,im notfall gibts auch ein visum bundeswehr etwa 1300 afghanische ortskräfte arbeiten derzeit für die,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 22. Mai 2013,JULIA AMBERGER,INLAND; S. 06,587,4095,be4e36a1c680db04323bac1b874bd6465a8efa00,,unique,keep,,no,,no,,,5733,no,,,,,"VON JULIA AMBERGER
+2013-05,Main Corpus,2013-05(64).ZIP,Im Notfall gibts auch ein Visum BUNDESWEHR Etwa 1.300 afghanische Ortskräfte arbeiten derzeit für di.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Im Notfall gibts auch ein Visum BUNDESWEHR Etwa 1.300 afghanische Ortskräfte arbeiten derzeit für di.PDF,Im Notfall gibts auch ein Visum BUNDESWEHR Etwa 1.300 afghanische Ortskräfte arbeiten derzeit für die,im notfall gibts auch ein visum bundeswehr etwa 1300 afghanische ortskräfte arbeiten derzeit für die,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 22. Mai 2013,JULIA AMBERGER,INLAND; S. 06,587,4095,be4e36a1c680db04323bac1b874bd6465a8efa00,,unique,keep,,no,,no,,,5733,no,,,,,"VON JULIA AMBERGER
 BERLIN taz | Rahim Nagibullas verletztes Bein war seine Chance. Drei Jahre lang dolmetschte er für die 
 Bundeswehr in Afghanistan, trotz seiner Behinderung. Eine Mine hatte seinen Unterschenkel zerschmettert, 
 seitdem läuft er auf einer Prothese. Doch dann entzündete sich sein amputiertes Bein und er musste zur 
@@ -1111,7 +962,7 @@ jetzt, über Schleuser nach Deutschland zu kommen. Denn das Vertrauen in die Bun
 Nagibulla: Er hat lange genug zu hören bekommen, die Bundeswehr sei nur von 8 bis 16 Uhr für ihn da und 
 danach müsse er selbst für seine Sicherheit sorgen. 
 Das Vertrauen in die Bundeswehr habe er verloren, sagt Rahim Nagibulla"
-2013-05,Main Corpus,2013-05(84).ZIP,Immer der Arbeit nach Deutschland zieht wieder mehr Menschen an. Im Jahr 2012 wurden so viele Zuwand.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Immer der Arbeit nach Deutschland zieht wieder mehr Menschen an. Im Jahr 2012 wurden so viele Zuwand.PDF,Immer der Arbeit nach; Deutschland zieht wieder mehr Menschen an. Im Jahr 2012 wurden so viele,immer der arbeit nach deutschland zieht wieder mehr menschen an im jahr 2012 wurden so viele,Der Tagesspiegel,der tagesspiegel,Mittwoch 8. Mai 2013,Matthias Schlegel,ZWEITE; S. 2; Ausg. 21682,771,5516,4ed2fbb47788ef0533ee49c9fc2c2b6659eeda64,,unique,keep,,no,,no,,,6951,no,,,,,"Stabile Wirtschaft, niedrige Arbeitslosenzahl, geringe Krisenanfälligkeit - Deutschland, der Vorzeigestaat der 
+2013-05,Main Corpus,2013-05(64).ZIP,Immer der Arbeit nach Deutschland zieht wieder mehr Menschen an. Im Jahr 2012 wurden so viele Zuwand.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Immer der Arbeit nach Deutschland zieht wieder mehr Menschen an. Im Jahr 2012 wurden so viele Zuwand.PDF,Immer der Arbeit nach; Deutschland zieht wieder mehr Menschen an. Im Jahr 2012 wurden so viele,immer der arbeit nach deutschland zieht wieder mehr menschen an im jahr 2012 wurden so viele,Der Tagesspiegel,der tagesspiegel,Mittwoch 8. Mai 2013,Matthias Schlegel,ZWEITE; S. 2; Ausg. 21682,771,5516,4ed2fbb47788ef0533ee49c9fc2c2b6659eeda64,,unique,keep,,no,,no,,,6951,no,,,,,"Stabile Wirtschaft, niedrige Arbeitslosenzahl, geringe Krisenanfälligkeit - Deutschland, der Vorzeigestaat der 
 Eurozone, wird immer attraktiver als Zuwanderungsland. Insbesondere aus den südeuropäischen Krisenstaaten 
 strömen die Menschen in die Bundesrepublik, wie das am Dienstag vom Bundesamt für Statistik veröffentlichte 
 Zahlenmaterial zeigt.
@@ -1174,7 +1025,7 @@ habe einen so hohen Anteil.
 Graphic
  
 Foto: Fotolia; Montage: Thomas Mika"
-2013-05,Main Corpus,2013-05(84).ZIP,In Straelen droht neuer Asyl-Streit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\In Straelen droht neuer Asyl-Streit.PDF,In Straelen droht neuer Asyl-Streit,in straelen droht neuer asylstreit,Rheinische Post,rheinische post,24. Mai 2013 Freitag,Von Michael Klatt,,627,4405,58129ff5c5c4e8bd816dc1aa702ab6a12157d345,,unique,keep,,no,,no,,,4950,no,,,,,"Die Unterbringung von Asylbewerbern steht am Dienstag wieder auf der Tagesordnung des Straelener Rats: 
+2013-05,Main Corpus,2013-05(64).ZIP,In Straelen droht neuer Asyl-Streit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\In Straelen droht neuer Asyl-Streit.PDF,In Straelen droht neuer Asyl-Streit,in straelen droht neuer asylstreit,Rheinische Post,rheinische post,24. Mai 2013 Freitag,Von Michael Klatt,,627,4405,58129ff5c5c4e8bd816dc1aa702ab6a12157d345,,unique,keep,,no,,no,,,4950,no,,,,,"Die Unterbringung von Asylbewerbern steht am Dienstag wieder auf der Tagesordnung des Straelener Rats: 
 CDU will schnellen Bau von zwei Unterkünften. FDP vermisst den Dialog mit Bürgern. SPD fordert dreistufiges 
 Verfahren. Von Michael Klatt Straelen Wie soll Straelen die Asylbewerber unterbringen?
  Das ist einmal mehr Thema in der nächsten Ratssitzung. Und wieder zeichnet sich eine kontroverse Debatte bei 
@@ -1217,7 +1068,7 @@ unserer Sicht ist dem Stadtrat die Behandlung der Betreuung und Unterbringung as
 entglitten"", stellt Fraktionsvorsitzender Falko Schuster fest. Er verlangt eine ausreichende Betreuung der 
 Menschen, Hilfestellungen, damit die Leute sich im Alltag zurechtfinden, Sprachkurse für alle sowie Verbindungen 
 zu Kirchen und Vereinen."
-2013-05,Main Corpus,2013-05(84).ZIP,KOMMENTAR · ZUWANDERUNG_ Fairness muss sein.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\KOMMENTAR · ZUWANDERUNG_ Fairness muss sein.PDF,KOMMENTAR · ZUWANDERUNG: Fairness muss sein,kommentar  zuwanderung fairness muss sein,Südwest Presse,südwest presse,Samstag 25. Mai 2013,,Politik; S. 1,190,1398,3643bd2109de6d1c2c4fddf00f1104b197f59d7f,,unique,drop,commentary_noncore,no,,no,,,2080,yes,commentary_noncore,,,,"Alte Vorbehalte gegen die Zuwanderung greifen nicht mehr. Das fördert die Studie der Bertelsmann-Stiftung zu 
+2013-05,Main Corpus,2013-05(64).ZIP,KOMMENTAR · ZUWANDERUNG_ Fairness muss sein.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\KOMMENTAR · ZUWANDERUNG_ Fairness muss sein.PDF,KOMMENTAR · ZUWANDERUNG: Fairness muss sein,kommentar  zuwanderung fairness muss sein,Südwest Presse,südwest presse,Samstag 25. Mai 2013,,Politik; S. 1,190,1398,3643bd2109de6d1c2c4fddf00f1104b197f59d7f,,unique,drop,commentary_noncore,no,,no,,,2080,yes,commentary_noncore,,,,"Alte Vorbehalte gegen die Zuwanderung greifen nicht mehr. Das fördert die Studie der Bertelsmann-Stiftung zu 
 Tage. Deutschland profitiert im hohen Maße von den Einwanderern - und zwar in mehrfacher Weise. Viele 
 Neuzuwanderer bringen hohe berufliche Qualifikationen mit, und sie sorgen seit einigen Jahren für steigende 
 Einnahmen bei den Kranken-, Renten- und Arbeitslosenversicherungen. Die Parole von der ausschließlichen 
@@ -1231,7 +1082,7 @@ Reform des Staatsbürgerschaftsrechtes reicht. Sie hat aber auch Acht zu geben a
 Ausweglosigkeit nach Deutschland treibt. Das heißt, sie muss gegen Dumpinglöhne vorgehen, wie sie jungen 
 Spaniern oder Griechen nicht selten aufgenötigt werden. Wenn Deutschland schon von ihnen profitiert, dann aber 
 zu fairen Bedingungen. Es darf nicht nur eine Seite profitieren."
-2013-05,Main Corpus,2013-05(84).ZIP,LEITARTIKEL · STAATSBÜRGERSCHAFT_ Unnötige Wahl.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\LEITARTIKEL · STAATSBÜRGERSCHAFT_ Unnötige Wahl.PDF,LEITARTIKEL · STAATSBÜRGERSCHAFT: Unnötige Wahl,leitartikel  staatsbürgerschaft unnötige wahl,Südwest Presse,südwest presse,Freitag 24. Mai 2013,,Politik; S. 2,508,3636,2d9505d1d4a0d114d9837d86906ff7a79003baac,,unique,drop,commentary_noncore,no,,no,,,4633,yes,commentary_noncore,,,,"Die baden-württembergische Landesregierung will es wissen: In wenigen Tagen wird sie über den Bundesrat einen 
+2013-05,Main Corpus,2013-05(64).ZIP,LEITARTIKEL · STAATSBÜRGERSCHAFT_ Unnötige Wahl.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\LEITARTIKEL · STAATSBÜRGERSCHAFT_ Unnötige Wahl.PDF,LEITARTIKEL · STAATSBÜRGERSCHAFT: Unnötige Wahl,leitartikel  staatsbürgerschaft unnötige wahl,Südwest Presse,südwest presse,Freitag 24. Mai 2013,,Politik; S. 2,508,3636,2d9505d1d4a0d114d9837d86906ff7a79003baac,,unique,drop,commentary_noncore,no,,no,,,4633,yes,commentary_noncore,,,,"Die baden-württembergische Landesregierung will es wissen: In wenigen Tagen wird sie über den Bundesrat einen 
 neuen Vorstoß für die doppelte Staatsbürgerschaft wagen. Diese soll die so genannte Optionslösung für Nicht-EU-
 Bürger ersetzen. Widerstand ist den grün-roten Vorreitern gewiss. Denn es geht nicht nur um gute oder noch 
 bessere Argumente. Am Doppelpass hängen Emotionen. Er berührt Identität, Nationalitätsbewusstsein, 
@@ -1269,7 +1120,7 @@ solche Kanten unter Angela Merkel weitgehend geschliffen.
 Mit Einsicht in die demografische Entwicklung hat das wenig zu tun. Deutschland braucht junge Menschen, umso 
 mehr, wenn sie hier aufgewachsen, schulisch gefördert und ausgebildet worden sind. Doch der Weg zu einem 
 Einwanderungsland mit Willkommenskultur ist lang. Auch in der deutschen Politik."
-2013-05,Main Corpus,2013-05(84).ZIP,LESERINNENBRIEFE(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\LESERINNENBRIEFE(2).PDF,LESERINNENBRIEFE,leserinnenbriefe,"taz, die tageszeitung",taz die tageszeitung,Samstag 11. Mai 2013,,MEINUNG UND DISKUSSION; S. 16,612,4270,148b0a2d6bcede2246f0e9c208d0b311ae365020,,unique,drop,reader_letter,no,,no,,,5109,yes,commentary_noncore; reader_letter,,,,"Wenn der Markt regiert
+2013-05,Main Corpus,2013-05(64).ZIP,LESERINNENBRIEFE(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\LESERINNENBRIEFE(2).PDF,LESERINNENBRIEFE,leserinnenbriefe,"taz, die tageszeitung",taz die tageszeitung,Samstag 11. Mai 2013,,MEINUNG UND DISKUSSION; S. 16,612,4270,148b0a2d6bcede2246f0e9c208d0b311ae365020,,unique,drop,reader_letter,no,,no,,,5109,yes,commentary_noncore; reader_letter,,,,"Wenn der Markt regiert
 - betr.: Einwanderungsziel: Deutschland , taz vom 8. 5. 13
 Zu leugnen oder zu verheimlichen ist es nicht; die Spardiktate für einige Länder haben dazu beigetragen. Die 
 regierende deutsche Politik setzt allerdings unbeirrt aller katastrophalen Wirkungen auf dieses untaugliche Rezept. 
@@ -1318,7 +1169,7 @@ abwertenden beschreibungen von b. zschäpes erscheinungsbild am ersten prozessta
 nichtssagender, seitenlanger artikel ohne biss. eine b. zschäpe ist nicht das problem, sie ist nur symptom. und statt 
 sie oberflächlich zu analysieren, würde es guttun, wenn den dingen, die dahinterstecken, mal auf den grund 
 gegangen würde! LARS NEUSER, Kirchberg"
-2013-05,Main Corpus,2013-05(84).ZIP,LESERINNENBRIEFE.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\LESERINNENBRIEFE.PDF,LESERINNENBRIEFE,leserinnenbriefe,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 16. Mai 2013,,INLAND; S. 07,732,5228,ac4d9ddb92e7a023e4ecf6fd1dbf520cada44c67,,unique,drop,reader_letter,no,,no,,,6056,yes,reader_letter,,,,"Es ist ein Skandal
+2013-05,Main Corpus,2013-05(64).ZIP,LESERINNENBRIEFE.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\LESERINNENBRIEFE.PDF,LESERINNENBRIEFE,leserinnenbriefe,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 16. Mai 2013,,INLAND; S. 07,732,5228,ac4d9ddb92e7a023e4ecf6fd1dbf520cada44c67,,unique,drop,reader_letter,no,,no,,,6056,yes,reader_letter,,,,"Es ist ein Skandal
 - betr.: Abschiebung in ein fremdes Land , taz vom 13. 5. 13
 Es ist ein Skandal, einen Menschen über zwei Jahrzehnte lang mit einer Duldung leben, hoffen und vor allem 
 bangen zu lassen. Es ist ein Riesenskandal, einen Menschen von seiner Familie zu trennen und ihn nach 23 
@@ -1379,7 +1230,7 @@ Die Rolle der USA fehlt
 - betr.: Guatemala. Haft für Exdiktator u. a., taz vom 13. 5. 13
 Mir ist es ein Rätsel, wie jemand einen Bericht über den Völkermord in Guatemala schreiben kann, ohne mit einem 
 Wort die Rolle der USA zu erwähnen. JÜRGEN HAMMER, Schwalmtal"
-2013-05,Main Corpus,2013-05(84).ZIP,"Lieber leiser SCHUTZ Gotteshäuser können geflüchtete Menschen aufnehmen, die der Staat zurück in ihr.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Lieber leiser SCHUTZ Gotteshäuser können geflüchtete Menschen aufnehmen, die der Staat zurück in ihr.PDF","Lieber leiser; SCHUTZ Gotteshäuser können geflüchtete Menschen aufnehmen, die der Staat zurück in ihre",lieber leiser schutz gotteshäuser können geflüchtete menschen aufnehmen die der staat zurück in ihre,"taz, die tageszeitung",taz die tageszeitung,Freitag 03. Mai 2013,KRISTIANA LUDWIG,HINTERGRUND; S. 02,1430,9685,020d8cb5290d4d396be9a43c2ca6aad986cb41d8,,unique,keep,,no,,no,,,11104,no,,,,,"VON KRISTIANA LUDWIG UND HANNES VON DER FECHT (FOTOS)
+2013-05,Main Corpus,2013-05(64).ZIP,"Lieber leiser SCHUTZ Gotteshäuser können geflüchtete Menschen aufnehmen, die der Staat zurück in ihr.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Lieber leiser SCHUTZ Gotteshäuser können geflüchtete Menschen aufnehmen, die der Staat zurück in ihr.PDF","Lieber leiser; SCHUTZ Gotteshäuser können geflüchtete Menschen aufnehmen, die der Staat zurück in ihre",lieber leiser schutz gotteshäuser können geflüchtete menschen aufnehmen die der staat zurück in ihre,"taz, die tageszeitung",taz die tageszeitung,Freitag 03. Mai 2013,KRISTIANA LUDWIG,HINTERGRUND; S. 02,1430,9685,020d8cb5290d4d396be9a43c2ca6aad986cb41d8,,unique,keep,,no,,no,,,11104,no,,,,,"VON KRISTIANA LUDWIG UND HANNES VON DER FECHT (FOTOS)
 Wenn die Polizisten kommen, dann sollen sie vor dem Altar stehen, und die Glocken sollen läuten. Thomas Heß ist 
 den Ablauf immer wieder durchgegangen. Mit Susan Alviola, die so dünn geworden ist, mit den Kindern Clarizze 
 und Alvin, mit den Nachbarn, den Aktivisten und mit seiner Frau. Die ganze Nacht haben sie zusammen in der 
@@ -1483,7 +1334,7 @@ Georg, in Hauptbahnhofsnähe. Dort gibt es mehr Presse.
 *Name geändert
 Lieber leiser; SCHUTZ Gotteshäuser können geflüchtete Menschen aufnehmen, die der Staat zurück in ihre 
 Herkunftsländer abschieben will. Das Kirchenasyl gibt es ...."
-2013-05,Main Corpus,2013-05(84).ZIP,Massenansturm aus dem Osten bleibt aus Seit Öffnung der Grenzen in der EU kamen vor allem Polen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Massenansturm aus dem Osten bleibt aus Seit Öffnung der Grenzen in der EU kamen vor allem Polen.PDF,Massenansturm aus dem Osten bleibt aus; Seit Öffnung der Grenzen in der EU kamen vor allem Polen,massenansturm aus dem osten bleibt aus seit öffnung der grenzen in der eu kamen vor allem polen,Die Welt,die welt,Montag 6. Mai 2013,Stefan Von Borstel,WIRTSCHAFT; S. 9; Ausg. 104,688,4828,8dbf24e03872065981369122dea5aee030d9ffa1,,unique,keep,,no,,no,,,6083,no,,,,,"Der vielfach befürchtete Massenansturm von osteuropäischen Arbeitskräften auf den deutschen Arbeitsmarkt ist 
+2013-05,Main Corpus,2013-05(64).ZIP,Massenansturm aus dem Osten bleibt aus Seit Öffnung der Grenzen in der EU kamen vor allem Polen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Massenansturm aus dem Osten bleibt aus Seit Öffnung der Grenzen in der EU kamen vor allem Polen.PDF,Massenansturm aus dem Osten bleibt aus; Seit Öffnung der Grenzen in der EU kamen vor allem Polen,massenansturm aus dem osten bleibt aus seit öffnung der grenzen in der eu kamen vor allem polen,Die Welt,die welt,Montag 6. Mai 2013,Stefan Von Borstel,WIRTSCHAFT; S. 9; Ausg. 104,688,4828,8dbf24e03872065981369122dea5aee030d9ffa1,,unique,keep,,no,,no,,,6083,no,,,,,"Der vielfach befürchtete Massenansturm von osteuropäischen Arbeitskräften auf den deutschen Arbeitsmarkt ist 
 bislang ausgeblieben. In den zwei Jahren seit Öffnung der Grenzen am 1. Mai 2011 kamen per saldo 100.856 
 Zuwanderer aus den acht osteuropäischen Beitrittsländern nach Deutschland. Das geht aus dem 
 Wanderungsmonitor des Bundesamtes für Migration und Flüchtlinge (BAMF) hervor. Im gleichen Zeitraum (bis 
@@ -1534,7 +1385,7 @@ Nettozuwanderung von 200.000 Menschen.
 Graphic
  
 Jutta Setzer"
-2013-05,Main Corpus,2013-05(84).ZIP,"Mehr Gründe, weniger Ausweisungen RECHT Gründe für Ausweisungen gibt es viele, doch vor Gericht zähl.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Mehr Gründe, weniger Ausweisungen RECHT Gründe für Ausweisungen gibt es viele, doch vor Gericht zähl.PDF","Mehr Gründe, weniger Ausweisungen; RECHT Gründe für Ausweisungen gibt es viele, doch vor Gericht zählen",mehr gründe weniger ausweisungen recht gründe für ausweisungen gibt es viele doch vor gericht zählen,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 30. Mai 2013,CHRISTIAN RATH,AKTUELLES; S. 02,341,2510,c3c53221e8d8efcafcf2097f740d0d45419e3578,,unique,keep,,no,,no,,,3627,no,,,,,"FREIBURG taz Mehr als 279.000 Ausländer hat Deutschland in den vergangenen Jahrzehnten ausgewiesen. Das 
+2013-05,Main Corpus,2013-05(64).ZIP,"Mehr Gründe, weniger Ausweisungen RECHT Gründe für Ausweisungen gibt es viele, doch vor Gericht zähl.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Mehr Gründe, weniger Ausweisungen RECHT Gründe für Ausweisungen gibt es viele, doch vor Gericht zähl.PDF","Mehr Gründe, weniger Ausweisungen; RECHT Gründe für Ausweisungen gibt es viele, doch vor Gericht zählen",mehr gründe weniger ausweisungen recht gründe für ausweisungen gibt es viele doch vor gericht zählen,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 30. Mai 2013,CHRISTIAN RATH,AKTUELLES; S. 02,341,2510,c3c53221e8d8efcafcf2097f740d0d45419e3578,,unique,keep,,no,,no,,,3627,no,,,,,"FREIBURG taz Mehr als 279.000 Ausländer hat Deutschland in den vergangenen Jahrzehnten ausgewiesen. Das 
 teilte die Regierung im Sommer 2012 auf eine Anfrage der Linken mit. In rund 112.000 Fällen reisten die Ausländer 
 freiwillig aus, etwa 143.000-mal mussten die Betroffenen abgeschoben werden. Rund 6.000 Ausgewiesene 
 erhielten eine Duldung, weil die Abschiebung aus rechtlichen oder tatsächlichen Gründen nicht möglich war. Die 
@@ -1561,20 +1412,7 @@ Im Fall des religiösen Extremisten Metin Kaplan, dem Kalifen von Köln, kamen a
 Kaplan musste Deutschland 2004 verlassen. Die Türkei hatte seine Auslieferung beantragt. Letztlich wurde er aber 
 ausgewiesen, nachdem er eine vierjährige Haftstrafe verbüßt hatte.
 CHRISTIAN RATH"
-2013-05,Main Corpus,2013-05(84).ZIP,"Meisner_ Frauen sollen drei, vier Kinder bekommen.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Meisner_ Frauen sollen drei, vier Kinder bekommen.PDF","Meisner: Frauen sollen drei, vier Kinder bekommen",meisner frauen sollen drei vier kinder bekommen,Rheinische Post,rheinische post,21. Mai 2013 Dienstag,,,205,1401,e62518c02093c97d960eddfe825b885f37676262,,unique,keep,,no,,no,,,2224,no,,,,,"Stuttgart (kna) Deutschland braucht nach Ansicht des Kölner Kardinals Joachim Meisner mehr Kinder. Auf 
-Zuwanderung zur Bewältigung des demografischen Wandels zu setzen, wie dies Bundeskanzlerin Angela Merkel 
-(CDU) tue, sei falsch, sagte der Kölner Erzbischof der ""Stuttgarter Zeitung"". ""Wir können doch den Portugiesen 
-und Spaniern nicht die Jugend und damit die Zukunft ihres Landes wegnehmen, nur aus Egoismus. Wir sollten 
-diese Arbeitslosen zwar ausbilden und ihnen so eine Perspektive geben, aber sie dann auch wieder in ihre Heimat 
-gehen lassen, wo sie gebraucht werden"", kritisierte der Kardinal. Es gelte stattdessen, ""den hohen Wert der 
-Familie mit Mutter und Vater für die Kinder bewusst zu machen"", so der Erzbischof weiter. ""Wo werden denn 
-Frauen wirklich öffentlich ermutigt, zu Hause zu bleiben und drei, vier Kinder auf die Welt zu bringen?"" Ihn erinnere 
-die derzeitige Familienpolitik, die Müttern eine schnelle Rückkehr an den Arbeitsplatz ermöglichen wolle, an seine 
-Zeit in der DDR, sagte Meisner, der vor der Wiedervereinigung Deutschlands Weihbischof in Erfurt und Bischof der 
-Diözese von Berlin war. Weil man damals im Osten Deutschlands Produktionskräfte gebraucht habe, seien die 
-Kinderkrippen erfunden worden. ""Dort hat man den Frauen eingeredet, wer wegen der Familie zu Hause bleibe, sei 
-dement."" Die derzeitige Familienpolitik erinnert Kölner Kardinal an die DDR"
-2013-05,Main Corpus,2013-05(84).ZIP,Merkel propagiert den guten Deutschen Demografie-Gipfel steht im Zeichen der Zuwanderungsdebatte. Ka.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Merkel propagiert den guten Deutschen Demografie-Gipfel steht im Zeichen der Zuwanderungsdebatte. Ka.PDF,Merkel propagiert den guten Deutschen Demografie-Gipfel steht im Zeichen der Zuwanderungsdebatte.,merkel propagiert den guten deutschen demografiegipfel steht im zeichen der zuwanderungsdebatte,Die Welt,die welt,Mittwoch 15. Mai 2013,Thomas Vitzthum,POLITIK; S. 4; Ausg. 111,859,5966,9c85f81239ea635cfd792bc8dbe3208b317ef773,,unique,keep,,no,,no,,,7284,no,,,,,"Die Bedingungen sind sehr gut, unser Ruf ist sehr schlecht.„ Angela Merkel muss es wissen, sie ist ja genug 
+2013-05,Main Corpus,2013-05(64).ZIP,Merkel propagiert den guten Deutschen Demografie-Gipfel steht im Zeichen der Zuwanderungsdebatte. Ka.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Merkel propagiert den guten Deutschen Demografie-Gipfel steht im Zeichen der Zuwanderungsdebatte. Ka.PDF,Merkel propagiert den guten Deutschen Demografie-Gipfel steht im Zeichen der Zuwanderungsdebatte.,merkel propagiert den guten deutschen demografiegipfel steht im zeichen der zuwanderungsdebatte,Die Welt,die welt,Mittwoch 15. Mai 2013,Thomas Vitzthum,POLITIK; S. 4; Ausg. 111,859,5966,9c85f81239ea635cfd792bc8dbe3208b317ef773,,unique,keep,,no,,no,,,7284,no,,,,,"Die Bedingungen sind sehr gut, unser Ruf ist sehr schlecht.„ Angela Merkel muss es wissen, sie ist ja genug 
 unterwegs, um in halb Europa die Auflehnung gegen die deutsche Politik und mittelbar gegen Deutschland 
 mitzuerleben. Umfragen, Studien oder die Lektüre der ausländischen Presse erwecken den Eindruck, dass die 
 Stimmung sich in der Euro-Krise tatsächlich gegen Deutschland und die Deutschen gedreht hat. Ein Befund, der 
@@ -1638,21 +1476,7 @@ nicht.
 Graphic
  
 Jörn Baumgarten"
-2013-05,Main Corpus,2013-05(84).ZIP,Merkel sieht Zuwanderung als Chance für Deutschland.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Merkel sieht Zuwanderung als Chance für Deutschland.PDF,Merkel sieht Zuwanderung als Chance für Deutschland,merkel sieht zuwanderung als chance für deutschland,Rheinische Post,rheinische post,29. Mai 2013 Mittwoch,,,199,1487,52f160f1b2409040844f85a9fdd933d5d5cb764f,,unique,keep,,no,,no,,,2255,no,,,,,"Berlin (dpa) Bundeskanzlerin Angela Merkel (CDU) fordert eine Abkehr von alten Vorurteilen gegenüber 
-Zuwanderern. ""Das muss raus aus den Köpfen"", sagte Merkel gestern zum Auftakt des sechsten Integrationsgipfels 
-der Bundesregierung in Berlin. Die Gesellschaft müsse eine ""bestimmte geistige Offenheit"" entwickeln: ""Wir wollen 
-ein Integrationsland sein."" Mit Blick auf die rassistische Mordserie der Terrorzelle NSU und den Brandanschlag von 
-Solingen vor 20 Jahren sagte sie, Deutschland habe schlimme Rückschläge erlebt. Es werde aber alles daran 
-gesetzt, dass sich dies nicht wiederhole. Die Türkische Gemeinde in Deutschland hatte zuletzt beklagt, es gebe 
-noch immer ein Rassismusproblem im Land. Merkel sagte, sie habe mit Verbandschef Kenan Kolat darüber 
-gesprochen. ""Wir ducken da den Kopf nicht weg"", betonte sie. ""Wir müssen uns auch mit unangenehmen Dingen 
-auseinandersetzen."" Merkel warb dafür, die Zuwanderung von Arbeitskräften als Chance zu begreifen. Eine 
-Exportnation brauche Offenheit und Fachkräfte aus aller Welt. Merkel verwies auf die erleichterte Anerkennung 
-ausländischer Berufsabschlüsse. Dies müsse bei den Migranten in Deutschland besser bekanntgemacht werden. 
-Viele hätten die Hoffnung schon aufgegeben. Als weitere wichtige Aufgabe nannte die Bundeskanzlerin die 
-Unterstützung von Unternehmern mit Migrationshintergrund. Diese Gruppe werde erheblich unterschätzt. Es dürfe 
-nicht sein, dass sie etwa bei der Vergabe von Krediten benachteiligt werde."
-2013-05,Main Corpus,2013-05(84).ZIP,NACHRICHTEN(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\NACHRICHTEN(2).PDF,NACHRICHTEN,nachrichten,Der Tagesspiegel,der tagesspiegel,Freitag 17. Mai 2013,,WELTSPIEGEL; S. 28; Ausg. 21690,212,1514,e6dceff8d1d54e405946563f45dd76d41143b2d7,,unique,keep,,no,,no,,,2197,no,,,,,"Deutsche Schulververweigerer erhalten kein Asyl in den USA
+2013-05,Main Corpus,2013-05(64).ZIP,NACHRICHTEN(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\NACHRICHTEN(2).PDF,NACHRICHTEN,nachrichten,Der Tagesspiegel,der tagesspiegel,Freitag 17. Mai 2013,,WELTSPIEGEL; S. 28; Ausg. 21690,212,1514,e6dceff8d1d54e405946563f45dd76d41143b2d7,,unique,keep,,no,,no,,,2197,no,,,,,"Deutsche Schulververweigerer erhalten kein Asyl in den USA
 Washington - Ein streng religiöses Elternpaar mit fünf Kindern aus Baden-Württemberg ist mit seinem Asylantrag in 
 den USA gescheitert. Der Familie könne nach amerikanischem Recht kein Schutz vor der Schulpflicht in 
 Deutschland gewährt werden, entschied ein Berufungsgericht in Cincinnati (Ohio). Es bestätigte eine Entscheidung 
@@ -1674,7 +1498,7 @@ Graphic
 Da brennt die Luft. Der 5452 Meter hohe Popocatépetl ist zunehmend aktiv. Foto: AFP
 
 NACHRICHTEN"
-2013-05,Main Corpus,2013-05(84).ZIP,NACHRICHTEN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\NACHRICHTEN.PDF,NACHRICHTEN,nachrichten,Der Tagesspiegel,der tagesspiegel,Freitag 24. Mai 2013,,POLITIK; S. 5; Ausg. 21696,349,2643,e112f142757c4deeeabc09e695b7f49899d1d0fa,,unique,keep,,no,,no,,,3786,no,,,,,"AFGHANISTAN
+2013-05,Main Corpus,2013-05(64).ZIP,NACHRICHTEN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\NACHRICHTEN.PDF,NACHRICHTEN,nachrichten,Der Tagesspiegel,der tagesspiegel,Freitag 24. Mai 2013,,POLITIK; S. 5; Ausg. 21696,349,2643,e112f142757c4deeeabc09e695b7f49899d1d0fa,,unique,keep,,no,,no,,,3786,no,,,,,"AFGHANISTAN
 Pro Asyl fordert
 Aufnahme von Ortskräften
 Frankfurt (Main) - Die Menschenrechtsorganisation Pro Asyl fordert die großzügige Aufnahme afghanischer 
@@ -1710,68 +1534,7 @@ festgenommen und getötet hat"", sagte ein Sprecher.
 Es war der zweite größere Anschlag in dem Land seit den Parlamentswahlen vom 11. Mai. Der neu gewählte 
 Ministerpräsident Nawaz Scharif hatte die Taliban zu Gesprächen aufgerufen. Ein Sprecher der Islamisten sagte 
 jedoch, dafür sei es zu früh. rtr"
-2013-05,Main Corpus,2013-05(84).ZIP,Nettetaler engagiert sich in Syrien.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Nettetaler engagiert sich in Syrien.PDF,Nettetaler engagiert sich in Syrien,nettetaler engagiert sich in syrien,Rheinische Post,rheinische post,4. Mai 2013 Samstag,von laura lotz,,360,2438,85f04b5c3e64a98a14c8422a1a5e06a0ea2ae2bb,variant_002,regional_variant,review,,no,,no,,,3304,no,,,near_002,variant_002,"nettetal Schlechte Nachrichten dringen häufig nur aus der Ferne nach Deutschland. Der syrische Bürgerkrieg mit 
-seinen Toten, den Verletzten und den Flüchtlingen ist vor allen Dingen: weit weg. Das gilt allerdings nicht für 
-Anestis Ioannidis. 
-Der Nettetaler hat gerade wieder ein Hilfspaket mit 18 Tonnen Babynahrung in das von gewaltsamen Kämpfen 
-bestimmte Land geschickt und dort verteilt. Mit seiner Hilfsorganisation ""Human Plus"" unterstützt er seit mehr als 
-15 Jahren Menschen in Krisenregionen. Ioannidis ist wichtig, dass die Hilfsgüter da ankommen, wo sie gebraucht 
-werden. Deshalb hat er schon persönlich dafür Sorge getragen, dass Güter vor Ort wirklich an Bedürftige verteilt 
-werden. Anfang März gingen knapp 200 Tonnen mit Verbandsstoffen, Lebensmitteln und medizinischen Geräten 
-nach Aleppo. Ursprünglich wollte Ioannidis auch dieses Mal dabei sein. Doch sein Gesundheitszustand machte ihm 
-einen Strich durch die Rechnung. ""Die Situation vor Ort ist auch für Helfer nicht einfach"", sagt der 55-Jährige. 
-Neben der Gefahr von Infektionen besteht das Risiko, bei Anschlägen verletzt zu werden. Ioannidis hat sich mit 
-einem mulmigen Gefühl durch die Straßen bewegt. Wenn er nicht selbst hinfahren kann, verteilen freiwillige Helfer 
-vor Ort, mit denen ""Human Plus"" kooperiert, die Hilfsgüter. Die Not sei groß - vor allem in der Region um Aleppo im 
-Nordwesten des Landes an der Grenze zur Türkei. Denn sowohl das Assad-Regime als auch die Oppositionellen 
-seien skrupellos. ""Ein Leben ist dort nichts wert"", sagt Ioannidis. Nicht einmal Kinder seien vor der Gewalt sicher. 
-In Syrien hilft Ioannidis' Organisation seit 2011. Aber auch in Haiti, Pakistan und Japan sind sie schon gewesen. 
-Neben Hilfe in akuten Notsituationen hat ""Human Plus"" auch eigene Projekt in der ganzen Welt. ""In Afrika 
-unterstützen wir Frauen und Mädchen dabei, den Beruf der Näherin zu erlernen. In Osteuropa arbeiten wir viel mit 
-Kliniken zusammen, um teure Operationen durchführen zu können. Ein Krankenhaus wollen Ioannidis und seine 
-Helfer auch in Aleppo auf die Beine stellen. Dafür sammelt seine Organisation ausrangierte Krankenwagen und 
-Geräte. ""Wir wollen so sicherstellen, dass Schwerverletzte möglichst schnell medizinisch versorgt und operiert 
-werden können."" Wann er wieder hinfahren wird, weiß Ioannidis noch nicht. Aber egal, ob er in Nettetal oder 
-Aleppo ist, sein Engagement für Syrien wird so schnell nicht nachlassen."
-2013-05,Main Corpus,2013-05(84).ZIP,Nettetaler engagiert sich in Syriens Krisenregionen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Nettetaler engagiert sich in Syriens Krisenregionen.PDF,Nettetaler engagiert sich in Syriens Krisenregionen,nettetaler engagiert sich in syriens krisenregionen,Rheinische Post,rheinische post,4. Mai 2013 Samstag,von laura lotz,,377,2555,0a2a248de5fd2c3427d23ecc6da7b795c114537b,variant_002,regional_variant,review,,no,,no,,,3469,no,,,near_002,variant_002,"nettetal Schlechte Nachrichten dringen häufig nur aus der Ferne nach Deutschland. Der syrische Bürgerkrieg mit 
-seinen Toten, den Verletzten und den Flüchtlingen ist vor allen Dingen: weit weg. Das gilt allerdings nicht für 
-Anestis Ioannidis. 
-Der Nettetaler hat gerade wieder ein Hilfspaket mit 18 Tonnen Babynahrung in das von gewaltsamen Kämpfen 
-bestimmte Land geschickt und dort verteilt. Mit seiner Hilfsorganisation ""Human Plus"" unterstützt er seit mehr als 
-15 Jahren Menschen in Krisenregionen. Ioannidis ist wichtig, dass die Hilfsgüter da ankommen, wo sie gebraucht 
-werden. Deshalb hat er schon persönlich dafür Sorge getragen, dass Güter vor Ort wirklich an Bedürftige verteilt 
-werden. Anfang März gingen knapp 200 Tonnen mit Verbandsstoffen, Lebensmitteln und medizinischen Geräten 
-nach Aleppo. Ursprünglich wollte Ioannidis auch dieses Mal dabei sein. Doch sein Gesundheitszustand machte ihm 
-einen Strich durch die Rechnung. ""Die Situation vor Ort ist auch für Helfer nicht einfach"", sagt der 55-Jährige. 
-Neben der Gefahr von Infektionen besteht das Risiko, bei Anschlägen verletzt zu werden. Ioannidis hat sich mit 
-einem mulmigen Gefühl durch die Straßen bewegt. ""Am sichersten ist es, sich nachts draußen aufzuhalten. Doch 
-auch dann ist Vorsicht geboten"", sagt er. Wenn er nicht selbst hinfahren kann, verteilen freiwillige Helfer vor Ort, 
-mit denen ""Human Plus"" kooperiert, die Hilfsgüter. Die Not sei groß - vor allem in der Region um Aleppo im 
-Nordwesten des Landes an der Grenze zur Türkei. Denn sowohl das Assad-Regime als auch die Oppositionellen 
-seien skrupellos. ""Ein Leben ist dort nichts wert"", sagt Ioannidis. Nicht einmal Kinder seien vor der Gewalt sicher. 
-In Syrien hilft Ioannidis' Organisation seit 2011. Aber auch in Haiti, Pakistan und Japan sind sie schon gewesen. 
-Neben Hilfe in akuten Notsituationen hat ""Human Plus"" auch eigene Projekt in der ganzen Welt. ""In Afrika 
-unterstützen wir Frauen und Mädchen dabei, den Beruf der Näherin zu erlernen. In Osteuropa arbeiten wir viel mit 
-Kliniken zusammen, um teure Operationen durchführen zu können. Ein Krankenhaus wollen Ioannidis und seine 
-Helfer auch in Aleppo auf die Beine stellen. Dafür sammelt seine Organisation ausrangierte Krankenwagen und 
-medizinische Geräte. ""Wir wollen so sicherstellen, dass Schwerverletzte möglichst schnell medizinisch versorgt und 
-operiert werden können."" Wann er wieder hinfahren wird, weiß Ioannidis noch nicht. Aber egal, ob er in Nettetal 
-oder Aleppo ist, sein Engagement für Syrien wird so schnell nicht nachlassen."
-2013-05,Main Corpus,2013-05(84).ZIP,Neue Chancen durch Zuwanderung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Neue Chancen durch Zuwanderung.PDF,Neue Chancen durch Zuwanderung,neue chancen durch zuwanderung,Berliner Zeitung,berliner zeitung,Mittwoch 8. Mai 2013,Thorsten Knuf,POLITIK; S. 4; Ausg. 106,206,1385,1ed0afb3780c29dd7ebcc2cca66fc435f52745b4,,unique,keep,,no,,no,,,1945,no,,,,,"Es ist erst ein paar Jahre her, da behaupteten deutsche Politiker allen Ernstes, dass Deutschland kein 
-Einwanderungsland sei. Es war der hilflose Versuch, die Realität auszublenden, um die Spießer-Republik der 
-Nachkriegszeit irgendwie ins Zeitalter der Globalisierung zu retten. Nun mag Deutschland in Sachen Migration nicht 
-mit den USA oder Australien vergleichbar sein. Wahr ist aber auch: Fast jeder fünfte Einwohner hat ausländische 
-Wurzeln. Wir sind viel weniger deutsch, als wir glauben.
-Nun meldet das Statistische Bundesamt, dass die Zahl der Zuwanderer im vergangenen Jahr den höchsten Stand 
-seit 1995 erreicht hat. Rund 1,1 Millionen Menschen kamen zuletzt hierher, das entspricht einem Plus von 13 
-Prozent. Besonders stark wächst die Zahl der Zuzüge aus den südeuropäischen Krisenstaaten. Die Menschen 
-suchen hier, was ihnen in ihrer Heimat fehlt: Jobs, Wohlstand, Perspektiven. Der europäische Arbeitsmarkt macht's 
-möglich.
-Für Deutschland ist das eine positive Entwicklung. Es kommen viele gut ausgebildete Menschen, voller Tatendrang 
-und Ideen. Nicht alle Zuwanderer werden auf Dauer bleiben. Doch wer ein paar Jahre hier gelebt und gearbeitet 
-hat, wird sein Leben lang ein Bindeglied bleiben zwischen beiden Ländern. Es ist an der Zeit, nicht immer nur die 
-Risiken der Zuwanderung zu sehen, sondern endlich auch die Chancen. Sie sind um ein Vielfaches größer."
-2013-05,Main Corpus,2013-05(84).ZIP,Neues Asylbewerberheim_ Strafe für ungezogenen Bezirk ASYL Mitte will den Betrieb eines Heimes verhi.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Neues Asylbewerberheim_ Strafe für ungezogenen Bezirk ASYL Mitte will den Betrieb eines Heimes verhi.PDF,Neues Asylbewerberheim: Strafe für ungezogenen Bezirk; ASYL Mitte will den Betrieb eines Heimes,neues asylbewerberheim strafe für ungezogenen bezirk asyl mitte will den betrieb eines heimes,"taz, die tageszeitung",taz die tageszeitung,Dienstag 07. Mai 2013,MARINA MAI,BERLIN AKTUELL; S. 22,393,2733,d661c9747b1f127c7f3d47a1df2ec9739275dfb8,,unique,keep,,no,,no,,,3914,no,,,,,"In Sachen Asylbewerberheime scheint der Senat nun andere Saiten aufzuziehen: Sozialsenator Mario Czaja (CDU) 
+2013-05,Main Corpus,2013-05(64).ZIP,Neues Asylbewerberheim_ Strafe für ungezogenen Bezirk ASYL Mitte will den Betrieb eines Heimes verhi.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Neues Asylbewerberheim_ Strafe für ungezogenen Bezirk ASYL Mitte will den Betrieb eines Heimes verhi.PDF,Neues Asylbewerberheim: Strafe für ungezogenen Bezirk; ASYL Mitte will den Betrieb eines Heimes,neues asylbewerberheim strafe für ungezogenen bezirk asyl mitte will den betrieb eines heimes,"taz, die tageszeitung",taz die tageszeitung,Dienstag 07. Mai 2013,MARINA MAI,BERLIN AKTUELL; S. 22,393,2733,d661c9747b1f127c7f3d47a1df2ec9739275dfb8,,unique,keep,,no,,no,,,3914,no,,,,,"In Sachen Asylbewerberheime scheint der Senat nun andere Saiten aufzuziehen: Sozialsenator Mario Czaja (CDU) 
 hat Stadtentwicklungssenator Michael Müller (SPD) gebeten, dem Bezirk Mitte die Zuständigkeit für die 
 Genehmigung eines solchen Heimes zu entziehen. Das teilte der Präsident des für die Unterbringung von 
 Asylbewerbern zuständigen Landesamtes für Gesundheit und Soziales, Franz Allert, der taz mit.
@@ -1800,7 +1563,7 @@ aufstellen, damit niemand in der Kälte im Freien warten musste , sagt Allert. S
 Bürocontainer errichten. Es war wiederum das Bauamt Mitte, das den Bauantrag abgelehnt hat. Inzwischen haben 
 wir durch die Senatsverwaltung für Stadtentwicklung die notwendige Baugenehmigung. 
 MARINA MAI"
-2013-05,Main Corpus,2013-05(84).ZIP,Niederlage für Schulverweigerer vor US -Gericht.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Niederlage für Schulverweigerer vor US -Gericht.PDF,Niederlage für Schulverweigerer vor US-Gericht,niederlage für schulverweigerer vor usgericht,Südwest Presse,südwest presse,Donnerstag 16. Mai 2013,,Südwestumschau; S. 5,164,1237,88b0fe0679a2b0c961eb51a97893e1685d57b70c,,unique,keep,,no,,no,,,2095,no,,,,,"Ein Berufungsgericht im US-Bundesstaat Ohio hat den Asylantrag einer deutschen Schulverweigererfamilie 
+2013-05,Main Corpus,2013-05(64).ZIP,Niederlage für Schulverweigerer vor US -Gericht.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Niederlage für Schulverweigerer vor US -Gericht.PDF,Niederlage für Schulverweigerer vor US-Gericht,niederlage für schulverweigerer vor usgericht,Südwest Presse,südwest presse,Donnerstag 16. Mai 2013,,Südwestumschau; S. 5,164,1237,88b0fe0679a2b0c961eb51a97893e1685d57b70c,,unique,keep,,no,,no,,,2095,no,,,,,"Ein Berufungsgericht im US-Bundesstaat Ohio hat den Asylantrag einer deutschen Schulverweigererfamilie 
 abgelehnt. Staatliche Maßnahmen gegen Heimschüler in Deutschland seien keine ""Verfolgung"", die zum Asyl in 
 den USA berechtige, entschied das Gericht in Cincinnati im elfseitigen Urteil. Der US-amerikanische 
 Rechtsschutzverband für Heimunterricht teilte auf seiner Webseite mit, die Familie werde das Urteil anfechten.
@@ -1813,7 +1576,7 @@ Einwanderungsbehörde jedoch eine Aufhebung des Urteils.
 Seither leben die Romeikes mit inzwischen sechs Kindern in Rechtsunsicherheit. Ihre Niederlage jetzt dürfte nicht 
 automatisch zur Abschiebung führen. Die Behörden weisen gegenwärtig nur illegal in den USA lebende Ausländer 
 aus, die straffällig geworden sind."
-2013-05,Main Corpus,2013-05(84).ZIP,Projekt Teilhabe.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Projekt Teilhabe.PDF,Projekt Teilhabe,projekt teilhabe,Berliner Zeitung,berliner zeitung,Mittwoch 29. Mai 2013,Katja Tichomirowa,POLITIK; S. 4; Ausg. 122,603,4514,6aefd9cc7666ec276b400557ea40eed3583a1e84,,unique,keep,,no,,no,,,5225,no,,,,,"Wird ein Thema zur Chefsache, dann geschieht dies meist, um ihm die nötige Schwere zu verleihen. Noch 
+2013-05,Main Corpus,2013-05(64).ZIP,Projekt Teilhabe.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Projekt Teilhabe.PDF,Projekt Teilhabe,projekt teilhabe,Berliner Zeitung,berliner zeitung,Mittwoch 29. Mai 2013,Katja Tichomirowa,POLITIK; S. 4; Ausg. 122,603,4514,6aefd9cc7666ec276b400557ea40eed3583a1e84,,unique,keep,,no,,no,,,5225,no,,,,,"Wird ein Thema zur Chefsache, dann geschieht dies meist, um ihm die nötige Schwere zu verleihen. Noch 
 Gewichtigeres wird zum Gipfelthema erklärt, Bildung etwa, Demografie, Elektromobilität oder eben Integration. Im 
 Bundestagswahlkampf ist die Kanzlerin als gut trainierte Alpinistin unterwegs. In dieser Woche erklomm Angela 
 Merkel gleich zwei Gipfel. Den Elektromobilitäts- und den Integrationsgipfel. Auf beiden gibt sie nicht unbedingt das 
@@ -1860,7 +1623,7 @@ Geistige Offenheit verlangt indes auch, nicht länger zu beschwichtigen. Dass De
 will, ist zunächst einmal nicht mehr als eine Absichtserklärung. Tatsächlich sind Vorurteile gegenüber Zuwanderern 
 und ein manifester Rassismus in Teilen der deutschen Gesellschaft das größte Hemmnis für eine erfolgreiche 
 Integration. Darüber zu sprechen, wäre Aufgabe eines Integrationsgipfels."
-2013-05,Main Corpus,2013-05(84).ZIP,Reinickendorf_Streit um Asylbewerber Bezirk fühlt sich vom Landesamt übergangen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Reinickendorf_Streit um Asylbewerber Bezirk fühlt sich vom Landesamt übergangen.PDF,Reinickendorf:Streit um Asylbewerber Bezirk fühlt sich vom Landesamt übergangen,reinickendorfstreit um asylbewerber bezirk fühlt sich vom landesamt übergangen,Der Tagesspiegel,der tagesspiegel,Dienstag 7. Mai 2013,,BERLIN; S. 8; Ausg. 21681,455,3072,7999f83031da301733d4512cd563dd403c1459a5,,unique,keep,,no,,no,,,3710,no,,,,,"Zwei kleine Mädchen spielen im Sonnenschein auf der Wiese vor dem Haus mit den überdimensionalen 
+2013-05,Main Corpus,2013-05(64).ZIP,Reinickendorf_Streit um Asylbewerber Bezirk fühlt sich vom Landesamt übergangen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Reinickendorf_Streit um Asylbewerber Bezirk fühlt sich vom Landesamt übergangen.PDF,Reinickendorf:Streit um Asylbewerber Bezirk fühlt sich vom Landesamt übergangen,reinickendorfstreit um asylbewerber bezirk fühlt sich vom landesamt übergangen,Der Tagesspiegel,der tagesspiegel,Dienstag 7. Mai 2013,,BERLIN; S. 8; Ausg. 21681,455,3072,7999f83031da301733d4512cd563dd403c1459a5,,unique,keep,,no,,no,,,3710,no,,,,,"Zwei kleine Mädchen spielen im Sonnenschein auf der Wiese vor dem Haus mit den überdimensionalen 
 Plastikblumen. Vögel zwitschern, auf der Koppel schnauben die Pferde, die zu der Karl-Bonhoeffer-Nervenklinik 
 gehören. Auf der anderen Straßenseite steht ein junger Mann verwirrt in der Einfahrt und zeigt auf einen 
 ausgedruckten Stadtplan, der ihm die Route zu seinem neuen Zuhause zeigen soll. Mehdi Hayei heißt der Iraner, 
@@ -1891,7 +1654,7 @@ ist die Stimmung gespalten. Einige hundert Meter von seinen neuen Nachbarn entfe
 Reinickendorf:Streit um Asylbewerber Bezirk fühlt sich vom Landesamt übergangen
 erinnert sich an die vielen Menschen, die nach dem Krieg nach Berlin kamen: ""Wir waren doch alle mal 
 Flüchtlinge."" Nantke Garrelts"
-2013-05,Main Corpus,2013-05(84).ZIP,Ritual ohne Ergebnis Regierung bleibt Zwischenbericht zur Integration schuldig. Zuwanderer aus der E.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Ritual ohne Ergebnis Regierung bleibt Zwischenbericht zur Integration schuldig. Zuwanderer aus der E.PDF,Ritual ohne Ergebnis Regierung bleibt Zwischenbericht zur Integration schuldig. Zuwanderer aus der EU sollen,ritual ohne ergebnis regierung bleibt zwischenbericht zur integration schuldig zuwanderer aus der eu sollen,Die Welt,die welt,Mittwoch 29. Mai 2013,Claudia Ehrenstein,POLITIK; S. 4; Ausg. 122,691,5207,b6566069847c68087ee307cdd029f777a288cdc9,,unique,keep,,no,,no,,,7063,no,,,,,"Maria Böhmer (CDU), die Integrationsbeauftragte der Bundesregierung, lächelt zufrieden. Zweieinhalb Stunden hat 
+2013-05,Main Corpus,2013-05(64).ZIP,Ritual ohne Ergebnis Regierung bleibt Zwischenbericht zur Integration schuldig. Zuwanderer aus der E.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Ritual ohne Ergebnis Regierung bleibt Zwischenbericht zur Integration schuldig. Zuwanderer aus der E.PDF,Ritual ohne Ergebnis Regierung bleibt Zwischenbericht zur Integration schuldig. Zuwanderer aus der EU sollen,ritual ohne ergebnis regierung bleibt zwischenbericht zur integration schuldig zuwanderer aus der eu sollen,Die Welt,die welt,Mittwoch 29. Mai 2013,Claudia Ehrenstein,POLITIK; S. 4; Ausg. 122,691,5207,b6566069847c68087ee307cdd029f777a288cdc9,,unique,keep,,no,,no,,,7063,no,,,,,"Maria Böhmer (CDU), die Integrationsbeauftragte der Bundesregierung, lächelt zufrieden. Zweieinhalb Stunden hat 
 der Integrationsgipfel im Kanzleramt gedauert. Mehr als 120 Vertreter aus Bund, Ländern, Kommunen, 
 Migrantenverbänden, Gewerkschaften, Wohlfahrtsverbänden und Religionsgemeinschaften haben darüber 
 diskutiert, wie Menschen mit Migrationshintergrund die Eingliederung in die deutsche Gesellschaft erleichtert 
@@ -1948,7 +1711,7 @@ Graphic
 REUTERS/FABRIZIO BENSCH
 Maria Böhmer (M.) mit Kenan Kolat von der Türkischen Gemeinde und Angela Merkel
 FABRIZIO BENSCH"
-2013-05,Main Corpus,2013-05(84).ZIP,"Schwedischer Wutanfall Tagelang brannten Autos, flogen Steine, Jugendliche zündeten Häuser an. Das E.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Schwedischer Wutanfall Tagelang brannten Autos, flogen Steine, Jugendliche zündeten Häuser an. Das E.PDF","Schwedischer Wutanfall; Tagelang brannten Autos, flogen Steine, Jugendliche zündeten Häuser an. Das",schwedischer wutanfall tagelang brannten autos flogen steine jugendliche zündeten häuser an das,Der Tagesspiegel,der tagesspiegel,Freitag 31. Mai 2013,"Katja Reimann, Stockholm",DRITTE; S. 3; Ausg. 21703,1889,12522,f27e632b844d3c35c455c6316cc8c597bef466f7,,unique,keep,,no,,no,,,13562,no,,,,,"Um seinen Kopf fliegt, wie feiner Schnee, ein bisschen Asche, mit jedem Windstoß mehr. Das Gebäude hinter ihm 
+2013-05,Main Corpus,2013-05(64).ZIP,"Schwedischer Wutanfall Tagelang brannten Autos, flogen Steine, Jugendliche zündeten Häuser an. Das E.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Schwedischer Wutanfall Tagelang brannten Autos, flogen Steine, Jugendliche zündeten Häuser an. Das E.PDF","Schwedischer Wutanfall; Tagelang brannten Autos, flogen Steine, Jugendliche zündeten Häuser an. Das",schwedischer wutanfall tagelang brannten autos flogen steine jugendliche zündeten häuser an das,Der Tagesspiegel,der tagesspiegel,Freitag 31. Mai 2013,"Katja Reimann, Stockholm",DRITTE; S. 3; Ausg. 21703,1889,12522,f27e632b844d3c35c455c6316cc8c597bef466f7,,unique,keep,,no,,no,,,13562,no,,,,,"Um seinen Kopf fliegt, wie feiner Schnee, ein bisschen Asche, mit jedem Windstoß mehr. Das Gebäude hinter ihm 
 war einmal ein schönes, rotes schwedisches Holzhaus, außerdem sein Atelier, eine Werkstatt, die er sich mit 
 anderen Künstlern teilte. Die Holzbalken sind nur noch Kohle, aus der sich die kleinen grauen Flöckchen schälen. 
 Es riecht nach Feuer.
@@ -2078,7 +1841,7 @@ Graphic
  
 Szenen der Zerstörung. Im Stockholmer Vorort Husby begann der Aufruhr. Inga Harnesk (links oben) engagiert sich 
 hier seit Jahrzehnten - friedlich. Fotos: AFP, Reimann"
-2013-05,Main Corpus,2013-05(84).ZIP,Sechs Quadratmeter Brandenburg FLÜCHTLINGE II Neues Unterbringungskonzept des Landes stößt bereits v.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Sechs Quadratmeter Brandenburg FLÜCHTLINGE II Neues Unterbringungskonzept des Landes stößt bereits v.PDF,Sechs Quadratmeter Brandenburg FLÜCHTLINGE II Neues Unterbringungskonzept des Landes stößt bereits,sechs quadratmeter brandenburg flüchtlinge ii neues unterbringungskonzept des landes stösst bereits,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 23. Mai 2013,ALKE WIERTH,BERLIN AKTUELL; S. 22,302,2258,0ccccbb0b90837ca4f4266abc102bb2be370b457,,unique,keep,,no,,no,,,3199,no,,,,,"Schon vor der geplanten Veröffentlichung neuer Richtlinien zur Unterbringung von Flüchtlingen in Brandenburg übt 
+2013-05,Main Corpus,2013-05(64).ZIP,Sechs Quadratmeter Brandenburg FLÜCHTLINGE II Neues Unterbringungskonzept des Landes stößt bereits v.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Sechs Quadratmeter Brandenburg FLÜCHTLINGE II Neues Unterbringungskonzept des Landes stößt bereits v.PDF,Sechs Quadratmeter Brandenburg FLÜCHTLINGE II Neues Unterbringungskonzept des Landes stößt bereits,sechs quadratmeter brandenburg flüchtlinge ii neues unterbringungskonzept des landes stösst bereits,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 23. Mai 2013,ALKE WIERTH,BERLIN AKTUELL; S. 22,302,2258,0ccccbb0b90837ca4f4266abc102bb2be370b457,,unique,keep,,no,,no,,,3199,no,,,,,"Schon vor der geplanten Veröffentlichung neuer Richtlinien zur Unterbringung von Flüchtlingen in Brandenburg übt 
 der Flüchtlingsrat an dem Regierungskonzept Kritik. Entscheidende Eckpunkte zur Verbesserung der 
 Wohnsituation, die das Parlament nach Anhörungen von Fachorganisationen 2012 beschlossen hatte, seien in dem 
 Konzept aufgegeben worden, fürchteten FlüchtlingsrätInnen am Mittwoch in Potsdam.
@@ -2103,7 +1866,7 @@ vor der Veröffentlichung auf Kritik
 Ende Juni soll das fertige Konzept präsentiert werden, heißt es aus dem zuständigen Brandenburger 
 Sozialministerium. Zu inhaltlichen Details will man sich noch nicht äußern: Das Konzept müsse zuvor durch die 
 Ressortabstimmung. ALKE WIERTH"
-2013-05,Main Corpus,2013-05(84).ZIP,Seeräuber in Hessen gefasst Polizei verhaftet mutmaßlichen Piraten aus Somalia.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Seeräuber in Hessen gefasst Polizei verhaftet mutmaßlichen Piraten aus Somalia.PDF,Seeräuber in Hessen gefasst Polizei verhaftet mutmaßlichen Piraten aus Somalia,seeräuber in hessen gefasst polizei verhaftet mutmasslichen piraten aus somalia,Die Welt,die welt,Dienstag 14. Mai 2013,,PANORAMA; S. 28; Ausg. 110,231,1764,04b909d5ddbb39bcfa3f587a65208ab6b1aae36c,,unique,keep,,no,,no,,,2903,no,,,,,"Gießen - Drei Jahre nach der brutalen Entführung eines Frachtschiffs einer deutschen Reederei durch somalische 
+2013-05,Main Corpus,2013-05(64).ZIP,Seeräuber in Hessen gefasst Polizei verhaftet mutmaßlichen Piraten aus Somalia.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Seeräuber in Hessen gefasst Polizei verhaftet mutmaßlichen Piraten aus Somalia.PDF,Seeräuber in Hessen gefasst Polizei verhaftet mutmaßlichen Piraten aus Somalia,seeräuber in hessen gefasst polizei verhaftet mutmasslichen piraten aus somalia,Die Welt,die welt,Dienstag 14. Mai 2013,,PANORAMA; S. 28; Ausg. 110,231,1764,04b909d5ddbb39bcfa3f587a65208ab6b1aae36c,,unique,keep,,no,,no,,,2903,no,,,,,"Gießen - Drei Jahre nach der brutalen Entführung eines Frachtschiffs einer deutschen Reederei durch somalische 
 Piraten haben Ermittler einen der mutmaßlichen Täter gefasst. Der Mann soll unter falschem Namen Asyl in einer 
 hessischen Aufnahmeeinrichtung beantragt haben und wurde nach einem Routineabgleich seiner Fingerabdrücke 
 als Schiffsentführer festgenommen. Der Verdächtige sei wahrscheinlich illegal und mit falschen Papieren eingereist, 
@@ -2121,7 +1884,7 @@ Lösegeldverteilung zwischen den Seeräubern zuständig gewesen sein.
 Das Amtsgericht Osnabrück habe inzwischen Haftbefehl wegen erpresserischen Menschenraubs und gefährlicher 
 Körperverletzung gegen den teilweise geständigen Beschuldigten erlassen. Im Fall einer Verurteilung durch ein 
 Gericht drohen ihm bis zu 15 Jahre Haft."
-2013-05,Main Corpus,2013-05(84).ZIP,SKANDINAVIEN Fragwürdige Neutralität.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\SKANDINAVIEN Fragwürdige Neutralität.PDF,SKANDINAVIEN; Fragwürdige Neutralität,skandinavien fragwürdige neutralität,Der Tagesspiegel,der tagesspiegel,Samstag 11. Mai 2013,,BERLIN_EXTRA; S. 22; Ausg. 21684,154,1046,02d2ae9596f0c8f36b52148bb49e1c0d55dd2e5c,,unique,keep,,no,,no,,,1769,no,,,,,"Aufgrund der fragwürdigen Neutralitätspolitik Skandinaviens flohen nur wenige gen Norden: Ende 1937 wurden 
+2013-05,Main Corpus,2013-05(64).ZIP,SKANDINAVIEN Fragwürdige Neutralität.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\SKANDINAVIEN Fragwürdige Neutralität.PDF,SKANDINAVIEN; Fragwürdige Neutralität,skandinavien fragwürdige neutralität,Der Tagesspiegel,der tagesspiegel,Samstag 11. Mai 2013,,BERLIN_EXTRA; S. 22; Ausg. 21684,154,1046,02d2ae9596f0c8f36b52148bb49e1c0d55dd2e5c,,unique,keep,,no,,no,,,1769,no,,,,,"Aufgrund der fragwürdigen Neutralitätspolitik Skandinaviens flohen nur wenige gen Norden: Ende 1937 wurden 
 insgesamt lediglich an die tausend politische Flüchtlinge aus dem Deutschen Reich gezählt. Bertolt Brecht schrieb 
 unter anderem seinen ""Dreigroschenroman"" im schwedischen Exil, ehe er 1941 in die USA weiterreiste. Erst spät 
 entschloss sich Nelly Sachs zur Flucht aus Deutschland, im Mai 1940 emigrierte sie nach Stockholm, wo sie bis zu 
@@ -2132,7 +1895,7 @@ Geschehnissen in seiner alten Heimat. ""Mein Leben ist mir zu kostbar, mich unte
 ihn zu bitten, Birnen zu produzieren"", so drückt er seine Resignation in einem seiner letzten Briefe an den nach 
 Palästina emigrierten
 Arnold Zweig aus."
-2013-05,Main Corpus,2013-05(84).ZIP,"So nicht, Italien! Rom scheitert mit seinem Versuch, Flüchtlinge nach Deutschland abzuschieben.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\So nicht, Italien! Rom scheitert mit seinem Versuch, Flüchtlinge nach Deutschland abzuschieben.PDF","So nicht, Italien! Rom scheitert mit seinem Versuch, Flüchtlinge nach Deutschland abzuschieben",so nicht italien rom scheitert mit seinem versuch flüchtlinge nach deutschland abzuschieben,Die Welt,die welt,Freitag 31. Mai 2013,Silke Mülherr,FORUM; Kommentar; S. 3; Ausg. 124,273,1971,e2894e04204093737f07174e1660935b2ac0f0e4,,unique,drop,commentary_noncore,no,,no,,,2890,yes,commentary_noncore,,,,"Sie kamen in Nussschalen in der Hoffnung auf ein besseres Leben. Als die Libyer Italien erreichten, wähnten sie 
+2013-05,Main Corpus,2013-05(64).ZIP,"So nicht, Italien! Rom scheitert mit seinem Versuch, Flüchtlinge nach Deutschland abzuschieben.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\So nicht, Italien! Rom scheitert mit seinem Versuch, Flüchtlinge nach Deutschland abzuschieben.PDF","So nicht, Italien! Rom scheitert mit seinem Versuch, Flüchtlinge nach Deutschland abzuschieben",so nicht italien rom scheitert mit seinem versuch flüchtlinge nach deutschland abzuschieben,Die Welt,die welt,Freitag 31. Mai 2013,Silke Mülherr,FORUM; Kommentar; S. 3; Ausg. 124,273,1971,e2894e04204093737f07174e1660935b2ac0f0e4,,unique,drop,commentary_noncore,no,,no,,,2890,yes,commentary_noncore,,,,"Sie kamen in Nussschalen in der Hoffnung auf ein besseres Leben. Als die Libyer Italien erreichten, wähnten sie 
 sich im gelobten Land. Erst allmählich mussten sie zur Kenntnis nehmen, dass der europäische Boden für sie und 
 alle anderen nordafrikanischen Flüchtlinge nicht das Ende ihrer Odyssee bedeutete. Die italienischen Behörden 
 beschlossen, das Problem einfach gen Norden zu exportieren. Sollen sich doch die Reichen kümmern! Rom stellte 
@@ -2152,7 +1915,7 @@ gelten, wenn die Regierungen zu einer Wagenburgmentalität zurückkehren.
 Bei aller berechtigten Empörung über das italienische Vorgehen darf man allerdings eines nicht übersehen: Der 
 Rest Europas hat Rom mit den Flüchtlingsmassen alleingelassen. Italiens Versagen ist ein Versagen der 
 europäischen Flüchtlingspolitik."
-2013-05,Main Corpus,2013-05(84).ZIP,STICHWORT · INTEGRATIONSGIPFEL_ Migranten und Arbeitsmarkt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\STICHWORT · INTEGRATIONSGIPFEL_ Migranten und Arbeitsmarkt.PDF,STICHWORT · INTEGRATIONSGIPFEL: Migranten und Arbeitsmarkt,stichwort  integrationsgipfel migranten und arbeitsmarkt,Südwest Presse,südwest presse,Mittwoch 29. Mai 2013,,Politik; S. 2,214,1580,3d06c41491678745c0fecb2b331745435ffbeef0,,unique,keep,,no,,no,,,2452,no,,,,,"Mehr als ein Drittel (34,9 Prozent) der Arbeitslosen in Deutschland kommen aus Einwandererfamilien. Die 
+2013-05,Main Corpus,2013-05(64).ZIP,STICHWORT · INTEGRATIONSGIPFEL_ Migranten und Arbeitsmarkt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\STICHWORT · INTEGRATIONSGIPFEL_ Migranten und Arbeitsmarkt.PDF,STICHWORT · INTEGRATIONSGIPFEL: Migranten und Arbeitsmarkt,stichwort  integrationsgipfel migranten und arbeitsmarkt,Südwest Presse,südwest presse,Mittwoch 29. Mai 2013,,Politik; S. 2,214,1580,3d06c41491678745c0fecb2b331745435ffbeef0,,unique,keep,,no,,no,,,2452,no,,,,,"Mehr als ein Drittel (34,9 Prozent) der Arbeitslosen in Deutschland kommen aus Einwandererfamilien. Die 
 Bundesagentur für Arbeit hat am Dienstag Zahlen zum ""Arbeitsmarkt nach Migrationshintergrund"" vorgelegt.
 Trotz einer positiven Entwicklung ist die Arbeitslosigkeit unter Migranten immer noch deutlich höher als ihr Anteil 
 von 20,4 Prozent an der erwerbsfähigen Bevölkerung zwischen 15 und 65 Jahren. Insgesamt leben rund 16 
@@ -2168,7 +1931,7 @@ gemacht. Die Statistik soll nun jedes Vierteljahr veröffentlicht werden.
 Aus den Zahlenwerken der Integrationsbeauftragten der Bundesregierung, Maria Böhmer (CDU), geht hervor, dass 
 die Arbeitslosenquote unter Migranten seit 2005 kontinuierlich zurückgegangen ist, doch mit über 15 Prozent immer 
 noch mehr als doppelt so hoch ist wie die von Deutschstämmigen."
-2013-05,Main Corpus,2013-05(84).ZIP,STICHWORT · ZUWANDERER_ Begehrtes Land.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\STICHWORT · ZUWANDERER_ Begehrtes Land.PDF,STICHWORT · ZUWANDERER: Begehrtes Land,stichwort  zuwanderer begehrtes land,Südwest Presse,südwest presse,Mittwoch 8. Mai 2013,,Politik; S. 2,213,1584,1caa6231e64250eee60742dce4bc061c8fa17247,,unique,keep,,no,,no,,,2490,no,,,,,"Wenn Menschen Ländergrenzen dauerhaft überschreiten, macht sie das zu Einwanderern. 2012 knackten die 
+2013-05,Main Corpus,2013-05(64).ZIP,STICHWORT · ZUWANDERER_ Begehrtes Land.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\STICHWORT · ZUWANDERER_ Begehrtes Land.PDF,STICHWORT · ZUWANDERER: Begehrtes Land,stichwort  zuwanderer begehrtes land,Südwest Presse,südwest presse,Mittwoch 8. Mai 2013,,Politik; S. 2,213,1584,1caa6231e64250eee60742dce4bc061c8fa17247,,unique,keep,,no,,no,,,2490,no,,,,,"Wenn Menschen Ländergrenzen dauerhaft überschreiten, macht sie das zu Einwanderern. 2012 knackten die 
 Zuwanderer in Deutschland die Millionenmarke: 1 081 000 Menschen zogen zu. Davon werden die Fortzüge 
 abgezogen, übrig bleiben 370 000 ""neue"" Deutsche. So wächst die Republik um eine Stadt wie Bochum oder 
 Wuppertal.
@@ -2186,42 +1949,7 @@ ab, erfreulicherweise 6000 weniger als noch 2011. Die beliebtesten Länder hierf
 Österreich, das Vereinigte Königreich und Frankreich.
 Allzeithoch: Zuletzt wurde die Zuwanderer-Millionenmarke 1995 überschritten. Insgesamt ist das seit 1950 erst 
 neun Mal passiert! 1970 - und dann lückenlos - von 1989 bis 1995. Und eben 2012."
-2013-05,Main Corpus,2013-05(84).ZIP,Stoffels_ Flüchtlinge brauchen besonderen Schutz.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Stoffels_ Flüchtlinge brauchen besonderen Schutz.PDF,Stoffels: Flüchtlinge brauchen besonderen Schutz,stoffels flüchtlinge brauchen besonderen schutz,Rheinische Post,rheinische post,24. Mai 2013 Freitag,,,244,1889,16a5702cb2ec2de7bbdaf6ea2406ed05b9eb7a04,variant_003,regional_variant,review,,no,,no,,,2373,no,,,near_003,variant_003,"Der Vertreter des Flüchtlingsrates NRW warnt vor einer Kriminalisierung der Jugendlichen, die hierher flüchten. 
-KEMPEN (rei) Der Flüchtlingsrat NRW warnt vor einer Kriminalisierung der minderjährigen Flüchtlinge, die 
-unbegleitet von Sorgeberechtigten nach Deutschland einreisen und von der Bundespolizei aufgegriffen werden. 
-Eine Dramatisierung der Situation, wie sie sie kürzlich das Kempener Jugendamt in einer Sitzungsvorlage für den 
-Jugendhilfeausschuss beschrieben hatte (die RP berichtete), sei ""völlig unangebracht"", erklärt Dr. Michael Stoffels. 
-Der Kempener ist Mitglied des Flüchtlingsrates NRW. Die Zahl der unbegleiteten minderjährigen Flüchtlinge sei 
-bundesweit im vergangenen Jahr zurückgegangen. ""Sorge machen sollte man sich in erster Linie nicht um die 
-zunehmende Zahl, sondern um die Lebenssituation von minderjährigen Schutzsuchenden"", meint Stoffels. Dass 
-etwa die Hälfte von ihnen aus Afghanistan komme, ""sollte Hinweis genug sein, dass da nicht Quasi-Kriminelle 
-kommen, die es zu ,erwischen' gilt, sondern Jugendliche, die des Schutzes und jugendgemäßer Fürsorge 
-bedürfen"", so Stoffels. Er weist auf die Probleme der jugendlichen Flüchtlinge hin. So würden 16- bis 17-Jährige 
-nicht immer als Kinder wahrgenommen. Oft stehe bei ihnen das Kindeswohl nicht - wie vorgeschrieben - im 
-Vordergrund. Ihre Unterbringung sei oft nicht kindgerecht, ""der vom Aufenthaltsstatus unabhängige Anspruch auf 
-vollständige Teilhabe am Gesundheits- und Bildungssystem mit entsprechenden Fördermaßnahmen nicht 
-gewährleistet"", so Stoffels. Richtig sei indes, dass Kempen von diesen Problemen, dadurch dass es Sitz der 
-Bundespolizei geworden ist, nun einiges mitbekommt. Stoffels: ""Unterstützung von oben sollte es daher geben, 
-Alarmismus aber ist völlig unangebracht."" Die Zahl der unbegleiteten minderjährigen Flüchtlinge sei bundesweit im 
-vergangenen Jahr zurückgegangen"
-2013-05,Main Corpus,2013-05(84).ZIP,Stoffels_ Minderjährige Flüchtlinge brauchen besonderen Schutz.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Stoffels_ Minderjährige Flüchtlinge brauchen besonderen Schutz.PDF,Stoffels: Minderjährige Flüchtlinge brauchen besonderen Schutz,stoffels minderjährige flüchtlinge brauchen besonderen schutz,Rheinische Post,rheinische post,24. Mai 2013 Freitag,,,232,1784,33e8d2fec5f1a2bae0fee85222b41c836bee8db6,variant_003,regional_variant,review,,no,,no,,,2310,no,,,near_003,variant_003,"Der Vertreter des Flüchtlingsrates NRW warnt vor einer Kriminalisierung der Jugendlichen, die hierher flüchten. 
-KEMPEN (rei) Der Flüchtlingsrat NRW warnt vor einer Kriminalisierung der minderjährigen Flüchtlinge, die 
-unbegleitet von Sorgeberechtigten nach Deutschland einreisen und von der Bundespolizei aufgegriffen werden. 
-Eine Dramatisierung der Situation, wie sie sie kürzlich das Kempener Jugendamt in einer Sitzungsvorlage für den 
-Jugendhilfeausschuss beschrieben hatte (die RP berichtete), sei ""völlig unangebracht"", erklärt Dr. Michael Stoffels. 
-Der Kempener ist Mitglied des Flüchtlingsrates NRW. Die Zahl der unbegleiteten minderjährigen Flüchtlinge sei 
-bundesweit im vergangenen Jahr zurückgegangen. ""Sorge machen sollte man sich in erster Linie nicht um die 
-zunehmende Zahl, sondern um die Lebenssituation von minderjährigen Schutzsuchenden"", meint Stoffels. Dass 
-etwa die Hälfte von ihnen aus Afghanistan komme, ""sollte Hinweis genug sein, dass da nicht Quasi-Kriminelle 
-kommen, die es zu ,erwischen' gilt, sondern Jugendliche, die des Schutzes und jugendgemäßer Fürsorge 
-bedürfen"", so Stoffels. Er weist auf die Probleme der jugendlichen Flüchtlinge hin. So würden 16- bis 17-Jährige 
-nicht immer als Kinder wahrgenommen. Oft stehe bei ihnen das Kindeswohl nicht - wie vorgeschrieben - im 
-Vordergrund. Ihre Unterbringung sei oft nicht kindgerecht, ""der vom Aufenthaltsstatus unabhängige Anspruch auf 
-vollständige Teilhabe am Gesundheits- und Bildungssystem mit entsprechenden Fördermaßnahmen nicht 
-gewährleistet"", so Stoffels. Richtig sei indes, dass Kempen von diesen Problemen, dadurch dass es Sitz der 
-Bundespolizei geworden ist, nun einiges mitbekommt. Stoffels: ""Unterstützung von oben sollte es daher geben, 
-Alarmismus aber ist völlig unangebracht."""
-2013-05,Main Corpus,2013-05(84).ZIP,Streit über Flüchtlinge_ Rom gibt nach Berlin darf Einwanderer zurückschicken.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Streit über Flüchtlinge_ Rom gibt nach Berlin darf Einwanderer zurückschicken.PDF,Streit über Flüchtlinge: Rom gibt nach; Berlin darf Einwanderer zurückschicken,streit über flüchtlinge rom gibt nach berlin darf einwanderer zurückschicken,Die Welt,die welt,Freitag 31. Mai 2013,,TITEL; S. 1; Ausg. 124,127,986,4cbb0e93540f322cf80d54aa095408e47d500006,,unique,keep,,no,,no,,,1621,no,,,,,"Berlin - Unter starkem Druck aus Berlin hat Italien im Streit über die mittellos in Deutschland gestrandeten 
+2013-05,Main Corpus,2013-05(64).ZIP,Streit über Flüchtlinge_ Rom gibt nach Berlin darf Einwanderer zurückschicken.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Streit über Flüchtlinge_ Rom gibt nach Berlin darf Einwanderer zurückschicken.PDF,Streit über Flüchtlinge: Rom gibt nach; Berlin darf Einwanderer zurückschicken,streit über flüchtlinge rom gibt nach berlin darf einwanderer zurückschicken,Die Welt,die welt,Freitag 31. Mai 2013,,TITEL; S. 1; Ausg. 124,127,986,4cbb0e93540f322cf80d54aa095408e47d500006,,unique,keep,,no,,no,,,1621,no,,,,,"Berlin - Unter starkem Druck aus Berlin hat Italien im Streit über die mittellos in Deutschland gestrandeten 
 Flüchtlinge aus Afrika eingelenkt. Die italienischen Behörden hätten in Verhandlungen zugesichert, die Flüchtlinge 
 wieder aufzunehmen, sagte ein Sprecher des Bundesinnenministeriums am Donnerstag in Berlin. Italien hatte die 
 Flüchtlinge zuvor mit befristeten Reisedokumenten für die Schengenstaaten ausgestattet, ihnen jeweils 500 Euro 
@@ -2231,19 +1959,7 @@ Geldzahlung nach Deutschland weggelockt zu haben. Die Bundesregierung bewertete 
 Zwar sei es juristisch nicht verwerflich, hieß es im Innenministerium. Allerdings liefe das Vorgehen der italienischen 
 Behörden auf eine „Strapazierung des Geistes von Schengen"" hinaus.
  Kommentar Seite 3 und Seite 4"
-2013-05,Main Corpus,2013-05(84).ZIP,Studie_ Neue Zuwanderer immer besser ausgebildet.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Studie_ Neue Zuwanderer immer besser ausgebildet.PDF,Studie: Neue Zuwanderer immer besser ausgebildet,studie neue zuwanderer immer besser ausgebildet,Rheinische Post,rheinische post,25. Mai 2013 Samstag,,,165,1259,db728f40d7c9cfb40f1bfb47d4936f1ea3a87a2e,,unique,keep,,no,,no,,,1903,no,,,,,"Berlin (dpa) Einwanderer in die Bundesrepublik haben einer Studie zufolge inzwischen ein höheres Bildungs- und 
-Qualifikationsniveau als die deutsche Bevölkerung. So haben heute 43 Prozent der Neuzuwanderer zwischen 15 
-und 65 Jahren einen Meister, Hochschul- oder Technikerabschluss. Bei den Deutschen ohne Migrationshintergrund 
-gilt dies nur für 26 Prozent, heißt es in einer Studie im Auftrag der Bertelsmann-Stiftung. Die Stiftung plädiert für 
-noch mehr Zuwanderung Qualifizierter nach Deutschland - auch aus Nicht-EU-Staaten. Nach der Analyse des 
-Arbeitsmarktforschers Herbert Brücker ist das Qualifikationsniveau der Zuwanderer nach Deutschland seit dem 
-Jahr 2000 langsam aber stetig gestiegen. Das in der Öffentlichkeit immer noch existierende Bild, es kämen nur 
-gering Qualifizierte aus dem Ausland nach Deutschland, stimme so nicht mehr, sagte der Forscher vom Institut für 
-Arbeitsmarkt- und Berufsforschung. Brückner sprach von einer ""neuen Struktur der Zuwanderung"". Der Sozialstaat 
-werde vom Zuzug Qualifizierter nicht belastet. Vielmehr profitieren die Sozialkassen wie Renten-, Arbeitslosen- und 
-Krankenversicherung davon. Diese ""Wohlfahrtsgewinne"" würden umso größer ausfallen, je mehr qualifizierte 
-Einwanderer nach Deutschland kämen."
-2013-05,Main Corpus,2013-05(84).ZIP,Suizid eines Asylbewerbers aus dem Tschad  Flüchtling sollte nach Italien abgeschoben werden.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Suizid eines Asylbewerbers aus dem Tschad  Flüchtling sollte nach Italien abgeschoben werden.PDF,Suizid eines Asylbewerbers aus dem Tschad Flüchtling sollte nach Italien abgeschoben werden,suizid eines asylbewerbers aus dem tschad flüchtling sollte nach italien abgeschoben werden,Berliner Zeitung,berliner zeitung,Donnerstag 30. Mai 2013,Gerold Büchner,LOKALES; S. 20; Ausg. 123,256,1938,cdd1bcfda87d697abf00ee90533f9bd1dcc995a5,,unique,keep,,no,,no,,,2925,no,,,,,"Ein Flüchtling aus dem Tschad hat sich in der Erstaufnahmeeinrichtung in Eisenhüttenstadt (Oder-Spree) das 
+2013-05,Main Corpus,2013-05(64).ZIP,Suizid eines Asylbewerbers aus dem Tschad  Flüchtling sollte nach Italien abgeschoben werden.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Suizid eines Asylbewerbers aus dem Tschad  Flüchtling sollte nach Italien abgeschoben werden.PDF,Suizid eines Asylbewerbers aus dem Tschad Flüchtling sollte nach Italien abgeschoben werden,suizid eines asylbewerbers aus dem tschad flüchtling sollte nach italien abgeschoben werden,Berliner Zeitung,berliner zeitung,Donnerstag 30. Mai 2013,Gerold Büchner,LOKALES; S. 20; Ausg. 123,256,1938,cdd1bcfda87d697abf00ee90533f9bd1dcc995a5,,unique,keep,,no,,no,,,2925,no,,,,,"Ein Flüchtling aus dem Tschad hat sich in der Erstaufnahmeeinrichtung in Eisenhüttenstadt (Oder-Spree) das 
 Leben genommen. Mitbewohner fanden den 20-Jährigen am Dienstagnachmittag erhängt im gemeinsamen 
 Wohnraum, wie das Innenministerium in Potsdam gestern mitteilte. Wiederbelebungsversuche seien erfolglos 
 geblieben. Die Polizei gehe eindeutig von einer Selbsttötung aus und habe auf eine Obduktion verzichtet.
@@ -2262,7 +1978,7 @@ Hintergründe der Selbsttötung sei nichts bekannt. Der Fall sei der erste in de
 Die Zustände dort sind aber seit langem als problematisch bekannt. Die Kapazitätsgrenze ist erreicht, Hunderte 
 Flüchtlinge sind in Containern untergebracht. Für Montag haben Flüchtlingsorganisationen zu einer Demonstration 
 in Eisenhüttenstadt aufgerufen."
-2013-05,Main Corpus,2013-05(84).ZIP,Tschetschenische Asylbewerber beunruhigen die Behörden Die Zahl der Antragsteller aus der Republik i.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Tschetschenische Asylbewerber beunruhigen die Behörden Die Zahl der Antragsteller aus der Republik i.PDF,Tschetschenische Asylbewerber beunruhigen die Behörden; Die Zahl der Antragsteller aus der Republik im,tschetschenische asylbewerber beunruhigen die behörden die zahl der antragsteller aus der republik im,Die Welt,die welt,Donnerstag 16. Mai 2013,Karsten Kammholz,POLITIK; S. 6; Ausg. 112,677,4999,7252b642c6e0683e02f0a33e11cbc66f20fe2365,,unique,keep,,no,,no,,,6542,no,,,,,"Die Zahlen der Asylbewerber aus der Russischen Föderation sind zuletzt derart drastisch gestiegen, dass die 
+2013-05,Main Corpus,2013-05(64).ZIP,Tschetschenische Asylbewerber beunruhigen die Behörden Die Zahl der Antragsteller aus der Republik i.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Tschetschenische Asylbewerber beunruhigen die Behörden Die Zahl der Antragsteller aus der Republik i.PDF,Tschetschenische Asylbewerber beunruhigen die Behörden; Die Zahl der Antragsteller aus der Republik im,tschetschenische asylbewerber beunruhigen die behörden die zahl der antragsteller aus der republik im,Die Welt,die welt,Donnerstag 16. Mai 2013,Karsten Kammholz,POLITIK; S. 6; Ausg. 112,677,4999,7252b642c6e0683e02f0a33e11cbc66f20fe2365,,unique,keep,,no,,no,,,6542,no,,,,,"Die Zahlen der Asylbewerber aus der Russischen Föderation sind zuletzt derart drastisch gestiegen, dass die 
 deutschen Sicherheitsbehörden alarmiert sind. Allein im April hat das Bundesamt für Migration und Flüchtlinge 
 2055 Asylanträge von Bürgern der Russischen Föderation erhalten, mehr als doppelt so viele wie im März. Es 
 handelt sich vor allem um tschetschenische Antragsteller, wie die „Welt"" aus Sicherheitskreisen erfuhr.
@@ -2314,19 +2030,7 @@ Terrorismusfinanzierung und die Gefahren, die dadurch entstehen, „dass erfahre
 nach Deutschland geschleust werden"".
 „Es herrscht eine Angst wie zu den Zeiten Stalins"" Swetlana Gannuschkina, Vorsitzende der russischen NGO 
 Bürgerlicher Beistand"
-2013-05,Main Corpus,2013-05(84).ZIP,Ungerecht.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Ungerecht.PDF,Ungerecht,ungerecht,Rheinische Post,rheinische post,28. Mai 2013 Dienstag,,,202,1314,e411d47cd32900563acb66fe07fb028ffb2f4f2c,,unique,keep,,no,,no,,,1760,no,,,,,"Überfall/Abschiebung Am Samstag wird berichtet, dass der Asylantrag von Herrn Batirbekov abgelehnt worden 
-ist. Der seit 2004 in Alpen lebende russische Ingenieur, der sich vorbildlich eingelebt und eingebracht hat- speziell 
-in die Kirchenarbeit - soll seinen Asylantrag nicht verlängert bekommen. In der gleichen Ausgabe liest man einen 
-Bericht von einem 73 Jahre alten Rentner aus Xanten. Der noch heute in massiver Angst lebende Rentner wurde 
-brutal zusammengeschlagen und ausgeraubt. Kurze Zeit später stellte die Polizei in einem Asylbewerberheim 
-Mobiltelefon und Digitalkamera des Opfers sicher. Aber die vier Tatverdächtigen, die festgenommen wurden, sind 
-nach kurzer Zeit wieder auf freiem Fuß. Warum werden solche Leute nicht abgeschoben? Wo ist da die 
-Gerechtigkeit? Man fängt leider so langsam an am ganzen System zu zweifeln. Ich weiß dass gerade solch ein 
-Thema sehr vorsichtig zu behandeln ist in Deutschland, und ich glaube auch nicht, dass ein solcher Leserbrief wie 
-dieser veröffentlicht wird, nur lag mir das am Herzen, es mal los zu werden. Ich hoffe, dass es für den 73-jährigen 
-bald bergauf geht, und dass die Täter vielleicht doch noch überführt werden. Und dem Russen aus Alpen, vor dem 
-ich meinen Hut ziehe, wünsche ich alles Gute in seinem weiterem Leben. Arne Müller 46519 Alpen"
-2013-05,Main Corpus,2013-05(84).ZIP,Verletzte bei Brand in Heim für Asylbewerber.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Verletzte bei Brand in Heim für Asylbewerber.PDF,Verletzte bei Brand in Heim für Asylbewerber,verletzte bei brand in heim für asylbewerber,Südwest Presse,südwest presse,Mittwoch 15. Mai 2013,,Südwestumschau; S. 6,195,1331,43d7f44bfb88caa97a39b3806036ada325578517,,unique,keep,,no,,no,,,2010,no,,,,,"Bei einem Brand in einem Wohnheim für Asylbewerber in Friedrichshafen sind gestern Morgen sechs Männer 
+2013-05,Main Corpus,2013-05(64).ZIP,Verletzte bei Brand in Heim für Asylbewerber.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Verletzte bei Brand in Heim für Asylbewerber.PDF,Verletzte bei Brand in Heim für Asylbewerber,verletzte bei brand in heim für asylbewerber,Südwest Presse,südwest presse,Mittwoch 15. Mai 2013,,Südwestumschau; S. 6,195,1331,43d7f44bfb88caa97a39b3806036ada325578517,,unique,keep,,no,,no,,,2010,no,,,,,"Bei einem Brand in einem Wohnheim für Asylbewerber in Friedrichshafen sind gestern Morgen sechs Männer 
 verletzt worden. Sie wurden mit leichten Blessuren und Verdacht auf Rauchgasvergiftung ins Krankenhaus 
 gebracht. Bei dem Feuer ist ein Sachschaden von mehr als 100 000 Euro entstanden. Nach Angaben der Polizei 
 gibt es bislang keine Hinweise auf Brandstiftung oder einen fremdenfeindlichen Hintergrund.
@@ -2340,7 +2044,7 @@ wurden. Sie sollten während des Duldungsverfahrens dort wohnen bleiben, bis üb
 Der Brand in Friedrichshafen ist ein weiterer in einer Reihe von Bränden in Asylbewerberheimen. Zuletzt hatte es 
 im März in einem Wohnheim in Villingen-Schwenningen gebrannt, davor in Stuttgart und Heilbronn. Es gab jedes 
 Mal Verletzte."
-2013-05,Main Corpus,2013-05(84).ZIP,"Viel Wissen im Gepäck Die Qualifikation der Zuwanderer steigt. Das stärkt die Wirtschaft, löst aber.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Viel Wissen im Gepäck Die Qualifikation der Zuwanderer steigt. Das stärkt die Wirtschaft, löst aber.PDF","Viel Wissen im Gepäck Die Qualifikation der Zuwanderer steigt. Das stärkt die Wirtschaft, löst aber nicht die",viel wissen im gepäck die qualifikation der zuwanderer steigt das stärkt die wirtschaft löst aber nicht die,Berliner Zeitung,berliner zeitung,Freitag 24. Mai 2013,Stefan Sauer,WIRTSCHAFT; S. 9; Ausg. 118,405,3049,f5f1d9384ae15c88738e38011d12ef4b775aa5bc,,unique,keep,,no,,no,,,4215,no,,,,,"Das gelobte Land liegt in Europas Mitte. In den zurückliegenden Jahren hat sich die Bundesrepublik zum 
+2013-05,Main Corpus,2013-05(64).ZIP,"Viel Wissen im Gepäck Die Qualifikation der Zuwanderer steigt. Das stärkt die Wirtschaft, löst aber.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Viel Wissen im Gepäck Die Qualifikation der Zuwanderer steigt. Das stärkt die Wirtschaft, löst aber.PDF","Viel Wissen im Gepäck Die Qualifikation der Zuwanderer steigt. Das stärkt die Wirtschaft, löst aber nicht die",viel wissen im gepäck die qualifikation der zuwanderer steigt das stärkt die wirtschaft löst aber nicht die,Berliner Zeitung,berliner zeitung,Freitag 24. Mai 2013,Stefan Sauer,WIRTSCHAFT; S. 9; Ausg. 118,405,3049,f5f1d9384ae15c88738e38011d12ef4b775aa5bc,,unique,keep,,no,,no,,,4215,no,,,,,"Das gelobte Land liegt in Europas Mitte. In den zurückliegenden Jahren hat sich die Bundesrepublik zum 
 Einwanderungsland Nummer Eins auf dem alten Kontinent entwickelt. Unter dem Strich kamen 2012 rund 390 000 
 Menschen - dreimal so viele wie noch 2010.
 Solche Zahlen rufen in einem Teil der Bevölkerung durchaus mulmige Gefühle wach. In einer Emnid-Umfrage 2012 
@@ -2372,7 +2076,7 @@ Daher schlägt der Wissenschaftler ein für drei Migrantengruppen gestaffeltes P
 Zuwanderung von der Ausnahme zum Normalfall werden soll. Dies gehe nicht automatisch zulasten armer Länder: 
 Rückkehrer brächten Know-how mit, Auswanderer unterstützten ihre Familien und damit auch die heimische 
 Wirtschaft."
-2013-05,Main Corpus,2013-05(84).ZIP,Vom deutschen Einwanderer zum mächtigen US -Politiker  Das Wort des ehemaligen Außenministers Henry.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Vom deutschen Einwanderer zum mächtigen US -Politiker  Das Wort des ehemaligen Außenministers Henry.PDF,Vom deutschen Einwanderer zum mächtigen US -Politiker Das Wort des ehemaligen Außenministers Henry,vom deutschen einwanderer zum mächtigen us politiker das wort des ehemaligen aussenministers henry,Berliner Zeitung,berliner zeitung,Montag 27. Mai 2013,Damir Fras,POLITIK; S. 7; Ausg. 120,649,4186,913f9ae237f338bc18e4a255360850b4da193b9d,,unique,keep,,no,,no,,,5398,no,,,,,"WASHINGTON. Er mischt immer noch mit in der großen Politik. Beispielsweise auf einem Gala-Dinner in einem 
+2013-05,Main Corpus,2013-05(64).ZIP,Vom deutschen Einwanderer zum mächtigen US -Politiker  Das Wort des ehemaligen Außenministers Henry.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Vom deutschen Einwanderer zum mächtigen US -Politiker  Das Wort des ehemaligen Außenministers Henry.PDF,Vom deutschen Einwanderer zum mächtigen US -Politiker Das Wort des ehemaligen Außenministers Henry,vom deutschen einwanderer zum mächtigen us politiker das wort des ehemaligen aussenministers henry,Berliner Zeitung,berliner zeitung,Montag 27. Mai 2013,Damir Fras,POLITIK; S. 7; Ausg. 120,649,4186,913f9ae237f338bc18e4a255360850b4da193b9d,,unique,keep,,no,,no,,,5398,no,,,,,"WASHINGTON. Er mischt immer noch mit in der großen Politik. Beispielsweise auf einem Gala-Dinner in einem 
 Nobelhotel in Washington, wo er vor ein paar Tagen einen Rat gibt, sozusagen von Kollege zu Kollegin. Man 
 müsse wissen, dass es wenigstens vier frühere Außenminister gegeben habe, die Präsidenten der USA geworden 
 seien, sagt der Mann mit seinem typischen knarzig-heiseren Basston in der Stimme. Er habe auch für sich darüber 
@@ -2414,7 +2118,7 @@ Und so mischt er auch in der politischen Szene mit, etwa auf jenem Gala-Dinner i
 Erst ermuntert Kissinger Hillary Clinton, es doch mit der Kandidatur zu versuchen. Dann sagt er aber, wenn es mit 
 dem Präsidentenamt nichts werden sollte, sei das auch nicht weiter tragisch. ""Es gibt die Hoffnung auf ein erfülltes 
 Leben danach"", sagt Kissinger. Es klingt ein wenig, als spreche er von sich selbst."
-2013-05,Main Corpus,2013-05(84).ZIP,Weitere Flüchtlinge in Reinickendorf Zweiter Standort in Bonhoeffer-Nervenklinik.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Weitere Flüchtlinge in Reinickendorf Zweiter Standort in Bonhoeffer-Nervenklinik.PDF,Weitere Flüchtlinge in Reinickendorf Zweiter Standort in Bonhoeffer-Nervenklinik,weitere flüchtlinge in reinickendorf zweiter standort in bonhoeffernervenklinik,Der Tagesspiegel,der tagesspiegel,Mittwoch 8. Mai 2013,,BERLIN; S. 10; Ausg. 21682,228,1694,ce9bdc68f4a1d5259f59b29d99d79b00c82060b8,,unique,keep,,no,,no,,,2543,no,,,,,"Der Streit um die Unterbringung von Flüchtlingen spitzt sich zu. Das Landesamt für Gesundheit und Soziales 
+2013-05,Main Corpus,2013-05(64).ZIP,Weitere Flüchtlinge in Reinickendorf Zweiter Standort in Bonhoeffer-Nervenklinik.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Weitere Flüchtlinge in Reinickendorf Zweiter Standort in Bonhoeffer-Nervenklinik.PDF,Weitere Flüchtlinge in Reinickendorf Zweiter Standort in Bonhoeffer-Nervenklinik,weitere flüchtlinge in reinickendorf zweiter standort in bonhoeffernervenklinik,Der Tagesspiegel,der tagesspiegel,Mittwoch 8. Mai 2013,,BERLIN; S. 10; Ausg. 21682,228,1694,ce9bdc68f4a1d5259f59b29d99d79b00c82060b8,,unique,keep,,no,,no,,,2543,no,,,,,"Der Streit um die Unterbringung von Flüchtlingen spitzt sich zu. Das Landesamt für Gesundheit und Soziales 
 (Lageso) hat nach Tagesspiegel-Informationen zum zweiten Mal innerhalb weniger Wochen ein Gebäude in 
 Reinickendorf ""sicherstellen lassen"". Erneut ist dabei ein Haus auf dem Gelände der Karl-Bonhoeffer-Nervenklinik 
 an der Oranienburger Straße gewählt worden. Dort sollen mehr als 100 Flüchtlinge untergebracht werden. Erst am 
@@ -2431,7 +2135,7 @@ dagegen protestiert, 220 Flüchtlinge in einem fast leeren Pflegeheim in Wittena
 drei Bezirke die meisten Asylbewerber aufnehmen: Reinickendorf gehört nicht dazu. Czaja hatte die Bürgermeister 
 der Bezirke deshalb aufgefordert, sich besser zu beteiligen. Notfalls, erklärte er, müsse man Gebäude 
 beschlagnahmen.hah"
-2013-05,Main Corpus,2013-05(84).ZIP,Willkommen im Kanzleramt ARBEITSMARKT Beim Integrationsgipfel wirbt Angela Merkel für die Zuwanderun.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Willkommen im Kanzleramt ARBEITSMARKT Beim Integrationsgipfel wirbt Angela Merkel für die Zuwanderun.PDF,Willkommen im Kanzleramt; ARBEITSMARKT Beim Integrationsgipfel wirbt Angela Merkel für die,willkommen im kanzleramt arbeitsmarkt beim integrationsgipfel wirbt angela merkel für die,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 29. Mai 2013,DANIEL BAX,INLAND; S. 06,448,3361,b1e02deb07c9e7215117491bf695fda4578c5fb8,,unique,keep,,no,,no,,,5427,no,,,,,"VON DANIEL BAX
+2013-05,Main Corpus,2013-05(64).ZIP,Willkommen im Kanzleramt ARBEITSMARKT Beim Integrationsgipfel wirbt Angela Merkel für die Zuwanderun.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Willkommen im Kanzleramt ARBEITSMARKT Beim Integrationsgipfel wirbt Angela Merkel für die Zuwanderun.PDF,Willkommen im Kanzleramt; ARBEITSMARKT Beim Integrationsgipfel wirbt Angela Merkel für die,willkommen im kanzleramt arbeitsmarkt beim integrationsgipfel wirbt angela merkel für die,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 29. Mai 2013,DANIEL BAX,INLAND; S. 06,448,3361,b1e02deb07c9e7215117491bf695fda4578c5fb8,,unique,keep,,no,,no,,,5427,no,,,,,"VON DANIEL BAX
 Eine Exportnation wie Deutschland brauche Fachkräfte aus aller Welt, stellte Angela Merkel am Dienstag nach dem 
 Integrationsgipfel klar. Einwanderung sei deshalb Chance und Bereicherung , sagte sie auf der abschließenden 
 Pressekonferenz. Doch Unternehmer ausländischer Herkunft litten oft unter einer strukturellen Benachteiligung , 
@@ -2468,7 +2172,7 @@ Ratsvorsitzende der Evangelischen Kirche in Deutschland (EKD), Nikolaus Schneide
 die Integrationsministerkonferenz für eine Fortsetzung des Programms ausgesprochen.
 Meinung + Diskussion SEITE 11
 Die neuen Zuwanderer sind besser qualifiziert als der Rest der deutschen Bevölkerung"
-2013-05,Main Corpus,2013-05(84).ZIP,Zahl der Asylbewerber stark gestiegen Die meisten fliehen aus Tschetschenien.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Zahl der Asylbewerber stark gestiegen Die meisten fliehen aus Tschetschenien.PDF,Zahl der Asylbewerber stark gestiegen Die meisten fliehen aus Tschetschenien,zahl der asylbewerber stark gestiegen die meisten fliehen aus tschetschenien,Der Tagesspiegel,der tagesspiegel,Freitag 17. Mai 2013,,POLITIK; S. 4; Ausg. 21690,193,1380,a5ca82f4543386cbd21d61c3f570c0b1438b0d44,,unique,keep,,no,,no,,,2209,no,,,,,"Berlin - Von Januar bis April haben knapp 26 800 Menschen Asyl in Deutschland beantragt - 73 Prozent mehr als 
+2013-05,Main Corpus,2013-05(64).ZIP,Zahl der Asylbewerber stark gestiegen Die meisten fliehen aus Tschetschenien.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Zahl der Asylbewerber stark gestiegen Die meisten fliehen aus Tschetschenien.PDF,Zahl der Asylbewerber stark gestiegen Die meisten fliehen aus Tschetschenien,zahl der asylbewerber stark gestiegen die meisten fliehen aus tschetschenien,Der Tagesspiegel,der tagesspiegel,Freitag 17. Mai 2013,,POLITIK; S. 4; Ausg. 21690,193,1380,a5ca82f4543386cbd21d61c3f570c0b1438b0d44,,unique,keep,,no,,no,,,2209,no,,,,,"Berlin - Von Januar bis April haben knapp 26 800 Menschen Asyl in Deutschland beantragt - 73 Prozent mehr als 
 im gleichen Zeitraum des Vorjahres. Auch im Monatsvergleich zeigt der Trend nach einem Rückgang im Februar 
 und März wieder nach oben. Im April reichten gut 7500 Menschen erstmals einen Antrag ein - mehr als ein Drittel 
 mehr als im Vormonat und 137 Prozent mehr als im April 2012. Im Herbst waren die Zahlen allerdings deutlich 
@@ -2483,19 +2187,7 @@ waren in den ersten vier Monaten Serbien, Iran, Irak und Pakistan.
 Die Asylantragszahlen steigen seit einigen Jahren. 2012 stellten rund 65 000 Menschen einen Antrag. Dem ging 
 allerdings ein deutlicher Rückgang voraus, 1995 lag die Zahl fast doppelt so hoch wie im vergangenen Jahr. 
 dpa/KNA"
-2013-05,Main Corpus,2013-05(84).ZIP,Zahl der Asylbewerber stark gestiegen ZUWANDERUNG.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Zahl der Asylbewerber stark gestiegen ZUWANDERUNG.PDF,Zahl der Asylbewerber stark gestiegen; ZUWANDERUNG,zahl der asylbewerber stark gestiegen zuwanderung,"taz, die tageszeitung",taz die tageszeitung,Freitag 17. Mai 2013,,AKTUELLES; S. 02,162,1085,d97dd91ec630262c7ae8667d9d3f249974c50478,,unique,keep,,no,,no,,,1746,no,,,,,"ZUWANDERUNG
-BERLIN Deutlich mehr Menschen haben zu Beginn dieses Jahres in Deutschland Asyl gesucht. Von Januar bis 
-April stellten knapp 26.800 Menschen einen Asylantrag. Das waren rund 73 Prozent mehr als im gleichen Zeitraum 
-des Vorjahres. Dies teilte das Innenministerium gestern in Berlin mit. Auch im Monatsvergleich zeigt der Trend nach 
-einem Rückgang im Februar und März wieder nach oben.
-Im April reichten gut 7.500 Menschen erstmals einen Antrag ein ein Plus von mehr als einem Drittel gegenüber 
-dem Vormonat und 137 Prozent mehr als im April 2012. Im Herbst versuchten jedoch noch deutlich mehr 
-Menschen, als Flüchtlinge anerkannt zu werden.
-Die meisten Bewerber kamen aus Russland, dem Bürgerkriegsland Syrien und aus Afghanistan. Die Zahl der 
-russischen Asylbewerber verdoppelte sich binnen Monatsfrist auf gut 2.000 im April. Die Welt berichtete gestern, 
-nach Angaben aus Sicherheitskreisen gehörten die meisten von ihnen der tschetschenischen Minderheit an. 
-Weitere wichtige Herkunftsländer waren in den ersten vier Monaten Serbien, Iran, Irak und Pakistan. (dpa)"
-2013-05,Main Corpus,2013-05(84).ZIP,Zuwanderer immer besser ausgebildet Fast jeder zweite hat hohen Berufsabschluss.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Zuwanderer immer besser ausgebildet Fast jeder zweite hat hohen Berufsabschluss.PDF,Zuwanderer immer besser ausgebildet Fast jeder zweite hat hohen Berufsabschluss,zuwanderer immer besser ausgebildet fast jeder zweite hat hohen berufsabschluss,Der Tagesspiegel,der tagesspiegel,Samstag 25. Mai 2013,,WIRTSCHAFT; S. 7; Ausg. 21697,343,2652,8e9cc4cc0872a87cd989e70842adb0a0d0b1a610,,unique,keep,,no,,no,,,3663,no,,,,,"Berlin - Einwanderer in die Bundesrepublik haben laut einer Studie inzwischen ein höheres Bildungs- und 
+2013-05,Main Corpus,2013-05(64).ZIP,Zuwanderer immer besser ausgebildet Fast jeder zweite hat hohen Berufsabschluss.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Zuwanderer immer besser ausgebildet Fast jeder zweite hat hohen Berufsabschluss.PDF,Zuwanderer immer besser ausgebildet Fast jeder zweite hat hohen Berufsabschluss,zuwanderer immer besser ausgebildet fast jeder zweite hat hohen berufsabschluss,Der Tagesspiegel,der tagesspiegel,Samstag 25. Mai 2013,,WIRTSCHAFT; S. 7; Ausg. 21697,343,2652,8e9cc4cc0872a87cd989e70842adb0a0d0b1a610,,unique,keep,,no,,no,,,3663,no,,,,,"Berlin - Einwanderer in die Bundesrepublik haben laut einer Studie inzwischen ein höheres Bildungs- und 
 Qualifikationsniveau als die deutsche Bevölkerung. So haben heute 43 Prozent der Neuzuwanderer zwischen 15 
 und 65 Jahren einen Meister, Hochschul- oder Technikerabschluss. Das ist fast doppelt so viel wie im Jahr 2000 
 und sogar mehr als in der deutschen Bevölkerung, heißt es in einer Studie im Auftrag der Bertelsmann-Stiftung. Die 
@@ -2523,7 +2215,7 @@ Arbeitsgenehmigung garantieren und eine zügige Einbürgerung in Aussicht stelle
 
 Zuwanderer immer besser ausgebildet Fast jeder zweite hat hohen Berufsabschluss
 Meinungsseite"
-2013-05,Main Corpus,2013-05(84).ZIP,Zuwanderung der Zukunft.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Zuwanderung der Zukunft.PDF,Zuwanderung der Zukunft,zuwanderung der zukunft,Die Welt,die welt,Freitag 24. Mai 2013,Dorothea Siems,WIRTSCHAFT; Kommentar; S. 9; Ausg. 118,360,2614,61d90089565f57e196d583d489907d5fc32f3885,,unique,drop,commentary_noncore,no,,no,,,3558,yes,commentary_noncore,,,,"Deutschland zieht derzeit so viele Zuwanderer an wie seit vielen Jahren nicht mehr. Heutzutage strömen nicht mehr 
+2013-05,Main Corpus,2013-05(64).ZIP,Zuwanderung der Zukunft.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Zuwanderung der Zukunft.PDF,Zuwanderung der Zukunft,zuwanderung der zukunft,Die Welt,die welt,Freitag 24. Mai 2013,Dorothea Siems,WIRTSCHAFT; Kommentar; S. 9; Ausg. 118,360,2614,61d90089565f57e196d583d489907d5fc32f3885,,unique,drop,commentary_noncore,no,,no,,,3558,yes,commentary_noncore,,,,"Deutschland zieht derzeit so viele Zuwanderer an wie seit vielen Jahren nicht mehr. Heutzutage strömen nicht mehr 
 bildungsferne Armutsflüchtlinge ins Land, sondern vor allem gut ausgebildete Fachkräfte aus dem Osten oder dem 
 kriselnden Süden Europas. Damit kommt innerhalb der Europäischen Union endlich die Mobilität in Gang, die für 
 Güter und Kapital seit vielen Jahren schon selbstverständlich ist. Doch auf Dauer werden die Deutschen ihren 
@@ -2550,7 +2242,7 @@ begleitet werden. Bislang ist weder das hiesige Schulsystem noch die Bevölkerun
 Doch noch einmal sollte Deutschland nicht den Fehler machen wie einst mit der Gastarbeiteranwerbung.
 
 Zuwanderung der Zukunft"
-2013-05,Main Corpus,2013-05(84).ZIP,Zuzug hebt das Niveau Studie zeigt_ Einwanderer oft besser ausgebildet als deutsche Bevölkerung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Zuzug hebt das Niveau Studie zeigt_ Einwanderer oft besser ausgebildet als deutsche Bevölkerung.PDF,Zuzug hebt das Niveau; Studie zeigt: Einwanderer oft besser ausgebildet als deutsche Bevölkerung,zuzug hebt das niveau studie zeigt einwanderer oft besser ausgebildet als deutsche bevölkerung,Südwest Presse,südwest presse,Samstag 25. Mai 2013,,Politik; S. 1,283,2154,4e7df8c849a2e5a3a1ca33d287b176989e5d0eed,,unique,keep,,no,,no,,,3502,no,,,,,"Einwanderer in die Bundesrepublik haben inzwischen im Schnitt ein höheres Bildungs- und Qualifikationsniveau als 
+2013-05,Main Corpus,2013-05(64).ZIP,Zuzug hebt das Niveau Studie zeigt_ Einwanderer oft besser ausgebildet als deutsche Bevölkerung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-05\raw_unarchive\Zuzug hebt das Niveau Studie zeigt_ Einwanderer oft besser ausgebildet als deutsche Bevölkerung.PDF,Zuzug hebt das Niveau; Studie zeigt: Einwanderer oft besser ausgebildet als deutsche Bevölkerung,zuzug hebt das niveau studie zeigt einwanderer oft besser ausgebildet als deutsche bevölkerung,Südwest Presse,südwest presse,Samstag 25. Mai 2013,,Politik; S. 1,283,2154,4e7df8c849a2e5a3a1ca33d287b176989e5d0eed,,unique,keep,,no,,no,,,3502,no,,,,,"Einwanderer in die Bundesrepublik haben inzwischen im Schnitt ein höheres Bildungs- und Qualifikationsniveau als 
 die deutsche Bevölkerung. Das geht aus einer Studie im Auftrag der Bertelsmann-Stiftung hervor.
 Demnach haben 43 Prozent der Neuzuwanderer zwischen 15 und 65 Jahren einen Meister-, Hochschul- oder 
 Technikerabschluss. Bei den Deutschen ohne Migrationshintergrund gilt dies nur für 26 Prozent. Die Stiftung 

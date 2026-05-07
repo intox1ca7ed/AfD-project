@@ -112,11 +112,18 @@ def evaluate_status(missing: list[str], warnings: list[str]) -> str:
         return "frozen_with_warning"
     return "frozen"
 
+def find_repo_root(start: Path) -> Path:
+    for candidate in [start, *start.parents]:
+        if (candidate / "Corpora").exists():
+            return candidate
+    raise RuntimeError("Could not locate repository root containing 'Corpora/'")
+
 
 def main() -> int:
-    project_root = Path(__file__).resolve().parents[1]
+    stage_root = Path(__file__).resolve().parents[1]
+    project_root = find_repo_root(stage_root)
     corpora_root = project_root / "Corpora"
-    freeze_dir = project_root / "freeze"
+    freeze_dir = stage_root / "freeze"
     freeze_dir.mkdir(parents=True, exist_ok=True)
 
     protocol_version = detect_protocol_version(corpora_root)

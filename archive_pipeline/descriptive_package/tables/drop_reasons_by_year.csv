@@ -1,12 +1,10 @@
 ﻿year_num,drop_reason,drop_count
-1995,malformed,1
-2013,regional_variant,56
 2013,commentary_noncore,55
-2013,duplicate_exact,21
-2013,reader_letter,10
-2013,malformed,5
+2013,regional_variant,44
+2013,duplicate_exact,20
+2013,reader_letter,9
+2013,malformed,4
 2013,duplicate_near,2
-2013,very_short_low_value,2
 2014,commentary_noncore,30
 2014,regional_variant,15
 2014,duplicate_exact,12

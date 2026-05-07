@@ -1,10 +1,10 @@
 # Clean 2013-08 Corpus Summary
 
-- Total original files: 172
-- Kept files: 153
-- Dropped files: 18
-- Review files: 1
-- Duplicate groups collapsed: 10
+- Total original files: 146
+- Kept files: 130
+- Dropped files: 16
+- Review files: 0
+- Duplicate groups collapsed: 9
 
 ## Representative Selection Rule
 

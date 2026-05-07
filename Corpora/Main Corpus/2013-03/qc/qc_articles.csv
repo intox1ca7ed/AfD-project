@@ -1,28 +1,5 @@
 ﻿batch_id,corpus_name,source_archive,file_name,file_path,title_original,title_normalized,publication,publication_normalized,date,byline,section,word_count,body_char_count,body_hash_exact,duplicate_group_id,duplicate_category,keep_drop_review,drop_reason,kept_representative_of_group,representative_selection_reason,malformed_flag,malformed_reason,notes,raw_text_chars,low_value_flag,low_value_reason,exact_duplicate_group,near_duplicate_group,repeated_variant_group,body_text
-2013-03,Main Corpus,2013-03(90).ZIP,26. März 1995.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\26. März 1995.PDF,26. März 1995,26 märz 1995,,,26. März 1995,,,177,1340,f04ea5e7fe224808ebf8c400b124e276b26d3b59,,unique,drop,malformed,no,,yes,missing_publication,,1886,no,,,,,"Kalenderblatt 26. März 1995 Das Schengener Abkommen tritt in Kraft Vertreter der Benelux-Staaten, 
-Deutschland und Frankreich hatten sich 1985 im luxemburgischen Schengen (unser Bild zeigt das 
-Ortseingangschild) getroffen und auf einem Ausflugsdampfer auf der Mosel das Übereinkommen zum Abbau der 
-Grenzkontrollen unterzeichnet. Die Durchsetzung wurde unter anderem durch die deutsche Wiedervereinigung 
-verzögert. 1990 wurde Schengen II, eine Übereinkunft zur praktischen Durchführung, unterzeichnet. Als das 
-Schengener Abkommen am 26. März 1995 offiziell in Kraft trat, waren seit der ersten Einigung also zehn Jahre 
-vergangen. Damit die neue Reisefreiheit nicht etwa die grenzüberschreitende Kriminalität förderte, verabredeten die 
-teilnehmenden Länder eine stärkere polizeiliche Zusammenarbeit. Das Schengen-Informationssystem, in dem 
-Fahndungsdaten aus ganz Europa gespeichert werden, wurde eingeführt. Für Reisende aus Drittländern heißt das: 
-Wer in ein Schengen-Land nicht einreisen darf, für den gilt dies für den gesamten Schengen-Raum. Mit dem 
-Zusammenwachsen Europas wurde auch die Asylpolitik vereinheitlicht, außerdem wurden vielerorts die Kontrollen 
-an den Außengrenzen verstärkt. Kritiker sprechen daher auch von der ""Festung Europa"" und befürchten die 
-Abschottung der EU von anderen Staaten. Text: Jeni / Foto: dpa"
-2013-03,Main Corpus,2013-03(90).ZIP,_BüNe_-Mitglieder reisen für Preisverleihung in die Bundeshauptstadt Berlin.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\_BüNe_-Mitglieder reisen für Preisverleihung in die Bundeshauptstadt Berlin.PDF,"""BüNe""-Mitglieder reisen für Preisverleihung in die Bundeshauptstadt Berlin",bünemitglieder reisen für preisverleihung in die bundeshauptstadt berlin,Rheinische Post,rheinische post,9. März 2013 Samstag,,,137,1084,0f9830a55ef7a7eac87c0015c68bf78fbab41005,,unique,keep,,no,,no,,,1637,no,,,,,"Bürgerstiftung ""BüNe""-Mitglieder reisen für Preisverleihung in die Bundeshauptstadt Berlin (NGZ) Die Neusser 
-Bürgerstiftung kann für die künftige Arbeit auf neue Geldmittel zurückgreifen: Gestern wurde der ""BüNe"" der mit 
-insgesamt 40 000 Euro dotierte Förderpreis Aktive Bürgerschaft verliehen. Ausgezeichnet wurden die Neusser für 
-beispielhaftes bürgerschaftliches Engagement in der Kategorie ""Mitmachen"". Über 10 000 Euro Fördergeld dürfen 
-sich die BüNe-Mitglieder freuen. Die Preisverleihung des Wettbewerbs, den die Finanzgruppe der Volks- und 
-Raiffeisenbanken veranstaltet, fand in Berlin statt. Laudator Gunter Thielen, Vorstandsvorsitzender der Walter 
-Blüchert Stiftung, lobte die Neusser Arbeit: Der Bürgerstiftung sei es mit ihrem Projekt ""Seniorpartner in Schulen"" 
-gelungen, einen Stiftungsfonds zu gründen, der maßgeschneidert sei für die Bedürfnisse der Kinder, denen das 
-Engagement zugutekommt. ""Jungen Zuwanderern so zu helfen, sich in Deutschland zurechtzufinden ist ein 
-mehrfach innovativer Ansatz - ein großartiges Vorbild. Bitte nachmachen"", sagte Blüchert."
-2013-03,Main Corpus,2013-03(90).ZIP,_Deutschland braucht Zuwanderung_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\_Deutschland braucht Zuwanderung_.PDF,"""Deutschland braucht Zuwanderung""",deutschland braucht zuwanderung,Rheinische Post,rheinische post,30. März 2013 Samstag,Antje Höning führte das Gespräch. Die Langfassung finden Sie unter www.rp-online.de/wirtschaft,,744,5223,6c50b1749b1b717251143a3ed656ea3cf943d7c1,,unique,keep,,no,,no,,,6218,no,,,,,"Frank-jürgen Weise ""Deutschland braucht Zuwanderung"" Aus Osteuropa, aber auch aus den von der Euro-Krise 
+2013-03,Main Corpus,2013-03(67).ZIP,_Deutschland braucht Zuwanderung_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\_Deutschland braucht Zuwanderung_.PDF,"""Deutschland braucht Zuwanderung""",deutschland braucht zuwanderung,Rheinische Post,rheinische post,30. März 2013 Samstag,Antje Höning führte das Gespräch. Die Langfassung finden Sie unter www.rp-online.de/wirtschaft,,744,5223,6c50b1749b1b717251143a3ed656ea3cf943d7c1,,unique,keep,,no,,no,,,6218,no,,,,,"Frank-jürgen Weise ""Deutschland braucht Zuwanderung"" Aus Osteuropa, aber auch aus den von der Euro-Krise 
 betroffenen Staaten kommen immer mehr Arbeitskräfte nach Deutschland. Der Chef der Bundesagentur für Arbeit 
 begrüßt das mit Blick auf den Fachkräfte-Bedarf. 2014 steht die nächste Runde der EU-Osterweiterung an. Dann 
 erhalten Bulgaren und Rumänen die volle Arbeitnehmer-Freizügigkeit. 
@@ -73,7 +50,7 @@ keine andere Behörde eine Beitragssenkung unterstützt. Im Jahr 2006 lag der Be
 seit 2011 sind es nur noch drei Prozent. Das ist schon einmalig. In der derzeit so unsicheren Lage würde ich keine 
 Beitragssenkung empfehlen. Antje Höning führte das Gespräch. Die Langfassung finden Sie unter www.rp-
 online.de/wirtschaft"
-2013-03,Main Corpus,2013-03(90).ZIP,_Es kommen mehr Akademiker_ Rumäniens Botschafter über offene Grenzen in Europa und die Zuwanderungs.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\_Es kommen mehr Akademiker_ Rumäniens Botschafter über offene Grenzen in Europa und die Zuwanderungs.PDF,"""Es kommen mehr Akademiker""; Rumäniens Botschafter über offene Grenzen in Europa und die",es kommen mehr akademiker rumäniens botschafter über offene grenzen in europa und die,Der Tagesspiegel,der tagesspiegel,Mittwoch 6. März 2013,,POLITIK; S. 5; Ausg. 21622,681,4707,c07702421240caad3084d353750f2598a722be0e,,unique,keep,,no,,no,,,6117,no,,,,,"Rumäniens Innenminister wird heute in einer großen deutschen Zeitung mit den Worten zitiert, Schengen sei kein 
+2013-03,Main Corpus,2013-03(67).ZIP,_Es kommen mehr Akademiker_ Rumäniens Botschafter über offene Grenzen in Europa und die Zuwanderungs.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\_Es kommen mehr Akademiker_ Rumäniens Botschafter über offene Grenzen in Europa und die Zuwanderungs.PDF,"""Es kommen mehr Akademiker""; Rumäniens Botschafter über offene Grenzen in Europa und die",es kommen mehr akademiker rumäniens botschafter über offene grenzen in europa und die,Der Tagesspiegel,der tagesspiegel,Mittwoch 6. März 2013,,POLITIK; S. 5; Ausg. 21622,681,4707,c07702421240caad3084d353750f2598a722be0e,,unique,keep,,no,,no,,,6117,no,,,,,"Rumäniens Innenminister wird heute in einer großen deutschen Zeitung mit den Worten zitiert, Schengen sei kein 
 vorrangiges Ziel mehr. Deutschland, das ein Veto gegen den Beitritt Ihres Landes angekündigt hat, hätte ""besser 
 den Mund gehalten"". Hätte das ein Diplomat wie Sie auch so gesagt?
 Ich mache mir weder Äußerungen von rumänischer noch von deutscher Seite zu eigen. Eines ist aber klar: 
@@ -130,7 +107,7 @@ Graphic
 Rumänen kommen nächstes Jahr in den Genuss der Freizügigkeit für Arbeitnehmer innerhalb der EU.Foto: Srdjan 
 Zivulovic/rtr
 Foto: Thilo RÜckeis"
-2013-03,Main Corpus,2013-03(90).ZIP,_Ungefähr jeder Vierte bleibt_ MIGRATION Der Sozialwissenschaftler Andreas Kapphan über die stärkere.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\_Ungefähr jeder Vierte bleibt_ MIGRATION Der Sozialwissenschaftler Andreas Kapphan über die stärkere.PDF,"""Ungefähr jeder Vierte bleibt"" MIGRATION Der Sozialwissenschaftler Andreas Kapphan über die stärkere",ungefähr jeder vierte bleibt migration der sozialwissenschaftler andreas kapphan über die stärkere,"taz, die tageszeitung",taz die tageszeitung,Samstag 30. März 2013,PLUTONIA PLARRE,BERLINER THEMA; S. 44,625,4226,07398ef1db830f14925d67c24f2c756b9a9f1f31,,unique,keep,,no,,no,,,5812,no,,,,,"INTERVIEW PLUTONIA PLARRE
+2013-03,Main Corpus,2013-03(67).ZIP,_Ungefähr jeder Vierte bleibt_ MIGRATION Der Sozialwissenschaftler Andreas Kapphan über die stärkere.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\_Ungefähr jeder Vierte bleibt_ MIGRATION Der Sozialwissenschaftler Andreas Kapphan über die stärkere.PDF,"""Ungefähr jeder Vierte bleibt"" MIGRATION Der Sozialwissenschaftler Andreas Kapphan über die stärkere",ungefähr jeder vierte bleibt migration der sozialwissenschaftler andreas kapphan über die stärkere,"taz, die tageszeitung",taz die tageszeitung,Samstag 30. März 2013,PLUTONIA PLARRE,BERLINER THEMA; S. 44,625,4226,07398ef1db830f14925d67c24f2c756b9a9f1f31,,unique,keep,,no,,no,,,5812,no,,,,,"INTERVIEW PLUTONIA PLARRE
 taz: Herr Kapphan, seit 2010 verzeichnen Deutschland und Berlin wieder eine stärkere Zuwanderung. Woher 
 kommen die Leute so?
 Andreas Kapphan: Die meisten nach wie vor aus Europa: aus Polen, den baltischen Staaten, Russland, Rumänien 
@@ -178,18 +155,7 @@ Wie wird Berlin in puncto Zuwanderung in 20 oder 30 Jahren aussehen haben Sie da
 Ich hoffe, die Stadt ist genauso bunt und quirlig wie heute. Die Gefahr ist, dass Berlin den Weg geht, den andere 
 Metropolen eingeschlagen haben. Der große Plusfaktor von Berlin ist ja, dass die Stadt so günstig ist und sich jeder 
 leisten kann, hier zu leben."
-2013-03,Main Corpus,2013-03(90).ZIP,_Yasemin_ im Museumskino.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\_Yasemin_ im Museumskino.PDF,"""Yasemin"" im Museumskino",yasemin im museumskino,Rheinische Post,rheinische post,9. März 2013 Samstag,,,158,1171,962f0f2c473edbb7089c8ec0bc2375e950f9ebe2,,unique,keep,,no,,no,,,1788,no,,,,,"(red) Die Winterveranstaltungsreihe ""Kino in der Schmiede"" des LVR-Industriemuseums Solingen im 
-Schlüssellager der Gesenkschmiede Hendrichs hat im Vorgriff auf die neue Sonderausstellung ""Wie viel Heimat 
-braucht der Mensch?"" als Schwerpunkt das Thema Zuwanderung und Heimat. Als letzten Film der dreiteiligen 
-Reihe wird der mit dem deutschen Filmpreis ausgezeichnete deutsche Spielfilm ""Yasemin"" von Hark Bohm aus 
-dem Jahr 1988 am Sonntag, 9. März, um 15 Uhr gezeigt. Er gilt als moderner Klassiker des Kinder- und 
-Jugendfilms. Erzählt wird die Liebesgeschichte zwischen der 17-jährigen Yasemin, Tochter eines türkischen 
-Immigranten in Deutschland, und Jan, einem ein lockeres Leben führenden pflegenden Studenten aus Hamburg-
-Altena. Besonders Yasemins Vater, ein hart arbeitender Gemüsehändler, kann die Beziehung nicht mit seinen 
-seinerzeit miteingewanderten Normvorstellungen vereinbaren. In den Hauptrollen sind zu sehen Ayse Romey (als 
-Yasemin), die als beste Nachwuchsdarstellerin ausgezeichnet wurde, Uwe Bohm (als Jan) und Sener Sen (als 
-Vater Yusuf). Als Vorfilm werden international ausgezeichnete Kurzfilme präsentiert. Der Eintritt kostet fünf Euro."
-2013-03,Main Corpus,2013-03(90).ZIP,Aggressives Publikum Rettungskräfte besonders gefährdet.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Aggressives Publikum Rettungskräfte besonders gefährdet.PDF,Aggressives Publikum Rettungskräfte besonders gefährdet,aggressives publikum rettungskräfte besonders gefährdet,Südwest Presse,südwest presse,Freitag 22. März 2013,,Die vierte Seite; S. 4,196,1522,9d5b5d2b491a9c4f45e70d3038f688ac5d99500c,,unique,keep,,no,,no,,,2546,no,,,,,"Gewalt am Arbeitsplatz? In besonders gefährlichen Berufen, etwa bei der Polizei, darf man von einem 
+2013-03,Main Corpus,2013-03(67).ZIP,Aggressives Publikum Rettungskräfte besonders gefährdet.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Aggressives Publikum Rettungskräfte besonders gefährdet.PDF,Aggressives Publikum Rettungskräfte besonders gefährdet,aggressives publikum rettungskräfte besonders gefährdet,Südwest Presse,südwest presse,Freitag 22. März 2013,,Die vierte Seite; S. 4,196,1522,9d5b5d2b491a9c4f45e70d3038f688ac5d99500c,,unique,keep,,no,,no,,,2546,no,,,,,"Gewalt am Arbeitsplatz? In besonders gefährlichen Berufen, etwa bei der Polizei, darf man von einem 
 entsprechenden Risiko ausgehen. Aber auch andere Bereiche des öffentlichen Dienstes sehen sich mit Pöbeleien 
 oder Übergriffen konfrontiert. Das reicht von kommunalen Amtsstuben bis zum öffentlichen Personennahverkehr. 
 Im Prinzip gelten sämtliche Arbeitsfelder, in denen Publikumsverkehr herrscht oder wo in Rechte von Bürgern 
@@ -207,7 +173,7 @@ geahndet werden.
 Graphic
  
 Selbst Helfer müssen sich mitunter vor Übergriffen schützen. Foto: dpa"
-2013-03,Main Corpus,2013-03(90).ZIP,"An der Politik vorbeigewandert Der deutsche Innenminister meint, er könne Armutsmigration mit Sprüch.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\An der Politik vorbeigewandert Der deutsche Innenminister meint, er könne Armutsmigration mit Sprüch.PDF","An der Politik vorbeigewandert Der deutsche Innenminister meint, er könne Armutsmigration mit Sprüchen",an der politik vorbeigewandert der deutsche innenminister meint er könne armutsmigration mit sprüchen,Der Tagesspiegel,der tagesspiegel,Freitag 8. März 2013,Werner van Bebber,MEINUNG; S. 6; Ausg. 21624,444,3054,f00353e0b985d726466fedd810c43af8a372fa81,,unique,drop,commentary_noncore,no,,no,,,4201,yes,commentary_noncore,,,,"Da haben wir aber noch mal Glück gehabt. Per Veto in Brüssel hat Innenminister Hans-Peter Friedrich (CSU) 
+2013-03,Main Corpus,2013-03(67).ZIP,"An der Politik vorbeigewandert Der deutsche Innenminister meint, er könne Armutsmigration mit Sprüch.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\An der Politik vorbeigewandert Der deutsche Innenminister meint, er könne Armutsmigration mit Sprüch.PDF","An der Politik vorbeigewandert Der deutsche Innenminister meint, er könne Armutsmigration mit Sprüchen",an der politik vorbeigewandert der deutsche innenminister meint er könne armutsmigration mit sprüchen,Der Tagesspiegel,der tagesspiegel,Freitag 8. März 2013,Werner van Bebber,MEINUNG; S. 6; Ausg. 21624,444,3054,f00353e0b985d726466fedd810c43af8a372fa81,,unique,drop,commentary_noncore,no,,no,,,4201,yes,commentary_noncore,,,,"Da haben wir aber noch mal Glück gehabt. Per Veto in Brüssel hat Innenminister Hans-Peter Friedrich (CSU) 
 verhindert, dass Deutschland zum Hauptziel von Armutswanderern aus Bulgarien und Rumänien wird. Beide 
 Länder werden, obgleich Mitglieder der EU, bis auf Weiteres nicht Mitglieder des Schengenraumes. Sprich: 
 Bulgaren und Rumänen werden, wenn sie in den Schengenraum reisen wollen, bis auf Weiteres kontrolliert. 
@@ -241,7 +207,7 @@ Grundschulen. Da setzt Kommunalpolitik an und versucht, die Fehler im Umgang mit
 Kindern zu vermeiden. Es wäre angebracht, ein paar Millionen von den 17,5 Milliarden Euro abzuzweigen und 
 eingewanderten Armutsmigranten möglichst schnell einen Umsonst- Deutschkurs anzubieten. Das bringt mehr als 
 alle Signale."
-2013-03,Main Corpus,2013-03(90).ZIP,Anerkennung ausländischer Berufsabschlüsse.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Anerkennung ausländischer Berufsabschlüsse.PDF,Anerkennung ausländischer Berufsabschlüsse,anerkennung ausländischer berufsabschlüsse,Südwest Presse,südwest presse,Montag 11. März 2013,,Ulm und Neu-Ulm; S. 24,157,1282,412b64711f6eb4e639b8b886ed22cbf6345c4b23,,unique,keep,,no,,no,,,1946,no,,,,,"Mit dem Gesetz über die ""Feststellung der Gleichwertigkeit von Berufsqualifikationen "" haben es Zuwanderer mit 
+2013-03,Main Corpus,2013-03(67).ZIP,Anerkennung ausländischer Berufsabschlüsse.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Anerkennung ausländischer Berufsabschlüsse.PDF,Anerkennung ausländischer Berufsabschlüsse,anerkennung ausländischer berufsabschlüsse,Südwest Presse,südwest presse,Montag 11. März 2013,,Ulm und Neu-Ulm; S. 24,157,1282,412b64711f6eb4e639b8b886ed22cbf6345c4b23,,unique,keep,,no,,no,,,1946,no,,,,,"Mit dem Gesetz über die ""Feststellung der Gleichwertigkeit von Berufsqualifikationen "" haben es Zuwanderer mit 
 ausländischem Berufsabschluss erheblich leichter, in Deutschland eine ihrer Qualifikation entsprechende 
 Beschäftigung auszuüben. Zur Vorbereitung des Gleichstellungsverfahrens bietet die IHK Ulm eine individuelle 
 Beratung an. Seit Inkrafttreten des Gesetzes am 1. April haben sich 92 Interessenten bei der Kammer beraten 
@@ -253,68 +219,7 @@ besser genutzt und dadurch dem Arbeitsmarkt ein zusätzliches Potential an quali
 werden - ein weiterer Baustein gegen den Fachkräftemangel"", sagt IHK-Hauptgeschäftsführer Otto Sälzle. 
 ""Zuwanderer haben einen Rechtsanspruch auf ein Verfahren, um die Gleichwertigkeit eines ausländischen 
 Abschlusses zu überprüfen."" Beratungstermine gibt es unter Tel. (0731)173-193."
-2013-03,Main Corpus,2013-03(90).ZIP,antenne(2).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\antenne(2).PDF,antenne,antenne,Rheinische Post,rheinische post,12. März 2013 Dienstag,,,136,937,1feca0fe639585fe6e1f0544fb78003fc569afe1,,unique,keep,,no,,no,,,1305,no,,,,,"Dienstag, 12. März Nachrichten - Nachrichten aus dem Kreis Kleve, NRW, Deutschland und der Welt AN - Am 
-Morgen, 6 - 10 Uhr Moderation: Katrin Gerhold - Eine Kranenburgerin hilft syrischen Flüchtlingen in Jordanien - 
-Aktuelles, Service und Comedy - Unbezahlbar - Ihr Einsatz für Ihre Stars. Infos: 
-www.antenneniederrhein.de - Freizeit-Tipps für den Niederrhein - Die wichtigsten Nachrichten vom Niederrhein 
-immer um halb mit Volker Lübke, dazu der Wetter- und der Verkehrsservice AN - Am Vormittag, 10-12 Uhr 
-Moderation: Jenny Hansen - Aktuelles, Service und der Musik-Mix AN - Am Nachmittag, 16-18 Uhr Moderation: 
-Anna Deschke - Der Tag kompakt zusammengefasst - Veranstaltungen in der Region - Die wichtigsten 
-Nachrichten vom Niederrhein immer um halb mit Wolfgang Notten Antenne über Antenne: Kleve, Emmerich und 
-Rees UKW 98,0 MHz, Geldern UKW 105,7 MHz; Antenne im Kabel: 97,9 MHz. Antenne Webradio: 
-www.antenneniederrhein.de"
-2013-03,Main Corpus,2013-03(90).ZIP,antenne(3).PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\antenne(3).PDF,antenne,antenne,Rheinische Post,rheinische post,5. März 2013 Dienstag,,,168,1159,27a4e9b15bcfc4969c2e0973d70a05e0794d42db,,unique,keep,,no,,no,,,1616,no,,,,,"Dienstag, 5. März Nachrichten - Nachrichten aus dem Kreis Kleve, NRW, Deutschland und der Welt, jede volle 
-und halbe Stunde AN - Am Morgen, 6 - 10 Uhr Moderation: Tommi Bollmann - Krisenherd Syrien. eine 
-Kranenburgerin hilft im Flüchtlingslager. Was sind ihre Bewegründe und welche Erfahrungen macht sie dabei? - 
-Tipps für ihre Freizeit - Veranstaltungen am Niederrhein - Unbezahlbar - Ihr Einsatz für Ihre Stars. Infos: 
-www.antenneniederrhein.de - Die wichtigsten Nachrichten vom Niederrhein immer um halb mit Wolfgang Notten, 
-dazu der beste Wetter- und der schnellste Verkehrsservice AN - Am Nachmittag, 14-16 Uhr Moderation: Stefan 
-Margenfeld - Aktuelles, Service und der beste Musik-Mix AN - Am Nachmittag, 16-18 Uhr Moderation: Anna 
-Deschke - VoBa an der Niers sucht einen männlichen Sprecher für Hörspiel - Der Tag kompakt und prägnant 
-zusammengefasst - Die wichtigsten Nachrichten vom Niederrhein immer um halb mit Oliver Drucks, dazu der beste 
-Wetter- und der schnellste Pendlerservice Antenne über Antenne: Kleve, Emmerich und Rees UKW 98,0 MHz, 
-Geldern UKW 105,7 MHz; Antenne im Kabel: 97,9 MHz. Antenne Webradio: www.antenneniederrhein.de"
-2013-03,Main Corpus,2013-03(90).ZIP,antenne.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\antenne.PDF,antenne,antenne,Rheinische Post,rheinische post,16. März 2013 Samstag,,,196,1333,31da7c7df004ea6a80186d89ce370b30e4728646,,unique,keep,,no,,no,,,1806,no,,,,,"Samstag, 16. März Nachrichten - 100 Prozent informiert: die Nachrichten aus dem Kreis Kleve, NRW, 
-Deutschland und der Welt, zur vollen Stunde und um halb gibt es die Lokalnachrichten. AN - Am Wochenende, 7-
-12 Uhr Moderation: Sascha Kefferpütz - Eine Kranenburgerin hilft syrischen Flüchtlingen in Jordanien - Doppel-Abi: 
-Lernstress, Perspektiven und Duales Studium im Kreis Kleve - Neuer Papst gewählt - Erwartungen von Werner 
-Stalder - Charity am Rhein. 
-Ein Verein hilft in Emmerich AN - Am Wochenende, 14-18 Uhr Moderation: Sebastian Belda - Fußball-Bundesliga: 
-Die aktuellen Ergebnisse - Equitana startet - Mit ""Unbezahlbar"" zu One Republik Sonntag, 17. März AN - Forum 
-Kreis Kleve, 9-10 Uhr Moderation: Oliver Drucks - Der Wirtschaftsförderung über die Schultern schauen AN-
-Wochenende-Spezial, 10-11 Uhr Moderation: Christoph Kepser - Autoshow in Geldern mit Live-Eindrücken des 
-Tages AN - Sport vor Ort, 15-18 Uhr Moderation: Volker Lübke - Fussball-Live: SV Hönnepel/Nie.dermörmter- 
-VfB Speldorf - Das große Reitturnier am Huckscher Hof in Goch AN - Am Wochenende, 18-21 Uhr Moderation: 
-Sven Henrich - Entspannt in den Sonntagabend mit Musik und Unterhaltung Antenne über Antenne: Kleve, 
-Emmerich und Rees UKW 98,0 MHz, Geldern UKW 105,7 MHz; Antenne im Kabel: 97,9 MHz. Antenne Webradio: 
-www.antenneniederrhein.de"
-2013-03,Main Corpus,2013-03(90).ZIP,Arbeitslosigkeit wird laut Experten weiter sinken.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Arbeitslosigkeit wird laut Experten weiter sinken.PDF,Arbeitslosigkeit wird laut Experten weiter sinken,arbeitslosigkeit wird laut experten weiter sinken,Rheinische Post,rheinische post,22. März 2013 Freitag,,,229,1591,91de6bbebb2cc241c935dc7ff1fb5f134da7e821,,unique,keep,,no,,no,,,2306,no,,,,,"Berlin (rtr) Gegen den Trend in Europa hellen sich die Aussichten für den Arbeitsmarkt in Deutschland nach 
-Einschätzung der Denkfabrik der Bundesagentur für Arbeit (BA) auf. Die Arbeitslosigkeit werde 2013 das vierte 
-Jahr in Folge sinken, erklärte das Nürnberger Institut für Arbeitsmarkt- und Berufsforschung (IAB) gestern in seiner 
-Frühjahrsprognose. Die Forscher erwarten nun einen Rückgang um 40 000 auf 2,86 Millionen Arbeitslose. Im 
-Herbst hatten sie für 2013 noch einen Anstieg in gleicher Höhe vorausgesagt. Die Zahl der 
-sozialversicherungspflichtig Beschäftigten werde um 320 000 auf 29,31 Millionen und damit auf den höchsten 
-Stand seit 1992 steigen. Den Sozialversicherungen verheißt dies steigende Einnahmen. Eine weiterhin hohe Zahl 
-von Zuwanderern aus Ost- und Südeuropa sowie eine steigende Erwerbsbeteiligung von Frauen und Älteren wird 
-nach Annahmen des IAB dazu führen, dass 45,47 Millionen Menschen dem Arbeitsmarkt zur Verfügung stehen. 
-Das sei ein Rekordwert. Die Zahl der Erwerbstätigen könnte um 230 000 auf 41,84 Millionen zulegen. Fast jeder 
-Siebte davon geht nur einem Mini-Job nach. Ihr Anteil an allen Erwerbstätigen gehe aber seit dem Höchststand 
-2006 zurück. Das IAB mahnte, weitere Erfolge auf dem Arbeitsmarkt kämen nicht von alleine. Notwendig seien 
-Weiterbildung und Qualifizierung, um etwa die Erwerbssituation von atypisch Beschäftigten zu verbessern. Dazu 
-zählen die Forscher Minijobs, Leiharbeit, befristete Jobs, Teilzeit wie auch Beschäftigung im Niedriglohnbereich. 
-Hier werde neuer Schwung benötigt, sagte IAB-Prognose-Chef Enzo Weber."
-2013-03,Main Corpus,2013-03(90).ZIP,Armut in der EU.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Armut in der EU.PDF,Armut in der EU,armut in der eu,Rheinische Post,rheinische post,4. März 2013 Montag,von gregor mayntz,,147,1108,8f96e5248c902ff27dd4d8ef263786904464b824,,unique,keep,,no,,no,,,1690,no,,,,,"Wenn in deutschen Städten die Unterkünfte für Flüchtlinge aus allen Nähten platzen, muss die Politik 
-verantwortlich handeln. Sie darf dabei ausländerfeindlichen Stammtischparolen ebenso wenig nachgeben wie 
-Weltbeglückungs-Idealisten, die die Aufnahmefähigkeit Deutschlands für unbegrenzt halten. Eine Grenzen-dicht-
-Rhetorik greift zu kurz. Differenzierung ist angezeigt. Das wirtschaftlich starke Deutschland muss zwar mehr 
-schultern, aber es muss vor allem scharf trennen zwischen den Neuankömmlingen, die mit ihrer Schaffenskraft sich 
-und ihre neue Heimat voranbringen wollen, und solchen, die es nur auf die Sozialkassen abgesehen haben. Wer im 
-EU-Verbund Bukarest und Sofia auch finanziell unter die Arme greift, darf im Gegenzug verlangen, dass sich die 
-Verhältnisse bessern. Dass das Ausbleiben von greifbaren Fortschritten kein Freibrief sein darf, die eigenen 
-Probleme bei den EU-Partnern abzuladen, sollte dann auch klar signalisiert werden. Auch mit einem Veto gegen 
-einen Beitritt der Problemländer zum kontrollfreien Schengen-Raum. Bericht armutsflüchtlinge - minister . . ., 
-titelseite"
-2013-03,Main Corpus,2013-03(90).ZIP,Asylrecht Norden gegen Süden.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Asylrecht Norden gegen Süden.PDF,Asylrecht; Norden gegen Süden,asylrecht norden gegen süden,Der Tagesspiegel,der tagesspiegel,Mittwoch 27. März 2013,,MEINUNG; S. 6; Ausg. 21643,193,1234,fadcaf1d1f0a8dc215f45f26f520bb572106cc64,,unique,drop,commentary_noncore,no,,no,,,1935,yes,commentary_noncore,,,,"Das lange umkämpfte gemeinsame europäische Asylrecht: Hier ist es. Schön sieht es nicht aus. Schon hinter das 
+2013-03,Main Corpus,2013-03(67).ZIP,Asylrecht Norden gegen Süden.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Asylrecht Norden gegen Süden.PDF,Asylrecht; Norden gegen Süden,asylrecht norden gegen süden,Der Tagesspiegel,der tagesspiegel,Mittwoch 27. März 2013,,MEINUNG; S. 6; Ausg. 21643,193,1234,fadcaf1d1f0a8dc215f45f26f520bb572106cc64,,unique,drop,commentary_noncore,no,,no,,,1935,yes,commentary_noncore,,,,"Das lange umkämpfte gemeinsame europäische Asylrecht: Hier ist es. Schön sieht es nicht aus. Schon hinter das 
 Gemeinsame dieser Anstrengung gehört ein großes Fragezeichen. Der Dreh- und Angelpunkt eines solidarischen 
 Umgangs mit Flüchtlingen heißt ""Lasten teilen"". Davon kann aber weiter keine Rede sein. Auch künftig werden in 
 erster Linie die Länder in der Pflicht sein, deren Grenzen die Flüchtlinge zuerst erreichen. Das aber ist der 
@@ -326,7 +231,7 @@ recht bald unter den Wert des Papiers drücken, auf dem es geschrieben steht. Im
 Abschiebungen in EU-Länder gestoppt, weil sie die Zustände dort für menschenunwürdig hielten. Berlin und 
 Brüssel wollen das mit Geld und Know-how lösen. Das hat aber bisher nicht geholfen und wird es weiter nicht. ade
 Seiten 1 und 2"
-2013-03,Main Corpus,2013-03(90).ZIP,Auf der Suche nach Mitstreitern ASYL Die Flüchtlings- aktivisten vom Oranienplatz beenden ihre bunde.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Auf der Suche nach Mitstreitern ASYL Die Flüchtlings- aktivisten vom Oranienplatz beenden ihre bunde.PDF,Auf der Suche nach Mitstreitern ASYL Die Flüchtlings- aktivisten vom Oranienplatz beenden ihre bundesweite,auf der suche nach mitstreitern asyl die flüchtlings aktivisten vom oranienplatz beenden ihre bundesweite,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 21. März 2013,KONRAD LITSCHKO,BERLIN AKTUELL; S. 21,356,2469,1e89b88805019a6706a31dcdf827aa036f390290,,unique,keep,,no,,no,,,3494,no,,,,,"Als die drei Kleinbusse in die Motardstraße einbiegen, erwartet sie schon die Polizei. Erst nach Verhandlungen 
+2013-03,Main Corpus,2013-03(67).ZIP,Auf der Suche nach Mitstreitern ASYL Die Flüchtlings- aktivisten vom Oranienplatz beenden ihre bunde.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Auf der Suche nach Mitstreitern ASYL Die Flüchtlings- aktivisten vom Oranienplatz beenden ihre bunde.PDF,Auf der Suche nach Mitstreitern ASYL Die Flüchtlings- aktivisten vom Oranienplatz beenden ihre bundesweite,auf der suche nach mitstreitern asyl die flüchtlings aktivisten vom oranienplatz beenden ihre bundesweite,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 21. März 2013,KONRAD LITSCHKO,BERLIN AKTUELL; S. 21,356,2469,1e89b88805019a6706a31dcdf827aa036f390290,,unique,keep,,no,,no,,,3494,no,,,,,"Als die drei Kleinbusse in die Motardstraße einbiegen, erwartet sie schon die Polizei. Erst nach Verhandlungen 
 gewähren die Beamten fünf Flüchtlingen Einlass in das Spandauer Asylheim. Die drücken den verdutzten 
 Heimbewohnern Flyer in die Hände und kleben Plakate an die Wände. Andere hängen ein Transparent ans 
 Heimtor. Lager? , ruft Patras aus Uganda laut. Scheiße! , antworten die anderen im Chor. Abschiebung? 
@@ -355,7 +260,7 @@ Ein Erfolg war's trotzdem , sagt der Sudanese Mahadi. Viele Asylbewerber hätten
 am Samstag angekündigt. Dann wollen die Flüchtlinge vom Oranienplatz zum Bundestag ziehen.
 KONRAD LITSCHKO
 Reportage SEITE 5"
-2013-03,Main Corpus,2013-03(90).ZIP,Aus aller Welt Kompakt Deutschland_ Geschäftsführer der Böhm-Stiftung tritt zurück ++ Rostock_ Elfjä.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Aus aller Welt Kompakt Deutschland_ Geschäftsführer der Böhm-Stiftung tritt zurück ++ Rostock_ Elfjä.PDF,Aus aller Welt Kompakt Deutschland: Geschäftsführer der Böhm-Stiftung tritt zurück ++ Rostock: Elfjährige wird,aus aller welt kompakt deutschland geschäftsführer der böhmstiftung tritt zurück  rostock elfjährige wird,Die Welt,die welt,Montag 4. März 2013,,PANORAMA; Kompakt; S. 27; Ausg. 53,351,2560,30e993d15df63ddea1d11723d5f279ba56d4c070,,unique,keep,,no,,no,,,3700,no,,,,,"Deutschland
+2013-03,Main Corpus,2013-03(67).ZIP,Aus aller Welt Kompakt Deutschland_ Geschäftsführer der Böhm-Stiftung tritt zurück ++ Rostock_ Elfjä.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Aus aller Welt Kompakt Deutschland_ Geschäftsführer der Böhm-Stiftung tritt zurück ++ Rostock_ Elfjä.PDF,Aus aller Welt Kompakt Deutschland: Geschäftsführer der Böhm-Stiftung tritt zurück ++ Rostock: Elfjährige wird,aus aller welt kompakt deutschland geschäftsführer der böhmstiftung tritt zurück  rostock elfjährige wird,Die Welt,die welt,Montag 4. März 2013,,PANORAMA; Kompakt; S. 27; Ausg. 53,351,2560,30e993d15df63ddea1d11723d5f279ba56d4c070,,unique,keep,,no,,no,,,3700,no,,,,,"Deutschland
 Geschäftsführer der Böhm-Stiftung tritt zurück
 Der Streit über die Stiftung Menschen für Menschen des Schauspielers Karlheinz Böhm hat erste personelle 
 Konsequenzen. Der Geschäftsführer Axel Haasis habe seine Zusammenarbeit mit der Stiftung von sich aus 
@@ -385,7 +290,7 @@ Unglück wurde wohl durch einen Fehler des 82 Jahre alten Piloten ausgelöst. Zu
 Lebensgefährtin war er am Samstag von einem Rundflug auf den Flugplatz Großostheim-Ringheim zurückgekehrt. 
 Beim Landeanflug stürzte der Motorsegler ab. Die beiden Insassen wurden in der Maschine eingeklemmt und 
 schwer verletzt von ihren Rettern geborgen."
-2013-03,Main Corpus,2013-03(90).ZIP,Aus aller Welt Kompakt Südafrika_ Nach Schockvideo_ Acht Polizisten festgenommen ++ USA _ Mann brich.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Aus aller Welt Kompakt Südafrika_ Nach Schockvideo_ Acht Polizisten festgenommen ++ USA _ Mann brich.PDF,Aus aller Welt Kompakt Südafrika: Nach Schockvideo: Acht Polizisten festgenommen ++ USA : Mann bricht in,aus aller welt kompakt südafrika nach schockvideo acht polizisten festgenommen  usa  mann bricht in,Die Welt,die welt,Samstag 2. März 2013,,PANORAMA; Kompakt; S. 32; Ausg. 52,360,2482,f6507b56a96666f8e1ab0c9698cecc53bbb5c97a,,unique,keep,,no,,no,,,3630,no,,,,,"Südafrika
+2013-03,Main Corpus,2013-03(67).ZIP,Aus aller Welt Kompakt Südafrika_ Nach Schockvideo_ Acht Polizisten festgenommen ++ USA _ Mann brich.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Aus aller Welt Kompakt Südafrika_ Nach Schockvideo_ Acht Polizisten festgenommen ++ USA _ Mann brich.PDF,Aus aller Welt Kompakt Südafrika: Nach Schockvideo: Acht Polizisten festgenommen ++ USA : Mann bricht in,aus aller welt kompakt südafrika nach schockvideo acht polizisten festgenommen  usa  mann bricht in,Die Welt,die welt,Samstag 2. März 2013,,PANORAMA; Kompakt; S. 32; Ausg. 52,360,2482,f6507b56a96666f8e1ab0c9698cecc53bbb5c97a,,unique,keep,,no,,no,,,3630,no,,,,,"Südafrika
 Nach Schockvideo: Acht Polizisten festgenommen
 Nachdem sie einen Taxifahrer tödlich misshandelt hatten, sind acht südafrikanische Polizeibeamte festgenommen 
 worden. Zudem sei der örtliche Polizeikommandeur beurlaubt worden, teilte die Polizeichefin des Landes mit. Die 
@@ -419,7 +324,7 @@ Graphic
  
 dpa/Britta Pedersen
 Britta Pedersen"
-2013-03,Main Corpus,2013-03(90).ZIP,Ausland Kompakt Türkei_ Terrorverdächtiger Islamist an der Grenze festgenommen ++ Russland_ Büros vo.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Ausland Kompakt Türkei_ Terrorverdächtiger Islamist an der Grenze festgenommen ++ Russland_ Büros vo.PDF,Ausland Kompakt; Türkei: Terrorverdächtiger Islamist an der Grenze festgenommen ++ Russland: Büros von,ausland kompakt türkei terrorverdächtiger islamist an der grenze festgenommen  russland büros von,Die Welt,die welt,Freitag 22. März 2013,Ff,POLITIK; Kompakt; S. 6; Ausg. 69,810,6195,319bfcbb8fc8797ae7379616abb31b9578047a5f,,unique,keep,,no,,no,,,9166,no,,,,,"Türkei
+2013-03,Main Corpus,2013-03(67).ZIP,Ausland Kompakt Türkei_ Terrorverdächtiger Islamist an der Grenze festgenommen ++ Russland_ Büros vo.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Ausland Kompakt Türkei_ Terrorverdächtiger Islamist an der Grenze festgenommen ++ Russland_ Büros vo.PDF,Ausland Kompakt; Türkei: Terrorverdächtiger Islamist an der Grenze festgenommen ++ Russland: Büros von,ausland kompakt türkei terrorverdächtiger islamist an der grenze festgenommen  russland büros von,Die Welt,die welt,Freitag 22. März 2013,Ff,POLITIK; Kompakt; S. 6; Ausg. 69,810,6195,319bfcbb8fc8797ae7379616abb31b9578047a5f,,unique,keep,,no,,no,,,9166,no,,,,,"Türkei
 Terrorverdächtiger Islamist an der Grenze festgenommen
 Der österreichische Islamist und Terrorverdächtige Mohammed Mahmoud alias Abu Usama al-Gharib ist in der 
 Türkei festgenommen worden, wie die „Welt"" aus deutschen Sicherheitskreisen erfuhr. Demnach wurde Mahmoud 
@@ -489,7 +394,7 @@ internationalem Kriegsrecht und mit Genehmigung des jeweiligen Staates erfolgen,
 Bislang töten die von Amerika aus ferngesteuerten Drohnen Terrorverdächtige in Ländern wie Pakistan, dem 
 Jemen und Somalia ohne offizielle Kenntnis der Regierungen. Das löste schon diplomatische Verstimmungen aus. 
 Da immer mehr Staaten sich Drohnen zulegen, befürchten US-Experten, man schaffe gefährliche Präzedenzfälle."
-2013-03,Main Corpus,2013-03(90).ZIP,"Ausweisung auf den letzten Drücker MIGRATION Eine Familie aus dem Kosovo soll abgeschoben werden, ob.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Ausweisung auf den letzten Drücker MIGRATION Eine Familie aus dem Kosovo soll abgeschoben werden, ob.PDF","Ausweisung auf den letzten Drücker MIGRATION Eine Familie aus dem Kosovo soll abgeschoben werden,",ausweisung auf den letzten drücker migration eine familie aus dem kosovo soll abgeschoben werden,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 28. März 2013,GERNOT KNÖDLER,NORD AKTUELL; S. 21,533,3897,8567d1540de732ec914b97c44bcd808a8ef1692a,,unique,keep,,no,,no,,,5558,no,,,,,"VON GERNOT KNÖDLER
+2013-03,Main Corpus,2013-03(67).ZIP,"Ausweisung auf den letzten Drücker MIGRATION Eine Familie aus dem Kosovo soll abgeschoben werden, ob.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Ausweisung auf den letzten Drücker MIGRATION Eine Familie aus dem Kosovo soll abgeschoben werden, ob.PDF","Ausweisung auf den letzten Drücker MIGRATION Eine Familie aus dem Kosovo soll abgeschoben werden,",ausweisung auf den letzten drücker migration eine familie aus dem kosovo soll abgeschoben werden,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 28. März 2013,GERNOT KNÖDLER,NORD AKTUELL; S. 21,533,3897,8567d1540de732ec914b97c44bcd808a8ef1692a,,unique,keep,,no,,no,,,5558,no,,,,,"VON GERNOT KNÖDLER
 Einer Familie aus dem Kosovo droht die Abschiebung auf den letzten Drücker, dabei sind ihre Kinder in 
 Deutschland aufgewachsen. Obwohl die neue niedersächsische Landesregierung einen Paradigmenwechsel in der 
 Flüchtlingspolitik angekündigt hat und eine Änderung der Rechtslage in Aussicht steht, soll der größte Teil der 
@@ -532,7 +437,7 @@ Druck gekommen, weil zwei Tage nach seiner Amtsübernahme eine Roma-Familie in d
 und dabei auseinandergerissen worden war. Pistorius entschuldigte sich und bekräftigte den Willen der rot-grünen 
 Koalition, die Flüchtlingspolitik humaner zu gestalten als sein Vorgänger, der Hardliner Uwe Schünemann von der 
 CDU."
-2013-03,Main Corpus,2013-03(90).ZIP,Ausweisung politisch motiviert_ ASYL Einer der Protagonisten des Flüchtlingscamps am Oranienplatz so.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Ausweisung politisch motiviert_ ASYL Einer der Protagonisten des Flüchtlingscamps am Oranienplatz so.PDF,Ausweisung politisch motiviert? ASYL Einer der Protagonisten des Flüchtlingscamps am Oranienplatz soll,ausweisung politisch motiviert asyl einer der protagonisten des flüchtlingscamps am oranienplatz soll,"taz, die tageszeitung",taz die tageszeitung,Montag 04. März 2013,MALENE GÜRGEN,BERLIN AKTUELL; S. 22,538,3854,003d51462e66ca15a22bc2599ed5a5d02981da19,,unique,keep,,no,,no,,,5096,no,,,,,"VON MALENE GÜRGEN
+2013-03,Main Corpus,2013-03(67).ZIP,Ausweisung politisch motiviert_ ASYL Einer der Protagonisten des Flüchtlingscamps am Oranienplatz so.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Ausweisung politisch motiviert_ ASYL Einer der Protagonisten des Flüchtlingscamps am Oranienplatz so.PDF,Ausweisung politisch motiviert? ASYL Einer der Protagonisten des Flüchtlingscamps am Oranienplatz soll,ausweisung politisch motiviert asyl einer der protagonisten des flüchtlingscamps am oranienplatz soll,"taz, die tageszeitung",taz die tageszeitung,Montag 04. März 2013,MALENE GÜRGEN,BERLIN AKTUELL; S. 22,538,3854,003d51462e66ca15a22bc2599ed5a5d02981da19,,unique,keep,,no,,no,,,5096,no,,,,,"VON MALENE GÜRGEN
 Gerade ist Patras Bwansi unterwegs und sehr beschäftigt auf der Bustour des Flüchtlingscamps am Oranienplatz, 
 die seit Dienstag durch Deutschland zieht. Für den 33-jährigen Bwansi, einen der Hauptorganisatoren des Camps, 
 ist diese Bewegung gerade noch einmal wichtiger geworden: Vor wenigen Tagen bekam er einen 
@@ -574,7 +479,7 @@ will sich nicht einschüchtern lassen. Ich werde mich nicht verstecken. Mein Ver
 gerade auf dem Weg ins Lager Bitterfeld, zu der dritten Station der Bustour.
  Ich werde mich nicht verstecken. Mein Versteck ist die Öffentlichkeit 
 PATRAS BWANSI"
-2013-03,Main Corpus,2013-03(90).ZIP,Bedingt freizügig.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Bedingt freizügig.PDF,Bedingt freizügig,bedingt freizügig,Der Tagesspiegel,der tagesspiegel,Mittwoch 27. März 2013,,ZWEITE; S. 2; Ausg. 21643,441,3217,48e977494056e27bcb5709b5be559b5fefe63add,,unique,keep,,no,,no,,,4121,no,,,,,"Nicht nur Asylbewerber, auch
+2013-03,Main Corpus,2013-03(67).ZIP,Bedingt freizügig.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Bedingt freizügig.PDF,Bedingt freizügig,bedingt freizügig,Der Tagesspiegel,der tagesspiegel,Mittwoch 27. März 2013,,ZWEITE; S. 2; Ausg. 21643,441,3217,48e977494056e27bcb5709b5be559b5fefe63add,,unique,keep,,no,,no,,,4121,no,,,,,"Nicht nur Asylbewerber, auch
 europäische Einwanderer sind
 in Deutschland nicht unumstritten. Welche europäischen Regelungen
 gelten für sie?
@@ -610,7 +515,7 @@ Dies ist auch nach Angaben Friedrichs noch kein ""Massenphänomen"". Der Nettozu
 beispielsweise ist von 47 000 im Vorjahr auf 59 000 angestiegen - im Falle Bulgariens von 24 000 auf 28 000. Aber 
 auch jeder noch so kleinen Einschränkung, die Friedrich fordern könnte, wird von EU-Diplomaten keine großen 
 Chancen eingeräumt: ""Das ist schließlich eine der Grundfreiheiten der EU."" Christopher Ziedler"
-2013-03,Main Corpus,2013-03(90).ZIP,Bildung Kompakt Arbeitsmarkt_ Zuwanderer mit hohem Bildungsniveau ++ Universität St. Gallen_ Akademi.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Bildung Kompakt Arbeitsmarkt_ Zuwanderer mit hohem Bildungsniveau ++ Universität St. Gallen_ Akademi.PDF,Bildung Kompakt Arbeitsmarkt: Zuwanderer mit hohem Bildungsniveau ++ Universität St. Gallen:,bildung kompakt arbeitsmarkt zuwanderer mit hohem bildungsniveau  universität st gallen,Die Welt,die welt,Samstag 23. März 2013,,FINANZEN; Kompakt; S. 21; Ausg. 70,239,1798,84eefdb870d2993cbad1135818c92c76c0b83efd,,unique,keep,,no,,no,,,2738,no,,,,,"Arbeitsmarkt
+2013-03,Main Corpus,2013-03(67).ZIP,Bildung Kompakt Arbeitsmarkt_ Zuwanderer mit hohem Bildungsniveau ++ Universität St. Gallen_ Akademi.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Bildung Kompakt Arbeitsmarkt_ Zuwanderer mit hohem Bildungsniveau ++ Universität St. Gallen_ Akademi.PDF,Bildung Kompakt Arbeitsmarkt: Zuwanderer mit hohem Bildungsniveau ++ Universität St. Gallen:,bildung kompakt arbeitsmarkt zuwanderer mit hohem bildungsniveau  universität st gallen,Die Welt,die welt,Samstag 23. März 2013,,FINANZEN; Kompakt; S. 21; Ausg. 70,239,1798,84eefdb870d2993cbad1135818c92c76c0b83efd,,unique,keep,,no,,no,,,2738,no,,,,,"Arbeitsmarkt
 Zuwanderer mit hohem Bildungsniveau
 Neuzuwanderer aus Nicht-EU-Staaten integrieren sich zunehmend schnell in den deutschen Arbeitsmarkt: Jeder 
 dritte Migrant, der 2010 und 2011 aus einem Drittland nach Deutschland kam, hatte spätestens zwölf Monate nach 
@@ -633,7 +538,7 @@ Akademikerinnen bereiten sich auf Berufsrückkehr vor ++ Universität....
 Die Universität Göttingen hat im Wintersemester 2013/2014 zwei neue Masterstudiengänge im Angebot. 
 Steuerlehre und angewandte Statistik dauern jeweils vier Semester, ein Bachelor ist erforderlich. 
 Bewerbungsschluss ist für beide Studiengänge der 15. Mai."
-2013-03,Main Corpus,2013-03(90).ZIP,Billstedter Bedenken STADTTEILPOLITIK Gegner der geplanten Flüchtlingswohnungen verweisen auf schlec.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Billstedter Bedenken STADTTEILPOLITIK Gegner der geplanten Flüchtlingswohnungen verweisen auf schlec.PDF,Billstedter Bedenken; STADTTEILPOLITIK Gegner der geplanten Flüchtlingswohnungen verweisen auf,billstedter bedenken stadtteilpolitik gegner der geplanten flüchtlingswohnungen verweisen auf,"taz, die tageszeitung",taz die tageszeitung,Freitag 15. März 2013,DOMINIK BRÜCK,HAMBURG AKTUELL; S. 24,420,3106,e988072aa06e8bc7355dfdd8726ed2cd36c44b7e,,unique,keep,,no,,no,,,4170,no,,,,,"VON DOMINIK BRÜCK
+2013-03,Main Corpus,2013-03(67).ZIP,Billstedter Bedenken STADTTEILPOLITIK Gegner der geplanten Flüchtlingswohnungen verweisen auf schlec.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Billstedter Bedenken STADTTEILPOLITIK Gegner der geplanten Flüchtlingswohnungen verweisen auf schlec.PDF,Billstedter Bedenken; STADTTEILPOLITIK Gegner der geplanten Flüchtlingswohnungen verweisen auf,billstedter bedenken stadtteilpolitik gegner der geplanten flüchtlingswohnungen verweisen auf,"taz, die tageszeitung",taz die tageszeitung,Freitag 15. März 2013,DOMINIK BRÜCK,HAMBURG AKTUELL; S. 24,420,3106,e988072aa06e8bc7355dfdd8726ed2cd36c44b7e,,unique,keep,,no,,no,,,4170,no,,,,,"VON DOMINIK BRÜCK
 Seit Wochen diskutiert Billstedt über die geplante Unterbringung von 60 Flüchtlingen und Wohnungslosen in einer 
 alten Schule am Oststeinbeker Weg. Aufgrund gestiegener Flüchtlingszahlen benötigt die Stadt nämlich dringend 
 zusätzliche Unterkünfte. In vielen Stadtteilen sollen daher neue, öffentlich geförderte Unterbringungen entstehen.
@@ -668,20 +573,7 @@ besondere Zwischenfälle habe es lange nicht gegeben. Für den Oststeinbeker Weg
 Mattkamp mehr Verständnis von den Anwohnern. Es ist doch auch in unserem Interesse und dem der 
 BewohnerInnen, dass mehr Wohnungen entstehen , sagt Beate Boch.
 Obwohl der Mattkamp ursprünglich als Provisorium eingerichtet wurde, wirkt er sehr gepflegt"
-2013-03,Main Corpus,2013-03(90).ZIP,Brandschutz für Krankenhaus.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Brandschutz für Krankenhaus.PDF,Brandschutz für Krankenhaus,brandschutz für krankenhaus,Rheinische Post,rheinische post,21. März 2013 Donnerstag,,,188,1338,8044d792e7baaa741c7a9a4177c26593e119b89b,,unique,keep,,no,,no,,,1671,no,,,,,"Die Verwaltung erarbeitet ein Brandschutzkonzept, damit im ehemaligen Krankenhaus Asylbewerber 
-untergebracht werden können. Benrath (wa.) Die Diskussion um die Unterbringung von Asylbewerbern im 
-ehemaligen Benrather Krankenhaus nimmt kein Ende. Jetzt beschäftigte sich der Bauausschuss mit dem Thema. 
-Die SPD-Fraktion wollte unter anderem wissen, was es mit der Brandschutzsicherung im ehemaligen Krankenhaus 
-auf sich hat und ob es schon eine Prüfung gegeben hat. Denn die erste und zweite Etage des Gebäudes können 
-nur mit Asylbewerbern belegt werden, wenn der Brandschutznachweis erbracht wird. Das ist nach Angaben der 
-Verwaltung im Moment noch nicht der Fall. Aber ein Brandschutzkonzept soll erstellt werden, das Ergebnis will die 
-Verwaltung im April bekanntgeben, damit neben der Nutzung im Erdgeschoss weitere Asylbewerber für die 
-kommenden zwei Jahre untergebracht werden können. Die Container für Duschen und Toiletten, die plötzlich vor 
-dem ehemaligen Krankenhaus standen, und die ebenso plötzlich wieder verschwunden waren, weil sie zurzeit nicht 
-gebraucht werden, können nach Verwaltungsangaben kurzfristig wieder aufgestellt werden - innerhalb von drei 
-Wochen. Der Umbau der Container hat 33 000 Euro gekostet. 7000 Euro hat die Stadt an Mietkosten für die gut 
-zwei Monate bezahlt, die die Container dort standen."
-2013-03,Main Corpus,2013-03(90).ZIP,Brauchen Christen mehr Schutz_ FLÜCHTLINGE Deutschland will jetzt 5.000 Syrer aufnehmen. Doch Innenm.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Brauchen Christen mehr Schutz_ FLÜCHTLINGE Deutschland will jetzt 5.000 Syrer aufnehmen. Doch Innenm.PDF,Brauchen Christen mehr Schutz? FLÜCHTLINGE Deutschland will jetzt 5.000 Syrer aufnehmen. Doch,brauchen christen mehr schutz flüchtlinge deutschland will jetzt 5000 syrer aufnehmen doch,"taz, die tageszeitung",taz die tageszeitung,Freitag 22. März 2013,DANIEL BAX,INLAND; S. 06,442,3229,7972815a661dcd2337d9eb4eed8d01005e28e243,,unique,keep,,no,,no,,,4734,no,,,,,"VON DANIEL BAX
+2013-03,Main Corpus,2013-03(67).ZIP,Brauchen Christen mehr Schutz_ FLÜCHTLINGE Deutschland will jetzt 5.000 Syrer aufnehmen. Doch Innenm.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Brauchen Christen mehr Schutz_ FLÜCHTLINGE Deutschland will jetzt 5.000 Syrer aufnehmen. Doch Innenm.PDF,Brauchen Christen mehr Schutz? FLÜCHTLINGE Deutschland will jetzt 5.000 Syrer aufnehmen. Doch,brauchen christen mehr schutz flüchtlinge deutschland will jetzt 5000 syrer aufnehmen doch,"taz, die tageszeitung",taz die tageszeitung,Freitag 22. März 2013,DANIEL BAX,INLAND; S. 06,442,3229,7972815a661dcd2337d9eb4eed8d01005e28e243,,unique,keep,,no,,no,,,4734,no,,,,,"VON DANIEL BAX
 BERLIN taz | Das UN-Flüchtlingskommissariat nennt es ein starkes Zeichen der Solidarität , auch SPD und Grüne 
 spendeten Lob. So viel Zuspruch bekommt Innenminister Hans-Peter Friedrich nur selten.
 Am Mittwoch hatte die Bundesregierung angekündigt, sie wolle 5.000 weitere Flüchtlinge aus Syrien aufnehmen in 
@@ -715,7 +607,7 @@ Flüchtlinge aus Syrien, die im vergangenen Jahr Asyl in Europa beantragten, hat
 fast verdreifacht. Mehr als die Hälfte von ihnen stellten Aufnahmeanträge in Schweden und Deutschland.
 Mitarbeit: Stefan Reinecke
 Mehr als eine Million Syrer sind seit Beginn des Bürgerkriegs aus ihrem Land geflohen"
-2013-03,Main Corpus,2013-03(90).ZIP,Cebit Allein zu Haus.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Cebit Allein zu Haus.PDF,Cebit Allein zu Haus,cebit allein zu haus,Der Tagesspiegel,der tagesspiegel,Dienstag 5. März 2013,,MEINUNG; S. 6; Ausg. 21621,172,1221,826323adef59ec781279048af1ffa9f74fa469ac,,unique,drop,commentary_noncore,no,,no,,,1870,yes,commentary_noncore,,,,"Jammern gehört zum Handwerk, ebenso wie Trommeln. Zum Auftakt der Cebit haben die IT-Verbände in beiden 
+2013-03,Main Corpus,2013-03(67).ZIP,Cebit Allein zu Haus.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Cebit Allein zu Haus.PDF,Cebit Allein zu Haus,cebit allein zu haus,Der Tagesspiegel,der tagesspiegel,Dienstag 5. März 2013,,MEINUNG; S. 6; Ausg. 21621,172,1221,826323adef59ec781279048af1ffa9f74fa469ac,,unique,drop,commentary_noncore,no,,no,,,1870,yes,commentary_noncore,,,,"Jammern gehört zum Handwerk, ebenso wie Trommeln. Zum Auftakt der Cebit haben die IT-Verbände in beiden 
 Tonlagen ihre Wünsche vorgetragen. Der Trommelwirbel zuerst: Die Branche wächst. Noch in diesem Jahr werde 
 man, was die Zahl der Beschäftigten betrifft, zum Maschinenbau aufschließen, sagte Verbandschef Dieter Kempf. 
 Gleichzeitig schlug er Alarm. Denn um all die Arbeitsplätze zu besetzen, fehlt es Deutschland an Köpfen. Die Angst 
@@ -728,7 +620,7 @@ Land in die demografische Falle. Ein grundlegendes Umdenken ist nötig. Denn um 
 amerikanische IT-Spezialisten zu gewinnen, reichen komfortablere Einwanderungsregeln nicht. Man müsste aktiv 
 um sie werben. as
 Seite 15"
-2013-03,Main Corpus,2013-03(90).ZIP,Das Ende einer Trennung RÜCKKEHR Acht Jahre nach ihrer Abschiebung in die Türkei ist Gazale Salame z.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Das Ende einer Trennung RÜCKKEHR Acht Jahre nach ihrer Abschiebung in die Türkei ist Gazale Salame z.PDF,Das Ende einer Trennung; RÜCKKEHR Acht Jahre nach ihrer Abschiebung in die Türkei ist Gazale Salame,das ende einer trennung rückkehr acht jahre nach ihrer abschiebung in die türkei ist gazale salame,"taz, die tageszeitung",taz die tageszeitung,Montag 04. März 2013,TERESA HAVLICEK,NORD AKTUELL; S. 21,727,4996,2cc40a6c1e773debe15a8c7951b6847e66b5c2af,,unique,keep,,no,,no,,,6658,no,,,,,"VON TERESA HAVLICEK
+2013-03,Main Corpus,2013-03(67).ZIP,Das Ende einer Trennung RÜCKKEHR Acht Jahre nach ihrer Abschiebung in die Türkei ist Gazale Salame z.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Das Ende einer Trennung RÜCKKEHR Acht Jahre nach ihrer Abschiebung in die Türkei ist Gazale Salame z.PDF,Das Ende einer Trennung; RÜCKKEHR Acht Jahre nach ihrer Abschiebung in die Türkei ist Gazale Salame,das ende einer trennung rückkehr acht jahre nach ihrer abschiebung in die türkei ist gazale salame,"taz, die tageszeitung",taz die tageszeitung,Montag 04. März 2013,TERESA HAVLICEK,NORD AKTUELL; S. 21,727,4996,2cc40a6c1e773debe15a8c7951b6847e66b5c2af,,unique,keep,,no,,no,,,6658,no,,,,,"VON TERESA HAVLICEK
 Als Gazale Salame durch die Schiebetür tritt, die jüngste Tochter Schams und den Sohn Gazi an den Händen, ist 
 sie gleich schon wieder verschwunden. Es ist Sonntagnacht, halb zwei, Terminal B des Flughafens Hannover: 
 Wenige Schritte sind es bis zur Absperrung, wo ihr Mann Ahmed Siala, die Töchter Amine und Nura warten, gleich 
@@ -781,7 +673,7 @@ verfallen.
  Um die Tragödie wirklich zu beenden , sagt Weber, muss auch für das letzte Mitglied dieser zerrissenen Familie 
 ein Weg zurück gefunden werden. Innenminister Pistorius ist die Situation des Vaters bekannt, wie er auf 
 Nachfrage erklärt. Ich habe aber , räumt er zugleich ein, noch keine Lösung dafür."
-2013-03,Main Corpus,2013-03(90).ZIP,Das schlechte Gewissen ARMUT Deutschland reagiert völlig überzogen auf die Zuwanderer aus dem östlic.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Das schlechte Gewissen ARMUT Deutschland reagiert völlig überzogen auf die Zuwanderer aus dem östlic.PDF,Das schlechte Gewissen ARMUT Deutschland reagiert völlig überzogen auf die Zuwanderer aus dem östlichen,das schlechte gewissen armut deutschland reagiert völlig überzogen auf die zuwanderer aus dem östlichen,"taz, die tageszeitung",taz die tageszeitung,Freitag 22. März 2013,BARBARA DRIBBUSCH,MEINUNG UND DISKUSSION; S. 12,895,6376,fa3e5a9e9cc25e8c01cf22ca809b551fb689fa76,,unique,keep,,no,,no,,,7652,yes,commentary_noncore,,,,"Nur mal so eine Idee: Anti-Werbespots für Deutschland werden in Rumänien und Bulgarien im Fernsehen gezeigt. 
+2013-03,Main Corpus,2013-03(67).ZIP,Das schlechte Gewissen ARMUT Deutschland reagiert völlig überzogen auf die Zuwanderer aus dem östlic.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Das schlechte Gewissen ARMUT Deutschland reagiert völlig überzogen auf die Zuwanderer aus dem östlic.PDF,Das schlechte Gewissen ARMUT Deutschland reagiert völlig überzogen auf die Zuwanderer aus dem östlichen,das schlechte gewissen armut deutschland reagiert völlig überzogen auf die zuwanderer aus dem östlichen,"taz, die tageszeitung",taz die tageszeitung,Freitag 22. März 2013,BARBARA DRIBBUSCH,MEINUNG UND DISKUSSION; S. 12,895,6376,fa3e5a9e9cc25e8c01cf22ca809b551fb689fa76,,unique,keep,,no,,no,,,7652,yes,commentary_noncore,,,,"Nur mal so eine Idee: Anti-Werbespots für Deutschland werden in Rumänien und Bulgarien im Fernsehen gezeigt. 
 Man sieht zugewanderte Rumänen und Bulgaren, die hierzulande in Abbruchhäusern mit kaputten Heizungen 
 frieren. Die in Jobcentern Sachbearbeitern begegnen, die abweisend den Kopf schütteln. Die im Regen in langen 
 Schlangen vor den Notaufnahmen der Krankenhäuser stehen. Dazu dann der Text: Deutschland ein kaltes Land. 
@@ -852,7 +744,7 @@ sein, mehr Fremdheit im eigenen Land zu akzeptieren, inklusive des unbehaglichen
 wenn wir uns durch die Augen der Superarmen selbst betrachten. BARBARA DRIBBUSCH
 Natürlich ist es unbehaglich, wenn wir uns durch die Augen der Superarmen selbst betrachten. Akzeptieren wir das 
 endlich"
-2013-03,Main Corpus,2013-03(90).ZIP,Den Hilflosen helfen Annemarie Köhler aus Langenau engagiert sich für Flüchtlinge.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Den Hilflosen helfen Annemarie Köhler aus Langenau engagiert sich für Flüchtlinge.PDF,Den Hilflosen helfen; Annemarie Köhler aus Langenau engagiert sich für Flüchtlinge,den hilflosen helfen annemarie köhler aus langenau engagiert sich für flüchtlinge,Südwest Presse,südwest presse,Samstag 2. März 2013,,Alb-Donau und Region; S. 24,652,4489,14943a2056b24690c9972da6fdfcb30427a2416d,,unique,keep,,no,,no,,,5493,no,,,,,"Kleinigkeiten können das Leben schwer machen. ""Das fängt beim Einkaufen an"", sagt Annemarie Köhler. Sie 
+2013-03,Main Corpus,2013-03(67).ZIP,Den Hilflosen helfen Annemarie Köhler aus Langenau engagiert sich für Flüchtlinge.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Den Hilflosen helfen Annemarie Köhler aus Langenau engagiert sich für Flüchtlinge.PDF,Den Hilflosen helfen; Annemarie Köhler aus Langenau engagiert sich für Flüchtlinge,den hilflosen helfen annemarie köhler aus langenau engagiert sich für flüchtlinge,Südwest Presse,südwest presse,Samstag 2. März 2013,,Alb-Donau und Region; S. 24,652,4489,14943a2056b24690c9972da6fdfcb30427a2416d,,unique,keep,,no,,no,,,5493,no,,,,,"Kleinigkeiten können das Leben schwer machen. ""Das fängt beim Einkaufen an"", sagt Annemarie Köhler. Sie 
 kümmert sich im Langenauer Arbeitskreis für Asyl und Migration um Flüchtlinge, die auf eine 
 Aufenthaltsgenehmigung in Deutschland hoffen: weil sie in ihrer Heimat politisch verfolgt sind, weil dort Krieg 
 herrscht, weil sie dort keine Zukunft haben. Einkaufen ist kein Vergnügen, wenn man kein Deutsch kann oder gar 
@@ -900,7 +792,7 @@ klingelt: ""Annemarie, . . .""
 Graphic
  
 Annemarie Köhler ist seit 2006 im Flüchtlingsrat aktiv. Foto: Volkmar Könneke"
-2013-03,Main Corpus,2013-03(90).ZIP,"Den Rechtsstaat kritisieren, damit er bleibt AMNESTY Die neue Deutschland-Chefin Selmin Çal¦skan spr.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Den Rechtsstaat kritisieren, damit er bleibt AMNESTY Die neue Deutschland-Chefin Selmin Çal¦skan spr.PDF","Den Rechtsstaat kritisieren, damit er bleibt; AMNESTY Die neue Deutschland-Chefin Selmin Çal¦skan spricht",den rechtsstaat kritisieren damit er bleibt amnesty die neue deutschlandchefin selmin çalskan spricht,"taz, die tageszeitung",taz die tageszeitung,Samstag 09. März 2013,ULRIKE WINKELMANN,THEMEN DES TAGES; S. 04,1233,8819,e42473678466ce36b122167925dcad3933c2c611,,unique,keep,,no,,no,,,10812,no,,,,,"INTERVIEW ULRIKE WINKELMANN
+2013-03,Main Corpus,2013-03(67).ZIP,"Den Rechtsstaat kritisieren, damit er bleibt AMNESTY Die neue Deutschland-Chefin Selmin Çal¦skan spr.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Den Rechtsstaat kritisieren, damit er bleibt AMNESTY Die neue Deutschland-Chefin Selmin Çal¦skan spr.PDF","Den Rechtsstaat kritisieren, damit er bleibt; AMNESTY Die neue Deutschland-Chefin Selmin Çal¦skan spricht",den rechtsstaat kritisieren damit er bleibt amnesty die neue deutschlandchefin selmin çalskan spricht,"taz, die tageszeitung",taz die tageszeitung,Samstag 09. März 2013,ULRIKE WINKELMANN,THEMEN DES TAGES; S. 04,1233,8819,e42473678466ce36b122167925dcad3933c2c611,,unique,keep,,no,,no,,,10812,no,,,,,"INTERVIEW ULRIKE WINKELMANN
 taz: Frau Çal¦skan, welchen Akzent werden Sie als neue Deutschland-Chefin von Amnesty International setzen?
 Selmin Çal¦skan: Ich möchte Amnesty gern noch internationaler machen. Die zweite und dritte Generation 
 Einwanderer soll sich von Amnesty auch vertreten fühlen und bei uns vorkommen.
@@ -995,7 +887,7 @@ Und eine Polizei, die die Rechte der Menschen schützt, hilft ihnen auch, Wege a
 - Selmin Çal¦skan beteiligt sich am taz.lab im Berliner Haus der Kulturen der Welt: 20. April um 9.15 Uhr. 
 Programm: www.taz.de/zeitung/tazinfo/tazlab
 Die Deutschen hätten ihr gutes Image in Afghanistan besser nutzen müssen"
-2013-03,Main Corpus,2013-03(90).ZIP,"Der _graue Kardinal_ ist tot NACHRUF Der Oligarch und erklärte Gegner von Präsident Putin, Boris Ber.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Der _graue Kardinal_ ist tot NACHRUF Der Oligarch und erklärte Gegner von Präsident Putin, Boris Ber.PDF","Der ""graue Kardinal"" ist tot NACHRUF Der Oligarch und erklärte Gegner von Präsident Putin, Boris",der graue kardinal ist tot nachruf der oligarch und erklärte gegner von präsident putin boris,"taz, die tageszeitung",taz die tageszeitung,Montag 25. März 2013,KLAUS-HELGE DONATH,AUSLAND; S. 11,534,3778,b210eab16a2b150f31fb9be8f77cca49ddf7e7ee,,unique,keep,,no,,no,,,5380,no,,,,,"AUS MOSKAU KLAUS-HELGE DONATH
+2013-03,Main Corpus,2013-03(67).ZIP,"Der _graue Kardinal_ ist tot NACHRUF Der Oligarch und erklärte Gegner von Präsident Putin, Boris Ber.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Der _graue Kardinal_ ist tot NACHRUF Der Oligarch und erklärte Gegner von Präsident Putin, Boris Ber.PDF","Der ""graue Kardinal"" ist tot NACHRUF Der Oligarch und erklärte Gegner von Präsident Putin, Boris",der graue kardinal ist tot nachruf der oligarch und erklärte gegner von präsident putin boris,"taz, die tageszeitung",taz die tageszeitung,Montag 25. März 2013,KLAUS-HELGE DONATH,AUSLAND; S. 11,534,3778,b210eab16a2b150f31fb9be8f77cca49ddf7e7ee,,unique,keep,,no,,no,,,5380,no,,,,,"AUS MOSKAU KLAUS-HELGE DONATH
 Russlands bekanntester politischer Flüchtling, Boris Beresowski, ist tot. Der russische Oligarch starb am 
 Sonnabend im Alter von 67 Jahren im Londoner Exil. Die Polizei untersuchte das Anwesen in Ascot auf biologische 
 oder nukleare Spurenelemente. 2007 war Beresowskis Vertrauter, der ebenfalls flüchtige Geheimdienstagent 
@@ -1034,7 +926,7 @@ das Feindbild Beresowski wirkte weiter. Der Exilant wurde für den Kreml zum uni
 sich entzogen, und der Kreml überlegt, ob er einer posthumen Rückkehr des bestgehassten Mannes der 90er 
 Jahre zustimmen soll. Angeblich hat Beresowski Putin 2012 um Verzeihung gebeten.
 Beresowskis Verhältnis zum Umgang mit Moral und Recht war widersprüchlich"
-2013-03,Main Corpus,2013-03(90).ZIP,Deutschland Kompakt I Rechtsextremismus_ NPD scheitert vor Bundesverfassungsgericht ++ Rechtsprechun.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Deutschland Kompakt I Rechtsextremismus_ NPD scheitert vor Bundesverfassungsgericht ++ Rechtsprechun.PDF,Deutschland Kompakt I Rechtsextremismus: NPD scheitert vor Bundesverfassungsgericht ++ Rechtsprechung:,deutschland kompakt i rechtsextremismus npd scheitert vor bundesverfassungsgericht  rechtsprechung,Die Welt,die welt,Mittwoch 6. März 2013,,POLITIK; Kompakt; S. 4; Ausg. 55,608,4395,04e91bc897456b71a8d6007f5d4dfed033429fc2,,unique,keep,,no,,no,,,6298,no,,,,,"Rechtsextremismus
+2013-03,Main Corpus,2013-03(67).ZIP,Deutschland Kompakt I Rechtsextremismus_ NPD scheitert vor Bundesverfassungsgericht ++ Rechtsprechun.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Deutschland Kompakt I Rechtsextremismus_ NPD scheitert vor Bundesverfassungsgericht ++ Rechtsprechun.PDF,Deutschland Kompakt I Rechtsextremismus: NPD scheitert vor Bundesverfassungsgericht ++ Rechtsprechung:,deutschland kompakt i rechtsextremismus npd scheitert vor bundesverfassungsgericht  rechtsprechung,Die Welt,die welt,Mittwoch 6. März 2013,,POLITIK; Kompakt; S. 4; Ausg. 55,608,4395,04e91bc897456b71a8d6007f5d4dfed033429fc2,,unique,keep,,no,,no,,,6298,no,,,,,"Rechtsextremismus
 NPD scheitert vor Bundesverfassungsgericht
 Die rechtsextreme NPD ist mit dem Vorstoß gescheitert, ihre Verfassungstreue vom Bundesverfassungsgericht 
 prüfen zu lassen. Eine solche Feststellung sei im Bundesverfassungsgerichtsgesetz nicht vorgesehen, stellte das 
@@ -1088,7 +980,7 @@ Dienstag mit. Für das ZDF wird Maybrit Illner moderieren. Bei RTL bleibe es bei
 Sprecher. Kloeppel und Illner hatten bereits vor den vergangenen drei Bundestagswahlen Duelle der 
 Spitzenkandidaten von SPD und CDU moderiert. ProSiebenSat.1 hatte bereits im Februar den Entertainer Stefan 
 Raab als Moderator nominiert."
-2013-03,Main Corpus,2013-03(90).ZIP,Deutschland Kompakt II Medien_ Bundespressekonferenz rügt den „Spiegel_ ++ Innere Sicherheit_ Nieder.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Deutschland Kompakt II Medien_ Bundespressekonferenz rügt den „Spiegel_ ++ Innere Sicherheit_ Nieder.PDF,"Deutschland Kompakt II Medien: Bundespressekonferenz rügt den „Spiegel"" ++ Innere Sicherheit:",deutschland kompakt ii medien bundespressekonferenz rügt den spiegel  innere sicherheit,Die Welt,die welt,Mittwoch 6. März 2013,,POLITIK; Kompakt; S. 5; Ausg. 55,535,4033,74e3558ac270120d6d00b535355c5fc8d17aedfe,,unique,keep,,no,,no,,,5366,no,,,,,"Medien
+2013-03,Main Corpus,2013-03(67).ZIP,Deutschland Kompakt II Medien_ Bundespressekonferenz rügt den „Spiegel_ ++ Innere Sicherheit_ Nieder.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Deutschland Kompakt II Medien_ Bundespressekonferenz rügt den „Spiegel_ ++ Innere Sicherheit_ Nieder.PDF,"Deutschland Kompakt II Medien: Bundespressekonferenz rügt den „Spiegel"" ++ Innere Sicherheit:",deutschland kompakt ii medien bundespressekonferenz rügt den spiegel  innere sicherheit,Die Welt,die welt,Mittwoch 6. März 2013,,POLITIK; Kompakt; S. 5; Ausg. 55,535,4033,74e3558ac270120d6d00b535355c5fc8d17aedfe,,unique,keep,,no,,no,,,5366,no,,,,,"Medien
 Bundespressekonferenz rügt den „Spiegel""
 Die Bundespressekonferenz (BPK) will am Mittwoch eine öffentliche Rüge gegen den „Spiegel"" aussprechen. 
 Grund ist, dass Redakteure des Nachrichtenmagazins über ein vertraulich eingestuftes Hintergrundgespräch mit 
@@ -1135,7 +1027,7 @@ Bundespräsidenten, mäßigend auf die Parteien einzuwirken. Weiter schreibt Ros
 neuen Populismus fest, der von Politikern betrieben werde. Dieser beinhalte Vorwürfe von „Betrug bei 
 Sozialleistungen"" bis zu „Asylmissbrauch"" und „Kriminalität"". Die Bundesregierung solle sich dafür einsetzen, dass 
 die desolate Lage von Roma in deren Herkunftsländern verbessert werde."
-2013-03,Main Corpus,2013-03(90).ZIP,Deutschland Kompakt Schengen_ Veto gegen Beitritt Bulgariens und Rumäniens ++ Wulff-Affäre _ Erste A.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Deutschland Kompakt Schengen_ Veto gegen Beitritt Bulgariens und Rumäniens ++ Wulff-Affäre _ Erste A.PDF,Deutschland Kompakt; Schengen: Veto gegen Beitritt Bulgariens und Rumäniens ++ Wulff-Affäre: Erste,deutschland kompakt schengen veto gegen beitritt bulgariens und rumäniens  wulffaffäre erste,Die Welt,die welt,Montag 4. März 2013,,POLITIK; Kompakt; S. 4; Ausg. 53,902,6693,12b90e44e4af732e1e12376beb7916a8ce5a7263,,unique,keep,,no,,no,,,9000,no,,,,,"Schengen
+2013-03,Main Corpus,2013-03(67).ZIP,Deutschland Kompakt Schengen_ Veto gegen Beitritt Bulgariens und Rumäniens ++ Wulff-Affäre _ Erste A.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Deutschland Kompakt Schengen_ Veto gegen Beitritt Bulgariens und Rumäniens ++ Wulff-Affäre _ Erste A.PDF,Deutschland Kompakt; Schengen: Veto gegen Beitritt Bulgariens und Rumäniens ++ Wulff-Affäre: Erste,deutschland kompakt schengen veto gegen beitritt bulgariens und rumäniens  wulffaffäre erste,Die Welt,die welt,Montag 4. März 2013,,POLITIK; Kompakt; S. 4; Ausg. 53,902,6693,12b90e44e4af732e1e12376beb7916a8ce5a7263,,unique,keep,,no,,no,,,9000,no,,,,,"Schengen
 Veto gegen Beitritt Bulgariens und Rumäniens
 Deutschland wird laut Innenminister Hans-Peter Friedrich den Beitritt von Bulgarien und Rumänien in den 
 Schengen-Raum verhindern. „Wenn Rumänien und Bulgarien auf der Abstimmung bestehen, wird der Vorstoß am 
@@ -1217,7 +1109,7 @@ Dieses ist nach der Entscheidung zum Adoptionsrecht homosexueller Paare in der K
 von Gerichtspräsident Andreas Voßkuhle, der bei der Frage der Gleichstellung auf eine Kontinuität der Karlsruher 
 Entscheidungen verweist, werden in der Union als unzulässige Andeutung gesehen, dass das Gericht im Sommer 
 auch die steuerliche Ungleichbehandlung beanstanden wird."
-2013-03,Main Corpus,2013-03(90).ZIP,Deutschland Kompakt Syrien-Hilfe_ Friedrich_ Deutschland nimmt 5000 Flüchtlinge auf ++ Kundus-Affäre.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Deutschland Kompakt Syrien-Hilfe_ Friedrich_ Deutschland nimmt 5000 Flüchtlinge auf ++ Kundus-Affäre.PDF,Deutschland Kompakt Syrien-Hilfe: Friedrich: Deutschland nimmt 5000 Flüchtlinge auf ++ Kundus-Affäre:,deutschland kompakt syrienhilfe friedrich deutschland nimmt 5000 flüchtlinge auf  kundusaffäre,Die Welt,die welt,Donnerstag 21. März 2013,,POLITIK; Kompakt; S. 4; Ausg. 68,526,3987,310c3719f531aac2a513df160ec71f4cadc432c6,,unique,keep,,no,,no,,,6021,no,,,,,"Syrien-Hilfe
+2013-03,Main Corpus,2013-03(67).ZIP,Deutschland Kompakt Syrien-Hilfe_ Friedrich_ Deutschland nimmt 5000 Flüchtlinge auf ++ Kundus-Affäre.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Deutschland Kompakt Syrien-Hilfe_ Friedrich_ Deutschland nimmt 5000 Flüchtlinge auf ++ Kundus-Affäre.PDF,Deutschland Kompakt Syrien-Hilfe: Friedrich: Deutschland nimmt 5000 Flüchtlinge auf ++ Kundus-Affäre:,deutschland kompakt syrienhilfe friedrich deutschland nimmt 5000 flüchtlinge auf  kundusaffäre,Die Welt,die welt,Donnerstag 21. März 2013,,POLITIK; Kompakt; S. 4; Ausg. 68,526,3987,310c3719f531aac2a513df160ec71f4cadc432c6,,unique,keep,,no,,no,,,6021,no,,,,,"Syrien-Hilfe
 Friedrich: Deutschland nimmt 5000 Flüchtlinge auf
 Innenminister Hans-Peter Friedrich (CSU) hat angekündigt, dass 5000 hilfsbedürftige syrische Flüchtlinge 
 zusätzlich in Deutschland aufgenommen werden sollen. „Ich glaube, dass wir nicht länger warten können, weil der 
@@ -1264,7 +1156,7 @@ habe den Trend zu einer privat finanzierten Altersvorsorge, wie sie bereits in e
 wird, verpasst. Holznagel fordert, laufende Entschädigungen für Abgeordnete zu erhöhen, und dafür den 
 steuerfinanzierten Anspruch auf Altersentschädigung zu streichen. „Dadurch wird der Steuerzahler definitiv weniger 
 belastet."""
-2013-03,Main Corpus,2013-03(90).ZIP,Die eingewanderten Gettos kommunen Roma besiedeln verfallende Teile von Ruhr-Städten. Die fürchten K.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Die eingewanderten Gettos kommunen Roma besiedeln verfallende Teile von Ruhr-Städten. Die fürchten K.PDF,Die eingewanderten Gettos kommunen Roma besiedeln verfallende Teile von Ruhr-Städten. Die fürchten,die eingewanderten gettos kommunen roma besiedeln verfallende teile von ruhrstädten die fürchten,"taz, die tageszeitung",taz die tageszeitung,Montag 04. März 2013,ANDREAS WYPUTTA,THEMEN DES TAGES; S. 03,641,4719,97aa7864862310b90d8fc0ce3d312210ce7dc2aa,,unique,keep,,no,,no,,,6369,no,,,,,"DUISBURG/DORTMUND taz Die Klagen der Nachbarn des völlig überbelegten Wohnblocks im Duisburger Stadtteil 
+2013-03,Main Corpus,2013-03(67).ZIP,Die eingewanderten Gettos kommunen Roma besiedeln verfallende Teile von Ruhr-Städten. Die fürchten K.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Die eingewanderten Gettos kommunen Roma besiedeln verfallende Teile von Ruhr-Städten. Die fürchten K.PDF,Die eingewanderten Gettos kommunen Roma besiedeln verfallende Teile von Ruhr-Städten. Die fürchten,die eingewanderten gettos kommunen roma besiedeln verfallende teile von ruhrstädten die fürchten,"taz, die tageszeitung",taz die tageszeitung,Montag 04. März 2013,ANDREAS WYPUTTA,THEMEN DES TAGES; S. 03,641,4719,97aa7864862310b90d8fc0ce3d312210ce7dc2aa,,unique,keep,,no,,no,,,6369,no,,,,,"DUISBURG/DORTMUND taz Die Klagen der Nachbarn des völlig überbelegten Wohnblocks im Duisburger Stadtteil 
 Rheinhausen waren schon vor Monaten laut geworden: Es türme sich der Müll, nachts herrsche unerträglicher 
 Lärm. Die Polizei verzeichnete einen sprunghaften Anstieg von Kleinkriminalität wie dem Diebstahl von Altmetall. In 
 dem Wohnblock leben Menschen aus Bulgarien und Rumänien, viele von ihnen Roma. Nächste Woche will die 
@@ -1316,19 +1208,7 @@ beteiligen. ANDREAS WYPUTTA
  Das Ruhrgebiet bleibt für Armutsflüchtlinge attraktiv: Lieber in einer Bruchbude in Duisburg als obdachlos in 
 Düsseldorf 
 DENIZ AKSEN, SOZIALARBEITER"
-2013-03,Main Corpus,2013-03(90).ZIP,Die ewige Angst vor der Zuwanderung.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Die ewige Angst vor der Zuwanderung.PDF,Die ewige Angst vor der Zuwanderung,die ewige angst vor der zuwanderung,Rheinische Post,rheinische post,30. März 2013 Samstag,Von Antje höning,,174,1230,bf269a0062734159ab1f0939b4df45e6b52a447a,,unique,keep,,no,,no,,,1844,no,,,,,"Mit Zuwanderung hat sich Deutschland immer schwergetan. Aus Sorge, dass ausländische Arbeitskräfte Stellen 
-wegnehmen, hat man sich abgeschottet. Selbst als es darum ging, Spitzenkräfte für die deutsche Computer-
-Industrie zu holen, machte Deutschland die Türen nicht weit auf, sondern die Sache so unattraktiv, wie es ging. 
-Entsprechend floppte die ""Green Card"", die Kanzler Schröder einst auf der Cebit verkündete. Die erste ""Green 
-Card"" hängt heute im ""Haus der Geschichte"". Doch das grundsätzliche Problem ist geblieben: Deutschland 
-schrumpft und braucht Zuwanderer, um den Fachkräftebedarf und die Finanzierung der Sozialsysteme zu sichern. 
-Auch im Umgang mit den Armenhäusern Rumänien und Bulgarien ist darum Gelassenheit angesagt, selbst wenn 
-2014 viele Geringqualifizierte von dort kommen werden. Wer solche Länder in die EU aufnimmt, muss ihnen auf 
-Dauer auch die damit verbundenen Rechte geben. Zudem gab es auch bei früheren Runden der EU-Erweiterung 
-(von Portugal bis Polen) große Befürchtungen für den Arbeitsmarkt. Bestätigt haben sie sich nicht. Und wer 
-schwarz arbeitet oder Sozialleistungen missbraucht, muss ohnehin bestraft werden - egal, woher er kommt. 
-Bericht: 180 000 Osteuropäer kommen, Titelseite"
-2013-03,Main Corpus,2013-03(90).ZIP,Die Tür bleibt vorerst zu Bundesregierung wartet auf Hilfsappell der UN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Die Tür bleibt vorerst zu Bundesregierung wartet auf Hilfsappell der UN.PDF,Die Tür bleibt vorerst zu Bundesregierung wartet auf Hilfsappell der UN,die tür bleibt vorerst zu bundesregierung wartet auf hilfsappell der un,Der Tagesspiegel,der tagesspiegel,Donnerstag 7. März 2013,,POLITIK; S. 6; Ausg. 21623,301,2179,1fd1817861945605991b860321281a674fb6dbb9,,unique,keep,,no,,no,,,3380,no,,,,,"Berlin - Trotz der alarmierenden Zahl nimmt die Bundesregierung bisher keine Flüchtlinge aus Syrien auf. Das 
+2013-03,Main Corpus,2013-03(67).ZIP,Die Tür bleibt vorerst zu Bundesregierung wartet auf Hilfsappell der UN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Die Tür bleibt vorerst zu Bundesregierung wartet auf Hilfsappell der UN.PDF,Die Tür bleibt vorerst zu Bundesregierung wartet auf Hilfsappell der UN,die tür bleibt vorerst zu bundesregierung wartet auf hilfsappell der un,Der Tagesspiegel,der tagesspiegel,Donnerstag 7. März 2013,,POLITIK; S. 6; Ausg. 21623,301,2179,1fd1817861945605991b860321281a674fb6dbb9,,unique,keep,,no,,no,,,3380,no,,,,,"Berlin - Trotz der alarmierenden Zahl nimmt die Bundesregierung bisher keine Flüchtlinge aus Syrien auf. Das 
 Bundesinnenministerium wartet auf einen Hilfsappell des Hohen Flüchtlingskommissariats der Vereinten Nationen 
 (UNHCR), der die Staatengemeinschaft zur Aufnahme von syrischen Flüchtlingen auffordert. Da dieser bisher 
 ausgeblieben sei, habe die Hilfe vor Ort ""oberste Priorität"", sagte ein Sprecher des Ministeriums. Im September 
@@ -1349,7 +1229,7 @@ Deutschland ein ""verlässlicher Partner, der seine Zusagen auch einhält"", sag
 der Krise half die Regierung mit 118 Millionen Euro. Die Zahl der Syrer, die über Schlepper den Weg nach 
 Deutschland finden, steigt stetig. Allein im Januar stellten 1060 Syrer einen Asylantrag, im gesamten Jahr 2012 
 waren es 6200. Eine Abschiebung droht ihnen derzeit nicht. Sie werden einstweilig geduldet. henk"
-2013-03,Main Corpus,2013-03(90).ZIP,"Drobi, wir hauen ab! Die Tschechin Rena Dumont erzÃ¤hlt, wie sie nach Deutschland kam und Asyl sucht.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Drobi, wir hauen ab! Die Tschechin Rena Dumont erzÃ¤hlt, wie sie nach Deutschland kam und Asyl sucht.PDF","Drobi, wir hauen ab! Die Tschechin Rena Dumont erzÃ¤hlt, wie sie nach Deutschland kam und Asyl suchte -",drobi wir hauen ab die tschechin rena dumont erzãhlt wie sie nach deutschland kam und asyl suchte,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,21. März 2013,Reinhard Osteroth,"KINDERZEIT, KINDER- UND JUGENDBUCH;Drobi, wir hauen ab!; S. 48; Ausg. 13",635,3940,195059aadaaea7348d37bb2f2701581da2913e64,variant_001,regional_variant,review,,no,,no,,,4835,no,,,near_001,variant_001,"VON REINHARD OSTEROTH 
+2013-03,Main Corpus,2013-03(67).ZIP,"Drobi, wir hauen ab! Die Tschechin Rena Dumont erzÃ¤hlt, wie sie nach Deutschland kam und Asyl sucht.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Drobi, wir hauen ab! Die Tschechin Rena Dumont erzÃ¤hlt, wie sie nach Deutschland kam und Asyl sucht.PDF","Drobi, wir hauen ab! Die Tschechin Rena Dumont erzÃ¤hlt, wie sie nach Deutschland kam und Asyl suchte -",drobi wir hauen ab die tschechin rena dumont erzãhlt wie sie nach deutschland kam und asyl suchte,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,21. März 2013,Reinhard Osteroth,"KINDERZEIT, KINDER- UND JUGENDBUCH;Drobi, wir hauen ab!; S. 48; Ausg. 13",635,3940,195059aadaaea7348d37bb2f2701581da2913e64,variant_001,regional_variant,review,,no,,no,,,4835,no,,,near_001,variant_001,"VON REINHARD OSTEROTH 
 ab 14 Jahren
 Lenka kommt nach Haus. Sie Ã¶ffnet den Briefkasten. Ein blaues Kuvert fÃ¤llt ihr entgegen. Â»Wie gelÃ¤hmt 
 stehe ich im Hausflur, und mein Herz krampft sich zusammen.Â« Sie kann nicht fassen, was sie da liest: Lenka 
@@ -1395,7 +1275,7 @@ packende LektÃ¼re.
 ***
 Rena Dumont: Paradiessucher Hanser Verlag 2013; 302 S.; 14,90 â,¬
 ***"
-2013-03,Main Corpus,2013-03(90).ZIP,"Drobi, wir hauen ab! Die Tschechin Rena Dumont erzählt, wie sie nach Deutschland kam und Asyl suchte.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Drobi, wir hauen ab! Die Tschechin Rena Dumont erzählt, wie sie nach Deutschland kam und Asyl suchte.PDF","Drobi, wir hauen ab! Die Tschechin Rena Dumont erzählt, wie sie nach Deutschland kam und Asyl suchte -",drobi wir hauen ab die tschechin rena dumont erzählt wie sie nach deutschland kam und asyl suchte,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,21. März 2013,Reinhard Osteroth,KINDER- UND JUGENDBUCH; S. 48; Ausg. 13,584,3858,6843244212e05983ba0c52bd7cc2684e475ee8b3,variant_001,regional_variant,review,,no,,no,,,4754,no,,,near_001,variant_001,"VON REINHARD OSTEROTH
+2013-03,Main Corpus,2013-03(67).ZIP,"Drobi, wir hauen ab! Die Tschechin Rena Dumont erzählt, wie sie nach Deutschland kam und Asyl suchte.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Drobi, wir hauen ab! Die Tschechin Rena Dumont erzählt, wie sie nach Deutschland kam und Asyl suchte.PDF","Drobi, wir hauen ab! Die Tschechin Rena Dumont erzählt, wie sie nach Deutschland kam und Asyl suchte -",drobi wir hauen ab die tschechin rena dumont erzählt wie sie nach deutschland kam und asyl suchte,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,21. März 2013,Reinhard Osteroth,KINDER- UND JUGENDBUCH; S. 48; Ausg. 13,584,3858,6843244212e05983ba0c52bd7cc2684e475ee8b3,variant_001,regional_variant,review,,no,,no,,,4754,no,,,near_001,variant_001,"VON REINHARD OSTEROTH
 ab 14 Jahren
 Lenka kommt nach Haus. Sie öffnet den Briefkasten. Ein blaues Kuvert fällt ihr entgegen. ""Wie gelähmt stehe ich 
 im Hausflur, und mein Herz krampft sich zusammen."" Sie kann nicht fassen, was sie da liest: Lenka und ihre 
@@ -1439,7 +1319,7 @@ aber bleibt der Roman kantig, bügelt nichts zur beschaulichen Rückschau. Und i
 ***
 Rena Dumont: Paradiessucher Hanser Verlag 2013; 302 S.; 14,90 (EURO) 
 ***"
-2013-03,Main Corpus,2013-03(90).ZIP,Europa verliert.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Europa verliert.PDF,Europa verliert,europa verliert,Die Welt,die welt,Samstag 16. März 2013,Michael Stürmer,TITEL; Kommentar; S. 1; Ausg. 64,358,2534,412526437045240db773098c8060f067d1276f76,,unique,drop,commentary_noncore,no,,no,,,3828,yes,commentary_noncore,,,,"Waffen liefern an die syrischen Rebellen? Frankreich und Großbritannien sind dafür, Deutschland und die Mehrzahl 
+2013-03,Main Corpus,2013-03(67).ZIP,Europa verliert.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Europa verliert.PDF,Europa verliert,europa verliert,Die Welt,die welt,Samstag 16. März 2013,Michael Stürmer,TITEL; Kommentar; S. 1; Ausg. 64,358,2534,412526437045240db773098c8060f067d1276f76,,unique,drop,commentary_noncore,no,,no,,,3828,yes,commentary_noncore,,,,"Waffen liefern an die syrischen Rebellen? Frankreich und Großbritannien sind dafür, Deutschland und die Mehrzahl 
 der EU-Europäer dagegen. Beide Seiten haben gute Gründe. Europa aber gehört, indem es wieder einmal zerfällt, 
 zu den Verlierern. Als der Aufruhr gegen das Assad-Regime in den Bürgerkrieg überging, beschloss die EU, keine 
 Waffen zu liefern. Das geschah in der sympathischen, aber unrealistischen Hoffnung, bald würden beide Seiten 
@@ -1466,19 +1346,7 @@ Deutschland verzichtet auf alle Gestaltung, wie zuvor in Sachen Libyen und Mali.
 anderen verlassen. Wenn es zur Sache geht, werden alle schönen Bekenntnisse vom Winde verweht.
 
 Europa verliert"
-2013-03,Main Corpus,2013-03(90).ZIP,Fach-Vortrag über weibliche Einwanderer.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Fach-Vortrag über weibliche Einwanderer.PDF,Fach-Vortrag über weibliche Einwanderer,fachvortrag über weibliche einwanderer,Rheinische Post,rheinische post,13. März 2013 Mittwoch,,,168,1209,3f2ad2b53078a2d4098b5617c2f6de4ec479b1b8,,unique,keep,,no,,no,,,1637,no,,,,,"(lest) Die Einwanderung ab Mitte der 50er Jahre war nicht nur männlich geprägt: Viele Frauen kamen, oftmals 
-sogar alleine, zum Arbeiten in die Bundesrepublik. In einem Fachvortrag wendet sich Bengü Kocatürk-Schuster, 
-wissenschaftliche Mitarbeiterin im Dokumentationszentrum im Museum über die Migration in Deutschland (DOMiD), 
-diesen spannenden Biografien zu. ""Es geht vor allem darum, mit welchen Erwartungen die Frauen nach 
-Deutschland kamen und welche Lebensrealität sie hier empfing"", sagt Kocatürk-Schuster. 36 Prozent der 
-weiblichen Einwanderer stammten Mitte der 50er Jahre aus Griechenland, gefolgt von Jugoslawinnen (22,5 
-Prozent), Italienerinnen (15 Prozent) und Türkinnen (12,8). Auch das Thema der Vertragsarbeiterinnen in der DDR 
-wird angeschnitten. In welchen Bereichen die Migrantinnen eingesetzt wurden, wie unterbezahlt sie waren und in 
-welche Ghettoisierung sie damals gezwungen wurden, beschreibt der 90-minütige Vortrag. Untermalt wird er von 
-Bildern aus den 50er bis 70er Jahren, Arbeitsverträgen und Notizbuch-Einträge der Frauen. Der Vortrag ""Auf der 
-Straße nach Norden. Aspekte weiblicher Einwanderung nach Deutschland"" beginnt um 19 Uhr im Haus der Kirche, 
-Bastionstraße 6."
-2013-03,Main Corpus,2013-03(90).ZIP,Faustschläge für Flüchtlinge POLIZEI In Neumünster landeten protestierende Asylsuchende und ihre Unt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Faustschläge für Flüchtlinge POLIZEI In Neumünster landeten protestierende Asylsuchende und ihre Unt.PDF,Faustschläge für Flüchtlinge; POLIZEI In Neumünster landeten protestierende Asylsuchende und ihre,faustschläge für flüchtlinge polizei in neumünster landeten protestierende asylsuchende und ihre,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 20. März 2013,KRISTIANA LUDWIG,NORD AKTUELL; S. 22,406,3043,5cb6a7412280eb418a538ecb724cac4cf32ed489,,unique,keep,,no,,no,,,4217,no,,,,,"AUS NEUMÜNSTER KRISTIANA LUDWIG
+2013-03,Main Corpus,2013-03(67).ZIP,Faustschläge für Flüchtlinge POLIZEI In Neumünster landeten protestierende Asylsuchende und ihre Unt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Faustschläge für Flüchtlinge POLIZEI In Neumünster landeten protestierende Asylsuchende und ihre Unt.PDF,Faustschläge für Flüchtlinge; POLIZEI In Neumünster landeten protestierende Asylsuchende und ihre,faustschläge für flüchtlinge polizei in neumünster landeten protestierende asylsuchende und ihre,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 20. März 2013,KRISTIANA LUDWIG,NORD AKTUELL; S. 22,406,3043,5cb6a7412280eb418a538ecb724cac4cf32ed489,,unique,keep,,no,,no,,,4217,no,,,,,"AUS NEUMÜNSTER KRISTIANA LUDWIG
 Vor der schleswig-holsteinischen Landesunterkunft für Asylbewerber hat die Polizei am Montag eine Demonstration 
 von Flüchtlingsaktivisten gewaltsam aufgelöst. Knapp 60 Menschen hatten vor dem Tor der ehemaligen Scholtz-
 Kaserne in Neumünster gegen die Unterbringung in den Gebäuden protestiert.
@@ -1512,7 +1380,7 @@ Umgang der Polizisten mit den Demonstranten, die im Krankenhaus behandelt wurden
 angemessen gewesen.
 Die Aktivisten der Refugees' Revolution Bus Tour kritisieren dagegen das Vorgehen der Polizei als extrem 
 eskalativ . Die politische Arbeit der Flüchtlinge sei sabotiert, kriminalisiert und gewaltvoll verhindert worden."
-2013-03,Main Corpus,2013-03(90).ZIP,"Flucht zurück _Wir können nicht mehr denken_, sagt Darlinton. Sie sind erschöpft. Vor zwei Wochen is.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Flucht zurück _Wir können nicht mehr denken_, sagt Darlinton. Sie sind erschöpft. Vor zwei Wochen is.PDF","Flucht zurück ""Wir können nicht mehr denken"", sagt Darlinton. Sie sind erschöpft. Vor zwei Wochen ist der",flucht zurück wir können nicht mehr denken sagt darlinton sie sind erschöpft vor zwei wochen ist der,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 21. März 2013,KRISTIANA LUDWIG,THEMEN DES TAGES; S. 05,1453,9416,4ba2f8e09ca7defda4b586cc4a0320df6b3d2c08,,unique,keep,,no,,no,,,10832,no,,,,,"AUS HAMBURG UND NEUMÜNSTER KRISTIANA LUDWIG
+2013-03,Main Corpus,2013-03(67).ZIP,"Flucht zurück _Wir können nicht mehr denken_, sagt Darlinton. Sie sind erschöpft. Vor zwei Wochen is.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Flucht zurück _Wir können nicht mehr denken_, sagt Darlinton. Sie sind erschöpft. Vor zwei Wochen is.PDF","Flucht zurück ""Wir können nicht mehr denken"", sagt Darlinton. Sie sind erschöpft. Vor zwei Wochen ist der",flucht zurück wir können nicht mehr denken sagt darlinton sie sind erschöpft vor zwei wochen ist der,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 21. März 2013,KRISTIANA LUDWIG,THEMEN DES TAGES; S. 05,1453,9416,4ba2f8e09ca7defda4b586cc4a0320df6b3d2c08,,unique,keep,,no,,no,,,10832,no,,,,,"AUS HAMBURG UND NEUMÜNSTER KRISTIANA LUDWIG
 Nur bedrucktes, gefaltetes Papier. Er fühlt, wie die Hände des Polizisten in seinen Jackentaschen suchen, aber 
 Patras bewegt sich nicht. Die Schultern an der Garagentür, die Füße im Schnee. Von der Autowerkstatt aus kann 
 er die Kaserneneinfahrt sehen das Tor zur Flüchtlingsunterkunft in Neumünster. Seine Hand pocht vor Schmerz. 
@@ -1615,7 +1483,7 @@ Wenn du achtzig bist. Was machst du dann? Er bricht ab. Geht ein paar Schritte z
 über die Augen. Einer legt ihm den Arm um die Schultern.
  Wir brauchen keine Erlaubnis, wenn wir kämpfen wollen 
 NIKMAL, FLÜCHTLING"
-2013-03,Main Corpus,2013-03(90).ZIP,Flüchtlinge angekommen Neues Blaubeurer Asylbewerberheim bewältigt erste Aufnahmewelle gut - Harte S.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Flüchtlinge angekommen Neues Blaubeurer Asylbewerberheim bewältigt erste Aufnahmewelle gut - Harte S.PDF,Flüchtlinge angekommen Neues Blaubeurer Asylbewerberheim bewältigt erste Aufnahmewelle gut - Harte,flüchtlinge angekommen neues blaubeurer asylbewerberheim bewältigt erste aufnahmewelle gut  harte,Südwest Presse,südwest presse,Dienstag 19. März 2013,,Alb-Donau und Region; S. 19,613,4259,4346294c8ab65100ec1d000bde01704e1df7eade,,unique,keep,,no,,no,,,5350,no,,,,,"""Hier in Deutschland sind wir sicher"": Man merkt dem 53-jährigen Iraner Karim an, wie froh er ist, mit seinem Sohn 
+2013-03,Main Corpus,2013-03(67).ZIP,Flüchtlinge angekommen Neues Blaubeurer Asylbewerberheim bewältigt erste Aufnahmewelle gut - Harte S.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Flüchtlinge angekommen Neues Blaubeurer Asylbewerberheim bewältigt erste Aufnahmewelle gut - Harte S.PDF,Flüchtlinge angekommen Neues Blaubeurer Asylbewerberheim bewältigt erste Aufnahmewelle gut - Harte,flüchtlinge angekommen neues blaubeurer asylbewerberheim bewältigt erste aufnahmewelle gut  harte,Südwest Presse,südwest presse,Dienstag 19. März 2013,,Alb-Donau und Region; S. 19,613,4259,4346294c8ab65100ec1d000bde01704e1df7eade,,unique,keep,,no,,no,,,5350,no,,,,,"""Hier in Deutschland sind wir sicher"": Man merkt dem 53-jährigen Iraner Karim an, wie froh er ist, mit seinem Sohn 
 der politischer Willkür in seinem Heimatland entkommen zu sein. Andererseits sind ihm die Lebensumstände 
 während der Flucht ein Schrecken: ""Aber wir haben keine andere Wahl."" Immerhin bewohnt der sehr besonnene 
 und gebildete Mann nun in Blaubeuren mit seinem großen Sohn ein eigenes Zimmer. Im Auffanglager in Karlsruhe 
@@ -1662,7 +1530,7 @@ Graphic
 Der zehnjährige Hamid wohnt im neu eingerichteten Blaubeurer Asylbewerberheim zusammen mit seiner Mutter 
 Masome und seinem kleinen Bruder Mohamed in einem Zimmer: Er lernt schon fleißig Deutsch. Foto: Thomas 
 Spanhel"
-2013-03,Main Corpus,2013-03(90).ZIP,Flüchtlinge fast frei SOZIALES Flüchtlinge sollen in eigenen Wohnungen leben dürfen - statt in Samme.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Flüchtlinge fast frei SOZIALES Flüchtlinge sollen in eigenen Wohnungen leben dürfen - statt in Samme.PDF,Flüchtlinge fast frei SOZIALES Flüchtlinge sollen in eigenen Wohnungen leben dürfen - statt in,flüchtlinge fast frei soziales flüchtlinge sollen in eigenen wohnungen leben dürfen  statt in,"taz, die tageszeitung",taz die tageszeitung,Dienstag 05. März 2013,JEAN-PHILIPP BAECK,BREMEN AKTUELL; S. 24,479,3659,62b83fbb57dd78ddd348ec2acf9742039e5dc391,,unique,keep,,no,,no,,,4640,no,,,,,"VON JEAN-PHILIPP BAECK
+2013-03,Main Corpus,2013-03(67).ZIP,Flüchtlinge fast frei SOZIALES Flüchtlinge sollen in eigenen Wohnungen leben dürfen - statt in Samme.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Flüchtlinge fast frei SOZIALES Flüchtlinge sollen in eigenen Wohnungen leben dürfen - statt in Samme.PDF,Flüchtlinge fast frei SOZIALES Flüchtlinge sollen in eigenen Wohnungen leben dürfen - statt in,flüchtlinge fast frei soziales flüchtlinge sollen in eigenen wohnungen leben dürfen  statt in,"taz, die tageszeitung",taz die tageszeitung,Dienstag 05. März 2013,JEAN-PHILIPP BAECK,BREMEN AKTUELL; S. 24,479,3659,62b83fbb57dd78ddd348ec2acf9742039e5dc391,,unique,keep,,no,,no,,,4640,no,,,,,"VON JEAN-PHILIPP BAECK
 Flüchtlinge sollen in Bremen nach sechs Wochen eine eigene Wohnung beziehen können. So soll es die 
 Sozialdeputation am Donnerstag beschließen. Bislang mussten sie zwölf Monate in Sammelunterkünften leben, 
 einst waren es drei Jahre. Mit vier neuen Stellen sollen BeraterInnen Geflüchteten helfen, eine eigene Bleibe zu 
@@ -1702,7 +1570,7 @@ Ausnahme erst nach der Beteiligungsrunde hinzugefügt worden sei, nennt Oerter i
 kann die endgültige Entscheidung Jahre dauern. Alle Flüchtlinge sollten gleichbehandelt werden.
  Derjenige, der eine Einrichtung betreibt, soll sie abschaffen 
 GUNDULA OERTER, FLÜCHTLINGS-INITIATIVe"
-2013-03,Main Corpus,2013-03(90).ZIP,"Flüchtlingsheime machen krank ASYL Die Flüchtlinge, die in Berlin in Zelten leben und auf ihre unwür.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Flüchtlingsheime machen krank ASYL Die Flüchtlinge, die in Berlin in Zelten leben und auf ihre unwür.PDF","Flüchtlingsheime machen krank ASYL Die Flüchtlinge, die in Berlin in Zelten leben und auf ihre unwürdigen",flüchtlingsheime machen krank asyl die flüchtlinge die in berlin in zelten leben und auf ihre unwürdigen,"taz, die tageszeitung",taz die tageszeitung,Samstag 16. März 2013,EIB,BREMEN AKTUELL; S. 48,386,2580,454423c3d8774614fa6fe7e8876a9c9f3897bc1e,,unique,keep,,no,,no,,,3657,no,,,,,"Worum geht's denn hier? , will die ältere Frau wissen. Um Flüchtlinge, die auf die menschenunwürdigen 
+2013-03,Main Corpus,2013-03(67).ZIP,"Flüchtlingsheime machen krank ASYL Die Flüchtlinge, die in Berlin in Zelten leben und auf ihre unwür.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Flüchtlingsheime machen krank ASYL Die Flüchtlinge, die in Berlin in Zelten leben und auf ihre unwür.PDF","Flüchtlingsheime machen krank ASYL Die Flüchtlinge, die in Berlin in Zelten leben und auf ihre unwürdigen",flüchtlingsheime machen krank asyl die flüchtlinge die in berlin in zelten leben und auf ihre unwürdigen,"taz, die tageszeitung",taz die tageszeitung,Samstag 16. März 2013,EIB,BREMEN AKTUELL; S. 48,386,2580,454423c3d8774614fa6fe7e8876a9c9f3897bc1e,,unique,keep,,no,,no,,,3657,no,,,,,"Worum geht's denn hier? , will die ältere Frau wissen. Um Flüchtlinge, die auf die menschenunwürdigen 
 Bedingungen aufmerksam machen wollen, unter denen sie in Deutschland leben müssen , bekommt sie zur 
 Antwort. Ach so. Na, das ist ja nichts Neues , sagt sie und geht weiter. In ihrem Rücken der Marktplatz, auf dem 
 eine Menschenmenge den Erzählungen der TeilnehmerInnen der Refugees' Revolution Bus Tour lauschen, die 
@@ -1729,7 +1597,7 @@ Auch ihn selbst habe die Frustration krank gemacht, erzählt er später. Die Fra
 gekommen sei, kann er nicht beantworten. Ich weiß oft nicht, was ich gestern gemacht habe. Dennoch hat er nicht 
 resigniert. Mit den anderen, mit denen er unterwegs ist und seit Oktober in Berlin in Zelten lebt, teilt er die Wut auf 
 die Gesetze. Und auf die Menschen, die sie gemacht haben und nicht ändern. EIB"
-2013-03,Main Corpus,2013-03(90).ZIP,FREMDE FEDER · FANNY DETHLOFF_ Brauchen echte Perspektiven.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\FREMDE FEDER · FANNY DETHLOFF_ Brauchen echte Perspektiven.PDF,FREMDE FEDER · FANNY DETHLOFF: Brauchen echte Perspektiven,fremde feder  fanny dethloff brauchen echte perspektiven,Südwest Presse,südwest presse,Mittwoch 6. März 2013,,Politik; S. 4,345,2639,e676b7b80e4f6f52e2c27c2f831b8b89d6443cf3,,unique,keep,,no,,no,,,3226,no,,,,,"Mit der Rückkehr der Kosovarin Gazale Salame nach Deutschland wurde einer inhumanen Flüchtlingspolitik ein 
+2013-03,Main Corpus,2013-03(67).ZIP,FREMDE FEDER · FANNY DETHLOFF_ Brauchen echte Perspektiven.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\FREMDE FEDER · FANNY DETHLOFF_ Brauchen echte Perspektiven.PDF,FREMDE FEDER · FANNY DETHLOFF: Brauchen echte Perspektiven,fremde feder  fanny dethloff brauchen echte perspektiven,Südwest Presse,südwest presse,Mittwoch 6. März 2013,,Politik; S. 4,345,2639,e676b7b80e4f6f52e2c27c2f831b8b89d6443cf3,,unique,keep,,no,,no,,,3226,no,,,,,"Mit der Rückkehr der Kosovarin Gazale Salame nach Deutschland wurde einer inhumanen Flüchtlingspolitik ein 
 Ende bereitet. Doch noch wiederholen sich solche Fälle. Wir wissen, dass viele Menschen ""De-facto-Inländer"" sind, 
 deren Aufenthalt sich nach fünf Jahren so verstetigt hat, dass sie sich in unserem Land verwurzelt haben. Sie 
 wieder zu entwurzeln und ins Nichts abzuschieben, muss auch gesetzlich unterbunden werden. Ein ewiger Kreis 
@@ -1758,7 +1626,7 @@ und ebenso eine unabhängige Verfahrensberatung bei Beginn des Asylverfahrens.
 Fanny Dethloff, Bundesvorsitzende der Ökumenischen Bundesarbeitsgemeinschaft Asyl in der Kirche.
 
 FREMDE FEDER · FANNY DETHLOFF: Brauchen echte Perspektiven"
-2013-03,Main Corpus,2013-03(90).ZIP,Friedrich droht mit Veto Minister will Zuwanderung aus Südosteuropa stoppen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Friedrich droht mit Veto Minister will Zuwanderung aus Südosteuropa stoppen.PDF,Friedrich droht mit Veto; Minister will Zuwanderung aus Südosteuropa stoppen,friedrich droht mit veto minister will zuwanderung aus südosteuropa stoppen,Südwest Presse,südwest presse,Montag 4. März 2013,,Politik; S. 2,330,2534,ea90fc1912a10063a4ab7d5372c4d7a7a9e5d7b1,,unique,keep,,no,,no,,,3833,no,,,,,"Die Debatte über den Zustrom sogenannter Armutsflüchtlinge aus Südosteuropa nach Deutschland wird schärfer. 
+2013-03,Main Corpus,2013-03(67).ZIP,Friedrich droht mit Veto Minister will Zuwanderung aus Südosteuropa stoppen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Friedrich droht mit Veto Minister will Zuwanderung aus Südosteuropa stoppen.PDF,Friedrich droht mit Veto; Minister will Zuwanderung aus Südosteuropa stoppen,friedrich droht mit veto minister will zuwanderung aus südosteuropa stoppen,Südwest Presse,südwest presse,Montag 4. März 2013,,Politik; S. 2,330,2534,ea90fc1912a10063a4ab7d5372c4d7a7a9e5d7b1,,unique,keep,,no,,no,,,3833,no,,,,,"Die Debatte über den Zustrom sogenannter Armutsflüchtlinge aus Südosteuropa nach Deutschland wird schärfer. 
 Bundesinnenminister Hans-Peter Friedrich (CSU) will notfalls mit einem Veto den Wegfall der Grenzkontrollen für 
 Bulgarien und Rumänien verhindern.
 Im Mittelpunkt der Debatte stehen Sinti und Roma. Die europäischen Innenminister wollen am Donnerstag über die 
@@ -1786,7 +1654,7 @@ Der Verband der Deutschen Sinti und Roma klagt unterdessen über anhaltende Voru
 wenn über uns im Zusammenhang mit Armut, Kriminalität oder Prostitution geredet wird, sieht man uns als 
 einheitliche Gruppe"", sagte der Vorsitzende in Rheinland-Pfalz, Jacques Delfeld. ""Dass die meisten Sinti und Roma 
 hier deutsche Staatsbürger und überhaupt nicht arm sind, spielt keine Rolle."""
-2013-03,Main Corpus,2013-03(90).ZIP,Friedrich will Flüchtlinge aufnehmen BÜRGERKRIEG IN SYRIEN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Friedrich will Flüchtlinge aufnehmen BÜRGERKRIEG IN SYRIEN.PDF,Friedrich will Flüchtlinge aufnehmen BÜRGERKRIEG IN SYRIEN,friedrich will flüchtlinge aufnehmen bürgerkrieg in syrien,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 20. März 2013,,AKTUELLES; S. 02,144,1074,a492528a40b7afdf716b2190ecba79e09f80ffe0,,unique,keep,,no,,no,,,2044,no,,,,,"BÜRGERKRIEG IN SYRIEN
+2013-03,Main Corpus,2013-03(67).ZIP,Friedrich will Flüchtlinge aufnehmen BÜRGERKRIEG IN SYRIEN.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Friedrich will Flüchtlinge aufnehmen BÜRGERKRIEG IN SYRIEN.PDF,Friedrich will Flüchtlinge aufnehmen BÜRGERKRIEG IN SYRIEN,friedrich will flüchtlinge aufnehmen bürgerkrieg in syrien,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 20. März 2013,,AKTUELLES; S. 02,144,1074,a492528a40b7afdf716b2190ecba79e09f80ffe0,,unique,keep,,no,,no,,,2044,no,,,,,"BÜRGERKRIEG IN SYRIEN
 BERLIN Innenminister Hans-Peter Friedrich (CSU) ist dazu bereit, eine größere Anzahl von Flüchtlingen aus dem 
 Bürgerkriegsland Syrien nach Deutschland zu holen. Wie es aus Kreisen des Ministeriums hieß, will Friedrich sich 
 im Laufe der Woche unter anderem bei der zuständigen EU-Kommissarin Cecilia Malmström für ein 
@@ -1799,7 +1667,7 @@ Vertretern geplant.
 Es könnte sich um Tausende Flüchtlinge handeln, die aufgenommen werden. Im Blick sind dabei auch die vermehrt 
 in den Flüchtlingscamps landenden unbegleiteten Kinder. Schätzungen gehen davon aus, dass im Juni erste 
 Flüchtlinge aus Syrien kommen können. (epd)"
-2013-03,Main Corpus,2013-03(90).ZIP,Gold für den Flüchtling Kombinierer Frenzel beschert Deutschland den ersten Titelgewinn bei der Ski-.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Gold für den Flüchtling Kombinierer Frenzel beschert Deutschland den ersten Titelgewinn bei der Ski-.PDF,Gold für den Flüchtling Kombinierer Frenzel beschert Deutschland den ersten Titelgewinn bei der Ski-WM,gold für den flüchtling kombinierer frenzel beschert deutschland den ersten titelgewinn bei der skiwm,Die Welt,die welt,Freitag 1. März 2013,Melanie Haack,SPORT; S. 21; Ausg. 51,829,5391,8b02178a9e3e5f26e947fe6fbb9df2b684b4eaf3,,unique,keep,,no,,no,,,6264,no,,,,,"Tesero
+2013-03,Main Corpus,2013-03(67).ZIP,Gold für den Flüchtling Kombinierer Frenzel beschert Deutschland den ersten Titelgewinn bei der Ski-.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Gold für den Flüchtling Kombinierer Frenzel beschert Deutschland den ersten Titelgewinn bei der Ski-.PDF,Gold für den Flüchtling Kombinierer Frenzel beschert Deutschland den ersten Titelgewinn bei der Ski-WM,gold für den flüchtling kombinierer frenzel beschert deutschland den ersten titelgewinn bei der skiwm,Die Welt,die welt,Freitag 1. März 2013,Melanie Haack,SPORT; S. 21; Ausg. 51,829,5391,8b02178a9e3e5f26e947fe6fbb9df2b684b4eaf3,,unique,keep,,no,,no,,,6264,no,,,,,"Tesero
 Eric Frenzel blieb nur die Flucht nach vorn. Elf Konkurrenten schlossen sich hinter ihm auf der Langlaufstrecke zur 
 Jagd auf ihn zusammen, wollten ihm das so sehnlich erträumte WM-Gold entreißen. Vier Runden, insgesamt zehn 
 Kilometer, musste Frenzel durchhalten. Als er nach der Hälfte der Strecke ins Stadion kam, rief der Sprecher nur 
@@ -1856,7 +1724,7 @@ Graphic
 dpa/Hendrik Schmidt
 Mit Telemark über die Ziellinie: Weltmeister Eric Frenzel zelebriert seinen Sieg
 Hendrik Schmidt"
-2013-03,Main Corpus,2013-03(90).ZIP,Gutscheine oder Bargeld FLÜCHTLINGSPOLITIK Niedersachsens Innenminister Boris Pistorius stellt es de.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Gutscheine oder Bargeld FLÜCHTLINGSPOLITIK Niedersachsens Innenminister Boris Pistorius stellt es de.PDF,Gutscheine oder Bargeld; FLÜCHTLINGSPOLITIK Niedersachsens Innenminister Boris Pistorius stellt es den,gutscheine oder bargeld flüchtlingspolitik niedersachsens innenminister boris pistorius stellt es den,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 07. März 2013,TERESA HAVLICEK,NORD AKTUELL; S. 21,451,3663,bb04e6d0079ad6e6b4173c7658559854a04a3f36,,unique,keep,,no,,no,,,5291,no,,,,,"VON TERESA HAVLICEK
+2013-03,Main Corpus,2013-03(67).ZIP,Gutscheine oder Bargeld FLÜCHTLINGSPOLITIK Niedersachsens Innenminister Boris Pistorius stellt es de.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Gutscheine oder Bargeld FLÜCHTLINGSPOLITIK Niedersachsens Innenminister Boris Pistorius stellt es de.PDF,Gutscheine oder Bargeld; FLÜCHTLINGSPOLITIK Niedersachsens Innenminister Boris Pistorius stellt es den,gutscheine oder bargeld flüchtlingspolitik niedersachsens innenminister boris pistorius stellt es den,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 07. März 2013,TERESA HAVLICEK,NORD AKTUELL; S. 21,451,3663,bb04e6d0079ad6e6b4173c7658559854a04a3f36,,unique,keep,,no,,no,,,5291,no,,,,,"VON TERESA HAVLICEK
 Knapp drei Wochen nach Amtsantritt hat Niedersachsens Innenminister Boris Pistorius (SPD) eine der 
 Ankündigungen aus dem rot-grünen Koalitionsvertrag umgesetzt: Sein Ministerium hat Niedersachsens 
 Landkreisen und kreisfreien Städten jetzt offiziell freigestellt, Sozialleistungen nach dem 
@@ -1898,7 +1766,7 @@ Wertgutscheinpraxis abzuschaffen, durch deutlichere Vorgaben Nachdruck verleiht 
 Selbst im schwarz-gelb regierten Hessen gelten deutlichere Regeln, führt man an. Dort müssen sich Kommunen 
 eine Genehmigung beim Regierungspräsidium einholen, wenn sie von der Barzahlung für Flüchtlinge abweichen 
 und Gutscheine ausgeben wollen."
-2013-03,Main Corpus,2013-03(90).ZIP,Handwerk beklagt Zuzug von Rumänen und Bulgaren.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Handwerk beklagt Zuzug von Rumänen und Bulgaren.PDF,Handwerk beklagt Zuzug von Rumänen und Bulgaren,handwerk beklagt zuzug von rumänen und bulgaren,Rheinische Post,rheinische post,8. März 2013 Freitag,von Antje Höning und Eva Quadbeck,,389,2851,e4cb1cc42f936d824d6aaa4d390dc51b49641e4f,,unique,keep,,no,,no,,,3840,no,,,,,"Zuzügler aus Osteuropa versuchen als Handwerker in Deutschland Fuß zu fassen. Sie haben Anrecht auf Hartz 
+2013-03,Main Corpus,2013-03(67).ZIP,Handwerk beklagt Zuzug von Rumänen und Bulgaren.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Handwerk beklagt Zuzug von Rumänen und Bulgaren.PDF,Handwerk beklagt Zuzug von Rumänen und Bulgaren,handwerk beklagt zuzug von rumänen und bulgaren,Rheinische Post,rheinische post,8. März 2013 Freitag,von Antje Höning und Eva Quadbeck,,389,2851,e4cb1cc42f936d824d6aaa4d390dc51b49641e4f,,unique,keep,,no,,no,,,3840,no,,,,,"Zuzügler aus Osteuropa versuchen als Handwerker in Deutschland Fuß zu fassen. Sie haben Anrecht auf Hartz 
 IV. von Antje Höning und Eva Quadbeck Berlin/Düsseldorf Das Handwerk in NRW ist besorgt wegen der 
 Zuwanderung unqualifizierter Dienstleister aus Osteuropa. 
 ""Mehr als 1000 Rumänen und Bulgaren haben sich in den vergangenen beiden Jahren allein bei der 
@@ -1927,7 +1795,7 @@ gestern von seinen Kollegen aus Bulgarien und Rumänien am Rande des EU-Innenmin
 Missbrauch schärfer polizeilich vorzugehen.
 
 Handwerk beklagt Zuzug von Rumänen und Bulgaren"
-2013-03,Main Corpus,2013-03(90).ZIP,Heimisch geworden in der Fremde Zwei Frauen berichteten beim Nachbarschaftstreffen in Laichingen - F.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Heimisch geworden in der Fremde Zwei Frauen berichteten beim Nachbarschaftstreffen in Laichingen - F.PDF,Heimisch geworden in der Fremde; Zwei Frauen berichteten beim Nachbarschaftstreffen in Laichingen -,heimisch geworden in der fremde zwei frauen berichteten beim nachbarschaftstreffen in laichingen,Südwest Presse,südwest presse,Dienstag 26. März 2013,,Laichinger Tagblatt; S. 19,530,3546,8711e8a16102c93d3b02e270c521fd133533f9d4,,unique,keep,,no,,no,,,4809,no,,,,,"Fernanda Beck fällt auf. Die Frau mit dunkler Hautfarbe ist Brasilianerin und hat bis zu ihrem 28. Lebensjahr in ihrer 
+2013-03,Main Corpus,2013-03(67).ZIP,Heimisch geworden in der Fremde Zwei Frauen berichteten beim Nachbarschaftstreffen in Laichingen - F.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Heimisch geworden in der Fremde Zwei Frauen berichteten beim Nachbarschaftstreffen in Laichingen - F.PDF,Heimisch geworden in der Fremde; Zwei Frauen berichteten beim Nachbarschaftstreffen in Laichingen -,heimisch geworden in der fremde zwei frauen berichteten beim nachbarschaftstreffen in laichingen,Südwest Presse,südwest presse,Dienstag 26. März 2013,,Laichinger Tagblatt; S. 19,530,3546,8711e8a16102c93d3b02e270c521fd133533f9d4,,unique,keep,,no,,no,,,4809,no,,,,,"Fernanda Beck fällt auf. Die Frau mit dunkler Hautfarbe ist Brasilianerin und hat bis zu ihrem 28. Lebensjahr in ihrer 
 südamerikanischen Heimat gelebt. Die Liebe hat sie nach Deutschland geführt, zuerst nach Kassel zu ihrem Mann, 
 dann mit ihm des Berufs wegen nach Münsingen. Die 46-Jährige fühlt sich dort, fern ihrer ursprünglichen Heimat, 
 inzwischen wohl. Zu verdanken hat sie das einerseits ihrer direkten Nachbarschaft, die sie sehr freundlich und offen 
@@ -1965,20 +1833,7 @@ denn sie bringen uns Positives mit.""
 Graphic
  
 Frauen spielten Szenen aus den ""Bremer Stadtmusikanten"". Foto: Sabine Graser-Kühnle"
-2013-03,Main Corpus,2013-03(90).ZIP,Immer mehr Armutsflüchtlinge.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Immer mehr Armutsflüchtlinge.PDF,Immer mehr Armutsflüchtlinge,immer mehr armutsflüchtlinge,Rheinische Post,rheinische post,8. März 2013 Freitag,,,200,1385,72449f1edad3f880686a44a67efb947be280e0ff,,unique,keep,,no,,no,,,2189,no,,,,,"Die Zahl der Zuzügler aus Rumänien und Bulgarien ist drastisch gestiegen. Berlin (may-/qua) Bulgaren und 
-Rumänen suchen in immer größerer Zahl ihr Glück in Deutschland. ""Wir haben eine sehr dynamische Entwicklung 
-nach oben"", sagte der Vorstand der Bundesagentur für Arbeit, Heinrich Alt. Der Anstieg erkläre sich vor allem 
-dadurch, dass weniger Bulgaren und Rumänen nach Spanien und Italien gingen, wo sich die wirtschaftlichen 
-Bedingungen stark verschlechtert hätten. Nach Zahlen des Bundesinnenministeriums, die unserer Zeitung 
-vorliegen, zogen im Jahr 2011 insgesamt rund 146 000 Bulgaren und Rumänen nach Deutschland. 2012 waren es 
-allein bis Oktober schon mehr als 153 000. Zum Vergleich: Im Jahr 2007 lag die Zahl bei nur 63 000. Unter den 
-Zuwanderern aus Osteuropa sind viele Armutsflüchtlinge: Fast 50 Prozent der Bulgaren gelten einer EU-Statistik 
-zufolge als ""armutsgefährdet"". Bei den Rumänen sind es 40 Prozent. Der EU-Durchschnitt beträgt 24 Prozent. 
-Nach Deutschland kommen auch Roma aus Bulgarien und Rumänien, die in ihren Heimatländern eine Minderheit 
-sind und dort oft sozial ausgegrenzt leben. Vor diesem Hintergrund blockierte Bundesinnenminister Hans-Peter 
-Friedrich (CSU) gestern in Brüssel die Aufhebung der Grenzkontrollen innerhalb der EU für Rumänien und 
-Bulgarien. Zudem forderte er eine Wiedereinreise-Sperre für Sozialbetrüger. Wirtschaft Seite"
-2013-03,Main Corpus,2013-03(90).ZIP,"MITARBEITER DER WOCHE Der Pfleger, der sich für Flüchtlinge einsetzt.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\MITARBEITER DER WOCHE Der Pfleger, der sich für Flüchtlinge einsetzt.PDF","MITARBEITER DER WOCHE; Der Pfleger, der sich für Flüchtlinge einsetzt",mitarbeiter der woche der pfleger der sich für flüchtlinge einsetzt,Der Tagesspiegel,der tagesspiegel,Montag 11. März 2013,,BERLIN_EXTRA; S. 12; Ausg. 21627,165,1163,1bac4e26d99a83651b3283a1f4a0303b09635428,,unique,keep,,no,,no,,,1866,no,,,,,"Name
+2013-03,Main Corpus,2013-03(67).ZIP,"MITARBEITER DER WOCHE Der Pfleger, der sich für Flüchtlinge einsetzt.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\MITARBEITER DER WOCHE Der Pfleger, der sich für Flüchtlinge einsetzt.PDF","MITARBEITER DER WOCHE; Der Pfleger, der sich für Flüchtlinge einsetzt",mitarbeiter der woche der pfleger der sich für flüchtlinge einsetzt,Der Tagesspiegel,der tagesspiegel,Montag 11. März 2013,,BERLIN_EXTRA; S. 12; Ausg. 21627,165,1163,1bac4e26d99a83651b3283a1f4a0303b09635428,,unique,keep,,no,,no,,,1866,no,,,,,"Name
 Khaled Davrisch, 25
 Beruf
 Pfleger auf der Komfortstation
@@ -1994,16 +1849,7 @@ Türkisch) arbeitet er nun in der Komfortstation des Humboldt-Klinikums, wo Priv
 sich leisten können, behandelt werden. Was er ""Jugendliche ohne Grenzen"" verdankt, hat Davrisch aber nicht 
 vergessen: Er engagiert sich als Koordinator und organisiert Konferenzen, auch das Flüchtlingscamp auf dem 
 Oranienplatz hat er mehrfach besucht.Foto: Mike Wolff/Text: uba"
-2013-03,Main Corpus,2013-03(90).ZIP,Mobile Redaktion in Wachtendonk.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Mobile Redaktion in Wachtendonk.PDF,Mobile Redaktion in Wachtendonk,mobile redaktion in wachtendonk,Rheinische Post,rheinische post,20. März 2013 Mittwoch,,,130,916,33a47d2e70a30d24f2afae3353f45b29f4f9496f,,unique,keep,,no,,no,,,1273,no,,,,,"Wachtendonk (RP) ""Ärger um Asylunterkunft: Wie und wo sollen Flüchtlinge in Wachtendonk leben?"" - das ist das 
-Thema der ""Mobilen Redaktion"", mit der die RP am morgigen Donnerstag in Wachtendonk Station macht. Seit 
-Monaten sorgt die Unterbringung der Asylsuchenden für Schlagzeilen. Erst recht, nachdem der Gemeinderat 
-beschlossen hat, ein neues Haus für diese Menschen auf einem Grundstück im Bereich Lessingstraße/Auf dem 
-Bock zu bauen. Alle sind sich einig, dass ein Leben in den Containern am Ostring nicht mehr zumutbar ist. Gegen 
-die Dimension des an der Lessingstraße geplanten Gebäudes erheben sich allerdings Widersprüche. Es gibt 
-morgen zwischen 10 und 12 Uhr auf der Niersuferpromenade am Friedensplatz Gelegenheit zur Diskussion. RP-
-Redaktionsleiter Lutz Küppers und RP-Redakteur Michael Klatt begrüßen unter anderem Bürgermeister Udo 
-Rosenkranz, Nachbarn von der Lessingstraße und Ratsmitglieder."
-2013-03,Main Corpus,2013-03(90).ZIP,Muslima soll für CDU in Bundestag Im NRW-Verband gibt es Vorbehalte.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Muslima soll für CDU in Bundestag Im NRW-Verband gibt es Vorbehalte.PDF,Muslima soll für CDU in Bundestag Im NRW-Verband gibt es Vorbehalte,muslima soll für cdu in bundestag im nrwverband gibt es vorbehalte,Die Welt,die welt,Montag 4. März 2013,Kristian Frigelj,POLITIK; S. 8; Ausg. 53,526,3782,cb46b3899ff253d96a3a479508ea76d85f6ffdb2,,unique,keep,,no,,no,,,5176,no,,,,,"Hagen
+2013-03,Main Corpus,2013-03(67).ZIP,Muslima soll für CDU in Bundestag Im NRW-Verband gibt es Vorbehalte.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Muslima soll für CDU in Bundestag Im NRW-Verband gibt es Vorbehalte.PDF,Muslima soll für CDU in Bundestag Im NRW-Verband gibt es Vorbehalte,muslima soll für cdu in bundestag im nrwverband gibt es vorbehalte,Die Welt,die welt,Montag 4. März 2013,Kristian Frigelj,POLITIK; S. 8; Ausg. 53,526,3782,cb46b3899ff253d96a3a479508ea76d85f6ffdb2,,unique,keep,,no,,no,,,5176,no,,,,,"Hagen
 Ein Gratulant hat Cemile Giousouf bei Facebook einen Vers aus Goethes „West-östlichem Divan"" übersandt: „Wer 
 sich selbst und andere kennt, wird auch hier erkennen: Orient und Okzident sind nicht mehr zu trennen."" Die 34-
 jährige muslimische Deutsch-Griechin, deren eingewanderte Eltern zu einer türkischen Minderheit in Thrakien 
@@ -2047,24 +1893,7 @@ Graphic
 dpa/Horst Ossinger
 34 Jahre, Muslimin, Wahlkämpferin für den Bundestag: Cemile Giousouf
 Horst Ossinger"
-2013-03,Main Corpus,2013-03(90).ZIP,Nachbarn von Pro NRW-Chef Markus Beisicht sind in Angst.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Nachbarn von Pro NRW-Chef Markus Beisicht sind in Angst.PDF,Nachbarn von Pro NRW-Chef Markus Beisicht sind in Angst,nachbarn von pro nrwchef markus beisicht sind in angst,Rheinische Post,rheinische post,14. März 2013 Donnerstag,,,252,1805,5297ca37102ad95062a9dde1c7349bdf7cc40689,,unique,keep,,no,,no,,,2326,no,,,,,"Leverkusen (bis/stl-) Die Rechtspopulisten von Pro NRW veranstalten heute (14 bis 17 Uhr) vor der 
-Flüchtlingsunterkunft an der Sandstraße eine Demonstration. Die Polizei erwartet etwa 25 Rechtspopulisten, man 
-gehe jedoch von einem friedlichen Verlauf der Demonstration aus, erklärte ein Sprecher. 
-Eine Sperrung der Straße sei nicht geplant, aber jederzeit möglich. Der Aufmarsch der Rechtspopulisten hat im 
-Vorfeld die Gemüter erregt: Die Demo findet in der Nähe der Kindertagesstätte statt. Elternrats-Vorsitzender Oliver 
-Faber hatte die Stadt aufgefordert, etwas gegen den Aufmarsch zu unternehmen. Doch der sind die Hände 
-gebunden - denn die Prüfung der Demonstrationsvoraussetzungen und gegebenenfalls des Verbotes der Demo 
-sind Sache der Polizei. Die versicherte gestern: Der Zugang zur Kita soll gewährleistet werden. ""Wir wollen die 
-Belastungen für die Anwohner und natürlich für Kinder und Eltern so gering wie möglich halten"", betonte Polizei-
-Sprecher André Faßbender. Aktivisten des Bündnisses ""Kein Forum für Pro NRW"" haben nach eigener Angabe 
-etwa 1000 Flyer im Wohngebiet Sandstraße verteilt. Darin werden die Anwohner aufgefordert, ihre Ablehnung mit 
-Plakaten und verschlossenen Rollläden deutlich zu machen. Eine Gegendemonstration sei vonseiten des 
-Bündnisses nicht geplant. Verschärft wird die Situation durch den gestern Nacht in letzter Minute vereitelten 
-Mordanschlag gegen Pro NRW-Chef Markus Beisicht, als die Polizei zwei Salafisten festnahm. Beisicht bekam 
-gestern intensiveren Polizeischutz - sowohl an seinem Haus in Bergisch Neukirchen als auch an seiner Kanzlei in 
-Opladen. Seine Nachbarn haben Angst: ""Die Polizeiautos vor der Tür kennen wir"", sagte Klaus Baumhögger (63). 
-""Aber im Dezember wurde trotzdem bei uns eingebrochen - denn hinten passt niemand auf."""
-2013-03,Main Corpus,2013-03(90).ZIP,Neukölln räumt mit Vorurteilen auf ZUWANDERUNG Der neue Roma-Statusbericht aus Neukölln stellt fest_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Neukölln räumt mit Vorurteilen auf ZUWANDERUNG Der neue Roma-Statusbericht aus Neukölln stellt fest_.PDF,Neukölln räumt mit Vorurteilen auf ZUWANDERUNG Der neue Roma-Statusbericht aus Neukölln stellt fest: Es,neukölln räumt mit vorurteilen auf zuwanderung der neue romastatusbericht aus neukölln stellt fest es,"taz, die tageszeitung",taz die tageszeitung,Freitag 08. März 2013,SUSANNE MEMARNIA,BERLIN AKTUELL; S. 22,698,4879,a9a1b15616c34b39dd98dd4683f98dddcc1540c7,,unique,keep,,no,,no,,,6947,no,,,,,"VON SUSANNE MEMARNIA
+2013-03,Main Corpus,2013-03(67).ZIP,Neukölln räumt mit Vorurteilen auf ZUWANDERUNG Der neue Roma-Statusbericht aus Neukölln stellt fest_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Neukölln räumt mit Vorurteilen auf ZUWANDERUNG Der neue Roma-Statusbericht aus Neukölln stellt fest_.PDF,Neukölln räumt mit Vorurteilen auf ZUWANDERUNG Der neue Roma-Statusbericht aus Neukölln stellt fest: Es,neukölln räumt mit vorurteilen auf zuwanderung der neue romastatusbericht aus neukölln stellt fest es,"taz, die tageszeitung",taz die tageszeitung,Freitag 08. März 2013,SUSANNE MEMARNIA,BERLIN AKTUELL; S. 22,698,4879,a9a1b15616c34b39dd98dd4683f98dddcc1540c7,,unique,keep,,no,,no,,,6947,no,,,,,"VON SUSANNE MEMARNIA
 Zuwanderung kann in einem grenzenlosen Europa nur bedingt gesteuert werden und Deutschland braucht sie 
 aufgrund des demografischen Wandels: Zu diesem Fazit kommt der aktuelle 3. Roma-Statusbericht des Bezirks 
 Neukölln. Damit setzt sich die Verwaltung in Neukölln wohltuend von den alarmistischen Tönen ab, die die aktuelle 
@@ -2118,7 +1947,7 @@ viel Geld aus. Bei vielen Roma käme allerdings nichts davon an, so Pavlovic. Es
 zum Beispiel bei der Ausbildungsplatzsuche. 
  Menschen zurück- zuschicken, ist nicht unser Weg 
 FRANZISKA GIFFEY (SPD)"
-2013-03,Main Corpus,2013-03(90).ZIP,Noch ärmer als Hartz IV MIGRATION Die Zahlen über die Einwanderung armer Bulgaren und Rumänen täusch.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Noch ärmer als Hartz IV MIGRATION Die Zahlen über die Einwanderung armer Bulgaren und Rumänen täusch.PDF,Noch ärmer als Hartz IV MIGRATION Die Zahlen über die Einwanderung armer Bulgaren und Rumänen,noch ärmer als hartz iv migration die zahlen über die einwanderung armer bulgaren und rumänen,"taz, die tageszeitung",taz die tageszeitung,Montag 04. März 2013,BARBARA DRIBBUSCH,THEMEN DES TAGES; S. 03,662,4927,ad440416e7543ad9d770499f9dcc4751211e06b1,,unique,keep,,no,,no,,,6154,no,,,,,"VON BARBARA DRIBBUSCH
+2013-03,Main Corpus,2013-03(67).ZIP,Noch ärmer als Hartz IV MIGRATION Die Zahlen über die Einwanderung armer Bulgaren und Rumänen täusch.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Noch ärmer als Hartz IV MIGRATION Die Zahlen über die Einwanderung armer Bulgaren und Rumänen täusch.PDF,Noch ärmer als Hartz IV MIGRATION Die Zahlen über die Einwanderung armer Bulgaren und Rumänen,noch ärmer als hartz iv migration die zahlen über die einwanderung armer bulgaren und rumänen,"taz, die tageszeitung",taz die tageszeitung,Montag 04. März 2013,BARBARA DRIBBUSCH,THEMEN DES TAGES; S. 03,662,4927,ad440416e7543ad9d770499f9dcc4751211e06b1,,unique,keep,,no,,no,,,6154,no,,,,,"VON BARBARA DRIBBUSCH
 BERLIN taz | Roma-Familien wie diese dienen als Aufreger: zu siebt in eine kleine Wohnung in Berlin-Neukölln 
 gepfercht, tauchen sie in Fernsehberichten auf und schwärmen vom Kindergeld, das sie nun in Deutschland 
 bekommen. Der Deutsche Städtetag fordert jetzt in einem Positionspapier eine zügige Problemlösung angesichts 
@@ -2172,7 +2001,7 @@ Jobchancen: Es ist zu erwarten, dass dann vor allem die sozialversicherungspflic
 nicht die Arbeitslosigkeit , sagt der Forscher Herbert Brücker.
  Die Arbeitslosigkeit der Bulgaren und Rumänen ist geringer als im Durchschnitt der Ausländer 
 HERBERT BRÜCKER, MIGRATIONSEXPERTE"
-2013-03,Main Corpus,2013-03(90).ZIP,NOTIZEN vom 16. März 2013.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\NOTIZEN vom 16. März 2013.PDF,NOTIZEN vom 16. März 2013,notizen vom 16 märz 2013,Südwest Presse,südwest presse,Samstag 16. März 2013,,Politik; S. 2,273,1977,d3b8421edc01e9ca50eeda40daec332fb0784037,,unique,keep,,no,,no,,,3096,no,,,,,"Tragödie vor Lesbos
+2013-03,Main Corpus,2013-03(67).ZIP,NOTIZEN vom 16. März 2013.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\NOTIZEN vom 16. März 2013.PDF,NOTIZEN vom 16. März 2013,notizen vom 16 märz 2013,Südwest Presse,südwest presse,Samstag 16. März 2013,,Politik; S. 2,273,1977,d3b8421edc01e9ca50eeda40daec332fb0784037,,unique,keep,,no,,no,,,3096,no,,,,,"Tragödie vor Lesbos
 Vor der griechischen Insel Lesbos hat sich eine neue Flüchtlingstragödie ereignet. Einwohner entdeckten die 
 Leichen einer Frau und zweier Kinder. Sie waren nahe der Stadt Mytilini angespült worden. Die Polizei vermutet, 
 dass es sich um Migranten handelt, die die Meeresenge zwischen der türkischen Küste und Lesbos überqueren 
@@ -2201,23 +2030,7 @@ es päpstliche Tradition ist.
 Graphic
  
 Jetzt Regierungschef der zweitgrößten Volkswirtschaft der Welt: Li Keqiang. Foto: dpa"
-2013-03,Main Corpus,2013-03(90).ZIP,NRW will 1000 Flüchtlinge aus Syrien aufnehmen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\NRW will 1000 Flüchtlinge aus Syrien aufnehmen.PDF,NRW will 1000 Flüchtlinge aus Syrien aufnehmen,nrw will 1000 flüchtlinge aus syrien aufnehmen,Rheinische Post,rheinische post,26. März 2013 Dienstag,Von Gerhard Voogt,,233,1685,c633e8070e3a6be4a1ba92fdd6e8af398d412f6f,,unique,keep,,no,,no,,,2525,no,,,,,"Düsseldorf Seit März 2011 kamen nach Schätzungen der Vereinten Nationen im syrischen Bürgerkrieg mehr als 
-60 000 Menschen ums Leben. Die rot-grüne Landesregierung hat sich jetzt dazu entschlossen, rund 1000 
-Flüchtlingen aus dieser Region ein dauerhaftes Bleiberecht in NRW einzuräumen. Die ersten Kriegsopfer sollen 
-bereits im Juni nach Deutschland kommen. ""Eine verlässliche Aufenthaltsperspektive kann den Menschen helfen, 
-zur Ruhe zu kommen und das Schreckliche, das sie erlebt haben, zu verarbeiten"", sagte NRW-Innenminister Ralf 
-Jäger. Wie und wo die Flüchtlinge untergebracht werden, ist derzeit noch unklar. Angesichts der katastrophalen 
-humanitären Verhältnisse in Syrien und der angespannten Lage in den Nachbarländern des arabischen Staates sei 
-die Aufnahme ein Gebot der Menschlichkeit, fügte der SPD-Politiker hinzu. Auch den rund 500 syrischen 
-Studenten, die in NRW leben, will die Landesregierung helfen. Sie dürfen auch dann bleiben, wenn sie aufgrund 
-wegfallender finanzieller Unterstützung aus der Heimat nicht mehr in der Lage sind, ihren Lebensunterhalt zu 
-sichern. Eine entsprechende Anordnung will das NRW-Innenministerium jetzt an die Ausländerbehörden 
-verschicken. Bereits im Jahr 2009 hatte die schwarz-gelbe Vorgängerregierung rund 540 Flüchtlingen aus dem Irak 
-einen unbestimmten Aufenthalt in NRW ermöglicht. Unterdessen ist die Zahl der Asylbewerber in NRW im Januar 
-auf 1703 Neuanträge gestiegen. Im Dezember vergangenen Jahres waren 1048 Neuanträge gestellt worden. Die 
-meisten Asylbewerber kamen nach Angaben des Innenministeriums aus der Russischen Föderation. Auch aus 
-Syrien, Afghanistan und Serbien strömten viele Flüchtlinge nach NRW."
-2013-03,Main Corpus,2013-03(90).ZIP,Ohne Arbeit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Ohne Arbeit.PDF,Ohne Arbeit,ohne arbeit,Der Tagesspiegel,der tagesspiegel,Mittwoch 27. März 2013,,ZWEITE; S. 2; Ausg. 21643,337,2565,91a028915fe315293ec78ab43f72f8ce154bda08,,unique,keep,,no,,no,,,3154,no,,,,,"Europa hat sich auf gemeinsame Regeln geeinigt, die Deutschen haben dabei einen Großteil
+2013-03,Main Corpus,2013-03(67).ZIP,Ohne Arbeit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Ohne Arbeit.PDF,Ohne Arbeit,ohne arbeit,Der Tagesspiegel,der tagesspiegel,Mittwoch 27. März 2013,,ZWEITE; S. 2; Ausg. 21643,337,2565,91a028915fe315293ec78ab43f72f8ce154bda08,,unique,keep,,no,,no,,,3154,no,,,,,"Europa hat sich auf gemeinsame Regeln geeinigt, die Deutschen haben dabei einen Großteil
 der von ihnen favorisierten Vorschriften durchgesetzt. Wie ist die Situation für Flüchtlinge in Deutschland?
 Die Europäisierung seines Asylrechts hat Deutschland schon lange vor den ersten EU-Einigungen begonnen. Die 
 Änderung des Asylartikels im Grundgesetz 1992 verengte die Gewährung von Asyl auf diejenigen, die zuvor schon 
@@ -2245,7 +2058,7 @@ auch die Politik aufmerksamer gemacht. Gut möglich, dass sich das Leben von Fl�
 Ende bessert. Andrea Dernbach
 
 Ohne Arbeit"
-2013-03,Main Corpus,2013-03(90).ZIP,Pistorius will Abgeschobene zurück holen FLÜCHTLINGE Hannovers Innenminister arbeitet die erste Absc.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Pistorius will Abgeschobene zurück holen FLÜCHTLINGE Hannovers Innenminister arbeitet die erste Absc.PDF,Pistorius will Abgeschobene zurück holen; FLÜCHTLINGE Hannovers Innenminister arbeitet die erste,pistorius will abgeschobene zurück holen flüchtlinge hannovers innenminister arbeitet die erste,"taz, die tageszeitung",taz die tageszeitung,Dienstag 12. März 2013,,NORD AKTUELL; S. 21,377,2713,6e73a29c5dd1e1beb19139d70febac6dc9367536,,unique,keep,,no,,no,,,4079,no,,,,,"Zwei Wochen nach der Abschiebung sollen eine Mutter und ihre Söhne aus dem Kosovo wieder zurück nach 
+2013-03,Main Corpus,2013-03(67).ZIP,Pistorius will Abgeschobene zurück holen FLÜCHTLINGE Hannovers Innenminister arbeitet die erste Absc.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Pistorius will Abgeschobene zurück holen FLÜCHTLINGE Hannovers Innenminister arbeitet die erste Absc.PDF,Pistorius will Abgeschobene zurück holen; FLÜCHTLINGE Hannovers Innenminister arbeitet die erste,pistorius will abgeschobene zurück holen flüchtlinge hannovers innenminister arbeitet die erste,"taz, die tageszeitung",taz die tageszeitung,Dienstag 12. März 2013,,NORD AKTUELL; S. 21,377,2713,6e73a29c5dd1e1beb19139d70febac6dc9367536,,unique,keep,,no,,no,,,4079,no,,,,,"Zwei Wochen nach der Abschiebung sollen eine Mutter und ihre Söhne aus dem Kosovo wieder zurück nach 
 Deutschland geholt werden. Niedersachsens Innenminister Boris Pistorius will die seither getrennte Roma-Familie 
 aus dem Landkreis Lüchow-Dannenberg schnell wieder zusammenführen. Dazu habe er sich beim Auswärtigen 
 Amt per Fax eingesetzt, sagte der SPD-Politiker am Montag in Hannover.
@@ -2274,7 +2087,7 @@ Bundesrat werde sich das Land ferner gemeinsam mit Hamburg für eine stichtagsun
 Bleiberechtsregelung für Asylbewerber stark machen. Bislang sind alle Bleiberechtsregelungen an einen Stichtag 
 gebunden. (dpa/epd)
 Es soll künftig keine Abschiebungen in der Nacht oder am frühen Morgen mehr geben"
-2013-03,Main Corpus,2013-03(90).ZIP,Politik 180.000 Zuwanderer aus Bulgarien und Rumänien ++ Kairo - Teheran_ Erster Flug seit Jahrzehnt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Politik 180.000 Zuwanderer aus Bulgarien und Rumänien ++ Kairo - Teheran_ Erster Flug seit Jahrzehnt.PDF,Politik; 180.000 Zuwanderer aus Bulgarien und Rumänien ++ Kairo - Teheran: Erster Flug seit Jahrzehnten ++,politik 180000 zuwanderer aus bulgarien und rumänien  kairo  teheran erster flug seit jahrzehnten,Welt am Sonntag,welt am sonntag,31. März 2013,Fritz Friedebold,POLITIK; Nachrichten; S. 4; Ausg. 13,319,2310,1ba48d314e7b117589ed00b630d62734b900ed30,,unique,keep,,no,,no,,,3782,no,,,,,"180.000 Zuwanderer aus Bulgarien und Rumänien
+2013-03,Main Corpus,2013-03(67).ZIP,Politik 180.000 Zuwanderer aus Bulgarien und Rumänien ++ Kairo - Teheran_ Erster Flug seit Jahrzehnt.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Politik 180.000 Zuwanderer aus Bulgarien und Rumänien ++ Kairo - Teheran_ Erster Flug seit Jahrzehnt.PDF,Politik; 180.000 Zuwanderer aus Bulgarien und Rumänien ++ Kairo - Teheran: Erster Flug seit Jahrzehnten ++,politik 180000 zuwanderer aus bulgarien und rumänien  kairo  teheran erster flug seit jahrzehnten,Welt am Sonntag,welt am sonntag,31. März 2013,Fritz Friedebold,POLITIK; Nachrichten; S. 4; Ausg. 13,319,2310,1ba48d314e7b117589ed00b630d62734b900ed30,,unique,keep,,no,,no,,,3782,no,,,,,"180.000 Zuwanderer aus Bulgarien und Rumänien
 Schwarzarbeit Die Bundesagentur für Arbeit rechnet mit einer kräftigen Zuwanderung aus Rumänien und Bulgarien, 
 wenn für diese Länder ab 2014 die volle Arbeitnehmer-Freizügigkeit in der EU gilt. Erwartet werde „eine Netto-
 Zuwanderung von 100.000 bis 180.000 Arbeitskräften pro Jahr auf den deutschen Arbeitsmarkt"", sagte BA-Chef 
@@ -2300,44 +2113,7 @@ Politik; 180.000 Zuwanderer aus Bulgarien und Rumänien ++ Kairo - Teheran: Erst
 ARD-Reporter in Syrien schwer verletzt
 am Samstagmorgen an die türkische Grenze gebracht worden. Sobald es sein Zustand erlaube, werde er nach 
 Deutschland ausgeflogen."
-2013-03,Main Corpus,2013-03(90).ZIP,Polizei bereitet sich auf Kundgebung am _Alex_ vor.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Polizei bereitet sich auf Kundgebung am _Alex_ vor.PDF,"Polizei bereitet sich auf Kundgebung am ""Alex"" vor",polizei bereitet sich auf kundgebung am alex vor,Rheinische Post,rheinische post,14. März 2013 Donnerstag,,,224,1637,011f34eec0209f1c83ac5065d37d922088f57a7f,,unique,keep,,no,,no,,,2340,no,,,,,"Neuss (-nau) Die Fraktionen der im Rat vertretenen Parteien, die Jugendorganisationen von CDU, SPD, FDP und 
-Grünen, viele Sozialverbände und nicht zuletzt die Kinderschutzorganisation ""Terres des hommes"" rufen zur 
-Solidarität mit den Flüchtlingen in der zentralen Unterkunft für Asylbewerber im alten Alexius-Krankenhaus auf. 
-Wenn die rechtspopulistische Gruppierung ""pro NRW"" am Freitag ab 14 Uhr an der Nordkanalallee gegen 
-vermeintlichen Asylmissbrauch demonstriert, wollen sie mit den 150 Bewohner feiern und mit einem ""Markt der 
-Möglichkeiten"" ein Zeichen gegen Intoleranz setzen, wie es in einem offenen Brief der politischen 
-Jugendorganisationen heißt. Für die stellt Sebastian Ley von der Jungen Union in Richtung ""pro NRW"" fest: ""Um es 
-deutlich zu machen: Von dieser Vereinigung wird das Recht auf freie Meinungsäußerung missbraucht."" 
- Dieses Recht und das Recht auf Versammlungsfreiheit aber muss und wird die Polizei schützen. ""So lange die 
-geforderte Friedlichkeit gewahrt bleibt"", wie Polizeisprecher Hans-Willi Arnold betont. Sollten aus der Versammlung 
-Gewalttätigkeiten begangen werden, werde die Polizei konsequent einschreiten. Wegen der Kundgebungen ist 
-morgen bis gegen 18 Uhr mit Verkehrsbehinderungen zu rechnen. Betroffen sind Nordkanalallee (gesperrt ab 
-Kreuzung An der Obererft), Augustinusstraße (gesperrt ab Selikumer Straße) und Alexianerplatz (gesperrt ab 
-Berghäuschensweg) Die Absperrungen werden ab 10 Uhr eingerichtet. Die Buslinien 841, 849, 851, 852 und 854 
-sowie die BVR-Linie 874 fahren von 12 Uhr bis voraussichtlich 19 Uhr eine Umleitungsstrecke über 
-Stresemannallee und Hammfelddamm."
-2013-03,Main Corpus,2013-03(90).ZIP,Polizei wirbt um Nachwuchs mit ausländischen Wurzeln.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Polizei wirbt um Nachwuchs mit ausländischen Wurzeln.PDF,Polizei wirbt um Nachwuchs mit ausländischen Wurzeln,polizei wirbt um nachwuchs mit ausländischen wurzeln,Rheinische Post,rheinische post,18. März 2013 Montag,,,146,1155,fec2bfccbc8956b67ad87ad886900a0f50033bdb,,unique,keep,,no,,no,,,1564,no,,,,,"langenfeld (mei) Die Polizei sucht neues Personal und dabei gezielt auch junge Menschen aus 
-Zuwandererfamilien. Polizeihauptkommissar Marten Harms, Personalwerber der Kreispolizei Mettmann, lädt dazu 
-Interessierte für Donnerstag in die Langenfelder Moschee ein. Am 1. September 2012 hatte die Polizei in NRW 
-nach seinen Angaben 1400 Ausbildungsstellen zur Verfügung gestellt. ""Und auch zukünftig soll sich diese Zahl 
-nicht ändern."" Junge Menschen mit ausländischen Wurzeln ""bringen durch ihre Mehrsprachigkeit und kulturellen 
-Hintergründe oft zusätzliche Kompetenzen mit"", erklärt Harms. Gerade dadurch könne deren Einsatz im täglichen 
-Polizeidienst ""oft besonders wertvoll sein, um sprachliche und kulturelle Barrieren abzubauen"". Wichtigste 
-Einstellungsvoraussetzung sind Abitur oder Fachhochschulreife. Bewerber müssen darüber hinaus aus ärztlicher 
-Sicht absolut polizeidiensttauglich und zudem sportlich fit sein. Die deutsche Staatsangehörigkeit ist nicht zwingend 
-nötig. Am Einstellungstag (nächster Termin ist der 1. September 2014) dürfen sie das 37. Lebensjahr noch nicht 
-vollendet haben. 21. März, 16 Uhr , Moschee, Industriestraße 53."
-2013-03,Main Corpus,2013-03(90).ZIP,Redaktion diskutiert heute mit Lesern in Wachtendonk.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Redaktion diskutiert heute mit Lesern in Wachtendonk.PDF,Redaktion diskutiert heute mit Lesern in Wachtendonk,redaktion diskutiert heute mit lesern in wachtendonk,Rheinische Post,rheinische post,21. März 2013 Donnerstag,,,147,1013,69fbbde0cf1488902a8c4dd52684926667640fe3,,unique,keep,,no,,no,,,1414,no,,,,,"Wachtendonk (RP) Die Rheinische Post kommt mit der Mobilen Redaktion wieder nah zu ihren Lesern. ""Ärger um 
-Asylunterkunft: Wie und wo sollen Flüchtlinge in Wachtendonk leben?"" Das ist diesmal das Thema der ""Mobilen 
-Redaktion"", mit der die RP am heutigen Donnerstag ab 10 Uhr in Wachtendonk Station macht. Seit Monaten sorgt 
-die Unterbringung der Asylsuchenden für Schlagzeilen. Erst recht, nachdem der Gemeinderat beschlossen hat, ein 
-neues Haus für diese Menschen auf einem Grundstück im Bereich Lessingstraße/Auf dem Bock zu bauen. Alle sind 
-sich einig, dass ein Leben in den Containern am Ostring nicht mehr zumutbar ist. Gegen die Dimension des an der 
-Lessingstraße geplanten Gebäudes erheben sich allerdings Widersprüche. Es gibt morgen zwischen 10 und 12 
-Uhr auf der Niersuferpromenade am Friedensplatz Gelegenheit zur Diskussion. RP-Redaktionsleiter Lutz Küppers 
-und RP-Redakteur Michael Klatt begrüßen unter anderem Bürgermeister Udo Rosenkranz, Nachbarn von der 
-Lessingstraße und Ratsmitglieder."
-2013-03,Main Corpus,2013-03(90).ZIP,Renovierte Bleibe Die Europäische Union vereinheitlicht ihr Asylsystem. Was wird sich ändern_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Renovierte Bleibe Die Europäische Union vereinheitlicht ihr Asylsystem. Was wird sich ändern_.PDF,Renovierte Bleibe Die Europäische Union vereinheitlicht ihr Asylsystem. Was wird sich ändern?,renovierte bleibe die europäische union vereinheitlicht ihr asylsystem was wird sich ändern,Der Tagesspiegel,der tagesspiegel,Mittwoch 27. März 2013,"Elisa Simantke, Berlin, und Christopher Ziedler, Brüssel",ZWEITE; S. 2; Ausg. 21643,823,6146,0d128a0c239f74304bf7b058255283894fc3d01d,,unique,keep,,no,,no,,,7356,no,,,,,"Der Druck lässt nicht nach, sondern wächst. Insgesamt 332 000 Menschen haben im vergangenen Jahr in der 
+2013-03,Main Corpus,2013-03(67).ZIP,Renovierte Bleibe Die Europäische Union vereinheitlicht ihr Asylsystem. Was wird sich ändern_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Renovierte Bleibe Die Europäische Union vereinheitlicht ihr Asylsystem. Was wird sich ändern_.PDF,Renovierte Bleibe Die Europäische Union vereinheitlicht ihr Asylsystem. Was wird sich ändern?,renovierte bleibe die europäische union vereinheitlicht ihr asylsystem was wird sich ändern,Der Tagesspiegel,der tagesspiegel,Mittwoch 27. März 2013,"Elisa Simantke, Berlin, und Christopher Ziedler, Brüssel",ZWEITE; S. 2; Ausg. 21643,823,6146,0d128a0c239f74304bf7b058255283894fc3d01d,,unique,keep,,no,,no,,,7356,no,,,,,"Der Druck lässt nicht nach, sondern wächst. Insgesamt 332 000 Menschen haben im vergangenen Jahr in der 
 Europäischen Union Asyl beantragt. Das ist zwar kein Vergleich zu den Zahlen Anfang der neunziger Jahre, als 
 allein in der Bundesrepublik mehr Flüchtlinge Schutz beantragten. Doch der Trend ist wieder steigend: Gegenüber 
 dem Vorjahr ist das ein Plus von gut zehn Prozent. Die Statistik zeigt auch, dass die Verteilung weiter ungleich ist. 
@@ -2405,7 +2181,7 @@ Graphic
  
 Foto: pa/ZB
 Renovierte Bleibe Die Europäische Union vereinheitlicht ihr Asylsystem. Was wird sich ändern?"
-2013-03,Main Corpus,2013-03(90).ZIP,"Roma suchen Zuflucht in Neukölln Der Zuzug nimmt zu, doch die Lehrer fehlen Die Angst vor dem Unheim.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Roma suchen Zuflucht in Neukölln Der Zuzug nimmt zu, doch die Lehrer fehlen Die Angst vor dem Unheim.PDF","Roma suchen Zuflucht in Neukölln Der Zuzug nimmt zu, doch die Lehrer fehlen Die Angst vor dem",roma suchen zuflucht in neukölln der zuzug nimmt zu doch die lehrer fehlen die angst vor dem,Der Tagesspiegel,der tagesspiegel,Samstag 2. März 2013,Christoph Stollowsky,BERLIN; S. 16; Ausg. 21618,1103,8111,3d4ba571719284b474a4b6b830943b1d7f83046d,,unique,keep,,no,,no,,,9435,no,,,,,"Der Zuzug von Rumänen und Bulgaren nach Berlin hat sich weiter verstärkt. Die Zahl der gemeldeten Zuwanderer 
+2013-03,Main Corpus,2013-03(67).ZIP,"Roma suchen Zuflucht in Neukölln Der Zuzug nimmt zu, doch die Lehrer fehlen Die Angst vor dem Unheim.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Roma suchen Zuflucht in Neukölln Der Zuzug nimmt zu, doch die Lehrer fehlen Die Angst vor dem Unheim.PDF","Roma suchen Zuflucht in Neukölln Der Zuzug nimmt zu, doch die Lehrer fehlen Die Angst vor dem",roma suchen zuflucht in neukölln der zuzug nimmt zu doch die lehrer fehlen die angst vor dem,Der Tagesspiegel,der tagesspiegel,Samstag 2. März 2013,Christoph Stollowsky,BERLIN; S. 16; Ausg. 21618,1103,8111,3d4ba571719284b474a4b6b830943b1d7f83046d,,unique,keep,,no,,no,,,9435,no,,,,,"Der Zuzug von Rumänen und Bulgaren nach Berlin hat sich weiter verstärkt. Die Zahl der gemeldeten Zuwanderer 
 aus diesen Ländern hat sich laut Statistischem Landesamt seit 2011 von knapp 20 000 auf knapp 25 000 in 2012 
 erhöht. Am größten ist der Anstieg in den Bezirken Mitte mit 6200 und Neukölln mit 5000 Gemeldeten. Das 
 Bezirksamt Neukölln geht davon aus, dass ein ""großer Anteil der Rumänen und Bulgaren im Bezirk der Minderheit 
@@ -2491,7 +2267,7 @@ Graphic
  
 Allein im Schulhaus. Die Schülerinnen und Schüler sollen künftig vor schulfremden Personen, die sich heimlich 
 Zugang verschaffen, besser geschützt werden. Foto: Kitty Kleist-Heinrich"
-2013-03,Main Corpus,2013-03(90).ZIP,Schlafplatz auf den Gängen FLÜCHTLINGE Die aktuelle Zahl der Asylbewerber liegt deutlich höher als i.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Schlafplatz auf den Gängen FLÜCHTLINGE Die aktuelle Zahl der Asylbewerber liegt deutlich höher als i.PDF,Schlafplatz auf den Gängen; FLÜCHTLINGE Die aktuelle Zahl der Asylbewerber liegt deutlich höher als in den,schlafplatz auf den gängen flüchtlinge die aktuelle zahl der asylbewerber liegt deutlich höher als in den,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 27. März 2013,MARINA MAI,BERLIN AKTUELL; S. 21,744,5472,e2fc7cf1eba19e67ef590ee44057e0d8f57adfae,,unique,keep,,no,,no,,,6864,no,,,,,"VON MARINA MAI
+2013-03,Main Corpus,2013-03(67).ZIP,Schlafplatz auf den Gängen FLÜCHTLINGE Die aktuelle Zahl der Asylbewerber liegt deutlich höher als i.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Schlafplatz auf den Gängen FLÜCHTLINGE Die aktuelle Zahl der Asylbewerber liegt deutlich höher als i.PDF,Schlafplatz auf den Gängen; FLÜCHTLINGE Die aktuelle Zahl der Asylbewerber liegt deutlich höher als in den,schlafplatz auf den gängen flüchtlinge die aktuelle zahl der asylbewerber liegt deutlich höher als in den,"taz, die tageszeitung",taz die tageszeitung,Mittwoch 27. März 2013,MARINA MAI,BERLIN AKTUELL; S. 21,744,5472,e2fc7cf1eba19e67ef590ee44057e0d8f57adfae,,unique,keep,,no,,no,,,6864,no,,,,,"VON MARINA MAI
 Franz Allert hat einen der schwierigsten Jobs in Berlin. Er muss für die Unterbringung von Asylbewerbern sorgen, 
 oft gegen erbitterten Widerstand der Bezirke. In diesem Jahr ist die Situation so angespannt wie selten zuvor. 5.400 
 Flüchtlinge wohnen derzeit in Wohnheimen, die längst überbelegt sind. In der Motardstraße in Spandau schlafen 
@@ -2550,27 +2326,7 @@ planungsrechtlichen Argumenten verhindern will. In Reinickendorf hat allein die 
 seine Bedenken aufgegeben , sagt Snezana Hummel von der AWO. Wir müssen lediglich noch 
 Brandschutzunterlagen einreichen. Dann dürfen wir das Flüchtlingsheim beziehen. 
 Notunterkünfte kann Berlin gegen den Willen der Bezirke beziehen kurzfristig"
-2013-03,Main Corpus,2013-03(90).ZIP,Senat will Notunterkunft Aktionsplan Roma geplant.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Senat will Notunterkunft Aktionsplan Roma geplant.PDF,Senat will Notunterkunft Aktionsplan Roma geplant,senat will notunterkunft aktionsplan roma geplant,Berliner Zeitung,berliner zeitung,Samstag 23. März 2013,,LOKALES; S. 19; Ausg. 70,151,1030,82ea11020fe524395e20d9237d6d5eaf997085c7,,unique,review,,no,,no,,Short local brief kept for review.,1422,yes,regional_variant_review,,,,"Der Senat möchte für obdachlose Roma-Familien eine größere Notunterkunft einrichten. ""Das ist das drängendste 
-Problem, dass Romas auf der Straße leben"", sagte am Freitag die Integrationsbeauftragte des Senats, Monika 
-Lüke. Für Familien gebe es bisher so gut wie keine Möglichkeiten zur Unterbringung. Dabei gehe es um ein Heim 
-auf Zeit, bevor angemessene Wohnungen gefunden werden. In der Notunterkunft solle auch eine Beratung zu 
-Mietrechts-, Sozial- und Aufenthaltsfragen angeboten werden. Ihre Behörde, so Lüke, habe schon eine Immobilie 
-im Blick. Wo diese sich befindet, sagte sie nicht. Lüke bezeichnete das Vorhaben als dringend notwendig, denn die 
-Situation habe politischen Sprengstoff. Der Druck in den Bezirken, der steigenden Zahl von Roma-Zuwanderern 
-angemessene Hilfeangebote machen zu können, sei sehr groß. Das müsse der Senat flankieren. Mit dem 
-Aktionsplan Roma, der im April vorgelegt werden soll, sei Berlin Vorreiter unter den Ländern, die alle mit dem 
-Problem der Armutswanderung zu tun hätten. (dpa)"
-2013-03,Main Corpus,2013-03(90).ZIP,Sprachenangebote an der VHS für Spätentschlossene.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Sprachenangebote an der VHS für Spätentschlossene.PDF,Sprachenangebote an der VHS für Spätentschlossene,sprachenangebote an der vhs für spätentschlossene,Rheinische Post,rheinische post,30. März 2013 Samstag,,,155,1084,c7937fcfc012d09747a290225057de9dc8eb9de8,,unique,keep,,no,,no,,,1482,no,,,,,"(RP) Auch nach dem Semesterstart an der VHS Krefeld besteht ab dem 8. April noch Gelegenheit, Sprachen zu 
-lernen. Den Anfang macht montags, 8. April, Italienisch, gefolgt von einem Englisch-Auffrischungskursus sowie 
-Niederländisch, Portugiesisch und Rumänisch für Anfänger ab Dienstag, 9. April. Am Mittwoch, 10. April, starten 
-Englisch, Französisch und Dänisch für Anfänger und am Donnerstag, 11. April, folgt Spanisch für Anfänger sowie 
-ein Business English Kompaktkurs. Am Samstag, 13. April, beginnt ein Wochenendkursus Neuhebräisch Kompakt 
-für Anfänger. Weiter gibt es drei Landeskunde-Veranstaltungen: am Donnerstag, 11. April, geht es bei der Tour de 
-France um Wissenswertes über Frankreich - mit Käse und Baguette, am Freitag, 12. April, verzaubert der irische 
-Geschichtenerzähler Lorcan Flynn mit Short Stories aus Irland und am Dienstag, 16. April, liest der gebürtige 
-Spanier Carlos Reichardt aus seinen Memoiren über sein (Über-)Leben in Deutschland als Einwanderer der ersten 
-Generation. Anmeldungen ab sofort unter Telefon 862664 sowie unter www.vhs.krefeld.de."
-2013-03,Main Corpus,2013-03(90).ZIP,SYRER IN DEUTSCHLAND Flüchtlinge und Familien.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\SYRER IN DEUTSCHLAND Flüchtlinge und Familien.PDF,SYRER IN DEUTSCHLAND Flüchtlinge und Familien,syrer in deutschland flüchtlinge und familien,Der Tagesspiegel,der tagesspiegel,Samstag 16. März 2013,,POLITIK; S. 7; Ausg. 21632,122,959,9cbd05b500cca8c338126c318bf09b7d82c6aa13,,unique,keep,,no,,no,,,1732,no,,,,,"Die Forderungen nach einer erleichterten Einreise syrischer Flüchtlinge reißen nicht ab. Die Grünen verlangen von 
+2013-03,Main Corpus,2013-03(67).ZIP,SYRER IN DEUTSCHLAND Flüchtlinge und Familien.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\SYRER IN DEUTSCHLAND Flüchtlinge und Familien.PDF,SYRER IN DEUTSCHLAND Flüchtlinge und Familien,syrer in deutschland flüchtlinge und familien,Der Tagesspiegel,der tagesspiegel,Samstag 16. März 2013,,POLITIK; S. 7; Ausg. 21632,122,959,9cbd05b500cca8c338126c318bf09b7d82c6aa13,,unique,keep,,no,,no,,,1732,no,,,,,"Die Forderungen nach einer erleichterten Einreise syrischer Flüchtlinge reißen nicht ab. Die Grünen verlangen von 
 Bundesinnenminister Hans-Peter Friedrich (CSU) weniger strenge Regeln für Flüchtlinge, die Familienangehörige 
 in der Bundesrepublik haben. ""Ein deutscher Hilfsbeitrag kann und muss eine unbürokratische 
 Familienzusammenführung sein"", sagte die Grünen-Spitzenkandidatin zur Bundestagswahl, Katrin Göring-Eckardt, 
@@ -2580,7 +2336,7 @@ geltende Verbot der Abschiebung von Syrern aus Deutschland um weitere sechs Mona
 der Sprecherin betrifft der Abschiebestopp 1500 Syrer, die derzeit
 als ""ausreisepflichtig"" gelten. Nach Schätzungen der Vereinten Nationen hat mehr als eine Million Menschen 
 Zuflucht außerhalb Syriens gesucht. epd"
-2013-03,Main Corpus,2013-03(90).ZIP,Syrien-Flüchtlinge Friedrich verlängert Abschiebestopp.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Syrien-Flüchtlinge Friedrich verlängert Abschiebestopp.PDF,Syrien-Flüchtlinge Friedrich verlängert Abschiebestopp,syrienflüchtlinge friedrich verlängert abschiebestopp,Die Welt,die welt,Samstag 16. März 2013,Jw,POLITIK; Kompakt; S. 4; Ausg. 64,127,968,10010073482912466732d7525c6f61824f726dd3,,unique,keep,,no,,no,,,1667,no,,,,,"Flüchtlinge aus Syrien sollen vorerst weiter nicht in ihr Land abgeschoben werden. Bundesinnenminister Hans-
+2013-03,Main Corpus,2013-03(67).ZIP,Syrien-Flüchtlinge Friedrich verlängert Abschiebestopp.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Syrien-Flüchtlinge Friedrich verlängert Abschiebestopp.PDF,Syrien-Flüchtlinge Friedrich verlängert Abschiebestopp,syrienflüchtlinge friedrich verlängert abschiebestopp,Die Welt,die welt,Samstag 16. März 2013,Jw,POLITIK; Kompakt; S. 4; Ausg. 64,127,968,10010073482912466732d7525c6f61824f726dd3,,unique,keep,,no,,no,,,1667,no,,,,,"Flüchtlinge aus Syrien sollen vorerst weiter nicht in ihr Land abgeschoben werden. Bundesinnenminister Hans-
 Peter Friedrich (CSU) machte den Weg für einen bundesweiten Abschiebungsstopp für weitere sechs Monate frei. 
 „Deutschland bekennt sich auch weiterhin zu seiner Verantwortung gegenüber den Menschen, die hier Schutz 
 gefunden haben"", sagte Friedrich. Die betroffenen Menschen müssten keine Furcht haben, „in ihr derzeit durch 
@@ -2593,7 +2349,7 @@ Graphic
  
 dpa/Matej Divizna
 Matej Divizna"
-2013-03,Main Corpus,2013-03(90).ZIP,Teure Flüchtlingswelle Nachtragsetat beschlossen - 50 Prozent Mehrkosten für Asylbewerber.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Teure Flüchtlingswelle Nachtragsetat beschlossen - 50 Prozent Mehrkosten für Asylbewerber.PDF,Teure Flüchtlingswelle; Nachtragsetat beschlossen - 50 Prozent Mehrkosten für Asylbewerber,teure flüchtlingswelle nachtragsetat beschlossen  50 prozent mehrkosten für asylbewerber,Südwest Presse,südwest presse,Mittwoch 20. März 2013,,Südwestumschau; S. 6,471,3419,4e8e90db35594228c31ff0b4aea57d5e861f67f8,,unique,keep,,no,,no,,,4757,no,,,,,"Die grün-rote Landesregierung korrigiert die für 2013 veranschlagten Haushaltsmittel für Asylbewerber um gut 50 
+2013-03,Main Corpus,2013-03(67).ZIP,Teure Flüchtlingswelle Nachtragsetat beschlossen - 50 Prozent Mehrkosten für Asylbewerber.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Teure Flüchtlingswelle Nachtragsetat beschlossen - 50 Prozent Mehrkosten für Asylbewerber.PDF,Teure Flüchtlingswelle; Nachtragsetat beschlossen - 50 Prozent Mehrkosten für Asylbewerber,teure flüchtlingswelle nachtragsetat beschlossen  50 prozent mehrkosten für asylbewerber,Südwest Presse,südwest presse,Mittwoch 20. März 2013,,Südwestumschau; S. 6,471,3419,4e8e90db35594228c31ff0b4aea57d5e861f67f8,,unique,keep,,no,,no,,,4757,no,,,,,"Die grün-rote Landesregierung korrigiert die für 2013 veranschlagten Haushaltsmittel für Asylbewerber um gut 50 
 Prozent deutlich nach oben. ""Wir müssen aufgrund der Entwicklung bis zum Jahresende mit bis zu 9000 
 Flüchtlingen rechnen. Ursprünglich sind wir von 6000 ausgegangen"", sagte der Sprecher des 
 Integrationsministeriums, Christoph Häring, der SÜDWEST PRESSE. ""Dadurch erhöht sich die pauschale 
@@ -2629,7 +2385,7 @@ Schon jetzt ist absehbar, dass es bei diesem Nachtragsetat nicht bleiben wird. E
 Umsetzung der Polizeistrukturreform avisiert. Dann könnten auch von der Regierung in Aussicht gestellte 
 Einsparungen an der ein oder anderen Stelle zum Tragen kommen. Ob die Erhöhung der Beamtenbesoldung noch 
 eine Erweiterung des ersten Nachtragsetats notwendig macht, wird sich heute erweisen."
-2013-03,Main Corpus,2013-03(90).ZIP,Undeloher bleiben unter sich ASYL Der Landkreis Harburg wird nun doch keine Flüchtlinge im Örtchen U.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Undeloher bleiben unter sich ASYL Der Landkreis Harburg wird nun doch keine Flüchtlinge im Örtchen U.PDF,Undeloher bleiben unter sich ASYL Der Landkreis Harburg wird nun doch keine Flüchtlinge im Örtchen,undeloher bleiben unter sich asyl der landkreis harburg wird nun doch keine flüchtlinge im örtchen,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 28. März 2013,ILK,NORD AKTUELL; S. 21,293,2182,17edaf99232d8d2baf936e8798fa03ad621e0390,,unique,keep,,no,,no,,,3284,no,,,,,"Im niedersächsischen Undeloh werden nun doch keine Flüchtlinge untergebracht. Wir haben die Entscheidung 
+2013-03,Main Corpus,2013-03(67).ZIP,Undeloher bleiben unter sich ASYL Der Landkreis Harburg wird nun doch keine Flüchtlinge im Örtchen U.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Undeloher bleiben unter sich ASYL Der Landkreis Harburg wird nun doch keine Flüchtlinge im Örtchen U.PDF,Undeloher bleiben unter sich ASYL Der Landkreis Harburg wird nun doch keine Flüchtlinge im Örtchen,undeloher bleiben unter sich asyl der landkreis harburg wird nun doch keine flüchtlinge im örtchen,"taz, die tageszeitung",taz die tageszeitung,Donnerstag 28. März 2013,ILK,NORD AKTUELL; S. 21,293,2182,17edaf99232d8d2baf936e8798fa03ad621e0390,,unique,keep,,no,,no,,,3284,no,,,,,"Im niedersächsischen Undeloh werden nun doch keine Flüchtlinge untergebracht. Wir haben die Entscheidung 
 gründlich abgewogen und uns gegen den Standort im 400-Seelen-Ort entschieden , sagt Bernhard Frosdorfer, 
 Sprecher des Landkreises Harburg. In einer ehemaligen Pension des kleinen Ortes in der Lüneburger Heide hätten 
 29 Männer Platz finden sollen. Im Februar hatte sich der Gemeinderat auf einer öffentlichen Sitzung gegen die 
@@ -2653,7 +2409,7 @@ Folgeunterbringung in einer Wohnung biete. ILK
 Undeloher bleiben unter sich ASYL Der Landkreis Harburg wird nun doch keine Flüchtlinge im Örtchen 
 Undeloh unterbringen. Die Betreibergesellschaft ist ausgestie....
 KAI WEBER, FLÜCHTLINGSRAT"
-2013-03,Main Corpus,2013-03(90).ZIP,Unis helfen verschmähten Akademikern ZUWANDERER Selbst hochqualifizierte Migranten finden keinen Job.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Unis helfen verschmähten Akademikern ZUWANDERER Selbst hochqualifizierte Migranten finden keinen Job.PDF,Unis helfen verschmähten Akademikern; ZUWANDERER Selbst hochqualifizierte Migranten finden keinen Job,unis helfen verschmähten akademikern zuwanderer selbst hochqualifizierte migranten finden keinen job,"taz, die tageszeitung",taz die tageszeitung,Samstag 02. März 2013,BERND KRAMER,INLAND; S. 04,461,3208,3cd0c9cf32a95a06c3731b2c9df8a5140bd67985,,unique,keep,,no,,no,,,4731,no,,,,,"BERLIN taz So recht will man Ruta Peci wohl nicht glauben, dass sie einen Bachelor in Business Administration 
+2013-03,Main Corpus,2013-03(67).ZIP,Unis helfen verschmähten Akademikern ZUWANDERER Selbst hochqualifizierte Migranten finden keinen Job.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Unis helfen verschmähten Akademikern ZUWANDERER Selbst hochqualifizierte Migranten finden keinen Job.PDF,Unis helfen verschmähten Akademikern; ZUWANDERER Selbst hochqualifizierte Migranten finden keinen Job,unis helfen verschmähten akademikern zuwanderer selbst hochqualifizierte migranten finden keinen job,"taz, die tageszeitung",taz die tageszeitung,Samstag 02. März 2013,BERND KRAMER,INLAND; S. 04,461,3208,3cd0c9cf32a95a06c3731b2c9df8a5140bd67985,,unique,keep,,no,,no,,,4731,no,,,,,"BERLIN taz So recht will man Ruta Peci wohl nicht glauben, dass sie einen Bachelor in Business Administration 
 hat. Nachdem sie 1995 die Uni in Litauen abschloss, kam sie als Au-pair nach Deutschland und blieb, der Liebe 
 wegen. Nur ihr Hochschulabschluss scheint mit dem Umzug kaum noch etwas wert zu sein. Ich habe nicht damit 
 gerechnet, dass es so viele Probleme gibt , sagt die 39-Jährige. Nicht einmal ein Praktikum konnte ich bekommen. 
@@ -2689,7 +2445,7 @@ Noch sind Duisburg-Essen und Regensburg die einzigen Universitäten mit einem Au
 Zuwanderer. Zwei weitere Hochschulen planten aber Angebote, sagt Katharina Jacob von der Uni Duisburg-Essen. 
 BERND KRAMER
 - www.prosalamander.de"
-2013-03,Main Corpus,2013-03(90).ZIP,URTEILE.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\URTEILE.PDF,URTEILE,urteile,Der Tagesspiegel,der tagesspiegel,Samstag 9. März 2013,,IMMOBILIEN; S. 1; Ausg. 21625,198,1556,0bd933ca866dc645870b5e2203de694c4290586a,,unique,keep,,no,,no,,,2089,no,,,,,"Nachbar Asylant
+2013-03,Main Corpus,2013-03(67).ZIP,URTEILE.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\URTEILE.PDF,URTEILE,urteile,Der Tagesspiegel,der tagesspiegel,Samstag 9. März 2013,,IMMOBILIEN; S. 1; Ausg. 21625,198,1556,0bd933ca866dc645870b5e2203de694c4290586a,,unique,keep,,no,,no,,,2089,no,,,,,"Nachbar Asylant
 Anwohner einer Gehörlosenschule können sich nicht dagegen wehren, dass die Schule einer 
 ""Unterbringungseinrichtung für Asylbewerber"" weichen muss. Das Argument, die neue Nutzung des Gebäudes 
 würde in einem Wohngebiet unzulässig sein und führe zu erheblichem Autoverkehr und Lärmbelästigungen, ließ 
@@ -2707,7 +2463,7 @@ stattfindenden Sportveranstaltungen"" Regelungen aufstellt, dass die Lärmhöchs
 Sportanlagenlärmschutzverordnung auf ihrem Grundstück nicht überschritten werden. Das Verwaltungsgericht des 
 Saarlandes lehnte ihre Forderung ab, obwohl Überschreitungen des Richtwertes festgestellt wurden. Es gab bereits 
 Auflagen wie das Verbot von Druckluftfanfaren und Starterpistolen. (AZ: 5 K 633/10) büs"
-2013-03,Main Corpus,2013-03(90).ZIP,"VERDACHTSFÄLLE Verbrannt, erschossen, zerstückelt Weitere 14 Tote_ Bei diesen Verbrechen erscheint e.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\VERDACHTSFÄLLE Verbrannt, erschossen, zerstückelt Weitere 14 Tote_ Bei diesen Verbrechen erscheint e.PDF","VERDACHTSFÄLLE; Verbrannt, erschossen, zerstückelt Weitere 14 Tote: Bei diesen Verbrechen erscheint ein",verdachtsfälle verbrannt erschossen zerstückelt weitere 14 tote bei diesen verbrechen erscheint ein,Der Tagesspiegel,der tagesspiegel,Donnerstag 21. März 2013,,POLITIK; S. 6; Ausg. 21637,682,4661,d871b53a586d4cb684cf40be06c1422be1081cb8,,unique,keep,,no,,no,,,6140,no,,,,,"1996
+2013-03,Main Corpus,2013-03(67).ZIP,"VERDACHTSFÄLLE Verbrannt, erschossen, zerstückelt Weitere 14 Tote_ Bei diesen Verbrechen erscheint e.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\VERDACHTSFÄLLE Verbrannt, erschossen, zerstückelt Weitere 14 Tote_ Bei diesen Verbrechen erscheint e.PDF","VERDACHTSFÄLLE; Verbrannt, erschossen, zerstückelt Weitere 14 Tote: Bei diesen Verbrechen erscheint ein",verdachtsfälle verbrannt erschossen zerstückelt weitere 14 tote bei diesen verbrechen erscheint ein,Der Tagesspiegel,der tagesspiegel,Donnerstag 21. März 2013,,POLITIK; S. 6; Ausg. 21637,682,4661,d871b53a586d4cb684cf40be06c1422be1081cb8,,unique,keep,,no,,no,,,6140,no,,,,,"1996
 Bei einem Brandanschlag auf ein Flüchtlingsheim in der Lübecker Hafenstraße sterben in der Nacht zum 18. 
 Januar 1996 zehn Asylbewerber: Maiamba Bunga (27) und ihre Tochter Nsuzana (7) aus Angola, Françoise 
 Makodila (32) und ihre Kinder Christine (17), Miya (14), Christelle (8), Legrand (5) und Jean-Daniel (3) aus Zaire 
@@ -2762,18 +2518,7 @@ Graphic
  
 Foto: privat
 Burak Bektas"
-2013-03,Main Corpus,2013-03(90).ZIP,Vortragsabend gegen Rassismus.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Vortragsabend gegen Rassismus.PDF,Vortragsabend gegen Rassismus,vortragsabend gegen rassismus,Rheinische Post,rheinische post,14. März 2013 Donnerstag,,,162,1150,2b29df16949e6fc5f61b6fe04c919c88bd2e412e,,unique,keep,,no,,no,,,1675,no,,,,,"KEVELAER (RP) Die in den vergangenen Monaten gestiegene Zuwanderung von Roma aus Osteuropa hat in 
-Deutschland eine neue Debatte entfacht, die bislang jedoch mehr Fragen aufgeworfen als Antworten gebracht hat. 
-Daher lädt der Caritasverband Geldern-Kevelaer im Rahmen der ""Internationalen Woche gegen Rassismus"" zu 
-einem Vortrags- und Diskussionsabend unter dem Titel ""Arme Roma, böse Zigeuner"" ein. Der langjährige Balkan-
-Korrespondent Norbert Mappes-Niedeck wird am heutigen Donnerstag ab 19 Uhr im Klostergarten Kevelaer 
-versuchen, fehlende Antworten zu geben und mit Vorurteilen aufzuräumen. Unter dem gleichen Titel ""Arme Roma, 
-böse Zigeuner"" hatte Norbert Mappes-Niedeck, der gebürtig aus Kleve stammt und heute in Wien lebt, im 
-vergangenen Jahr ein neues Buch veröffentlicht. Er wird in seinem Vortrag Fragen beantworten wie: Unter welchen 
-Bedingungen leben Roma in ihren Heimatländern? Was treibt sie zu uns? Werden sie geschickt, verschleppt, 
-ausgebeutet? Kann man die Armutswanderung aufhalten? Anschließend wird Mappes-Niedeck mit den Teilnehmer 
-diese Themen offen diskutieren. Ein Anmeldung ist nicht nötig. Der Eintritt ist frei."
-2013-03,Main Corpus,2013-03(90).ZIP,Westerwelle erhöht Druck auf Friedrich In Deutschland lebende Syrer sollen Verwandte aus Krisengebie.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Westerwelle erhöht Druck auf Friedrich In Deutschland lebende Syrer sollen Verwandte aus Krisengebie.PDF,Westerwelle erhöht Druck auf Friedrich In Deutschland lebende Syrer sollen Verwandte aus Krisengebiet,westerwelle erhöht druck auf friedrich in deutschland lebende syrer sollen verwandte aus krisengebiet,Die Welt,die welt,Mittwoch 20. März 2013,Manuel Bewarder,POLITIK; S. 7; Ausg. 67,676,5239,a5557f92a91bbb13e31c4eaff79f81003a99d2ad,,unique,keep,,no,,no,,,6927,no,,,,,"Die Bundesregierung steht vor einem Kurswechsel beim Umgang mit syrischen Flüchtlingen. Bundesinnenminister 
+2013-03,Main Corpus,2013-03(67).ZIP,Westerwelle erhöht Druck auf Friedrich In Deutschland lebende Syrer sollen Verwandte aus Krisengebie.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Westerwelle erhöht Druck auf Friedrich In Deutschland lebende Syrer sollen Verwandte aus Krisengebie.PDF,Westerwelle erhöht Druck auf Friedrich In Deutschland lebende Syrer sollen Verwandte aus Krisengebiet,westerwelle erhöht druck auf friedrich in deutschland lebende syrer sollen verwandte aus krisengebiet,Die Welt,die welt,Mittwoch 20. März 2013,Manuel Bewarder,POLITIK; S. 7; Ausg. 67,676,5239,a5557f92a91bbb13e31c4eaff79f81003a99d2ad,,unique,keep,,no,,no,,,6927,no,,,,,"Die Bundesregierung steht vor einem Kurswechsel beim Umgang mit syrischen Flüchtlingen. Bundesinnenminister 
 Hans-Peter Friedrich (CSU) ist dazu bereit, eine größere Anzahl von Flüchtlingen aus dem Bürgerkriegsland 
 aufzunehmen. Das bestätigte eine Sprecherin der „Welt"".
 Im syrischen Bürgerkrieg gibt es bisher 70.000 Tote. Ein Ende der Auseinandersetzungen zwischen dem Regime 
@@ -2828,7 +2573,7 @@ der Innenministerkonferenz und des Bundesinnenministeriums die weiterhin dramati
 unerträgliche humanitäre Situation für die Bevölkerung. Für eine Verlängerung des Abschiebestopps haben sich 
 alle Innenminister der Länder sowie Friedrich ausgesprochen.
 „Jetzt ist der Moment, ein Signal der Solidarität auszusenden"" Guido Westerwelle, Außenminister"
-2013-03,Main Corpus,2013-03(90).ZIP,"Wie viel C steckt in der CDU_ Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Wie viel C steckt in der CDU_ Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der(2).PDF","Wie viel C steckt in der CDU? Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der",wie viel c steckt in der cdu deutschland muss zuwanderern helfen statt sie abzuschieben meint der,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,27. März 2013,"Özlem Topcu,Heinrich Wefing",S. 2; Ausg. 14,1637,11151,718aed037cb2ab9362df280768da94f5e62aaed2,variant_002,regional_variant,review,,no,,no,,,12259,no,,,near_002,variant_002,"DIE FRAGEN STELLTEN ÖZLEM TOPÇU UND HEINRICH WEFING
+2013-03,Main Corpus,2013-03(67).ZIP,"Wie viel C steckt in der CDU_ Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der(2).PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Wie viel C steckt in der CDU_ Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der(2).PDF","Wie viel C steckt in der CDU? Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der",wie viel c steckt in der cdu deutschland muss zuwanderern helfen statt sie abzuschieben meint der,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,27. März 2013,"Özlem Topcu,Heinrich Wefing",S. 2; Ausg. 14,1637,11151,718aed037cb2ab9362df280768da94f5e62aaed2,variant_002,regional_variant,review,,no,,no,,,12259,no,,,near_002,variant_002,"DIE FRAGEN STELLTEN ÖZLEM TOPÇU UND HEINRICH WEFING
 ***
 ""Nach dem Krieg stand das christliche Menschenbild in Flüchtlingsfragen bei der CDU ganz oben. Doch dann ist 
 das C verblasst"" (Christian Schwarz-Schilling ) 
@@ -2955,7 +2700,7 @@ von 2006 bis 2007 war er Bosnien-Beauftragter der EU.
 Graphic
  
  Diese Familie lebte in Deutschland, bis sie 2010 in den Kosovo abgeschoben wurde"
-2013-03,Main Corpus,2013-03(90).ZIP,"Wie viel C steckt in der CDU_ Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Wie viel C steckt in der CDU_ Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der.PDF","Wie viel C steckt in der CDU? Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der",wie viel c steckt in der cdu deutschland muss zuwanderern helfen statt sie abzuschieben meint der,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,27. März 2013,Heinrich Wefing Özlem Topcu,POLITIK;Wie viel C steckt in der CDU?; S. 2; Ausg. 14,1640,11195,fb622b97610c4dc0d285b17b442edc81ffca6939,variant_002,regional_variant,review,,no,,no,,,12341,no,,,near_002,variant_002,"Heinrich Wefing
+2013-03,Main Corpus,2013-03(67).ZIP,"Wie viel C steckt in der CDU_ Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der.PDF","C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Wie viel C steckt in der CDU_ Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der.PDF","Wie viel C steckt in der CDU? Deutschland muss Zuwanderern helfen, statt sie abzuschieben, meint der",wie viel c steckt in der cdu deutschland muss zuwanderern helfen statt sie abzuschieben meint der,Die ZEIT (inklusive ZEIT Magazin),die zeit inklusive zeit magazin,27. März 2013,Heinrich Wefing Özlem Topcu,POLITIK;Wie viel C steckt in der CDU?; S. 2; Ausg. 14,1640,11195,fb622b97610c4dc0d285b17b442edc81ffca6939,variant_002,regional_variant,review,,no,,no,,,12341,no,,,near_002,variant_002,"Heinrich Wefing
 Özlem Topcu
 DIE FRAGEN STELLTEN ÖZLEM TOPÇU UND HEINRICH WEFING
 ***
@@ -3082,18 +2827,7 @@ Bosnien-Herzegowina zurück. 1995 vermittelte er als Schlichter zwischen den Gru
 von 2006 bis 2007 war er Bosnien-Beauftragter der EU.
 ***
  Diese Familie lebte in Deutschland, bis sie 2010 in den Kosovo abgeschoben wurde"
-2013-03,Main Corpus,2013-03(90).ZIP,wird das AKW Grohnde umzingelt UND HEUTE_.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\wird das AKW Grohnde umzingelt UND HEUTE_.PDF,wird das AKW Grohnde umzingelt UND HEUTE?,wird das akw grohnde umzingelt und heute,"taz, die tageszeitung",taz die tageszeitung,Samstag 09. März 2013,RP,NORD AKTUELL; S. 42,150,1054,463d23204a51a0f9dcf4633b732a5e4bfe26e3e2,,unique,keep,,no,,no,,,1744,no,,,,,"In vielen Kirchen läuten um punkt 12 die Glocken, auf Wochenmärkten wird Strahlenalarm ausgelöst. Vor dem 
-Rathaus in Nörten-Hardenberg sammelt sich ein Flüchtlingstreck mit Pferden. Ein paar Kilometer weiter südlich, in 
-Bovenden, wollen Helfer in weißen Schutzanzügen Jodtabletten verteilen. Und in Göttingen soll vor dem Dienstsitz 
-der Polizei eine Kaffeetafel für diejenigen aufgebaut werden, die es geschafft haben raus aus der Gefahrenzone.
-Zum zweiten Mal jährt sich an diesem Samstag der Atomunfall im japanischen Fukushima. Daher wollen 
-Atomkraftgegner in Niedersachsen eine rund 380 Kilometer lange Aktions- und Menschenkette um das AKW 
-Grohnde an der Weser ziehen. Und auf diese Weise symbolisch demonstrieren, was im Fall eines Reaktorunfalls 
-passieren kann.
-Der durchschnittliche Abstand zwischen Aktionen und AKW, 40 bis 60 Kilometer, markiert in etwa die Grenze des 
-Gebiets, das nach Ansicht von Experten bei einem Grohnder GAU dem größten anzunehmenden Unfall 
-radioaktiv kontaminiert und für Jahrzehnte unbewohnbar werden könnte. RP"
-2013-03,Main Corpus,2013-03(90).ZIP,Wo sich Bayern und Brandenburg einig sind MIGRATION Die Integrationsminister der Länder beschließen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Wo sich Bayern und Brandenburg einig sind MIGRATION Die Integrationsminister der Länder beschließen.PDF,Wo sich Bayern und Brandenburg einig sind; MIGRATION Die Integrationsminister der Länder beschließen bei,wo sich bayern und brandenburg einig sind migration die integrationsminister der länder beschliessen bei,"taz, die tageszeitung",taz die tageszeitung,Freitag 22. März 2013,MARINA MAI,INLAND; S. 06,328,2540,5ea2701f79ba18fc8c62ea6dfb981adeb68bf81c,,unique,keep,,no,,no,,,4350,no,,,,,"BERLIN taz | Asylbewerber, geduldete Flüchtlinge und EU-Zuwanderer sollen in Zukunft deutsche Sprachkurse 
+2013-03,Main Corpus,2013-03(67).ZIP,Wo sich Bayern und Brandenburg einig sind MIGRATION Die Integrationsminister der Länder beschließen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Wo sich Bayern und Brandenburg einig sind MIGRATION Die Integrationsminister der Länder beschließen.PDF,Wo sich Bayern und Brandenburg einig sind; MIGRATION Die Integrationsminister der Länder beschließen bei,wo sich bayern und brandenburg einig sind migration die integrationsminister der länder beschliessen bei,"taz, die tageszeitung",taz die tageszeitung,Freitag 22. März 2013,MARINA MAI,INLAND; S. 06,328,2540,5ea2701f79ba18fc8c62ea6dfb981adeb68bf81c,,unique,keep,,no,,no,,,4350,no,,,,,"BERLIN taz | Asylbewerber, geduldete Flüchtlinge und EU-Zuwanderer sollen in Zukunft deutsche Sprachkurse 
 vom Bund bezahlt bekommen. Das hat die Integrationsministerkonferenz der Bundesländer gestern in Dresden 
 einstimmig beschlossen. Bisher galt der Anspruch nur für Zuwanderer, die einen Aufenthaltsstatus haben.
 Brandenburg hatte beantragt, allen Asylsuchenden den gleichen Zugang zu Integrationskursen wie Zuwanderern 
@@ -3121,23 +2855,7 @@ modernes Einbürgerungsrecht.
 Die unionsgeführten Länder, die seit dem Regierungswechsel in Niedersachsen in der Minderheit sind, lehnten den 
 Doppelpass ab. Ein Antrag mehrerer Bundesländer, die Residenzpflicht für Asylbewerber abzuschaffen, scheiterte 
 knapp an der notwendigen Zweidrittelmehrheit. MARINA MAI"
-2013-03,Main Corpus,2013-03(90).ZIP,Zurück zur Ehrlichkeit.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Zurück zur Ehrlichkeit.PDF,Zurück zur Ehrlichkeit,zurück zur ehrlichkeit,Rheinische Post,rheinische post,21. März 2013 Donnerstag,,,225,1698,51cb66be0aedec8e144d5544e7c8fc24b1537346,,unique,keep,,no,,no,,,2072,no,,,,,"Wachtendonks Asylheim Anwohner kaufen Grundstücke zu einem Quadratmeterpreis weit höher als der aktuelle 
-Wert, um der Gemeinde zuvorzukommen, die dort eventuell ein Asylhaus bauen will. An anderer Stelle wird der 
-Grundstückszuschnitt und das Bauvolumen zum Streitpunkt und zum Argument zur strikten Ablehnung. Zum dritten 
-ist nun die Objektgröße für bis zu 40 notleidende Menschen Grund, mit Klage zu drohen. Was soll das? Warum 
-keine Ehrlichkeit? Ist die betroffene Bevölkerung nicht Manns genug zuzugeben: ""Wir haben nichts gegen 
-Ausländer, Hauptsache sie sind weit genug weg."" Wenig Wissen, aber dagegen sein. Asylbewerber sind bei 
-korrekter Bearbeitung nur für einen sehr begrenzten Zeitraum Bewohner dieses Asylhauses, eine Integration ist 
-somit für diese Gruppe grundsätzlich nicht möglich. Denn bei Ablehnung eines Asylantrages ist eine Rückführung in 
-die Heimat vorgeschrieben. Bei Anerkennung ist eine Unterbringung in einer normalen Wohnung nötig, hier sind 
-dann alle Integrationsbemühungen angebracht. Die nun betroffenen Anwohner der Lessingstraße betonen den 
-Willen zur Zusammenarbeit und Hilfe. Wie soll die denn aussehen? Übernehmen die ""Lessingsträßler"" die Suche 
-nach geeigneten Grundstücken und überzeugen die dortigen Anwohner von der Richtigkeit dieser Standorte? 
-Zücken die ""Lessingsträßler"" ihre Geldbörse und übernehmen die Mehrkosten für die nach ihrer Vorstellungen 
-nötigen, bis zu vier zusätzlichen Einrichtungen? Woher kommt das Vorurteil zur Schaffung eines sozialen 
-Brennpunktes? Bestehende Einrichtungen, die momentan menschenunwürdige Zustände vorweisen, belehren alle 
-Wachtendonker eines Besseren. Also - ehrlich sein. Manfred Gutzke 47669 Wachtendonk"
-2013-03,Main Corpus,2013-03(90).ZIP,Zweifel an Einsatz von Chemiewaffen Deutschland will syrische Flüchtlinge aufnehmen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Zweifel an Einsatz von Chemiewaffen Deutschland will syrische Flüchtlinge aufnehmen.PDF,Zweifel an Einsatz von Chemiewaffen Deutschland will syrische Flüchtlinge aufnehmen,zweifel an einsatz von chemiewaffen deutschland will syrische flüchtlinge aufnehmen,Der Tagesspiegel,der tagesspiegel,Donnerstag 21. März 2013,,POLITIK; S. 5; Ausg. 21637,301,2156,5a31767d768b045b35290ef9ca60c7d3d68448db,,unique,keep,,no,,no,,,3355,no,,,,,"Damaskus/Beirut - Es mehren sich die Zweifel, dass in der syrischen Provinz Aleppo tatsächlich Chemiewaffen 
+2013-03,Main Corpus,2013-03(67).ZIP,Zweifel an Einsatz von Chemiewaffen Deutschland will syrische Flüchtlinge aufnehmen.PDF,C:\PythonProjects\AfD-project\Corpora\Main Corpus\2013-03\raw_unarchive\Zweifel an Einsatz von Chemiewaffen Deutschland will syrische Flüchtlinge aufnehmen.PDF,Zweifel an Einsatz von Chemiewaffen Deutschland will syrische Flüchtlinge aufnehmen,zweifel an einsatz von chemiewaffen deutschland will syrische flüchtlinge aufnehmen,Der Tagesspiegel,der tagesspiegel,Donnerstag 21. März 2013,,POLITIK; S. 5; Ausg. 21637,301,2156,5a31767d768b045b35290ef9ca60c7d3d68448db,,unique,keep,,no,,no,,,3355,no,,,,,"Damaskus/Beirut - Es mehren sich die Zweifel, dass in der syrischen Provinz Aleppo tatsächlich Chemiewaffen 
 zum Einsatz gekommen sind. Rebellen und Oppositionelle machten am Mittwoch widersprüchliche Angaben zur 
 Wirkung der Waffe, die am Vortag in dem Dorf Chan al Asal nach Angaben beider Bürgerkriegsparteien mindestens 
 15 Menschen getötet hatte. Einige Regimegegner sprachen von einem stechenden Geruch und Atembeschwerden, 

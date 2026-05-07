@@ -1,10 +1,10 @@
 Descriptive QC Log
-build_timestamp=2026-05-04T11:33:30
-input_master=C:\PythonProjects\AfD-project\master_tables\master_articles_all.csv
-input_monthly=C:\PythonProjects\AfD-project\monthly_tables\monthly_summary_main_corpus.csv
-input_freeze_manifest=C:\PythonProjects\AfD-project\freeze\retrieval_freeze_manifest.csv
+build_timestamp=2026-05-07T00:26:06
+input_master=C:\PythonProjects\AfD-project\archive_pipeline\master_tables\master_articles_all.csv
+input_monthly=C:\PythonProjects\AfD-project\archive_pipeline\monthly_tables\monthly_summary_main_corpus.csv
+input_freeze_manifest=C:\PythonProjects\AfD-project\archive_pipeline\freeze\retrieval_freeze_manifest.csv
 
-main_rows=10541 kept_rows=8891 dropped_rows=1632
+main_rows=10402 kept_rows=8772 dropped_rows=1614
 monthly_rows=156 expected_months=156
 missing_months=none
 sumback_raw_match=YES

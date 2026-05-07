@@ -1,0 +1,36 @@
+Master Articles Build Log
+build_timestamp=2026-05-07T00:26:02
+freeze_manifest=C:\PythonProjects\AfD-project\archive_pipeline\freeze\retrieval_freeze_manifest.csv
+
+source_batch_files_processed=159
+source_batch_files_failed=1
+total_rows_master_articles_all=10569
+total_rows_master_articles_kept=8882
+article_id_unique=YES
+required_columns_present=YES
+parquet_written=YES
+
+Failed batches:
+- Chemnitz::chemnitz_extra | missing registry file: Corpora\Chemnitz\qc\extra\article_registry.csv
+
+Required-column check:
+- all required columns present
+
+Kept-count comparison vs manifest kept_count_if_available:
+- Comparison A (strict keep only, keep_drop_review == keep):
+  mismatch Chemnitz::chemnitz_extra: expected=119 actual=0
+  mismatch Cologne::cologne: expected=82 actual=81
+  mismatch Main Corpus::2015-05: expected=85 actual=83
+  mismatch Main Corpus::2015-06: expected=86 actual=84
+  mismatch Main Corpus::2015-08: expected=89 actual=88
+  mismatch Main Corpus::2015-11: expected=91 actual=90
+  mismatch Main Corpus::2016-02: expected=86 actual=85
+  mismatch Main Corpus::2016-03: expected=89 actual=87
+  mismatch Main Corpus::2016-04: expected=49 actual=48
+  mismatch Main Corpus::2016-10: expected=46 actual=45
+  mismatch Main Corpus::2017-04: expected=43 actual=42
+  mismatch Main Corpus::2018-03: expected=82 actual=81
+  mismatch Main Corpus::2018-04: expected=85 actual=83
+  mismatch Main Corpus::2022-10: expected=79 actual=78
+- Comparison B (non-drop rows, keep or review):
+  mismatch Chemnitz::chemnitz_extra: expected=119 actual=0

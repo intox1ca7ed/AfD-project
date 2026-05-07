@@ -95,13 +95,20 @@ def to_int(value: Any) -> int:
 def normalize_token(s: str) -> str:
     return " ".join((s or "").strip().split())
 
+def find_repo_root(start: Path) -> Path:
+    for candidate in [start, *start.parents]:
+        if (candidate / "Corpora").exists():
+            return candidate
+    raise RuntimeError("Could not locate repository root containing 'Corpora/'")
+
 
 def main() -> int:
-    project_root = Path(__file__).resolve().parents[1]
-    master_path = project_root / "master_tables" / "master_articles_all.csv"
-    freeze_manifest_path = project_root / "freeze" / "retrieval_freeze_manifest.csv"
+    stage_root = Path(__file__).resolve().parents[1]
+    _project_root = find_repo_root(stage_root)
+    master_path = stage_root / "master_tables" / "master_articles_all.csv"
+    freeze_manifest_path = stage_root / "freeze" / "retrieval_freeze_manifest.csv"
 
-    out_dir = project_root / "monthly_tables"
+    out_dir = stage_root / "monthly_tables"
     out_csv = out_dir / "monthly_summary_main_corpus.csv"
     out_parquet = out_dir / "monthly_summary_main_corpus.parquet"
     out_dict = out_dir / "monthly_summary_data_dictionary.txt"

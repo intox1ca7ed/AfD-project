@@ -1,16 +1,16 @@
 Monthly Summary Build Log
-build_timestamp=2026-05-04T11:33:27
-input_master_table=C:\PythonProjects\AfD-project\master_tables\master_articles_all.csv
-input_freeze_manifest=C:\PythonProjects\AfD-project\freeze\retrieval_freeze_manifest.csv
+build_timestamp=2026-05-07T00:26:03
+input_master_table=C:\PythonProjects\AfD-project\archive_pipeline\master_tables\master_articles_all.csv
+input_freeze_manifest=C:\PythonProjects\AfD-project\archive_pipeline\freeze\retrieval_freeze_manifest.csv
 
 all_156_months_present_exactly_once=YES
 missing_months=none
 duplicate_month_rows=none
 
 Monthly sum-back checks to master table:
-- raw_article_count_sum=10541 | master_main_rows=10541 | match=YES
-- kept_article_count_sum=8891 | master_main_keep_rows=8891 | match=YES
-- dropped_article_count_sum=1632 | master_main_drop_rows=1632 | match=YES
+- raw_article_count_sum=10402 | master_main_rows=10402 | match=YES
+- kept_article_count_sum=8772 | master_main_keep_rows=8772 | match=YES
+- dropped_article_count_sum=1614 | master_main_drop_rows=1614 | match=YES
 
 suspicious_zero_or_near_zero_months=none
 unusually_high_duplicate_burden_threshold=0.35

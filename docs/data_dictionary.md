@@ -1,6 +1,6 @@
 # Data Dictionary (Research-Facing)
 
-Updated: 2026-05-04T14:38:31
+Updated: 2026-05-07T00:00:00
 
 ## 1) `data/master_articles.parquet`
 - Purpose: Canonical article-level audit dataset for post-retrieval analysis.
@@ -45,6 +45,8 @@ Updated: 2026-05-04T14:38:31
 - `source_top1`
 - `source_top1_count`
 - `freeze_status`
+- Notes:
+  - `kept_article_count` is the cleaned downloaded sample size, not the final monthly salience volume measure.
 
 ## 4) `data/monthly_summary.csv`
 - Purpose: Lightweight inspection/export version of monthly summary.
@@ -53,3 +55,23 @@ Updated: 2026-05-04T14:38:31
 ## 5) Descriptive Tables
 - Folder: `data/descriptive_tables/`
 - Purpose: Supporting descriptive/QC tables used in reporting and figure generation.
+
+## 6) `data/monthly_media_salience_indicator.csv` and `.parquet`
+- Purpose: Monthly salience and sample-size diagnostics with manual Nexis totals.
+- Row unit: One month (`2013-01` to `2025-12`).
+- Primary salience columns:
+- `nexis_total_results`: monthly Nexis total results for final query + source basket + filters.
+- `media_salience_volume_raw`: direct copy of `nexis_total_results`.
+- `media_salience_volume_log1p`: `log(1 + nexis_total_results)`.
+- `media_salience_volume_z`: z-score of `nexis_total_results` (population SD, `ddof=0`).
+- Sample-size diagnostic columns:
+- `raw_article_count`: downloaded monthly sample size (manual authoritative count after merge).
+- `kept_article_count`: cleaned downloaded sample size from corpus QC/dedup output.
+- `cleaned_sample_size`: alias of `kept_article_count` for clarity.
+- `cleaned_sample_log1p`: `log(1 + cleaned_sample_size)`.
+- `cleaned_sample_z`: z-score of `cleaned_sample_size` (population SD, `ddof=0`).
+- Retrieval and coverage diagnostics:
+- `download_fraction`: `raw_article_count / nexis_total_results` (NaN when denominator is 0/missing).
+- `cleaned_sample_fraction`: `kept_article_count / nexis_total_results` (NaN when denominator is 0/missing).
+- `retrieval_mismatch_flag`: `raw_article_count > nexis_total_results`.
+- `high_download_sample_flag`: `raw_article_count > 50`.
