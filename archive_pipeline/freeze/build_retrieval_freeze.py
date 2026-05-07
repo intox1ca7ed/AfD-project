@@ -223,32 +223,6 @@ def main() -> int:
             "fallback_dates": ("2015-12-31", "2016-01-31"),
         },
         {
-            "corpus_name": "Chemnitz",
-            "folder": corpora_root / "Chemnitz",
-            "batch_id": "chemnitz_core",
-            "raw_dir": "raw_unarchive_core",
-            "keep_dir": "clean_keep_core",
-            "drop_dir": "excluded_drop_core",
-            "qc_subdir": "qc/core",
-            "registry": "qc/core/article_registry.csv",
-            "qc_summary": "qc/core/qc_summary.md",
-            "clean_summary": "qc/core/clean_corpus_summary.md",
-            "fallback_dates": ("2018-08-01", "2018-09-30"),
-        },
-        {
-            "corpus_name": "Chemnitz",
-            "folder": corpora_root / "Chemnitz",
-            "batch_id": "chemnitz_extra",
-            "raw_dir": "raw_unarchive_extra",
-            "keep_dir": "clean_keep_extra",
-            "drop_dir": "excluded_drop_extra",
-            "qc_subdir": "qc/extra",
-            "registry": "qc/extra/article_registry.csv",
-            "qc_summary": "qc/extra/qc_summary.md",
-            "clean_summary": "qc/extra/clean_corpus_summary.md",
-            "fallback_dates": ("2018-08-01", "2018-09-30"),
-        },
-        {
             "corpus_name": "Corrective Revelation",
             "folder": corpora_root / "Corrective Revelation",
             "batch_id": "corrective_revelation",
@@ -262,6 +236,63 @@ def main() -> int:
             "fallback_dates": ("2024-01-01", "2024-01-31"),
         },
     ]
+
+    chemnitz_folder = corpora_root / "Chemnitz"
+    chemnitz_has_split = (
+        (chemnitz_folder / "raw_unarchive_core").exists()
+        or (chemnitz_folder / "raw_unarchive_extra").exists()
+        or (chemnitz_folder / "qc" / "core").exists()
+        or (chemnitz_folder / "qc" / "extra").exists()
+    )
+    if chemnitz_has_split:
+        shock_defs.extend(
+            [
+                {
+                    "corpus_name": "Chemnitz",
+                    "folder": chemnitz_folder,
+                    "batch_id": "chemnitz_core",
+                    "raw_dir": "raw_unarchive_core",
+                    "keep_dir": "clean_keep_core",
+                    "drop_dir": "excluded_drop_core",
+                    "qc_subdir": "qc/core",
+                    "registry": "qc/core/article_registry.csv",
+                    "qc_summary": "qc/core/qc_summary.md",
+                    "clean_summary": "qc/core/clean_corpus_summary.md",
+                    "fallback_dates": ("2018-08-01", "2018-09-30"),
+                },
+                {
+                    "corpus_name": "Chemnitz",
+                    "folder": chemnitz_folder,
+                    "batch_id": "chemnitz_extra",
+                    "raw_dir": "raw_unarchive_extra",
+                    "keep_dir": "clean_keep_extra",
+                    "drop_dir": "excluded_drop_extra",
+                    "qc_subdir": "qc/extra",
+                    "registry": "qc/extra/article_registry.csv",
+                    "qc_summary": "qc/extra/qc_summary.md",
+                    "clean_summary": "qc/extra/clean_corpus_summary.md",
+                    "fallback_dates": ("2018-08-01", "2018-09-30"),
+                },
+            ]
+        )
+        chemnitz_scope_text = "Chemnitz (core + extra)"
+    else:
+        shock_defs.append(
+            {
+                "corpus_name": "Chemnitz",
+                "folder": chemnitz_folder,
+                "batch_id": "chemnitz_main",
+                "raw_dir": "raw_unarchive",
+                "keep_dir": "clean_keep",
+                "drop_dir": "excluded_drop",
+                "qc_subdir": "qc",
+                "registry": "qc/article_registry.csv",
+                "qc_summary": "qc/qc_summary.md",
+                "clean_summary": "qc/clean_corpus_summary.md",
+                "fallback_dates": ("2018-08-01", "2018-09-30"),
+            }
+        )
+        chemnitz_scope_text = "Chemnitz (single main dataset)"
 
     expected_shocks = {"Cologne", "Chemnitz", "Corrective Revelation"}
     present_shocks = {d["corpus_name"] for d in shock_defs if d["folder"].exists()}
@@ -359,7 +390,7 @@ def main() -> int:
         "Corpus scope summary:",
         "- Main corpus period: 2013-01 to 2025-12",
         f"- Number of monthly batches: {len(month_dirs)}",
-        "- Shock corpora included: Cologne, Chemnitz (core + extra), Corrective Revelation",
+        f"- Shock corpora included: Cologne, {chemnitz_scope_text}, Corrective Revelation",
         "",
         "Final retrieval assumptions:",
         "- German-language main corpus",

@@ -1,5 +1,5 @@
 Descriptive QC Log
-build_timestamp=2026-05-07T00:26:06
+build_timestamp=2026-05-07T21:17:40
 input_master=C:\PythonProjects\AfD-project\archive_pipeline\master_tables\master_articles_all.csv
 input_monthly=C:\PythonProjects\AfD-project\archive_pipeline\monthly_tables\monthly_summary_main_corpus.csv
 input_freeze_manifest=C:\PythonProjects\AfD-project\archive_pipeline\freeze\retrieval_freeze_manifest.csv

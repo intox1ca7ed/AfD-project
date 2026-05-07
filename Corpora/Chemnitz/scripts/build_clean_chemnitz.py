@@ -13,19 +13,40 @@ CORPUS_DIR = SCRIPT_DIR.parent
 QC_DIR = CORPUS_DIR / "qc"
 
 
-def paths_for(dataset: str) -> dict[str, Path]:
-    if dataset not in {"core", "extra"}:
-        raise ValueError("Dataset must be 'core' or 'extra'")
-    return {
-        "source_dir": CORPUS_DIR / f"raw_unarchive_{dataset}",
-        "dataset_qc_dir": QC_DIR / dataset,
-        "qc_articles": QC_DIR / dataset / "qc_articles.csv",
-        "article_registry": QC_DIR / dataset / "article_registry.csv",
-        "exclusion_log": QC_DIR / dataset / "exclusion_log.csv",
-        "summary_md": QC_DIR / dataset / "clean_corpus_summary.md",
-        "keep_dir": CORPUS_DIR / f"clean_keep_{dataset}",
-        "drop_dir": CORPUS_DIR / f"excluded_drop_{dataset}",
-    }
+def infer_default_dataset() -> str:
+    if (CORPUS_DIR / "raw_unarchive").exists():
+        return "main"
+    if (CORPUS_DIR / "raw_unarchive_core").exists():
+        return "core"
+    return "main"
+
+
+def paths_for(dataset: str) -> dict[str, Path | str]:
+    if dataset in {"core", "extra"}:
+        return {
+            "dataset_label": dataset,
+            "source_dir": CORPUS_DIR / f"raw_unarchive_{dataset}",
+            "dataset_qc_dir": QC_DIR / dataset,
+            "qc_articles": QC_DIR / dataset / "qc_articles.csv",
+            "article_registry": QC_DIR / dataset / "article_registry.csv",
+            "exclusion_log": QC_DIR / dataset / "exclusion_log.csv",
+            "summary_md": QC_DIR / dataset / "clean_corpus_summary.md",
+            "keep_dir": CORPUS_DIR / f"clean_keep_{dataset}",
+            "drop_dir": CORPUS_DIR / f"excluded_drop_{dataset}",
+        }
+    if dataset == "main":
+        return {
+            "dataset_label": "main",
+            "source_dir": CORPUS_DIR / "raw_unarchive",
+            "dataset_qc_dir": QC_DIR,
+            "qc_articles": QC_DIR / "qc_articles.csv",
+            "article_registry": QC_DIR / "article_registry.csv",
+            "exclusion_log": QC_DIR / "exclusion_log.csv",
+            "summary_md": QC_DIR / "clean_corpus_summary.md",
+            "keep_dir": CORPUS_DIR / "clean_keep",
+            "drop_dir": CORPUS_DIR / "excluded_drop",
+        }
+    raise ValueError("Dataset must be one of: main, core, extra")
 
 
 def read_qc_rows(path: Path) -> list[dict[str, str]]:
@@ -280,7 +301,7 @@ def write_summary(path: Path, rows: list[dict[str, str]]) -> None:
 
 
 def main() -> None:
-    dataset = sys.argv[1] if len(sys.argv) > 1 else "core"
+    dataset = sys.argv[1] if len(sys.argv) > 1 else infer_default_dataset()
     cfg = paths_for(dataset)
     cfg["dataset_qc_dir"].mkdir(parents=True, exist_ok=True)
     resolved_rows = resolve_rows(read_qc_rows(cfg["qc_articles"]))
@@ -288,7 +309,7 @@ def main() -> None:
     write_exclusion_log(cfg["exclusion_log"], resolved_rows)
     copy_files(cfg["source_dir"], cfg["keep_dir"], cfg["drop_dir"], resolved_rows)
     write_summary(cfg["summary_md"], resolved_rows)
-    print(f"Wrote {cfg['article_registry'].name}, {cfg['exclusion_log'].name}, and {cfg['summary_md'].name} for {dataset}")
+    print(f"Wrote {cfg['article_registry'].name}, {cfg['exclusion_log'].name}, and {cfg['summary_md'].name} for {cfg['dataset_label']}")
     print(f"Copied {sum(row['keep_drop_review'] == 'keep' for row in resolved_rows)} keep files to {cfg['keep_dir']}")
     print(f"Copied {sum(row['keep_drop_review'] == 'drop' for row in resolved_rows)} drop files to {cfg['drop_dir']}")
 

@@ -67,20 +67,42 @@ class ArticleRecord:
     body_text: str
 
 
+def infer_default_dataset() -> str:
+    if (CORPUS_DIR / "raw_unarchive").exists():
+        return "main"
+    if (CORPUS_DIR / "raw_unarchive_core").exists():
+        return "core"
+    return "main"
+
+
 def paths_for(dataset: str) -> dict[str, Path | str]:
-    if dataset not in {"core", "extra"}:
-        raise ValueError("Dataset must be 'core' or 'extra'")
-    archives = sorted(CORPUS_DIR.glob(f"*{dataset}*.ZIP"))
-    return {
-        "source_dir": CORPUS_DIR / f"raw_unarchive_{dataset}",
-        "dataset_qc_dir": QC_DIR / dataset,
-        "articles_csv": QC_DIR / dataset / "qc_articles.csv",
-        "duplicate_groups": QC_DIR / dataset / "duplicate_groups.csv",
-        "summary_md": QC_DIR / dataset / "qc_summary.md",
-        "batch_id": f"{CORPUS_DIR.name}_{dataset}",
-        "corpus_name": CORPUS_DIR.name,
-        "source_archive": archives[0].name if archives else "",
-    }
+    if dataset in {"core", "extra"}:
+        archives = sorted(CORPUS_DIR.glob(f"*{dataset}*.ZIP"))
+        return {
+            "dataset_label": dataset,
+            "source_dir": CORPUS_DIR / f"raw_unarchive_{dataset}",
+            "dataset_qc_dir": QC_DIR / dataset,
+            "articles_csv": QC_DIR / dataset / "qc_articles.csv",
+            "duplicate_groups": QC_DIR / dataset / "duplicate_groups.csv",
+            "summary_md": QC_DIR / dataset / "qc_summary.md",
+            "batch_id": f"{CORPUS_DIR.name}_{dataset}",
+            "corpus_name": CORPUS_DIR.name,
+            "source_archive": archives[0].name if archives else "",
+        }
+    if dataset == "main":
+        archives = sorted(list(CORPUS_DIR.glob("*.ZIP")) + list(CORPUS_DIR.glob("*.zip")))
+        return {
+            "dataset_label": "main",
+            "source_dir": CORPUS_DIR / "raw_unarchive",
+            "dataset_qc_dir": QC_DIR,
+            "articles_csv": QC_DIR / "qc_articles.csv",
+            "duplicate_groups": QC_DIR / "duplicate_groups.csv",
+            "summary_md": QC_DIR / "qc_summary.md",
+            "batch_id": CORPUS_DIR.name,
+            "corpus_name": CORPUS_DIR.name,
+            "source_archive": archives[0].name if archives else "",
+        }
+    raise ValueError("Dataset must be one of: main, core, extra")
 
 
 def pdf_text(path: Path) -> str:
@@ -497,17 +519,25 @@ def write_summary(path: Path, batch_id: str, records: list[ArticleRecord], dupli
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
+def list_source_pdfs(source_dir: Path) -> list[Path]:
+    files = list(source_dir.glob("*.PDF")) + list(source_dir.glob("*.pdf"))
+    dedup: dict[str, Path] = {}
+    for p in files:
+        dedup[str(p.resolve()).lower()] = p
+    return sorted(dedup.values())
+
+
 def main() -> None:
-    dataset = sys.argv[1] if len(sys.argv) > 1 else "core"
+    dataset = sys.argv[1] if len(sys.argv) > 1 else infer_default_dataset()
     cfg = paths_for(dataset)
     cfg["dataset_qc_dir"].mkdir(parents=True, exist_ok=True)
-    paths = sorted((cfg["source_dir"]).glob("*.PDF"))
+    paths = list_source_pdfs(cfg["source_dir"])
     records = [parse_article(path, cfg["batch_id"], cfg["corpus_name"], cfg["source_archive"]) for path in paths]
     duplicate_rows = assign_group_labels(records)
     write_qc_articles(cfg["articles_csv"], records)
     write_duplicate_groups(cfg["duplicate_groups"], duplicate_rows)
     write_summary(cfg["summary_md"], cfg["batch_id"], records, duplicate_rows)
-    print(f"Processed {len(records)} files for {dataset}")
+    print(f"Processed {len(records)} files for {cfg['dataset_label']}")
     print(f"Wrote {cfg['articles_csv'].name}, {cfg['duplicate_groups'].name}, {cfg['summary_md'].name}")
 
 

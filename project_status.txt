@@ -1,0 +1,61 @@
+﻿AfD Project Status
+Last updated: 2026-05-07
+
+Recent milestones and important updates
+
+1) Media salience indicator redesign (Worktodo8)
+- Switched main monthly salience measure from kept downloaded article counts to manual Nexis monthly totals.
+- Introduced volume-based fields: nexis_total_results, media_salience_volume_raw, media_salience_volume_log1p, media_salience_volume_z.
+- Kept downloaded/cleaned counts as diagnostics only (raw_article_count, kept_article_count/cleaned_sample_size).
+- Added retrieval diagnostics: download_fraction, cleaned_sample_fraction, retrieval_mismatch_flag, high_download_sample_flag.
+- Rebuilt indicator outputs:
+  - data/monthly_media_salience_indicator.csv
+  - data/monthly_media_salience_indicator.parquet
+
+2) Notebook 01 overhaul and validation
+- Updated notebooks/01_corpus_descriptive_report.ipynb to use monthly_nexis_volume.csv and nexis_total_results as primary salience.
+- Added merge validation (156 months, duplicate checks, numeric checks, coverage checks).
+- Updated figure outputs and labels to separate salience volume from cleaned sample size diagnostics.
+- Notebook execution confirmed top-to-bottom in ds_env.
+
+3) Documentation architecture improvement
+- Implemented section-level README files in corresponding folders:
+  - notebooks/README.md
+  - scripts/README.md
+  - data/README.md
+  - archive_pipeline/README.md
+  - Corpora/README.md
+  - docs/README.md
+  - figures/README.md
+- Updated root README.md with section navigation links.
+- Consolidated to one README per section (removed duplicate script pointer file pattern).
+
+4) Chemnitz + Corrective Revelation corpus update rerun
+- Processed newly updated ZIP data for:
+  - Corpora/Chemnitz
+  - Corpora/Corrective Revelation
+- Re-extracted archives into raw_unarchive and reran audit + build_clean scripts.
+
+5) Chemnitz single-dataset compatibility fix
+- Patched Chemnitz scripts to support single main dataset layout (no core/extra split):
+  - Corpora/Chemnitz/scripts/audit_chemnitz.py
+  - Corpora/Chemnitz/scripts/build_clean_chemnitz.py
+- Added automatic default dataset mode detection.
+
+6) Archive freeze compatibility fix for Chemnitz mode
+- Patched archive_pipeline/freeze/build_retrieval_freeze.py to auto-detect Chemnitz structure:
+  - split mode (core + extra) OR
+  - single main mode.
+- Updated freeze note text generation accordingly.
+
+7) Full downstream refresh after rerun
+- Ran: scripts/build_postretrieval_dataset.py --run-archived-pipeline
+- Final verification status:
+  - pipeline_status=success
+  - retrieval_freeze_checks: no blockers
+  - Chemnitz now tracked as chemnitz_main (frozen)
+
+Current high-level state
+- Main monthly corpus (2013-01 to 2025-12): structurally complete for downstream use.
+- Shock corpora rerun completed for updated Chemnitz and Corrective Revelation data.
+- Salience indicator framework now conceptually aligned with Nexis monthly total results.

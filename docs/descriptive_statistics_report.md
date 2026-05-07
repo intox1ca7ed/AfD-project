@@ -6,15 +6,10 @@
 
 ## A) Volume Over Time
 - Coverage: 2013-01 to 2025-12 with 156 monthly rows.
-- Main monthly salience volume is based on manual Nexis monthly totals (`nexis_total_results`), not on kept downloaded counts.
-- Downloaded and cleaned monthly counts remain diagnostic sample-size series.
-- Totals shown below refer to downloaded/cleaned corpus structure, not absolute Nexis salience volume:
-  - downloaded (raw) total=10402
-  - cleaned kept total=8772
-  - dropped total=1614
-- Median cleaned kept count per month: 46.0.
+- Totals: raw=10402, kept=8772, dropped=1614.
+- Median kept count per month: 46.0.
 
-Shock-month sample-size check (cleaned kept counts):
+Shock-month volume check (kept counts):
 - 2016-01: kept=79, relative_to_median=1.72x
 - 2018-08: kept=82, relative_to_median=1.78x
 - 2024-01: kept=42, relative_to_median=0.91x
@@ -43,7 +38,7 @@ Shock-month sample-size check (cleaned kept counts):
 
 ## Readiness Interpretation
 - Temporal structure appears coherent: full 156-month coverage and exact sum-back to master table.
-- Nexis-based salience volume is now separated from downloaded/cleaned sample-size dynamics.
+- Volume dynamics are plausible and include visible month-level variation rather than flat mechanical counts.
 - Duplicate burden is concentrated in specific months rather than universally high; flagged months should be documented in thesis QC notes.
 - Source mix is concentrated but not single-source dominated to an implausible level; concentration metrics are included for transparency.
 - No blocking structural anomalies were found for proceeding to indicator-construction stage.

@@ -1,10 +1,10 @@
 # Clean Corrective Revelation Corpus Summary
 
-- Total original files: 22
-- Kept files: 17
-- Dropped files: 5
+- Total original files: 272
+- Kept files: 235
+- Dropped files: 37
 - Review files: 0
-- Duplicate groups collapsed: 4
+- Duplicate groups collapsed: 27
 
 ## Representative Selection Rule
 

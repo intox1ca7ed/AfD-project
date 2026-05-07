@@ -1,10 +1,10 @@
 Indicator Prep Build Log
-build_timestamp=2026-05-07T00:26:08
+build_timestamp=2026-05-07T21:17:42
 input_master=C:\PythonProjects\AfD-project\archive_pipeline\master_tables\master_articles_all.csv
 input_monthly=C:\PythonProjects\AfD-project\archive_pipeline\monthly_tables\monthly_summary_main_corpus.csv
 input_descriptive_report_exists=True
 
-master_rows=10569
+master_rows=11124
 monthly_rows=156
 article_placeholders_added=10
 monthly_placeholders_added=10
