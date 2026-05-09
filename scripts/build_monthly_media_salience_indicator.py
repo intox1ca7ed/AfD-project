@@ -44,15 +44,15 @@ def validate_nexis_volume(df: pd.DataFrame) -> None:
             raise ValueError(f"Column '{col}' has non-numeric or missing values for months: {bad_months}")
 
 
-def load_monthly_summary(data_dir: Path) -> pd.DataFrame:
-    parquet_path = data_dir / "monthly_summary.parquet"
-    csv_path = data_dir / "monthly_summary.csv"
+def load_monthly_summary(corpus_dir: Path) -> pd.DataFrame:
+    parquet_path = corpus_dir / "monthly_summary.parquet"
+    csv_path = corpus_dir / "monthly_summary.csv"
     if parquet_path.exists():
         monthly = pd.read_parquet(parquet_path)
     elif csv_path.exists():
         monthly = pd.read_csv(csv_path)
     else:
-        raise FileNotFoundError("Missing monthly summary: expected data/monthly_summary.parquet or .csv")
+        raise FileNotFoundError("Missing monthly summary: expected data/corpus/monthly_summary.parquet or .csv")
     if "month_id" not in monthly.columns:
         raise ValueError("monthly_summary is missing required 'month_id' column")
     return monthly
@@ -150,8 +150,12 @@ def build_indicator(monthly: pd.DataFrame, nexis: pd.DataFrame) -> tuple[pd.Data
 
 
 def run(data_dir: Path) -> None:
-    monthly = load_monthly_summary(data_dir)
-    nexis_path = data_dir / "monthly_nexis_volume.csv"
+    corpus_dir = data_dir / "corpus"
+    indicators_dir = data_dir / "indicators"
+    indicators_dir.mkdir(parents=True, exist_ok=True)
+
+    monthly = load_monthly_summary(corpus_dir)
+    nexis_path = corpus_dir / "monthly_nexis_volume.csv"
     if not nexis_path.exists():
         raise FileNotFoundError(f"Missing required file: {nexis_path}")
     nexis = pd.read_csv(nexis_path)
@@ -172,8 +176,8 @@ def run(data_dir: Path) -> None:
         ["month_id", "raw_article_count_monthly", "raw_article_count_manual"],
     ].sort_values("month_id")
 
-    out_csv = data_dir / "monthly_media_salience_indicator.csv"
-    out_parquet = data_dir / "monthly_media_salience_indicator.parquet"
+    out_csv = indicators_dir / "monthly_media_salience_indicator.csv"
+    out_parquet = indicators_dir / "monthly_media_salience_indicator.parquet"
     indicator.to_csv(out_csv, index=False, encoding="utf-8-sig")
     indicator.to_parquet(out_parquet, index=False)
 
@@ -196,7 +200,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--data-dir",
         default="data",
-        help="Data directory containing monthly_summary.* and monthly_nexis_volume.csv",
+        help="Data directory containing corpus/ and indicators/ subfolders",
     )
     return parser.parse_args()
 

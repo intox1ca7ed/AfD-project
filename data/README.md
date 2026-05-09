@@ -1,47 +1,73 @@
 # README Data
 
-Last updated: 2026-05-07
+Last updated: 2026-05-08
 
 ## Purpose
-- Canonical analysis-ready datasets and supporting descriptive tables.
+- Stores canonical analysis-ready datasets, indicators, polling/election inputs, and descriptive support tables.
 
-## Current Snapshot
-- Main monthly coverage: `2013-01` to `2025-12` (156 months).
-- Contains both corpus-structure datasets and salience indicator outputs.
+## Current Structure
+- `data/corpus/`: corpus-derived canonical tables.
+- `data/indicators/`: finalized indicator outputs.
+- `data/polling/raw/`: unchanged raw polling source files.
+- `data/polling/processed/`: cleaned/aggregated monthly polling outputs.
+- `data/polling/manual/`: manual historical polling supplement files (Wahlrecht-based pre-DAWUM).
+- `data/panel/`: merged monthly descriptive panel outputs.
+- `data/elections/`: election anchor benchmark files.
+- `data/descriptive_tables/`: descriptive/QC support tables.
 
 ## Canonical/Key Files
 
 | File | Row Unit | Purpose | Main Producer | Main Consumer |
 | --- | --- | --- | --- | --- |
-| `data/master_articles.parquet` | one article | Canonical article-level table (all keep/drop/review) | `scripts/build_postretrieval_dataset.py` (from archive pipeline) | notebooks, downstream modeling |
-| `data/master_articles_light.csv` | one article | Lightweight export without full text body | `scripts/build_postretrieval_dataset.py` | manual inspection |
-| `data/monthly_summary.parquet` | one month | Canonical monthly corpus structure summary | `scripts/build_postretrieval_dataset.py` | notebooks, indicator prep |
-| `data/monthly_summary.csv` | one month | Lightweight monthly export | `scripts/build_postretrieval_dataset.py` | quick checks/spreadsheets |
-| `data/monthly_nexis_volume.csv` | one month | Manual Nexis total monthly results + manual download counts | manual entry | salience indicator build |
-| `data/monthly_media_salience_indicator.csv` | one month | Volume-based salience indicators and retrieval diagnostics | `scripts/build_monthly_media_salience_indicator.py` (and notebook export) | merge-ready indicator workflows |
-| `data/monthly_media_salience_indicator.parquet` | one month | Parquet version of salience indicator table | same as above | analysis pipelines |
+| `data/corpus/master_articles.parquet` | one article | Canonical article-level table (all keep/drop/review) | `scripts/build_postretrieval_dataset.py` | notebooks, downstream modeling |
+| `data/corpus/master_articles_light.csv` | one article | Lightweight export without full text body | `scripts/build_postretrieval_dataset.py` | manual inspection |
+| `data/corpus/monthly_summary.parquet` | one month | Canonical monthly corpus structure summary | `scripts/build_postretrieval_dataset.py` | notebooks, indicator workflows |
+| `data/corpus/monthly_summary.csv` | one month | Lightweight monthly export | `scripts/build_postretrieval_dataset.py` | quick checks/spreadsheets |
+| `data/corpus/monthly_nexis_volume.csv` | one month | Manual Nexis total monthly results + manual download counts | manual entry | salience indicator build |
+| `data/indicators/monthly_media_salience_indicator.csv` | one month | Volume-based salience indicator + diagnostics | `scripts/build_monthly_media_salience_indicator.py` and Notebook 01 | polling merge stage |
+| `data/indicators/monthly_media_salience_indicator.parquet` | one month | Parquet version of salience indicator table | same as above | analysis pipelines |
+| `data/polling/raw/afd_polling_raw_dawum.csv` | one poll row | Raw DAWUM polling extract (no transformation) | Notebook 02/manual import | polling processing |
+| `data/polling/processed/afd_bundestag_polls_dawum.csv` | one poll row | Filtered Bundestag AfD poll-level dataset | Notebook 02 | monthly aggregation + diagnostics |
+| `data/polling/processed/afd_bundestag_polls_dawum.parquet` | one poll row | Parquet version of poll-level Bundestag AfD dataset | Notebook 02 | analysis pipelines |
+| `data/polling/processed/afd_polling_monthly.csv` | one month | Monthly aggregated AfD polling support | Notebook 02 | merge-ready empirical stage |
+| `data/polling/processed/afd_polling_monthly.parquet` | one month | Parquet version of monthly polling output | Notebook 02 | analysis pipelines |
+| `data/polling/processed/afd_polling_monthly_2017_2025.csv` | one month | Analysis-window monthly polling panel aligned to media corpus end (2025-12) | Notebook 02 | salience merge-ready panel |
+| `data/polling/processed/afd_polling_monthly_2017_2025.parquet` | one month | Parquet version of analysis-window polling panel | Notebook 02 | analysis pipelines |
+| `data/polling/processed/afd_polling_monthly_combined_2013_2025.csv` | one month | Combined monthly polling panel (historical manual 2013-09..2016-12 + DAWUM 2017-01..2025-12) | Notebook 05 | extended descriptive/event-window diagnostics |
+| `data/polling/processed/afd_polling_monthly_combined_2013_2025.parquet` | one month | Parquet version of combined monthly polling panel | Notebook 05 | analysis pipelines |
+| `data/polling/manual/afd_polling_historical_manual_polllevel.csv` | one poll row | Manual historical AfD polling supplement from Wahlrecht (pre-DAWUM) | manual extraction workflow | Cologne-period descriptive checks |
+| `data/polling/manual/afd_polling_historical_manual_monthly.csv` | one month | Monthly aggregation of manual historical supplement | manual extraction workflow | descriptive extensions before 2017 |
+| `data/polling/manual/afd_polling_historical_manual_monthly.parquet` | one month | Parquet version of manual historical monthly supplement | manual extraction workflow | analysis pipelines |
+| `data/panel/monthly_salience_polling_panel.csv` | one month | Descriptive merged panel (media salience + AfD polling) | Notebook 03 | pre-modeling analysis |
+| `data/panel/monthly_salience_polling_panel.parquet` | one month | Parquet version of merged salience-polling panel | Notebook 03 | analysis pipelines |
+| `data/panel/event_window_descriptive_summary.csv` | one shock-window summary row | Local pre/post descriptive summaries for Chemnitz and Correctiv (±3/±6) | Notebook 04 | event-window diagnostics |
+| `data/panel/monthly_salience_polling_panel_combined_2013_2025.csv` | one month | Combined salience-polling panel extended to include pre-2017 historical polling supplement | Notebook 05 | Cologne+Chemnitz+Correctiv descriptive timeline |
+| `data/panel/monthly_salience_polling_panel_combined_2013_2025.parquet` | one month | Parquet version of combined salience-polling panel | Notebook 05 | analysis pipelines |
+| `data/panel/event_window_descriptive_summary_combined_2013_2025.csv` | one shock-window summary row | Combined-panel pre/post descriptive summaries for Cologne, Chemnitz, Correctiv (±3/±6) | Notebook 05 | event-window diagnostics |
+| `data/elections/afd_election_anchors.csv` | one election | Bundestag AfD Zweitstimme benchmark anchors | manual + docs guidance | benchmark overlays/checks |
 | `data/descriptive_tables/` | multiple | Supporting descriptive/QC tables | archived descriptive stage | descriptive reporting |
 
 ## How To Run
-- Refresh canonical data from archived pipeline artifacts:
+- Refresh corpus canonical files from archived pipeline artifacts:
   - `python scripts/build_postretrieval_dataset.py`
-- Rebuild only salience indicator outputs:
+- Rebuild salience indicators from current corpus + Nexis volume:
   - `python scripts/build_monthly_media_salience_indicator.py`
+- Build polling scaffold outputs:
+  - run `notebooks/02_afd_polling_preparation.ipynb`
 
 ## Dependencies
 - Upstream:
   - `archive_pipeline/master_tables/*`
   - `archive_pipeline/monthly_tables/*`
-  - manual `data/monthly_nexis_volume.csv`
+  - manual `data/corpus/monthly_nexis_volume.csv`
+  - DAWUM polling source data
 - Downstream:
   - notebooks
   - reporting figures
-  - indicator merge workflows
+  - polling-salience merge stage
 
 ## Update Routine (Manual)
-- When any canonical file is added/renamed/repurposed:
-  - update this file's table
-  - keep row-unit and producer/consumer fields accurate
+- If file names/locations/semantics in any data subfolder change, update this README table immediately.
 
 ## Notes
-- Generated canonical files should be rebuilt via scripts, not manually edited.
+- Generated canonical files should be rebuilt via scripts/notebooks, not spreadsheet-edited.

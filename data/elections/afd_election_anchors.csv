@@ -1,0 +1,5 @@
+﻿election_date,election_type,election_name,afd_zweitstimme_pct,source,notes
+2013-09-22,Bundestag,Bundestagswahl 2013,,regionalstatistik.de (table 14111-01-04-4),Fill verified national Zweitstimme AfD percentage.
+2017-09-24,Bundestag,Bundestagswahl 2017,,regionalstatistik.de (table 14111-01-04-4),Fill verified national Zweitstimme AfD percentage.
+2021-09-26,Bundestag,Bundestagswahl 2021,,regionalstatistik.de (table 14111-01-04-4),Fill verified national Zweitstimme AfD percentage.
+2025-09-28,Bundestag,Bundestagswahl 2025,,regionalstatistik.de (table 14111-01-04-4),Fill when official final value is confirmed for project baseline.

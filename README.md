@@ -22,12 +22,13 @@ This repository supports the empirical thesis workflow on media shocks and AfD s
 - `archive_pipeline/`: archived technical pipeline artifacts for audit/reproducibility.
 
 ## Main Datasets
-- `data/master_articles.parquet` (canonical article-level table)
-- `data/master_articles_light.csv` (light inspection export)
-- `data/monthly_summary.parquet` (canonical monthly structure)
-- `data/monthly_summary.csv` (light inspection export)
-- `data/monthly_nexis_volume.csv` (manual monthly Nexis totals + download counts)
-- `data/monthly_media_salience_indicator.csv` (volume-based salience indicators)
+- `data/corpus/master_articles.parquet` (canonical article-level table)
+- `data/corpus/master_articles_light.csv` (light inspection export)
+- `data/corpus/monthly_summary.parquet` (canonical monthly structure)
+- `data/corpus/monthly_summary.csv` (light inspection export)
+- `data/corpus/monthly_nexis_volume.csv` (manual monthly Nexis totals + download counts)
+- `data/indicators/monthly_media_salience_indicator.csv` (volume-based salience indicators)
+- `data/indicators/monthly_media_salience_indicator.parquet` (parquet indicator export)
 
 ## Reproducibility
 - Refresh clean outputs from archived artifacts:

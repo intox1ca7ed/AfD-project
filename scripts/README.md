@@ -1,6 +1,6 @@
 # README Scripts
 
-Last updated: 2026-05-07
+Last updated: 2026-05-08
 
 ## Purpose
 - Stores project-level helper scripts for rebuilding or refreshing post-retrieval outputs.
@@ -10,8 +10,8 @@ Last updated: 2026-05-07
   - Refreshes clean layer in `data/`, `figures/`, `docs/` from `archive_pipeline/`.
   - Optional flag `--run-archived-pipeline` runs `archive_pipeline/workflow/run_pipeline.py` first.
 - `scripts/build_monthly_media_salience_indicator.py`
-  - Builds monthly salience indicators from `monthly_summary` + `monthly_nexis_volume`.
-  - Writes `data/monthly_media_salience_indicator.csv/.parquet`.
+  - Builds monthly salience indicators from `data/corpus/monthly_summary.*` + `data/corpus/monthly_nexis_volume.csv`.
+  - Writes `data/indicators/monthly_media_salience_indicator.csv/.parquet`.
 
 ## How To Run
 - Refresh clean layer only:
@@ -24,7 +24,7 @@ Last updated: 2026-05-07
 ## Dependencies
 - Upstream:
   - `archive_pipeline/*` for refresh script
-  - `data/monthly_summary.*` and `data/monthly_nexis_volume.csv` for salience builder
+  - `data/corpus/monthly_summary.*` and `data/corpus/monthly_nexis_volume.csv` for salience builder
 - Downstream:
   - `data/*`, `figures/*`, `docs/*` outputs depending on script
 

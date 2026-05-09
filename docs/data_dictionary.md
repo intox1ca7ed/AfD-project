@@ -1,8 +1,8 @@
 # Data Dictionary (Research-Facing)
 
-Updated: 2026-05-07T00:00:00
+Updated: 2026-05-08T00:00:00
 
-## 1) `data/master_articles.parquet`
+## 1) `data/corpus/master_articles.parquet`
 - Purpose: Canonical article-level audit dataset for post-retrieval analysis.
 - Row unit: One parsed article record (keep/drop/review).
 - Typical use: QC checks, filtered subsets, aggregation to monthly indicators.
@@ -23,7 +23,7 @@ Updated: 2026-05-07T00:00:00
   - Includes full text body column (`text_body`) for advanced text workflows.
   - Stable ID: `article_id` is deterministic and script-built.
 
-## 2) `data/master_articles_light.csv`
+## 2) `data/corpus/master_articles_light.csv`
 - Purpose: Lightweight inspection/export table.
 - Row unit: Same as master table.
 - Typical use: quick inspection, spreadsheet-safe checks.
@@ -31,7 +31,7 @@ Updated: 2026-05-07T00:00:00
   - Derived from canonical master table.
   - Full text column removed to keep file lighter.
 
-## 3) `data/monthly_summary.parquet`
+## 3) `data/corpus/monthly_summary.parquet`
 - Purpose: Canonical one-row-per-month structural summary (Main Corpus).
 - Row unit: One month (`2013-01` to `2025-12`).
 - Typical use: time-series analysis, merge-ready base for polling linkage.
@@ -48,15 +48,20 @@ Updated: 2026-05-07T00:00:00
 - Notes:
   - `kept_article_count` is the cleaned downloaded sample size, not the final monthly salience volume measure.
 
-## 4) `data/monthly_summary.csv`
+## 4) `data/corpus/monthly_summary.csv`
 - Purpose: Lightweight inspection/export version of monthly summary.
 - Row unit: One month.
 
-## 5) Descriptive Tables
+## 5) `data/corpus/monthly_nexis_volume.csv`
+- Purpose: Manual monthly Nexis totals for final query + source basket + filters.
+- Row unit: One month (`2013-01` to `2025-12`).
+- Typical use: denominator source for volume/salience indicators.
+
+## 6) Descriptive Tables
 - Folder: `data/descriptive_tables/`
 - Purpose: Supporting descriptive/QC tables used in reporting and figure generation.
 
-## 6) `data/monthly_media_salience_indicator.csv` and `.parquet`
+## 7) `data/indicators/monthly_media_salience_indicator.csv` and `.parquet`
 - Purpose: Monthly salience and sample-size diagnostics with manual Nexis totals.
 - Row unit: One month (`2013-01` to `2025-12`).
 - Primary salience columns:

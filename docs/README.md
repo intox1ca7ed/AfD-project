@@ -1,6 +1,6 @@
 # README Docs
 
-Last updated: 2026-05-07
+Last updated: 2026-05-08
 
 ## Purpose
 - Research-facing and technical documentation layer.
@@ -11,6 +11,8 @@ Last updated: 2026-05-07
 - `docs/data_dictionary.md`: dataset definitions.
 - `docs/descriptive_statistics_report.md`: descriptive findings memo.
 - `docs/project_notes.md`: reproducibility and pipeline mapping notes.
+- `docs/post_deletion_salience_correction_note.md`: corrected post-deletion salience baseline note.
+- `docs/polling_and_election_data_plan.md`: polling/election stage plan and source boundaries.
 
 ## How To Use
 - Read `data_dictionary.md` before adding or renaming dataset columns.

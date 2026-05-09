@@ -19,12 +19,17 @@ def copy_if_exists(src: Path, dst: Path) -> tuple[bool, str]:
 
 def sync_clean_layer(project_root: Path) -> list[str]:
     msgs: list[str] = []
+    data_root = project_root / "data"
+    corpus_dir = data_root / "corpus"
+    indicators_dir = data_root / "indicators"
+    corpus_dir.mkdir(parents=True, exist_ok=True)
+    indicators_dir.mkdir(parents=True, exist_ok=True)
 
     # Canonical data files from archived pipeline outputs.
     mappings = [
-        (project_root / "archive_pipeline" / "master_tables" / "master_articles_all.parquet", project_root / "data" / "master_articles.parquet"),
-        (project_root / "archive_pipeline" / "monthly_tables" / "monthly_summary_main_corpus.parquet", project_root / "data" / "monthly_summary.parquet"),
-        (project_root / "archive_pipeline" / "monthly_tables" / "monthly_summary_main_corpus.csv", project_root / "data" / "monthly_summary.csv"),
+        (project_root / "archive_pipeline" / "master_tables" / "master_articles_all.parquet", corpus_dir / "master_articles.parquet"),
+        (project_root / "archive_pipeline" / "monthly_tables" / "monthly_summary_main_corpus.parquet", corpus_dir / "monthly_summary.parquet"),
+        (project_root / "archive_pipeline" / "monthly_tables" / "monthly_summary_main_corpus.csv", corpus_dir / "monthly_summary.csv"),
         (project_root / "archive_pipeline" / "descriptive_package" / "descriptive_statistics_report.md", project_root / "docs" / "descriptive_statistics_report.md"),
         (project_root / "archive_pipeline" / "freeze" / "retrieval_freeze_manifest.csv", project_root / "archive_pipeline" / "freeze" / "retrieval_freeze_manifest.csv"),
     ]
@@ -34,7 +39,7 @@ def sync_clean_layer(project_root: Path) -> list[str]:
 
     # Build lightweight master CSV from archived full CSV.
     src_master_csv = project_root / "archive_pipeline" / "master_tables" / "master_articles_all.csv"
-    out_light_csv = project_root / "data" / "master_articles_light.csv"
+    out_light_csv = corpus_dir / "master_articles_light.csv"
     if src_master_csv.exists():
         df = pd.read_csv(src_master_csv, encoding="utf-8-sig", low_memory=False)
         if "text_body" in df.columns:
@@ -127,8 +132,8 @@ def main() -> int:
 
     # Lightweight validation summary.
     try:
-        m = pd.read_parquet(project_root / "data" / "master_articles.parquet")
-        mm = pd.read_parquet(project_root / "data" / "monthly_summary.parquet")
+        m = pd.read_parquet(project_root / "data" / "corpus" / "master_articles.parquet")
+        mm = pd.read_parquet(project_root / "data" / "corpus" / "monthly_summary.parquet")
         lines.append("")
         lines.append(f"master_rows={len(m)}")
         lines.append(f"monthly_rows={len(mm)}")
