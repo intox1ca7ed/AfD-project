@@ -1,6 +1,6 @@
 Indicator-Ready Schema Specification
 
-Build timestamp: 2026-05-07T21:17:42
+Build timestamp: 2026-05-11T00:19:43
 
 1) Recommended join keys
 - Article-level primary key: article_id

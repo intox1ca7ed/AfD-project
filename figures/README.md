@@ -1,6 +1,6 @@
 # README Figures
 
-Last updated: 2026-05-09
+Last updated: 2026-05-11
 
 ## Purpose
 - Stores generated figures for descriptive reporting and diagnostics.
@@ -13,6 +13,10 @@ Last updated: 2026-05-09
   - `figures/03_notebook_figures/`
   - `figures/04_notebook_figures/`
   - `figures/05_notebook_figures/`
+  - `figures/06_notebook_figures/`
+  - `figures/07_notebook_figures/`
+  - `figures/08_notebook_figures/`
+  - `figures/09_notebook_figures/`
   - `figures/05a_historical_polling_sanity_check/`
 
 ## Figure Convention
@@ -22,6 +26,10 @@ Last updated: 2026-05-09
 - `notebooks/03_monthly_salience_polling_merge.ipynb` -> `figures/03_notebook_figures/`
 - `notebooks/04_event_window_descriptive_diagnostics.ipynb` -> `figures/04_notebook_figures/`
 - `notebooks/05_combined_polling_panel_and_cologne_extension.ipynb` -> `figures/05_notebook_figures/`
+- `notebooks/06_lag_diagnostics_descriptive.ipynb` -> `figures/06_notebook_figures/`
+- `notebooks/07_text_content_indicator_construction.ipynb` -> `figures/07_notebook_figures/`
+- `notebooks/08_full_panel_text_indicator_analysis.ipynb` -> `figures/08_notebook_figures/`
+- `notebooks/09_final_descriptive_diagnostics.ipynb` -> `figures/09_notebook_figures/`
 - `scripts/check_historical_manual_polling.py` -> `figures/05a_historical_polling_sanity_check/`
 - Use descriptive filenames that encode metric/context.
 

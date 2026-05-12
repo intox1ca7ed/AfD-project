@@ -1,0 +1,5 @@
+python "Corpora/Main Corpus/run_main_corpus.py"
+
+python scripts/build_postretrieval_dataset.py --run-archived-pipeline
+
+python scripts/build_monthly_media_salience_indicator.py

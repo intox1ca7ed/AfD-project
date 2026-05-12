@@ -1,0 +1,29 @@
+Post-Retrieval Dataset Builder
+timestamp=2026-05-11T00:19:29
+project_root=C:\PythonProjects\AfD-project
+run_archived_pipeline=True
+
+[archived_pipeline_run]
+return_code=0
+stdout:
+Wrote: C:\PythonProjects\AfD-project\archive_pipeline\logs\pipeline_run_20260511_001929.log
+Wrote: C:\PythonProjects\AfD-project\archive_pipeline\logs\pipeline_latest.log
+Wrote: C:\PythonProjects\AfD-project\archive_pipeline\logs\pipeline_runs_summary.csv
+pipeline_status=success
+stderr:
+
+
+[sync_clean_layer]
+copied C:\PythonProjects\AfD-project\archive_pipeline\master_tables\master_articles_all.parquet -> C:\PythonProjects\AfD-project\data\corpus\master_articles.parquet
+copied C:\PythonProjects\AfD-project\archive_pipeline\monthly_tables\monthly_summary_main_corpus.parquet -> C:\PythonProjects\AfD-project\data\corpus\monthly_summary.parquet
+copied C:\PythonProjects\AfD-project\archive_pipeline\monthly_tables\monthly_summary_main_corpus.csv -> C:\PythonProjects\AfD-project\data\corpus\monthly_summary.csv
+copied C:\PythonProjects\AfD-project\archive_pipeline\descriptive_package\descriptive_statistics_report.md -> C:\PythonProjects\AfD-project\docs\descriptive_statistics_report.md
+verified C:\PythonProjects\AfD-project\archive_pipeline\freeze\retrieval_freeze_manifest.csv
+wrote light csv C:\PythonProjects\AfD-project\data\corpus\master_articles_light.csv rows=11124 cols=34
+synced descriptive tables to C:\PythonProjects\AfD-project\data\descriptive_tables
+synced figures to C:\PythonProjects\AfD-project\figures
+
+master_rows=11124
+monthly_rows=156
+
+status=success

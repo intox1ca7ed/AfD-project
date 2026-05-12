@@ -1,11 +1,11 @@
 Master Articles Build Log
-build_timestamp=2026-05-07T21:17:37
+build_timestamp=2026-05-11T00:19:38
 freeze_manifest=C:\PythonProjects\AfD-project\archive_pipeline\freeze\retrieval_freeze_manifest.csv
 
 source_batch_files_processed=159
 source_batch_files_failed=0
 total_rows_master_articles_all=11124
-total_rows_master_articles_kept=9366
+total_rows_master_articles_kept=9367
 article_id_unique=YES
 required_columns_present=YES
 parquet_written=YES

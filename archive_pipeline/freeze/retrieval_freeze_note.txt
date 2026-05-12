@@ -1,8 +1,8 @@
 Retrieval Freeze Note
 
 Project: Master's thesis empirical corpus preparation (AfD support and exogenous political/media shocks)
-Freeze date: 2026-05-07
-Freeze timestamp: 2026-05-07T21:17:29
+Freeze date: 2026-05-11
+Freeze timestamp: 2026-05-11T00:19:29
 Protocol version: v2
 
 Corpus scope summary:

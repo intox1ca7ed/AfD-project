@@ -1,5 +1,5 @@
 Indicator Prep Build Log
-build_timestamp=2026-05-07T21:17:42
+build_timestamp=2026-05-11T00:19:43
 input_master=C:\PythonProjects\AfD-project\archive_pipeline\master_tables\master_articles_all.csv
 input_monthly=C:\PythonProjects\AfD-project\archive_pipeline\monthly_tables\monthly_summary_main_corpus.csv
 input_descriptive_report_exists=True

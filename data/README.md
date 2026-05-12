@@ -1,6 +1,6 @@
 # README Data
 
-Last updated: 2026-05-08
+Last updated: 2026-05-11
 
 ## Purpose
 - Stores canonical analysis-ready datasets, indicators, polling/election inputs, and descriptive support tables.
@@ -26,6 +26,11 @@ Last updated: 2026-05-08
 | `data/corpus/monthly_nexis_volume.csv` | one month | Manual Nexis total monthly results + manual download counts | manual entry | salience indicator build |
 | `data/indicators/monthly_media_salience_indicator.csv` | one month | Volume-based salience indicator + diagnostics | `scripts/build_monthly_media_salience_indicator.py` and Notebook 01 | polling merge stage |
 | `data/indicators/monthly_media_salience_indicator.parquet` | one month | Parquet version of salience indicator table | same as above | analysis pipelines |
+| `data/indicators/article_text_content_indicators.csv` | one kept article | Dictionary-based article-level text/content indicators | Notebook 07 | monthly content aggregation |
+| `data/indicators/article_text_content_indicators.parquet` | one kept article | Parquet version of article-level text/content indicators | Notebook 07 | analysis pipelines |
+| `data/indicators/monthly_text_content_indicators.csv` | one month | Monthly aggregated dictionary-based text/content indicators | Notebook 07 | later panel merge stage |
+| `data/indicators/monthly_text_content_indicators.parquet` | one month | Parquet version of monthly text/content indicators | Notebook 07 | analysis pipelines |
+| `data/indicators/text_indicator_event_window_summary.csv` | one shock-window-indicator row | Descriptive pre/post text-indicator summaries for Cologne, Chemnitz, Correctiv | Notebook 07 | shock-window diagnostics |
 | `data/polling/raw/afd_polling_raw_dawum.csv` | one poll row | Raw DAWUM polling extract (no transformation) | Notebook 02/manual import | polling processing |
 | `data/polling/processed/afd_bundestag_polls_dawum.csv` | one poll row | Filtered Bundestag AfD poll-level dataset | Notebook 02 | monthly aggregation + diagnostics |
 | `data/polling/processed/afd_bundestag_polls_dawum.parquet` | one poll row | Parquet version of poll-level Bundestag AfD dataset | Notebook 02 | analysis pipelines |
@@ -44,6 +49,11 @@ Last updated: 2026-05-08
 | `data/panel/monthly_salience_polling_panel_combined_2013_2025.csv` | one month | Combined salience-polling panel extended to include pre-2017 historical polling supplement | Notebook 05 | Cologne+Chemnitz+Correctiv descriptive timeline |
 | `data/panel/monthly_salience_polling_panel_combined_2013_2025.parquet` | one month | Parquet version of combined salience-polling panel | Notebook 05 | analysis pipelines |
 | `data/panel/event_window_descriptive_summary_combined_2013_2025.csv` | one shock-window summary row | Combined-panel pre/post descriptive summaries for Cologne, Chemnitz, Correctiv (±3/±6) | Notebook 05 | event-window diagnostics |
+| `data/panel/lag_diagnostics_descriptive_summary.csv` | one sample-lag-variable row | Descriptive lag-correlation diagnostics (lags 0..6; combined + source-block subsets) | Notebook 06 | exploratory timing diagnostics |
+| `data/panel/monthly_full_analysis_panel_2013_2025.csv` | one month | Full monthly analysis panel merging combined polling-salience panel with monthly text/content indicators | Notebook 08 | integrated descriptive/model-prep panel |
+| `data/panel/monthly_full_analysis_panel_2013_2025.parquet` | one month | Parquet version of full monthly analysis panel | Notebook 08 | analysis pipelines |
+| `data/panel/full_panel_text_shock_window_summary.csv` | one shock-window-variable row | Compact descriptive pre/post table (±3/±6) for AfD support and key text indicators | Notebook 08 | shock-window diagnostics |
+| `data/panel/final_descriptive_diagnostics.csv` | one shock | Thesis-ready compact shock diagnostics table with expected mechanism and interpretation labels | Notebook 09 | final results write-up |
 | `data/elections/afd_election_anchors.csv` | one election | Bundestag AfD Zweitstimme benchmark anchors | manual + docs guidance | benchmark overlays/checks |
 | `data/descriptive_tables/` | multiple | Supporting descriptive/QC tables | archived descriptive stage | descriptive reporting |
 
@@ -71,3 +81,4 @@ Last updated: 2026-05-08
 
 ## Notes
 - Generated canonical files should be rebuilt via scripts/notebooks, not spreadsheet-edited.
+- `2019-09` main-corpus archive correction has been integrated; current corpus/indicator outputs are post-correction refresh outputs.

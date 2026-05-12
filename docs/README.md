@@ -1,6 +1,6 @@
 # README Docs
 
-Last updated: 2026-05-08
+Last updated: 2026-05-11
 
 ## Purpose
 - Research-facing and technical documentation layer.
@@ -13,6 +13,8 @@ Last updated: 2026-05-08
 - `docs/project_notes.md`: reproducibility and pipeline mapping notes.
 - `docs/post_deletion_salience_correction_note.md`: corrected post-deletion salience baseline note.
 - `docs/polling_and_election_data_plan.md`: polling/election stage plan and source boundaries.
+- `docs/descriptive_event_window_results_note.md`: thesis-facing descriptive pre/post event-window note for Cologne, Chemnitz, Correctiv.
+- `docs/final_empirical_results_summary.md`: final descriptive thesis-ready empirical summary (Milestone 4).
 
 ## How To Use
 - Read `data_dictionary.md` before adding or renaming dataset columns.

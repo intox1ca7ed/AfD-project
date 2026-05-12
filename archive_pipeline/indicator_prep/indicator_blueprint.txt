@@ -1,6 +1,6 @@
 Indicator Blueprint
 
-Build timestamp: 2026-05-07T21:17:42
+Build timestamp: 2026-05-11T00:19:43
 
 Purpose:
 - Define future indicator variable structure without performing sentiment/topic modeling or causal estimation.

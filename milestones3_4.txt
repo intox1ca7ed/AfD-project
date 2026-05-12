@@ -1,0 +1,259 @@
+# milestones3_4.txt
+
+This note describes the next stages after Milestone 2 is completed.
+
+Current project state before Milestone 2
+- Corpus construction, cleaning, deduplication, QC, post-retrieval consolidation, and refactoring are complete.
+- Main monthly media salience is based on manual Nexis monthly total result counts, not kept/downloaded counts.
+- Downloaded and kept article counts are diagnostics / text-sample sizes.
+- Polling is prepared in two blocks:
+  - manual Wahlrecht historical supplement, 2013-09 to 2016-12;
+  - DAWUM monthly Bundestag AfD polling, 2017-01 to 2025-12.
+- Combined salience-polling panel now covers 2013-09 to 2025-12.
+- Descriptive event-window results currently show:
+  - Cologne: strong positive AfD polling shift;
+  - Chemnitz: weak/ambiguous polling shift;
+  - Correctiv: clear negative post-shock polling movement.
+- Lag diagnostics are descriptive and modest; no causal claims are made.
+
+Milestone 2, now underway
+- Build article-level and monthly text/content indicators from the kept corpus.
+- Create dictionary-based indicators for migration/asylum, security/public order, AfD/far-right, remigration/democracy-threat, and negative/threat tone proxy.
+- Aggregate these indicators monthly.
+- Validate indicator behavior around Cologne, Chemnitz, and Correctiv.
+
+After Milestone 2, do not immediately jump to modelling.
+First inspect whether the text indicators are meaningful.
+
+============================================================
+Milestone 3 — Merge text/content indicators into the monthly panel
+============================================================
+
+Goal
+Create a full monthly analysis panel that combines:
+1. monthly media volume salience;
+2. monthly text/content indicators;
+3. monthly AfD polling support;
+4. polling source metadata and article-sample diagnostics.
+
+Expected inputs
+- data/indicators/monthly_media_salience_indicator.csv/parquet
+- data/indicators/monthly_text_content_indicators.csv/parquet
+- data/panel/monthly_salience_polling_panel_combined_2013_2025.csv/parquet
+
+Expected outputs
+- data/panel/monthly_full_analysis_panel_2013_2025.csv
+- data/panel/monthly_full_analysis_panel_2013_2025.parquet
+- figures/08_notebook_figures/ or figures/07b_notebook_figures/
+- optionally docs/full_analysis_panel_note.md
+
+Recommended notebook
+- notebooks/08_text_indicator_panel_merge_and_validation.ipynb
+
+Main tasks
+1. Load combined salience-polling panel.
+2. Load monthly text/content indicators.
+3. Standardize month keys.
+4. Merge one-to-one on year_month.
+5. Validate coverage:
+   - combined polling/media panel should cover 2013-09 to 2025-12;
+   - text indicators may cover 2013-01 to 2025-12;
+   - final full panel should cover 2013-09 to 2025-12 if all text months are available.
+6. Validate no duplicate month rows.
+7. Validate no missing core variables:
+   - afd_poll_support_mean;
+   - nexis_total_results;
+   - key monthly text indicators.
+8. Create standardized versions of the main text indicators within the panel window.
+9. Produce descriptive plots.
+10. Save full panel.
+
+Core variables in full panel
+- month / year_month / month_dt
+- afd_poll_support_mean
+- afd_poll_support_z_combined
+- polling_source_block
+- n_polls
+- nexis_total_results
+- media_salience_volume_log1p
+- media_salience_volume_z_panel
+- n_articles_text_indicators
+- migration_terms_per_1000_mean
+- security_terms_per_1000_mean
+- afd_far_right_terms_per_1000_mean
+- remigration_democracy_terms_per_1000_mean
+- negative_threat_terms_per_1000_mean
+- share_articles_with_migration_terms
+- share_articles_with_security_terms
+- share_articles_with_afd_far_right_terms
+- share_articles_with_remigration_democracy_terms
+- share_articles_with_negative_threat_terms
+
+Plots to create
+1. AfD support and media volume salience over time.
+2. AfD support and each key text indicator over time.
+3. Standardized co-movement plot:
+   - AfD polling z-score;
+   - media volume z-score;
+   - selected text indicator z-score.
+4. Shock-window plots for Cologne, Chemnitz, Correctiv:
+   - AfD support;
+   - media volume;
+   - key text indicators.
+5. Comparison of mechanism-specific indicators:
+   - Cologne: migration/security/negative-threat.
+   - Chemnitz: security/far-right/public-order.
+   - Correctiv: remigration/democracy-threat and negative-threat.
+
+Key interpretation questions
+- Does the text indicator add information beyond volume?
+- Are the three shocks visible in mechanism-specific indicators?
+- Does Cologne show migration/security/negative-threat movement?
+- Does Chemnitz show security/public-order/far-right movement even if polling change is ambiguous?
+- Does Correctiv show remigration/democracy-threat movement even if broad media volume does not spike?
+
+Review point after Milestone 3
+Pause and inspect results before doing any final diagnostics.
+This is an important review point because it determines the empirical story.
+
+What to discuss after Milestone 3
+- Which indicators behave plausibly?
+- Which indicators are noisy or unhelpful?
+- Whether any dictionary needs minimal refinement.
+- Whether the final thesis should emphasize volume, content/framing, or both.
+- Whether each shock is best interpreted as:
+  - volume/salience shock;
+  - framing/content shock;
+  - legitimacy/democracy-threat shock;
+  - ambiguous/mixed shock.
+
+What not to do in Milestone 3
+- Do not run final regressions yet.
+- Do not change the historical polling data unless an error appears.
+- Do not expand the corpus again.
+- Do not overfit dictionaries to desired results.
+
+============================================================
+Milestone 4 — Final descriptive diagnostics and minimal modelling checks
+============================================================
+
+Goal
+Use the full analysis panel to create the final empirical diagnostics. Keep this modest and thesis-appropriate.
+
+This stage should answer:
+- Are content indicators descriptively associated with AfD support or monthly AfD changes?
+- Do different shocks show different indicator patterns?
+- Are results robust to using polling mean vs median?
+- Are results robust to +/- 3 month and +/- 6 month windows?
+- Do lagged indicators show plausible short-run movement?
+
+Recommended notebook
+- notebooks/09_final_descriptive_diagnostics.ipynb
+
+Expected inputs
+- data/panel/monthly_full_analysis_panel_2013_2025.csv/parquet
+- data/panel/event_window_descriptive_summary_combined_2013_2025.csv
+- data/panel/lag_diagnostics_descriptive_summary.csv
+
+Expected outputs
+- data/panel/final_event_window_text_indicator_summary.csv
+- data/panel/final_lag_indicator_summary.csv
+- docs/final_empirical_results_summary.md
+- figures/09_notebook_figures/*.png
+
+Core analyses
+
+1. Event-window text indicator summaries
+For Cologne, Chemnitz, and Correctiv, compute +/- 3 and +/- 6 month pre/post differences for:
+- AfD polling support mean;
+- media volume salience;
+- migration indicator;
+- security/public-order indicator;
+- AfD/far-right indicator;
+- remigration/democracy-threat indicator;
+- negative/threat tone proxy.
+
+This should produce a thesis-ready table like:
+- shock;
+- expected mechanism;
+- AfD change +/-3m;
+- AfD change +/-6m;
+- main text indicator change +/-3m;
+- main text indicator change +/-6m;
+- interpretation.
+
+2. Lag diagnostics with text indicators
+Run descriptive lag correlations for lags 0..6:
+- text indicator lag k vs AfD polling level;
+- text indicator lag k vs AfD monthly change.
+
+Do this for:
+- combined panel;
+- historical block;
+- DAWUM block.
+
+Important: correlations are descriptive only.
+
+3. Polling mean vs median robustness
+Where possible, compare event-window summaries using:
+- afd_poll_support_mean;
+- afd_poll_support_median.
+
+This is quick and useful because monthly mean can be affected by pollster distribution.
+
+4. Optional simple regression diagnostics
+Only if time permits and the descriptive outputs look stable.
+Keep regressions minimal and explicitly exploratory.
+Possible examples:
+- afd_poll_support_change ~ media_salience_lag1
+- afd_poll_support_change ~ media_salience_lag1 + security_indicator_lag1
+- afd_poll_support_change ~ media_salience_lag1 + remigration_democracy_indicator_lag1
+
+If regressions are added:
+- do not overinterpret p-values;
+- include only a few variables;
+- account for the polling source boundary at 2017 if possible;
+- treat as robustness/diagnostic, not causal identification.
+
+Recommended stance on statistical significance
+Do not make statistical significance the success criterion.
+The project is strongest as a transparent descriptive/event-oriented thesis:
+- validated corpus;
+- validated monthly salience indicator;
+- validated polling panel;
+- first text/content indicators;
+- shock-specific descriptive patterns;
+- carefully stated limitations.
+
+Most important final figures
+1. Combined panel timeline:
+   - AfD polling;
+   - media volume;
+   - selected content indicators;
+   - shock lines.
+2. Shock-window panels for Cologne, Chemnitz, Correctiv.
+3. Final event-window summary table.
+4. Optional lag-correlation figure for key text indicators.
+
+Most important final interpretation
+Expected likely structure:
+- Cologne: migration/security/negative-threat salience and AfD support increase in the refugee-crisis period.
+- Chemnitz: public-order/far-right framing may be visible, but polling response remains weak/ambiguous.
+- Correctiv: remigration/democracy-threat/negative legitimacy framing may be visible, with a post-shock AfD decline.
+
+Review point after Milestone 4
+After Milestone 4, stop adding analysis unless a critical problem appears.
+Move to thesis writing:
+- Data and methods chapter.
+- Descriptive results chapter.
+- Limitations and robustness.
+
+Minimum-error workflow from here
+1. Complete Milestone 2.
+2. Review Milestone 2 outputs.
+3. Complete Milestone 3.
+4. Review full panel and core plots.
+5. Complete Milestone 4 with only necessary diagnostics.
+6. Write final results note.
+7. Stop expanding data unless absolutely necessary.
+

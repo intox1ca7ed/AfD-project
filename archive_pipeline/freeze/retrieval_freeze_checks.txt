@@ -1,5 +1,5 @@
 Retrieval Freeze Checks
-freeze_date=2026-05-07
+freeze_date=2026-05-11
 
 1) Are all 156 monthly batches present? YES (found=156)
 2) Are all expected shock corpora present? YES (missing=none)
