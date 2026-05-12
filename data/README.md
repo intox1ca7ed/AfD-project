@@ -31,6 +31,10 @@ Last updated: 2026-05-11
 | `data/indicators/monthly_text_content_indicators.csv` | one month | Monthly aggregated dictionary-based text/content indicators | Notebook 07 | later panel merge stage |
 | `data/indicators/monthly_text_content_indicators.parquet` | one month | Parquet version of monthly text/content indicators | Notebook 07 | analysis pipelines |
 | `data/indicators/text_indicator_event_window_summary.csv` | one shock-window-indicator row | Descriptive pre/post text-indicator summaries for Cologne, Chemnitz, Correctiv | Notebook 07 | shock-window diagnostics |
+| `data/indicators/article_media_tone_indicators.csv` | one kept article | Supplementary lexicon-based media tone proxy (article level) | Notebook 10 | monthly tone aggregation |
+| `data/indicators/article_media_tone_indicators.parquet` | one kept article | Parquet version of article-level supplementary tone indicators | Notebook 10 | analysis pipelines |
+| `data/indicators/monthly_media_tone_indicators.csv` | one month | Monthly aggregated supplementary media tone indicators | Notebook 10 | tone-augmented panel merge |
+| `data/indicators/monthly_media_tone_indicators.parquet` | one month | Parquet version of monthly supplementary tone indicators | Notebook 10 | analysis pipelines |
 | `data/polling/raw/afd_polling_raw_dawum.csv` | one poll row | Raw DAWUM polling extract (no transformation) | Notebook 02/manual import | polling processing |
 | `data/polling/processed/afd_bundestag_polls_dawum.csv` | one poll row | Filtered Bundestag AfD poll-level dataset | Notebook 02 | monthly aggregation + diagnostics |
 | `data/polling/processed/afd_bundestag_polls_dawum.parquet` | one poll row | Parquet version of poll-level Bundestag AfD dataset | Notebook 02 | analysis pipelines |
@@ -54,6 +58,9 @@ Last updated: 2026-05-11
 | `data/panel/monthly_full_analysis_panel_2013_2025.parquet` | one month | Parquet version of full monthly analysis panel | Notebook 08 | analysis pipelines |
 | `data/panel/full_panel_text_shock_window_summary.csv` | one shock-window-variable row | Compact descriptive pre/post table (±3/±6) for AfD support and key text indicators | Notebook 08 | shock-window diagnostics |
 | `data/panel/final_descriptive_diagnostics.csv` | one shock | Thesis-ready compact shock diagnostics table with expected mechanism and interpretation labels | Notebook 09 | final results write-up |
+| `data/panel/monthly_full_analysis_panel_with_tone_2013_2025.csv` | one month | Full analysis panel extended with supplementary monthly tone indicators | Notebook 10 | supplementary mechanism diagnostics |
+| `data/panel/monthly_full_analysis_panel_with_tone_2013_2025.parquet` | one month | Parquet version of tone-extended full panel | Notebook 10 | analysis pipelines |
+| `data/panel/supplementary_tone_shock_window_summary.csv` | one shock-window-variable row | Supplementary tone-focused pre/post summaries (±3/±6) with framing/polling context | Notebook 10 | supplementary shock interpretation |
 | `data/elections/afd_election_anchors.csv` | one election | Bundestag AfD Zweitstimme benchmark anchors | manual + docs guidance | benchmark overlays/checks |
 | `data/descriptive_tables/` | multiple | Supporting descriptive/QC tables | archived descriptive stage | descriptive reporting |
 

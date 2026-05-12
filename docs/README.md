@@ -15,6 +15,7 @@ Last updated: 2026-05-11
 - `docs/polling_and_election_data_plan.md`: polling/election stage plan and source boundaries.
 - `docs/descriptive_event_window_results_note.md`: thesis-facing descriptive pre/post event-window note for Cologne, Chemnitz, Correctiv.
 - `docs/final_empirical_results_summary.md`: final descriptive thesis-ready empirical summary (Milestone 4).
+- `docs/supplementary_media_tone_results_note.md`: supplementary media-tone diagnostic note (Milestone 5 supplementary layer).
 
 ## How To Use
 - Read `data_dictionary.md` before adding or renaming dataset columns.

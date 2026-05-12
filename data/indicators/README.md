@@ -1,6 +1,6 @@
 # README Indicators
 
-Last updated: 2026-05-11
+Last updated: 2026-05-12
 
 ## Purpose
 - Stores indicator-stage outputs derived from the cleaned corpus and panel datasets.
@@ -16,6 +16,11 @@ Last updated: 2026-05-11
   - `data/indicators/monthly_text_content_indicators.csv`
   - `data/indicators/monthly_text_content_indicators.parquet`
   - `data/indicators/text_indicator_event_window_summary.csv`
+- Supplementary tone indicators:
+  - `data/indicators/article_media_tone_indicators.csv`
+  - `data/indicators/article_media_tone_indicators.parquet`
+  - `data/indicators/monthly_media_tone_indicators.csv`
+  - `data/indicators/monthly_media_tone_indicators.parquet`
 
 ## Method Notes (Text Indicators)
 - Built only from kept articles in `data/corpus/master_articles.parquet`.
@@ -24,6 +29,8 @@ Last updated: 2026-05-11
 - Monthly output is an aggregation of article-level indicators.
 - Notebook 07 includes explicit German umlaut normalization assertions (`ä/ö/ü/ß` -> `ae/oe/ue/ss`).
 - Monthly text indicator outputs are validated against full expected coverage `2013-01` through `2025-12` (156 months).
+- Notebook 10 reuses the same normalization logic and adds a transparent lexicon-based supplementary media tone proxy.
+- Tone indicators are supplementary diagnostics and do not replace the main salience/framing analysis.
 
 ## Refresh Note
 - A corrected `2019-09` archive replaced an earlier duplicated-month issue.

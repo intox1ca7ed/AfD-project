@@ -1,6 +1,6 @@
 # README Notebooks
 
-Last updated: 2026-05-11
+Last updated: 2026-05-12
 
 ## Purpose
 - Stores analysis and reporting notebooks.
@@ -16,6 +16,7 @@ Last updated: 2026-05-11
 - Text-content indicator construction notebook: `notebooks/07_text_content_indicator_construction.ipynb`.
 - Full panel + text indicator analysis notebook: `notebooks/08_full_panel_text_indicator_analysis.ipynb`.
 - Final descriptive diagnostics notebook: `notebooks/09_final_descriptive_diagnostics.ipynb`.
+- Supplementary media tone notebook: `notebooks/10_supplementary_media_tone_indicator.ipynb`.
 - Exported PDF snapshot exists: `notebooks/01_corpus_descriptive_report.pdf`.
 - Notebook-specific figure output folders:
   - `figures/01_notebook_figures/`
@@ -27,6 +28,7 @@ Last updated: 2026-05-11
   - `figures/07_notebook_figures/`
   - `figures/08_notebook_figures/`
   - `figures/09_notebook_figures/`
+  - `figures/10_notebook_figures/`
 
 ## How To Run
 - Open and run in Jupyter/VS Code using the `ds_env` kernel.
@@ -77,6 +79,16 @@ Last updated: 2026-05-11
   - `data/panel/final_descriptive_diagnostics.csv`
   - figures under `figures/09_notebook_figures/`
   - supports thesis-facing note: `docs/final_empirical_results_summary.md`
+- Supplementary media tone notebook writes:
+  - `data/indicators/article_media_tone_indicators.csv`
+  - `data/indicators/article_media_tone_indicators.parquet`
+  - `data/indicators/monthly_media_tone_indicators.csv`
+  - `data/indicators/monthly_media_tone_indicators.parquet`
+  - `data/panel/monthly_full_analysis_panel_with_tone_2013_2025.csv`
+  - `data/panel/monthly_full_analysis_panel_with_tone_2013_2025.parquet`
+  - `data/panel/supplementary_tone_shock_window_summary.csv`
+  - figures under `figures/10_notebook_figures/`
+  - supports note: `docs/supplementary_media_tone_results_note.md`
 
 ## Dependencies
 - Upstream inputs:
