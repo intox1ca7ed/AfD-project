@@ -1,6 +1,6 @@
 # README Notebooks
 
-Last updated: 2026-05-12
+Last updated: 2026-05-13
 
 ## Purpose
 - Stores analysis and reporting notebooks.
@@ -17,6 +17,7 @@ Last updated: 2026-05-12
 - Full panel + text indicator analysis notebook: `notebooks/08_full_panel_text_indicator_analysis.ipynb`.
 - Final descriptive diagnostics notebook: `notebooks/09_final_descriptive_diagnostics.ipynb`.
 - Supplementary media tone notebook: `notebooks/10_supplementary_media_tone_indicator.ipynb`.
+- Pre-writing empirical synthesis notebook: `notebooks/11_pre_writing_empirical_synthesis.ipynb`.
 - Exported PDF snapshot exists: `notebooks/01_corpus_descriptive_report.pdf`.
 - Notebook-specific figure output folders:
   - `figures/01_notebook_figures/`
@@ -29,6 +30,7 @@ Last updated: 2026-05-12
   - `figures/08_notebook_figures/`
   - `figures/09_notebook_figures/`
   - `figures/10_notebook_figures/`
+  - `figures/11_notebook_figures/`
 
 ## How To Run
 - Open and run in Jupyter/VS Code using the `ds_env` kernel.
@@ -89,6 +91,12 @@ Last updated: 2026-05-12
   - `data/panel/supplementary_tone_shock_window_summary.csv`
   - figures under `figures/10_notebook_figures/`
   - supports note: `docs/supplementary_media_tone_results_note.md`
+- Pre-writing empirical synthesis notebook writes:
+  - `data/panel/thesis_master_shock_results_table.csv`
+  - `data/panel/thesis_master_shock_results_table.parquet`
+  - `data/panel/thesis_dataset_counts_summary.csv`
+  - figures under `figures/11_notebook_figures/`
+  - supports note: `docs/pre_writing_empirical_synthesis_note.md`
 
 ## Dependencies
 - Upstream inputs:

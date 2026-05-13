@@ -1,6 +1,6 @@
 # README Docs
 
-Last updated: 2026-05-11
+Last updated: 2026-05-13
 
 ## Purpose
 - Research-facing and technical documentation layer.
@@ -16,6 +16,7 @@ Last updated: 2026-05-11
 - `docs/descriptive_event_window_results_note.md`: thesis-facing descriptive pre/post event-window note for Cologne, Chemnitz, Correctiv.
 - `docs/final_empirical_results_summary.md`: final descriptive thesis-ready empirical summary (Milestone 4).
 - `docs/supplementary_media_tone_results_note.md`: supplementary media-tone diagnostic note (Milestone 5 supplementary layer).
+- `docs/pre_writing_empirical_synthesis_note.md`: pre-writing consolidated empirical synthesis note and thesis-facing framing.
 
 ## How To Use
 - Read `data_dictionary.md` before adding or renaming dataset columns.

@@ -1,6 +1,6 @@
 ﻿# README Panel
 
-Last updated: 2026-05-12
+Last updated: 2026-05-13
 
 ## Purpose
 - Stores merged monthly descriptive panel files combining media salience and AfD polling.
@@ -21,6 +21,9 @@ Last updated: 2026-05-12
 - `data/panel/monthly_full_analysis_panel_with_tone_2013_2025.csv`
 - `data/panel/monthly_full_analysis_panel_with_tone_2013_2025.parquet`
 - `data/panel/supplementary_tone_shock_window_summary.csv`
+- `data/panel/thesis_master_shock_results_table.csv`
+- `data/panel/thesis_master_shock_results_table.parquet`
+- `data/panel/thesis_dataset_counts_summary.csv`
 
 ## Inputs Used
 - `data/indicators/monthly_media_salience_indicator.parquet` (fallback: `.csv`)
@@ -33,6 +36,7 @@ Last updated: 2026-05-12
 - Combined monthly panel range: `2013-09` to `2025-12` (148 rows), with explicit historical-manual vs DAWUM source boundary.
 - Full analysis panel range: `2013-09` to `2025-12` (148 rows), adding monthly text/content indicators to the combined panel.
 - Full analysis panel with supplementary tone range: `2013-09` to `2025-12` (148 rows), adding monthly tone diagnostics.
+- Thesis pre-writing synthesis outputs summarize the final panel into one-row-per-shock and compact dataset-count tables.
 - Lag diagnostics summary reports descriptive correlations for lags `0..6` on combined and source-block subsets.
 
 ## Key Variables
@@ -56,3 +60,4 @@ Last updated: 2026-05-12
 - Thesis-facing summary note: `docs/descriptive_event_window_results_note.md`.
 - Final empirical summary note: `docs/final_empirical_results_summary.md`.
 - Supplementary tone note: `docs/supplementary_media_tone_results_note.md`.
+- Pre-writing synthesis note: `docs/pre_writing_empirical_synthesis_note.md`.

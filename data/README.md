@@ -1,6 +1,6 @@
 # README Data
 
-Last updated: 2026-05-11
+Last updated: 2026-05-13
 
 ## Purpose
 - Stores canonical analysis-ready datasets, indicators, polling/election inputs, and descriptive support tables.
@@ -60,6 +60,9 @@ Last updated: 2026-05-11
 | `data/panel/final_descriptive_diagnostics.csv` | one shock | Thesis-ready compact shock diagnostics table with expected mechanism and interpretation labels | Notebook 09 | final results write-up |
 | `data/panel/monthly_full_analysis_panel_with_tone_2013_2025.csv` | one month | Full analysis panel extended with supplementary monthly tone indicators | Notebook 10 | supplementary mechanism diagnostics |
 | `data/panel/monthly_full_analysis_panel_with_tone_2013_2025.parquet` | one month | Parquet version of tone-extended full panel | Notebook 10 | analysis pipelines |
+| `data/panel/thesis_master_shock_results_table.csv` | one shock | Final pre-writing master shock table combining expected mechanisms and descriptive +/-3/+/-6 changes | Notebook 11 | thesis results drafting |
+| `data/panel/thesis_master_shock_results_table.parquet` | one shock | Parquet version of final pre-writing master shock table | Notebook 11 | analysis pipelines |
+| `data/panel/thesis_dataset_counts_summary.csv` | one row | Compact final dataset counts summary for methods/data reporting | Notebook 11 | thesis methods write-up |
 | `data/panel/supplementary_tone_shock_window_summary.csv` | one shock-window-variable row | Supplementary tone-focused pre/post summaries (±3/±6) with framing/polling context | Notebook 10 | supplementary shock interpretation |
 | `data/elections/afd_election_anchors.csv` | one election | Bundestag AfD Zweitstimme benchmark anchors | manual + docs guidance | benchmark overlays/checks |
 | `data/descriptive_tables/` | multiple | Supporting descriptive/QC tables | archived descriptive stage | descriptive reporting |
