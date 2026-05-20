@@ -93,7 +93,7 @@ def build_indicator(monthly: pd.DataFrame, nexis: pd.DataFrame) -> tuple[pd.Data
     merged["media_salience_volume_log1p"] = np.log1p(merged["nexis_total_results"])
 
     sal_mean = merged["nexis_total_results"].mean()
-    sal_std = merged["nexis_total_results"].std(ddof=0)  # Population SD
+    sal_std = merged["nexis_total_results"].std(ddof=0)
     merged["media_salience_volume_z"] = (
         (merged["nexis_total_results"] - sal_mean) / sal_std
         if pd.notna(sal_std) and sal_std != 0
@@ -103,7 +103,7 @@ def build_indicator(monthly: pd.DataFrame, nexis: pd.DataFrame) -> tuple[pd.Data
     merged["cleaned_sample_size"] = pd.to_numeric(merged["kept_article_count"], errors="coerce")
     merged["cleaned_sample_log1p"] = np.log1p(merged["cleaned_sample_size"])
     clean_mean = merged["cleaned_sample_size"].mean()
-    clean_std = merged["cleaned_sample_size"].std(ddof=0)  # Population SD
+    clean_std = merged["cleaned_sample_size"].std(ddof=0)
     merged["cleaned_sample_z"] = (
         (merged["cleaned_sample_size"] - clean_mean) / clean_std
         if pd.notna(clean_std) and clean_std != 0

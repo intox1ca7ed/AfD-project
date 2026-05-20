@@ -25,7 +25,6 @@ def sync_clean_layer(project_root: Path) -> list[str]:
     corpus_dir.mkdir(parents=True, exist_ok=True)
     indicators_dir.mkdir(parents=True, exist_ok=True)
 
-    # Canonical data files from archived pipeline outputs.
     mappings = [
         (project_root / "archive_pipeline" / "master_tables" / "master_articles_all.parquet", corpus_dir / "master_articles.parquet"),
         (project_root / "archive_pipeline" / "monthly_tables" / "monthly_summary_main_corpus.parquet", corpus_dir / "monthly_summary.parquet"),
@@ -37,7 +36,6 @@ def sync_clean_layer(project_root: Path) -> list[str]:
         ok, msg = copy_if_exists(src, dst) if src != dst else (src.exists(), f"verified {src}")
         msgs.append(msg)
 
-    # Build lightweight master CSV from archived full CSV.
     src_master_csv = project_root / "archive_pipeline" / "master_tables" / "master_articles_all.csv"
     out_light_csv = corpus_dir / "master_articles_light.csv"
     if src_master_csv.exists():
@@ -50,7 +48,6 @@ def sync_clean_layer(project_root: Path) -> list[str]:
     else:
         msgs.append(f"missing source: {src_master_csv}")
 
-    # Descriptive tables + figures.
     src_desc_tables = project_root / "archive_pipeline" / "descriptive_package" / "tables"
     dst_desc_tables = project_root / "data" / "descriptive_tables"
     if src_desc_tables.exists():
@@ -130,7 +127,6 @@ def main() -> int:
     for m in sync_clean_layer(project_root):
         lines.append(m)
 
-    # Lightweight validation summary.
     try:
         m = pd.read_parquet(project_root / "data" / "corpus" / "master_articles.parquet")
         mm = pd.read_parquet(project_root / "data" / "corpus" / "monthly_summary.parquet")

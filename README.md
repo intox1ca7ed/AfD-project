@@ -1,42 +1,59 @@
 # AfD Project
 
-## Project Overview
-This repository supports the empirical thesis workflow on media shocks and AfD support in Germany.
+## Project Purpose
+This repository contains the thesis workflow on AfD polling support, media salience, framing/content indicators, and a supplementary media tone layer.
 
-## Section Navigation
-- `notebooks/README.md`
-- `scripts/README.md`
-- `data/README.md`
-- `archive_pipeline/README.md`
-- `Corpora/README.md`
-- `docs/README.md`
-- `figures/README.md`
+## Minimal Navigation
+- Primary project guide: `README.md` (this file)
+- Data map and canonical files: `data/README.md`
+- Notebook map and outputs: `notebooks/README.md`
 
-## Main Folders
-- `Corpora/`: source corpus layer (main monthly corpus + shock corpora).
-- `data/`: analysis-ready canonical datasets and descriptive tables.
-- `figures/`: research-facing descriptive figures.
-- `docs/`: research-facing documentation and summaries.
-- `scripts/`: project-level helper/rebuild scripts.
-- `notebooks/`: analysis notebook workspace.
-- `archive_pipeline/`: archived technical pipeline artifacts for audit/reproducibility.
+Key thesis-facing notes:
+- `docs/final_empirical_results_summary.md`
+- `docs/supplementary_media_tone_results_note.md`
+- `docs/pre_writing_empirical_synthesis_note.md`
 
-## Main Datasets
-- `data/corpus/master_articles.parquet` (canonical article-level table)
-- `data/corpus/master_articles_light.csv` (light inspection export)
-- `data/corpus/monthly_summary.parquet` (canonical monthly structure)
-- `data/corpus/monthly_summary.csv` (light inspection export)
-- `data/corpus/monthly_nexis_volume.csv` (manual monthly Nexis totals + download counts)
-- `data/indicators/monthly_media_salience_indicator.csv` (volume-based salience indicators)
-- `data/indicators/monthly_media_salience_indicator.parquet` (parquet indicator export)
+## Main Structure
+- `Corpora/`: source corpus layer (monthly main corpus + shock corpora)
+- `archive_pipeline/`: archived post-retrieval technical pipeline stages
+- `data/`: canonical analysis-ready tables and panel outputs
+- `notebooks/`: analysis/reporting notebooks
+- `figures/`: notebook-generated figure outputs
+- `docs/`: interpretation and methods notes
+- `scripts/`: rebuild helpers
 
-## Reproducibility
-- Refresh clean outputs from archived artifacts:
-  - `python scripts/build_postretrieval_dataset.py`
-- Run archived technical pipeline first, then refresh:
-  - `python scripts/build_postretrieval_dataset.py --run-archived-pipeline`
+## Canonical Final Outputs
+- Main panel:
+  - `data/panel/monthly_full_analysis_panel_2013_2025.parquet`
+  - `data/panel/monthly_full_analysis_panel_with_tone_2013_2025.parquet`
+- Synthesis tables:
+  - `data/panel/thesis_master_shock_results_table.csv`
+  - `data/panel/thesis_dataset_counts_summary.csv`
+- Synthesis note:
+  - `docs/pre_writing_empirical_synthesis_note.md`
 
-## Important Rules
-- Do not manually edit source corpus files in `Corpora/` unless intentionally reprocessing corpus batches.
-- Do not manually edit canonical derived datasets in `data/`.
-- Regenerate outputs via scripts/notebooks designed for that layer.
+## Rebuild Commands
+Clean layer refresh:
+- `python scripts/build_postretrieval_dataset.py`
+- `python scripts/build_postretrieval_dataset.py --run-archived-pipeline`
+
+Salience rebuild:
+- `python scripts/build_monthly_media_salience_indicator.py`
+
+Main corpus processing (only when corpus batches change):
+- `python "Corpora/Main Corpus/run_main_corpus.py"`
+- full reprocess: `python "Corpora/Main Corpus/run_main_corpus.py" --rerun --reextract`
+- target month example: `python "Corpora/Main Corpus/run_main_corpus.py" --only 2021-09 --rerun --reextract`
+
+Note:
+- Corpus scripts read source PDFs from `raw_unarchive` folders.
+- Shock-specific corpora (for example Cologne) also read only from `raw_unarchive`; run their local `audit_*.py` then `build_clean_*.py` scripts after archive updates.
+
+## Polling Provenance Boundary
+- DAWUM is the primary source from `2017-01` onward.
+- Historical manual supplement (Wahlrecht-based) covers `2013-09` to `2016-12`.
+
+## Project Rules
+- Do not manually edit canonical generated datasets in `data/`.
+- Regenerate via scripts/notebooks.
+- Tone indicators are supplementary; core analysis uses salience + framing/content indicators.

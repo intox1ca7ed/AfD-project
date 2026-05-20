@@ -51,7 +51,6 @@ def main() -> int:
     lines.append(f"- Monthly parquet: `{monthly_parquet}`")
     lines.append("")
 
-    # 1) File existence and non-empty
     if not poll_csv.exists():
         errors.append(f"Missing poll-level file: {poll_csv}")
     if not monthly_csv.exists():
@@ -87,7 +86,6 @@ def main() -> int:
     if monthly.empty:
         errors.append("Monthly CSV is empty.")
 
-    # 2) Column checks + mapping
     poll_required = {
         "poll_date": ["poll_date"],
         "year_month": ["year_month"],
@@ -123,7 +121,6 @@ def main() -> int:
         else:
             monthly_map[k] = found
 
-    # 3) Type/parse checks
     if not errors:
         poll["_poll_date"] = pd.to_datetime(poll[poll_map["poll_date"]], errors="coerce")
         if poll["_poll_date"].isna().any():
@@ -148,7 +145,6 @@ def main() -> int:
         if (monthly["_n_polls"] <= 0).any():
             errors.append("Monthly n_polls has non-positive values.")
 
-    # 4) Coverage checks
     cologne_covered = False
     missing_full_months: List[str] = []
     if not errors:
@@ -179,13 +175,11 @@ def main() -> int:
             if dup_exact > 0:
                 warnings.append(f"Found duplicate poll-level exact rows: {dup_exact}")
 
-            # Cologne window check: 2015-07 .. 2016-06
             expected_cologne = pd.period_range("2015-07", "2016-06", freq="M")
             actual_months = pd.PeriodIndex(monthly["_month_dt"].dt.to_period("M").unique(), freq="M")
             missing_cologne = expected_cologne.difference(actual_months)
             cologne_covered = len(missing_cologne) == 0
 
-            # Full manual range check: 2013-09 .. 2016-12
             expected_full = pd.period_range("2013-09", "2016-12", freq="M")
             missing_full = expected_full.difference(actual_months)
             missing_full_months = [m.strftime("%Y-%m") for m in missing_full]
@@ -195,7 +189,6 @@ def main() -> int:
                     + ", ".join(missing_full_months)
                 )
 
-    # 5) Pollster checks
     pollster_counts = pd.Series(dtype=int)
     unexpected_pollsters: List[str] = []
     if not errors:
@@ -209,7 +202,6 @@ def main() -> int:
         if unexpected_pollsters:
             warnings.append("Unexpected pollster labels: " + ", ".join(unexpected_pollsters))
 
-    # 6) Plausibility checks
     plausible_ok = True
     poll_stats = {}
     monthly_stats = {}
@@ -230,7 +222,6 @@ def main() -> int:
             plausible_ok = False
             warnings.append("Found afd_pct values outside plausible range [0, 30].")
 
-    # 7) Aggregation consistency check
     agg_ok = True
     agg_diff_rows = pd.DataFrame()
     if not errors:
@@ -271,7 +262,6 @@ def main() -> int:
             agg_ok = False
             warnings.append(f"Aggregation consistency differences found in {len(agg_diff_rows)} months.")
 
-    # Optional figure
     fig_path = figure_dir / "afd_polling_historical_manual_monthly.png"
     if not errors:
         fig_df = monthly.copy()
@@ -288,7 +278,6 @@ def main() -> int:
         plt.savefig(fig_path, dpi=150)
         plt.close()
 
-    # Build report
     if not errors:
         poll_start = poll["_poll_date"].min()
         poll_end = poll["_poll_date"].max()
@@ -366,7 +355,6 @@ def main() -> int:
         lines.append("## Output Artifacts")
         lines.append(f"- Figure: `{fig_path}`")
 
-    # 8) Final status
     if errors:
         status = "FAIL"
     elif warnings:
@@ -376,7 +364,6 @@ def main() -> int:
 
     _write_report(report_path, lines, warnings, errors, final_status=status)
 
-    # Console summary
     coverage = "NA"
     poll_rows = len(poll) if not poll.empty else 0
     monthly_rows = len(monthly) if not monthly.empty else 0

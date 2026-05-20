@@ -1,5 +1,7 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:conda",
     "python-envs.defaultPackageManager": "ms-python.python:conda",
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.defaultInterpreterPath": "C:\\Users\\Matthew\\.conda\\envs\\ds_env\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
