@@ -52,8 +52,3 @@ Note:
 ## Polling Provenance Boundary
 - DAWUM is the primary source from `2017-01` onward.
 - Historical manual supplement (Wahlrecht-based) covers `2013-09` to `2016-12`.
-
-## Project Rules
-- Do not manually edit canonical generated datasets in `data/`.
-- Regenerate via scripts/notebooks.
-- Tone indicators are supplementary; core analysis uses salience + framing/content indicators.

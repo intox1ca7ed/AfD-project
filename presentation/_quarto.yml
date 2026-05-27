@@ -1,0 +1,23 @@
+project:
+  type: default
+  output-dir: ../docs/presentation
+  render:
+    - index.qmd
+  resources:
+    - afd_research_design_timeline.html
+    - assets/**
+
+format:
+  revealjs:
+    theme:
+      - default
+      - styles.scss
+    include-after-body: custom.js
+    transition: fade
+    background-transition: fade
+    slide-number: c/t
+    controls: true
+    progress: true
+    center: false
+    preview-links: auto
+    self-contained: false
