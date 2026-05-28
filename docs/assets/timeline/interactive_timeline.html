@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Research Design Timeline</title>
+  <style>
+    :root {
+      --panel: #ffffff;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --line: #334155;
+      --grid: #d7dee9;
+      --election: #0b3aa8;
+      --shock: #7f1d1d;
+      --date-election: #082c7a;
+      --date-shock: #5b1414;
+      --media-fill: rgba(59, 130, 246, 0.16);
+      --media-stroke: rgba(59, 130, 246, 0.42);
+      --polling-fill: rgba(16, 185, 129, 0.16);
+      --polling-stroke: rgba(16, 185, 129, 0.42);
+      --historical-fill: rgba(148, 163, 184, 0.24);
+      --historical-stroke: rgba(100, 116, 139, 0.50);
+      --dawum-fill: rgba(124, 58, 237, 0.18);
+      --dawum-stroke: rgba(124, 58, 237, 0.45);
+      --shadow: 0 10px 30px rgba(15, 23, 42, 0.10);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(180deg, #eef3f9 0%, #f8fafc 100%);
+      color: var(--text);
+      padding: 32px 20px;
+    }
+
+    .wrap {
+      max-width: 1320px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: var(--panel);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
+      padding: 28px 28px 18px;
+      border: 1px solid rgba(148, 163, 184, 0.18);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.5rem, 2vw, 2rem);
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px 24px;
+      margin-top: 18px;
+      padding-top: 16px;
+      border-top: 1px solid rgba(148, 163, 184, 0.20);
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .legend-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .swatch-dot,
+    .swatch-line,
+    .swatch-band {
+      display: inline-block;
+      flex: 0 0 auto;
+    }
+
+    .swatch-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+    }
+
+    .swatch-line {
+      width: 28px;
+      height: 4px;
+      border-radius: 999px;
+      background: var(--line);
+    }
+
+    .swatch-band {
+      width: 28px;
+      height: 14px;
+      border-radius: 999px;
+      background: var(--media-fill);
+      border: 1px solid var(--media-stroke);
+    }
+
+    .coverage-note {
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 0.84rem;
+      line-height: 1.4;
+    }
+
+    .viz-shell {
+      position: relative;
+      margin-top: 16px;
+      overflow-x: auto;
+      overflow-y: visible;
+      padding-bottom: 8px;
+    }
+
+    svg {
+      width: 100%;
+      min-width: 1200px;
+      height: auto;
+      display: block;
+    }
+
+    .year-label {
+      font-size: 13px;
+      fill: var(--muted);
+      font-weight: 600;
+    }
+
+    .main-line {
+      stroke: var(--line);
+      stroke-width: 4;
+      stroke-linecap: round;
+    }
+
+    .grid-line {
+      stroke: var(--grid);
+      stroke-width: 1;
+      stroke-dasharray: 4 6;
+    }
+
+    .coverage-bar {
+      rx: 10;
+      ry: 10;
+      transition: opacity 0.18s ease, filter 0.18s ease;
+    }
+
+    .coverage-label {
+      font-size: 13px;
+      fill: #334155;
+      font-weight: 700;
+    }
+
+    .coverage-sub {
+      font-size: 11px;
+      fill: #64748b;
+      font-weight: 600;
+    }
+
+    .event-group {
+      cursor: pointer;
+      transition: filter 0.18s ease, opacity 0.18s ease;
+    }
+
+    .event-group.dimmed {
+      opacity: 0.18;
+    }
+
+    .chart-dimmed {
+      opacity: 0.14;
+      transition: opacity 0.18s ease;
+    }
+
+    .event-group.active {
+      filter: drop-shadow(0 6px 14px rgba(15, 23, 42, 0.18));
+    }
+
+    .event-stem {
+      stroke-width: 4;
+      stroke-linecap: round;
+      opacity: 0.9;
+    }
+
+    .election .event-stem,
+    .election .event-shape {
+      stroke: var(--election);
+      fill: var(--election);
+    }
+
+    .shock .event-stem,
+    .shock .event-shape {
+      stroke: var(--shock);
+      fill: var(--shock);
+    }
+
+    .event-shape {
+      stroke-width: 2;
+    }
+
+    .event-label {
+      font-size: 13px;
+      fill: #0f172a;
+      font-weight: 600;
+    }
+
+    .event-date {
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    .mini-cue {
+      font-size: 11px;
+      fill: #475569;
+      font-weight: 600;
+    }
+
+    .tooltip {
+      position: absolute;
+      min-width: 280px;
+      max-width: 360px;
+      pointer-events: none;
+      background: rgba(15, 23, 42, 0.96);
+      color: #f8fafc;
+      border-radius: 16px;
+      padding: 14px 16px;
+      box-shadow: 0 18px 40px rgba(15, 23, 42, 0.28);
+      opacity: 0;
+      transform: translateY(8px);
+      transition: opacity 0.18s ease, transform 0.18s ease;
+      z-index: 10;
+    }
+
+    .tooltip.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .tooltip-title {
+      font-weight: 700;
+      font-size: 0.98rem;
+      margin-bottom: 8px;
+      line-height: 1.25;
+    }
+
+    .tooltip-row {
+      display: grid;
+      grid-template-columns: 124px 1fr;
+      gap: 8px;
+      margin-top: 6px;
+      font-size: 0.9rem;
+      line-height: 1.35;
+    }
+
+    .tooltip-key {
+      color: #cbd5e1;
+      font-weight: 600;
+    }
+
+    .tooltip-value {
+      color: #f8fafc;
+    }
+
+    @media (max-width: 900px) {
+      .card { padding: 22px 18px 16px; }
+      .tooltip {
+        min-width: 240px;
+        max-width: 300px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>Research Design Timeline</h1>
+
+      <div class="legend" aria-label="Legend">
+        <div class="legend-item"><span class="swatch-line"></span> Timeline axis</div>
+        <div class="legend-item"><span class="swatch-dot" style="background: var(--election);"></span> Federal election</div>
+        <div class="legend-item"><span class="swatch-dot" style="background: var(--shock);"></span> Primary exogenous shock</div>
+        <div class="legend-item"><span class="swatch-band"></span> Data coverage / polling source intervals</div>
+      </div>
+
+      <div class="coverage-note">Media corpus: 2013-01 to 2025-12 | Polling panel: 2013-09 to 2025-12</div>
+
+      <div class="viz-shell" id="vizShell">
+        <svg id="timelineSvg" viewBox="0 0 1280 640" role="img" aria-label="Interactive timeline of elections, exogenous shocks, data coverage, and polling source intervals from 2013 to 2025"></svg>
+        <div class="tooltip" id="tooltip" aria-hidden="true"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const coverageBars = [
+      {
+        id: 'media',
+        label: 'Media corpus',
+        start: '2013-01-01',
+        end: '2025-12-31',
+        y: 110,
+        color: 'var(--media-fill)',
+        stroke: 'var(--media-stroke)',
+        sublabel: '2013-01 to 2025-12'
+      },
+      {
+        id: 'polling',
+        label: 'Polling panel',
+        start: '2013-09-01',
+        end: '2025-12-31',
+        y: 146,
+        color: 'var(--polling-fill)',
+        stroke: 'var(--polling-stroke)',
+        sublabel: '2013-09 to 2025-12'
+      }
+    ];
+
+    const pollingSources = [
+      {
+        label: 'Historical supplement',
+        start: '2013-09-01',
+        end: '2016-12-31',
+        color: 'var(--historical-fill)',
+        stroke: 'var(--historical-stroke)'
+      },
+      {
+        label: 'DAWUM',
+        start: '2017-01-01',
+        end: '2025-12-31',
+        color: 'var(--dawum-fill)',
+        stroke: 'var(--dawum-stroke)'
+      }
+    ];
+
+    const elections = [
+      { id: 'e2013', type: 'election', shortLabel: '2013 Election', date: '2013-09-22' },
+      { id: 'e2017', type: 'election', shortLabel: '2017 Election', date: '2017-09-24' },
+      { id: 'e2021', type: 'election', shortLabel: '2021 Election', date: '2021-09-26' },
+      { id: 'e2025', type: 'election', shortLabel: '2025 Election', date: '2025-02-23' }
+    ];
+
+    const shocks = [
+      {
+        id: 's1',
+        type: 'shock',
+        name: 'Cologne New Year’s Eve / Silvesternacht',
+        shortLabel: 'Silvesternacht',
+        eventDate: '2015-12-31',
+        infoDate: '2016-01-04',
+        infoDateLabel: '4–5 Jan 2016',
+        mechanism: 'Salience of migrant criminality and media mistrust',
+        direction: '↑ AfD support',
+        observedPattern: 'AfD support rises; security framing intensifies',
+        coverage: 'Extreme',
+        contamination: 'Ongoing refugee crisis baseline',
+        resultCue: 'AfD ↑ | Security ↑',
+        y: 282
+      },
+      {
+        id: 's2',
+        type: 'shock',
+        name: 'Chemnitz',
+        shortLabel: 'Chemnitz',
+        eventDate: '2018-08-26',
+        infoDate: '2018-08-27',
+        infoDateLabel: '27 Aug 2018',
+        mechanism: 'Law-and-order salience vs. far-right stigmatization',
+        direction: 'mixed / ambiguous',
+        observedPattern: 'Framing intensifies; polling response remains limited',
+        coverage: 'Very high',
+        contamination: 'Maaßen affair',
+        resultCue: 'Framing ↑ | Polling mixed',
+        y: 360
+      },
+      {
+        id: 's3',
+        type: 'shock',
+        name: 'Correctiv revelation',
+        shortLabel: 'Correctiv revelation',
+        eventDate: '2023-11-25',
+        infoDate: '2024-01-10',
+        infoDateLabel: '10 Jan 2024',
+        mechanism: 'Existential threat perception and cordon sanitaire',
+        direction: '↓ AfD support',
+        observedPattern: 'AfD support declines; remigration/democracy framing spikes',
+        coverage: 'Universal',
+        contamination: 'Proximity to 2024 state elections',
+        resultCue: 'AfD ↓ | Remigration/democracy ↑',
+        y: 438
+      }
+    ];
+
+    const svg = document.getElementById('timelineSvg');
+    const shell = document.getElementById('vizShell');
+    const tooltip = document.getElementById('tooltip');
+
+    const NS = 'http://www.w3.org/2000/svg';
+    const W = 1280;
+    const H = 640;
+    const axisY = 500;
+    const margin = { top: 70, right: 70, bottom: 90, left: 130 };
+    const startDate = new Date('2013-01-01T00:00:00');
+    const endDate = new Date('2025-12-31T23:59:59');
+
+    function createSVG(tag, attrs, parent) {
+      const el = document.createElementNS(NS, tag);
+      const attributeMap = attrs || {};
+      const host = parent || svg;
+      Object.entries(attributeMap).forEach(([key, value]) => {
+        el.setAttribute(key, String(value));
+      });
+      host.appendChild(el);
+      return el;
+    }
+
+    function dateToX(dateStr) {
+      const date = new Date(dateStr + 'T12:00:00');
+      const total = endDate - startDate;
+      const elapsed = date - startDate;
+      return margin.left + (elapsed / total) * (W - margin.left - margin.right);
+    }
+
+    function fmtDate(dateStr) {
+      const d = new Date(dateStr + 'T12:00:00');
+      return d.toLocaleDateString('en-GB', {
+        day: '2-digit',
+        month: 'short',
+        year: 'numeric'
+      });
+    }
+
+    function wrapText(text, maxLength) {
+      const words = text.split(' ');
+      const lines = [];
+      let current = '';
+
+      words.forEach((word) => {
+        const candidate = (current + ' ' + word).trim();
+        if (candidate.length <= maxLength) {
+          current = candidate;
+        } else {
+          if (current) lines.push(current);
+          current = word;
+        }
+      });
+
+      if (current) lines.push(current);
+      return lines;
+    }
+
+    function escapeHtml(text) {
+      return String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function tooltipRow(label, value) {
+      return '<div class="tooltip-row"><div class="tooltip-key">' +
+        escapeHtml(label) +
+        '</div><div class="tooltip-value">' +
+        escapeHtml(value) +
+        '</div></div>';
+    }
+
+    function setTooltipContent(item) {
+      if (item.type === 'election') {
+        tooltip.innerHTML = [
+          '<div class="tooltip-title">' + escapeHtml(item.shortLabel) + '</div>',
+          tooltipRow('Election date', fmtDate(item.date)),
+          tooltipRow('Type', 'Federal election')
+        ].join('');
+      } else {
+        tooltip.innerHTML = [
+          '<div class="tooltip-title">' + escapeHtml(item.name) + '</div>',
+          tooltipRow('Event date', fmtDate(item.eventDate)),
+          tooltipRow('Information shock', item.infoDateLabel),
+          tooltipRow('Mechanism', item.mechanism),
+          tooltipRow('Expected effect', item.direction),
+          tooltipRow('Observed pattern', item.observedPattern),
+          tooltipRow('Coverage', item.coverage),
+          tooltipRow('Contamination', item.contamination)
+        ].join('');
+      }
+    }
+
+    function positionTooltipForElement(targetEl, preferredX, preferredY) {
+      const shellRect = shell.getBoundingClientRect();
+      const targetRect = targetEl.getBoundingClientRect();
+      const tipRect = tooltip.getBoundingClientRect();
+
+      let left = preferredX != null
+        ? preferredX
+        : ((targetRect.left + targetRect.right) / 2) - shellRect.left + 18;
+      let top = preferredY != null
+        ? preferredY
+        : targetRect.top - shellRect.top - tipRect.height - 14;
+
+      if (left + tipRect.width > shellRect.width - 12) {
+        left = shellRect.width - tipRect.width - 12;
+      }
+      if (left < 12) {
+        left = 12;
+      }
+      if (top < 12) {
+        top = targetRect.bottom - shellRect.top + 14;
+      }
+      if (top + tipRect.height > shellRect.height - 12) {
+        top = Math.max(12, shellRect.height - tipRect.height - 12);
+      }
+
+      tooltip.style.left = left + 'px';
+      tooltip.style.top = top + 'px';
+    }
+
+    function clearActive() {
+      document.querySelectorAll('.event-group').forEach((el) => {
+        el.classList.remove('active', 'dimmed');
+      });
+
+      document.querySelectorAll('.coverage-bar').forEach((el) => {
+        el.style.filter = 'none';
+        el.classList.remove('chart-dimmed');
+      });
+
+      document.querySelectorAll('.year-label, .main-line, .grid-line, .coverage-label, .coverage-sub').forEach((el) => {
+        el.classList.remove('chart-dimmed');
+      });
+
+      tooltip.classList.remove('visible');
+      tooltip.setAttribute('aria-hidden', 'true');
+    }
+
+    function activateGroup(group, item) {
+      document.querySelectorAll('.event-group').forEach((el) => {
+        if (el !== group) {
+          el.classList.add('dimmed');
+        }
+      });
+
+      document.querySelectorAll('.year-label, .main-line, .grid-line, .coverage-label, .coverage-sub').forEach((el) => {
+        el.classList.add('chart-dimmed');
+      });
+
+      document.querySelectorAll('.coverage-bar').forEach((el) => {
+        el.classList.add('chart-dimmed');
+      });
+
+      group.classList.add('active');
+      setTooltipContent(item);
+      tooltip.classList.add('visible');
+      tooltip.setAttribute('aria-hidden', 'false');
+      positionTooltipForElement(group);
+    }
+
+    createSVG('rect', { x: 0, y: 0, width: W, height: H, fill: 'transparent' });
+
+    for (let year = 2013; year <= 2025; year += 1) {
+      const x = dateToX(String(year) + '-01-01');
+      createSVG('line', {
+        x1: x,
+        y1: 86,
+        x2: x,
+        y2: axisY + 10,
+        class: 'grid-line'
+      });
+
+      const yearText = createSVG('text', {
+        x: x,
+        y: axisY + 34,
+        'text-anchor': 'middle',
+        class: 'year-label'
+      });
+      yearText.textContent = String(year);
+    }
+
+    coverageBars.forEach((bar) => {
+      const x1 = dateToX(bar.start);
+      const x2 = dateToX(bar.end);
+
+      createSVG('rect', {
+        x: x1,
+        y: bar.y,
+        width: x2 - x1,
+        height: 18,
+        fill: bar.color,
+        stroke: bar.stroke,
+        'stroke-width': 1.2,
+        class: 'coverage-bar'
+      });
+
+      const label = createSVG('text', {
+        x: margin.left - 12,
+        y: bar.y + 13,
+        'text-anchor': 'end',
+        class: 'coverage-label'
+      });
+      label.textContent = bar.label;
+
+      const sub = createSVG('text', {
+        x: (x1 + x2) / 2,
+        y: bar.y + 13,
+        'text-anchor': 'middle',
+        class: 'coverage-sub'
+      });
+      sub.textContent = bar.sublabel;
+    });
+
+    const sourceLabel = createSVG('text', {
+      x: margin.left - 12,
+      y: 195,
+      'text-anchor': 'end',
+      class: 'coverage-label'
+    });
+    sourceLabel.textContent = 'Polling source';
+
+    pollingSources.forEach((source) => {
+      const x1 = dateToX(source.start);
+      const x2 = dateToX(source.end);
+
+      createSVG('rect', {
+        x: x1,
+        y: 182,
+        width: x2 - x1,
+        height: 18,
+        fill: source.color,
+        stroke: source.stroke,
+        'stroke-width': 1,
+        class: 'coverage-bar'
+      });
+
+      const text = createSVG('text', {
+        x: (x1 + x2) / 2,
+        y: 195,
+        'text-anchor': 'middle',
+        class: 'coverage-sub'
+      });
+      text.textContent = source.label;
+    });
+
+    createSVG('line', {
+      x1: margin.left,
+      y1: axisY,
+      x2: W - margin.right,
+      y2: axisY,
+      class: 'main-line'
+    });
+
+    elections.forEach((election, idx) => {
+      const x = dateToX(election.date);
+      const topY = 64 + (idx % 2) * 14;
+
+      const group = createSVG('g', {
+        class: 'event-group election',
+        tabindex: '0',
+        role: 'button',
+        'aria-label': election.shortLabel + ', ' + fmtDate(election.date)
+      });
+
+      createSVG('line', {
+        x1: x,
+        y1: axisY,
+        x2: x,
+        y2: topY + 30,
+        class: 'event-stem'
+      }, group);
+
+      createSVG('circle', {
+        cx: x,
+        cy: axisY,
+        r: 8,
+        class: 'event-shape'
+      }, group);
+
+      createSVG('circle', {
+        cx: x,
+        cy: topY + 24,
+        r: 9,
+        fill: 'white',
+        stroke: 'var(--election)',
+        'stroke-width': 3,
+        class: 'event-shape'
+      }, group);
+
+      const label = createSVG('text', {
+        x: x,
+        y: topY,
+        'text-anchor': 'middle',
+        class: 'event-label'
+      }, group);
+      label.textContent = election.shortLabel;
+
+      const date = createSVG('text', {
+        x: x,
+        y: axisY + 80,
+        'text-anchor': 'middle',
+        class: 'event-date',
+        fill: 'var(--date-election)'
+      }, group);
+      date.textContent = fmtDate(election.date);
+
+      group.addEventListener('mouseenter', () => {
+        activateGroup(group, election);
+      });
+      group.addEventListener('mouseleave', clearActive);
+      group.addEventListener('focus', () => {
+        activateGroup(group, election);
+        positionTooltipForElement(group, Math.min(x + 16, shell.clientWidth - 320), 18);
+      });
+      group.addEventListener('blur', clearActive);
+    });
+
+    shocks.forEach((shock) => {
+      const eventX = dateToX(shock.eventDate);
+      const infoX = dateToX(shock.infoDate);
+      const group = createSVG('g', {
+        class: 'event-group shock',
+        tabindex: '0',
+        role: 'button',
+        'aria-label': shock.name + ', information shock ' + shock.infoDateLabel
+      });
+
+      createSVG('line', {
+        x1: eventX,
+        y1: shock.y,
+        x2: infoX,
+        y2: shock.y,
+        stroke: 'var(--shock)',
+        'stroke-width': 4,
+        'stroke-dasharray': '7 5',
+        opacity: 0.9
+      }, group);
+
+      createSVG('line', {
+        x1: infoX,
+        y1: axisY,
+        x2: infoX,
+        y2: shock.y + 12,
+        class: 'event-stem'
+      }, group);
+
+      createSVG('circle', {
+        cx: infoX,
+        cy: shock.y,
+        r: 8,
+        class: 'event-shape'
+      }, group);
+
+      createSVG('circle', {
+        cx: infoX,
+        cy: axisY,
+        r: 8,
+        class: 'event-shape'
+      }, group);
+
+      const lines = wrapText(shock.shortLabel, 18);
+      lines.forEach((line, i) => {
+        const text = createSVG('text', {
+          x: infoX,
+          y: shock.y - 28 - (lines.length - 1 - i) * 16,
+          'text-anchor': 'middle',
+          class: 'event-label'
+        }, group);
+        text.textContent = line;
+      });
+
+      const cue = createSVG('text', {
+        x: infoX,
+        y: shock.y + 30,
+        'text-anchor': 'middle',
+        class: 'mini-cue'
+      }, group);
+      cue.textContent = shock.resultCue;
+
+      const eventDateText = createSVG('text', {
+        x: eventX,
+        y: axisY + 80,
+        'text-anchor': 'middle',
+        class: 'event-date',
+        fill: 'var(--date-shock)'
+      }, group);
+      eventDateText.textContent = fmtDate(shock.eventDate);
+
+      const infoDateText = createSVG('text', {
+        x: infoX,
+        y: axisY + 100,
+        'text-anchor': 'middle',
+        class: 'event-date',
+        fill: 'var(--date-shock)'
+      }, group);
+      infoDateText.textContent = 'Info: ' + shock.infoDateLabel;
+
+      group.addEventListener('mouseenter', () => {
+        activateGroup(group, shock);
+      });
+      group.addEventListener('mouseleave', clearActive);
+      group.addEventListener('focus', () => {
+        activateGroup(group, shock);
+        positionTooltipForElement(group, Math.min(infoX + 18, shell.clientWidth - 320), Math.max(shock.y - 40, 12));
+      });
+      group.addEventListener('blur', clearActive);
+    });
+
+    document.querySelectorAll('.coverage-bar').forEach((bar) => {
+      bar.addEventListener('mouseenter', () => {
+        bar.style.filter = 'brightness(1.05) saturate(1.05)';
+      });
+      bar.addEventListener('mouseleave', () => {
+        bar.style.filter = 'none';
+      });
+    });
+
+    console.assert(coverageBars.length === 2, 'Expected 2 data coverage bars');
+    console.assert(pollingSources.length === 2, 'Expected 2 polling source segments');
+    console.assert(elections.length === 4, 'Expected 4 elections');
+    console.assert(shocks.length === 3, 'Expected 3 shocks');
+    console.assert(typeof dateToX('2013-01-01') === 'number', 'dateToX should return a number');
+    console.assert(dateToX('2013-01-01') < dateToX('2025-12-31'), 'Timeline should increase left to right');
+    console.assert(tooltipRow('A', 'B').includes('tooltip-row'), 'Tooltip row helper should build markup');
+    console.assert(escapeHtml('<tag>') === '&lt;tag&gt;', 'escapeHtml should escape angle brackets');
+    console.assert(svg.getAttribute('viewBox') === '0 0 1280 640', 'SVG viewBox should match expected canvas size');
+  </script>
+</body>
+</html>
