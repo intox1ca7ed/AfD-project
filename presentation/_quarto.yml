@@ -1,6 +1,6 @@
 project:
   type: default
-  output-dir: ../docs
+  output-dir: ../docs/presentation
   render:
     - index.qmd
   resources:
