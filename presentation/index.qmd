@@ -110,23 +110,23 @@ Timing external to monthly polling series
 :::
 :::
 
-- Not routine campaign events or ordinary monthly fluctuations.
-- Not selected because polling moved afterward; treated as credible temporal anchors for descriptive pre/post comparison.
+- Not routine campaign events or ordinary monthly fluctuations
+- Not selected because polling moved afterward; treated as credible temporal anchors for descriptive pre/post comparison
 
 ::: {.shock-takeaway}
-Selected because they are sudden, externally timed, nationally visible, and not chosen based on later polling movement.
+Selected because they are sudden, externally timed, nationally visible, and not chosen based on later polling movement
 :::
 
 ## Three Shocks, Three Mechanisms {.shock-mechanism-slide}
 
-| Shock | Main mechanism activated | Expected empirical pattern |
-|---|---|---|
-| Cologne | migration / security / public order | salience spike, security framing rise, AfD support up |
-| Chemnitz | security / far-right mobilization | framing shift, limited net polling response |
-| Correctiv | remigration / democracy-threat / legitimacy | remigration/far-right spike, AfD support down |
+| Shock | Main mechanism |
+|---|---|
+| Cologne | migration / security / public order |
+| Chemnitz | security / far-right mobilization |
+| Correctiv | remigration / democracy-threat / legitimacy |
 
-- Comparative logic: shocks activate different mechanisms, not one uniform pathway.
-- Evaluation axis across all three cases: salience, framing, tone, and polling movement.
+- Comparative logic: shocks activate different mechanisms, not one uniform pathway
+- Evaluation axis across all three cases: salience, framing, tone, and polling movement
 
 
 ## Timeline {background-iframe="afd_research_design_timeline.html" background-interactive="true" .timeline-background-only}
@@ -152,76 +152,104 @@ Three empirical blocks:
 ::: {.corpus-flow}
 ::: {.corpus-card}
 **Main corpus**  
-Long-run AfD-relevant media environment (2013-01 to 2025-12).  
-Tracks baseline salience and framing context.
+Long-run AfD-relevant media environment (2013-01 to 2025-12)
+Tracks baseline salience and framing context
 :::
 ::: {.corpus-arrow}
 →
 :::
 ::: {.corpus-card}
 **Shock windows**  
-Local event-centered comparison around each shock.  
-Isolates short-horizon pre/post shifts.
+Local event-centered comparison around each shock
+Isolates short-horizon pre/post shifts
 :::
 ::: {.corpus-arrow}
 →
 :::
 ::: {.corpus-card}
 **Polling panel**  
-Monthly AfD support series (2013-09 to 2025-12).  
-Aligns media indicators with political outcomes.
+Monthly AfD support series (2013-09 to 2025-12). 
+Aligns media indicators with political outcomes
 :::
 :::
 
 ::: {.corpus-takeaway}
-Main corpus provides context, shock windows provide local contrasts, and polling panel provides outcome alignment.
+Main corpus provides context, shock windows provide local contrasts, and polling panel provides outcome alignment
 :::
 
 ## Nexis Query Logic {.query-logic-slide}
 
-- Operational definition: AfD-relevant media environment as overlap across issue domains.
+Event specific shock retrieval + main corpus data fetching
 
-::: {.query-bubble-grid}
-::: {.query-bubble}
-Migration / asylum
+::: {.query-swap}
+::: {.query-cards .query-raw .fragment .fade-out data-fragment-index="1"}
+::: {.query-card .shock-query}
+**Cologne**  
+`(Kölner Hauptbahnhof AND Silvesternacht)`
 :::
-::: {.query-bubble}
-Security / public order
+::: {.query-card .shock-query}
+**Chemnitz**  
+`(Chemnitz AND Ausschreitungen OR Tötungsdelikt OR Messerattacke OR Demonstrationen)`
 :::
-::: {.query-bubble}
-AfD / far-right
+::: {.query-card .shock-query}
+**Correctiv**  
+`(Correctiv AND Potsdam AND Geheimtreffen)`
 :::
-::: {.query-bubble}
-Remigration / democracy-threat
+::: {.query-card .main-query}
+**Main corpus**  
+`((Asyl OR Asylpolitik OR Asylbewerber OR Flüchtling! OR Abschieb! OR Zuwander! OR Einwander!)`  
+`AND (Deutschland OR Bundesrepublik OR Bundesamt OR Kommune OR Kommunen OR Unterbringung OR Polizei))`  
+`AND length > 250`
+:::
+:::
+
+::: {.query-stage2 .fragment data-fragment-index="1"}
+::: {.query-stage2-grid}
+::: {.query-stage2-card .shock-logic}
+**Shock queries: focused anchor-term retrieval**
+
+- Cologne -> narrow query around a single event
+- Chemnitz -> query combining location with event descriptors
+- Correctiv -> query centered on the Potsdam revelation
+:::
+::: {.query-stage2-card .main-logic}
+**Main corpus: broader data extraction**
+
+`Migration / asylum vocabulary`  
+`AND German policy / institutional context`  
+`AND length > 250`  
+`=> Main corpus`
 :::
 :::
 
 ::: {.query-core}
-Query captures issue visibility patterns, not only explicit party mentions.
+Shock queries isolate specific events; the main corpus captures the broader AfD-relevant issue environment
 :::
-
-- Full Boolean query text is in the appendix.
+:::
+:::
 
 ## Pipeline {.pipeline-slide}
 
 ![](assets/figures/workflow figure.png){.pipeline-hero}
 
-Nexis retrieval -> cleaning/deduplication -> monthly salience -> text indicators -> polling merge -> event-window diagnostics.
+Nexis retrieval -> cleaning/deduplication -> monthly salience -> text indicators -> polling merge -> event-window diagnostics
 
 ## Salience: What It Measures {.salience-slide}
 
-- Salience = monthly Nexis total relevant results.
-- Not the same as downloaded article count.
-- Kept-article counts are used for text-indicator construction.
-- Coverage volume alone does not explain political pattern differences.
+- Salience = monthly Nexis total relevant results*
+- `*relevant results` = volume of all articles matching the main query results
+- Kept-article counts are used for text indicator construction
+- Coverage volume alone does not explain political pattern differences
 
-![](assets/figures/01_notebook_figures/monthly_nexis_total_results_over_time_report.png){.salience-hero}
+![](assets/figures/01_notebook_figures/monthly_volume_salience_with_shock_dates.png){.salience-hero}
 
 ## Text-Based Indicators: How They Are Constructed {.indicator-construction-slide}
 
-- Count issue-dictionary terms in each article.
-- Normalize by article length.
-- Aggregate to monthly indicators.
+::: {.indicator-swap}
+::: {.indicator-stage1 .fragment .fade-out data-fragment-index="1"}
+- Count issue dictionary terms
+- Normalize by article length
+- Aggregate monthly
 
 Formula (per article):
 
@@ -230,28 +258,26 @@ $$
 =
 \left(\frac{\text{dictionary term count}}{\text{word count}}\right)\times 1000
 $$
+:::
 
-::: {.indicator-build-flow}
-::: {.ib-step}
-Article text
+::: {.indicator-stage2 .fragment data-fragment-index="1"}
+::: {.indicator-stage2-intro}
+The monthly indicator is the average of article-level values within each month
 :::
-::: {.ib-arrow}
-→
+
+$$
+I_m = \frac{1}{N_m}\sum_{i \in m} I_i
+$$
+
+::: {.indicator-stage2-note}
+$$
+\begin{aligned}
+I_i &= \text{article-level normalized indicator} \\
+N_m &= \text{number of articles in month } m \\
+I_m &= \text{monthly indicator}
+\end{aligned}
+$$
 :::
-::: {.ib-step}
-Dictionary counts
-:::
-::: {.ib-arrow}
-→
-:::
-::: {.ib-step}
-Length normalization
-:::
-::: {.ib-arrow}
-→
-:::
-::: {.ib-step}
-Monthly aggregation
 :::
 :::
 
@@ -278,13 +304,14 @@ Supplementary tone proxy
 :::
 :::
 
-- Goal: compare how issue emphasis and tone differ across shocks.
+- `They show what kind of coverage increases around each shock - and whether the tone of that coverage also changes`
 
 ## Event-Window Logic: +/-3 and +/-6 Months {.window-logic-slide}
 
-- +/-3 months: tighter local comparison.
-- +/-6 months: broader descriptive window.
-- Goal is comparison of local pre/post patterns at two scales, not one exact effect estimate.
+- Shock month is t = 0
+- I compare the months before and after the shock in the monthly panel
+- The comparison includes media salience, text indicators, polling support
+- ±3 for a tighter local view; ±6 for a broader descriptive view
 
 ::: {.window-timeline}
   <div class="wt-band wt-band-6">±6 window</div>
@@ -301,63 +328,171 @@ Supplementary tone proxy
   <div class="wt-label wt-lp3">+3</div>
   <div class="wt-label wt-lp6">+6</div>
 :::
-## Bridge to Act 3
 
-- With salience, framing indicators, and polling in one aligned monthly panel, we can compare how each shock maps to distinct media-political dynamics.
+## 3. Long-Run Context: AfD Support and Media Salience {.result-slide .act3-result-slide .section-divider}
 
-![Descriptive co-movement (standardized). _TODO: simplification ._](assets/figures/03_notebook_figures/descriptive_comovement_standardized.png){.chart-image}
+::: {.result-takeaway}
+All 3 shocks occur under different background conditions: Cologne coincides with the strongest media salience surge, while Correctiv occurs when AfD support is already at one of its highest levels
+:::
 
-## Three Shocks {.section-divider}
+::: {.act3-evidence-grid}
+::: {.act3-evidence-card}
+**Salience peak**  
+Sep 2015: **1,007** Nexis results
+:::
+::: {.act3-evidence-card}
+**Correctiv baseline**  
+Jan 2024 AfD support: **21.34%**
+:::
+::: {.act3-evidence-card}
+**Series high support**  
+Nov 2025 AfD support: **26.02%**
+:::
+:::
 
-## Cologne
+![](assets/figures/11_notebook_figures/overview_afd_support_and_nexis_volume_final.png){.chart-image}
 
-- Placeholder: shock-specific mechanism slide scaffold
+## Cologne: Security Salience Surge with Later AfD Rise {.result-slide .shock-result-slide .act3-result-slide}
 
-![Cologne local mechanism chart (first-pass import). _TODO: rerender with harmonized y-axix. добавить event annotation style._](assets/figures/09_notebook_figures/cologne_local_mechanism_security.png){.chart-image}
+::: {.result-takeaway}
+Cologne shows a sharp security spike, then a later rise in AfD support; salience peaks early and then declines
+:::
 
-## Chemnitz
+::: {.act3-evidence-grid}
+::: {.act3-evidence-card}
+**Security framing at shock (t=0)**  
+**16.11** terms per 1,000 words
+:::
+::: {.act3-evidence-card}
+**AfD support change**  
+**10.00% -> 11.00%** (t+6)  
+Pre/post mean: **+6.49 pp**
+:::
+::: {.act3-evidence-card}
+**Salience context**  
+Local peak **1,007** at t-4 (Sep 2015)  
+Shock month: **766**
+:::
+:::
 
-- Placeholder: shock-specific mechanism slide scaffold
+![](assets/figures/09_notebook_figures/cologne_local_mechanism_security.png){.chart-image}
 
-![Chemnitz local mechanism chart (first-pass import). _TODO: ререндер с улучшенным порядком логики легонды._](assets/figures/09_notebook_figures/chemnitz_local_mechanism_security_far_right.png){.chart-image}
+## Chemnitz: Strong Security/Far-Right Movement, Different Polling Path {.result-slide .shock-result-slide .act3-result-slide}
 
-## Correctiv
+::: {.result-takeaway}
+Chemnitz produces strong security and far-right framing spikes, but these shifts are not followed by the same sustained polling rise observed after Cologne
+:::
 
-- Placeholder: shock-specific mechanism slide scaffold
+::: {.act3-evidence-grid}
+::: {.act3-evidence-card}
+**Security framing at shock (t=0)**  
+**14.13** terms per 1,000 words
+:::
+::: {.act3-evidence-card}
+**AfD/far-right framing peak**  
+**10.61** terms per 1,000 words  
+at t+1 (Sep 2018)
+:::
+::: {.act3-evidence-card}
+**Polling movement**  
+**15.46% -> 13.00%** (t+6)  
+Pre/post mean: **+0.07 pp**
+:::
+:::
 
-![Correctiv local mechanism chart (first-pass import). _TODO: ререндер с маркерами для pre/post contrast._](assets/figures/09_notebook_figures/correctiv_local_mechanism_remigration_far_right.png){.chart-image}
+![](assets/figures/09_notebook_figures/chemnitz_local_mechanism_security_far_right.png){.chart-image}
 
-## Comparative Synthesis {.section-divider}
+## Correctiv: Adverse/Remigration Framing with AfD Decline {.result-slide .shock-result-slide .act3-result-slide}
 
-## Comparative Synthesis
+::: {.result-takeaway}
+Correctiv is the clearest case of concentrated adverse framing: remigration/democracy-threat and AfD/far-right indicators spike sharply at the shock, while AfD support declines in the following months
+:::
 
-- Placeholder: cross-shock pattern comparison
-- Placeholder: consistency / heterogeneity across indicators
-- Placeholder: implications for interpretation
+::: {.act3-evidence-grid}
+::: {.act3-evidence-card}
+**Remigration/democracy-threat peak (t=0)**  
+**15.84** terms per 1,000 words
+:::
+::: {.act3-evidence-card}
+**AfD/far-right peak (t=0)**  
+**18.25** terms per 1,000 words
+:::
+::: {.act3-evidence-card}
+**AfD support decline**  
+**21.34% -> 17.19%** (t+6)  
+Pre/post mean: **-3.65 pp**
+:::
+:::
 
-![Shock synthesis summary bars (first-pass import). _TODO: finalize ordering, uncertainty display, and labeling conventions._](assets/figures/11_notebook_figures/shock_results_bar_pm6m_final.png){.chart-image}
+![](assets/figures/09_notebook_figures/correctiv_local_mechanism_remigration_far_right.png){.chart-image}
 
-## Limitations {.section-divider}
+## 4. Synthesis | What Emerges Across 3 Shocks {.result-slide .act3-result-slide .section-divider}
 
-## Limitations
+::: {.result-takeaway}
+The response is not uniform: Cologne is polling positive, Correctiv is associated with negative framing and falling AfD support, Chemnitz sits between them
+:::
 
-- Placeholder: measurement and data limitations
-- Placeholder: design limitations and sensitivity boundaries
-- Placeholder: external validity considerations
+::: {.act3-evidence-grid}
+::: {.act3-evidence-card}
+**AfD support change (post-pre, +/-6m)**  
+Cologne: **+6.49 pp**  
+Chemnitz: **+0.07 pp**  
+Correctiv: **-3.65 pp**
+:::
+::: {.act3-evidence-card}
+**Largest remigration shift (+/-6m)**  
+Correctiv: **+1.84** terms per 1,000 words
+:::
+::: {.act3-evidence-card}
+**Largest AfD/far-right shift (+/-6m)**  
+Correctiv: **+1.72** terms per 1,000 words  
+Chemnitz: **+0.87**
+:::
+:::
 
-## Conclusion {.section-divider}
+![](assets/figures/11_notebook_figures/shock_results_bar_pm6m_final.png){.chart-image}
+
+## What Patterns Emerge Across Shocks
+
+- Attention alone does not explain polling direction
+- Framing explains more than raw volume
+- Each shock activates a different mechanism
+- Cologne and Correctiv form the clearest contrast
 
 ## Conclusion
 
-- Placeholder: concise takeaways
-- Placeholder: theoretical and empirical contribution
-- Placeholder: next steps for full thesis write-up
+- `Reproducible notebooks` with text as data pipeline linking retrieval, indicator construction, polling alignment, and event window comparison.
+- `Empirical contribution:` AfD-relevant shocks differ not only in intensity, but in the issue environments they activate and the polling dynamics they align with.
+- `Core result:` more attention does not uniformly help or hurt AfD; different shocks map onto different media-political pathways.
 
-## Appendix {.section-divider}
+## Appendix / Auxilary graphs{.section-divider}
 
-## Appendix
+## Dictionary Families and Groups {.appendix-dictionary-slide}
 
-- Placeholder: extra robustness visuals
-- Placeholder: indicator construction details
-- Placeholder: supplementary notes and backup slides
+Regex/stem-based matching on normalized text (umlauts transliterated; `*` below means suffix expansion via `\w*`).
 
+| Family | Group key | Presentation label |
+|---|---|---|
+| issue_environment | `migration` | Migration/Asylum |
+| issue_environment | `security` | Security/Public Order |
+| actor_identity | `afd_far_right` | AfD/Far-right |
+| mechanism_specific | `remigration_democracy` | Remigration/Democracy-threat |
+| evaluative_tone_proxy | `negative_threat` | Negative/Threat |
+
+## Dictionary Detail: All Groups {.appendix-dictionary-slide .dict-table-5-slide}
+
+| Migration/Asylum | Security/Public Order | AfD/Far-right | Remigration/Democracy-threat | Negative/Threat |
+|---|---|---|---|---|
+| migrat<br>migrant<br>fluechtling<br>gefluechtet<br>asyl<br>zuwander<br>einwander<br>auslaender<br>auslaendisch<br>abschieb<br>deport<br>integrat<br>grenz<br>schutzsuch<br>unterkunft<br>fluechtlingsheim<br>aufnahm | kriminal<br>straftat<br>straftaeter<br>tatverdaechtig<br>verdaechtig<br>polizei<br>sicherheit<br>gewalt<br>messer<br>mord<br>totschlag<br>vergewaltig<br>sexuell<br>belaestig<br>uebergriff<br>ausschreit<br>randal<br>krawall<br>mob<br>hetzjagd<br>demonstrat<br>protest<br>ordnung<br>rechtsstaat<br>innere sicherheit | afd<br>alternative fuer deutschland<br>rechtspopul<br>rechtsextrem<br>rechte<br>rechtsradikal<br>rechtsruck<br>identitaer<br>pegida<br>hoecke<br>weidel<br>gauland<br>chrupalla<br>nationalistisch<br>voelkisch | remigration<br>geheimtreffen<br>potsdam<br>correctiv<br>deport<br>vertreib<br>masterplan<br>identitaer beweg<br>sellner<br>rechtsextremismus<br>demokrati<br>verfassungsfeind<br>verfassungsschutz<br>parteiverbot<br>menschenwuerd<br>massendeport | angst<br>sorg<br>gefahr<br>gefaehrlich<br>bedroh<br>kris<br>eskalat<br>chaos<br>problem<br>konflikt<br>gewalt<br>hass<br>hetz<br>extremismus<br>radikal<br>skandal<br>schock<br>empoer<br>wut<br>illegal<br>missbrauch<br>ueberforderung<br>scheiter<br>versag |
+
+## Yearly Kept Article Totals {.appendix-figure-slide}
+
+![](assets/figures/appendix/yearly_kept_article_totals.png){.appendix-figure}
+
+## Word Count Distribution of Kept Articles {.appendix-figure-slide}
+
+![](assets/figures/appendix/word_count_distribution.png){.appendix-figure}
+
+## Top Sources in the Kept-Article Corpus {.appendix-figure-slide}
+
+![](assets/figures/appendix/top15_sources.png){.appendix-figure}

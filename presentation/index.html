@@ -29,7 +29,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="index_files/libs/revealjs/dist/theme/quarto-dffec4d332d27c0a09b3a1f4c1ce01fc.css">
+  <link rel="stylesheet" href="index_files/libs/revealjs/dist/theme/quarto-3212efa95c79c255b5758a257e6f9f81.css">
   <link href="index_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="index_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="index_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -279,49 +279,40 @@ Timing external to monthly polling series</p>
 </div>
 </div></div>
 <ul>
-<li>Not routine campaign events or ordinary monthly fluctuations.</li>
-<li>Not selected because polling moved afterward; treated as credible temporal anchors for descriptive pre/post comparison.</li>
+<li>Not routine campaign events or ordinary monthly fluctuations</li>
+<li>Not selected because polling moved afterward; treated as credible temporal anchors for descriptive pre/post comparison</li>
 </ul>
 <div class="shock-takeaway">
-<p>Selected because they are sudden, externally timed, nationally visible, and not chosen based on later polling movement.</p>
+<p>Selected because they are sudden, externally timed, nationally visible, and not chosen based on later polling movement</p>
 </div>
 </section>
 <section id="three-shocks-three-mechanisms" class="slide level2 shock-mechanism-slide">
 <h2>Three Shocks, Three Mechanisms</h2>
 <table class="caption-top">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Shock</th>
-<th>Main mechanism activated</th>
-<th>Expected empirical pattern</th>
+<th>Main mechanism</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Cologne</td>
 <td>migration / security / public order</td>
-<td>salience spike, security framing rise, AfD support up</td>
 </tr>
 <tr class="even">
 <td>Chemnitz</td>
 <td>security / far-right mobilization</td>
-<td>framing shift, limited net polling response</td>
 </tr>
 <tr class="odd">
 <td>Correctiv</td>
 <td>remigration / democracy-threat / legitimacy</td>
-<td>remigration/far-right spike, AfD support down</td>
 </tr>
 </tbody>
 </table>
 <ul>
-<li>Comparative logic: shocks activate different mechanisms, not one uniform pathway.</li>
-<li>Evaluation axis across all three cases: salience, framing, tone, and polling movement.</li>
+<li>Comparative logic: shocks activate different mechanisms, not one uniform pathway</li>
+<li>Evaluation axis across all three cases: salience, framing, tone, and polling movement</li>
 </ul>
 </section>
 <section id="timeline" class="slide level2 timeline-background-only" data-background-iframe="afd_research_design_timeline.html" data-background-interactive="true">
@@ -371,77 +362,98 @@ Timing external to monthly polling series</p>
 <div class="corpus-flow">
 <div class="corpus-card">
 <p><strong>Main corpus</strong><br>
-Long-run AfD-relevant media environment (2013-01 to 2025-12).<br>
-Tracks baseline salience and framing context.</p>
+Long-run AfD-relevant media environment (2013-01 to 2025-12) Tracks baseline salience and framing context</p>
 </div>
 <div class="corpus-arrow">
 <p>→</p>
 </div>
 <div class="corpus-card">
 <p><strong>Shock windows</strong><br>
-Local event-centered comparison around each shock.<br>
-Isolates short-horizon pre/post shifts.</p>
+Local event-centered comparison around each shock Isolates short-horizon pre/post shifts</p>
 </div>
 <div class="corpus-arrow">
 <p>→</p>
 </div>
 <div class="corpus-card">
 <p><strong>Polling panel</strong><br>
-Monthly AfD support series (2013-09 to 2025-12).<br>
-Aligns media indicators with political outcomes.</p>
+Monthly AfD support series (2013-09 to 2025-12). Aligns media indicators with political outcomes</p>
 </div>
 </div>
 <div class="corpus-takeaway">
-<p>Main corpus provides context, shock windows provide local contrasts, and polling panel provides outcome alignment.</p>
+<p>Main corpus provides context, shock windows provide local contrasts, and polling panel provides outcome alignment</p>
 </div>
 </section>
 <section id="nexis-query-logic" class="slide level2 query-logic-slide">
 <h2>Nexis Query Logic</h2>
+<p>Event specific shock retrieval + main corpus data fetching</p>
+<div class="query-swap">
+<div class="query-cards query-raw fragment fade-out" data-fragment-index="1">
+<div class="query-card shock-query">
+<p><strong>Cologne</strong><br>
+<code>(Kölner Hauptbahnhof AND Silvesternacht)</code></p>
+</div>
+<div class="query-card shock-query">
+<p><strong>Chemnitz</strong><br>
+<code>(Chemnitz AND Ausschreitungen OR Tötungsdelikt OR Messerattacke OR Demonstrationen)</code></p>
+</div>
+<div class="query-card shock-query">
+<p><strong>Correctiv</strong><br>
+<code>(Correctiv AND Potsdam AND Geheimtreffen)</code></p>
+</div>
+<div class="query-card main-query">
+<p><strong>Main corpus</strong><br>
+<code>((Asyl OR Asylpolitik OR Asylbewerber OR Flüchtling! OR Abschieb! OR Zuwander! OR Einwander!)</code><br>
+<code>AND (Deutschland OR Bundesrepublik OR Bundesamt OR Kommune OR Kommunen OR Unterbringung OR Polizei))</code><br>
+<code>AND length &gt; 250</code></p>
+</div>
+</div>
+<div class="query-stage2 fragment" data-fragment-index="1">
+<div class="query-stage2-grid">
+<div class="query-stage2-card shock-logic">
+<p><strong>Shock queries: focused anchor-term retrieval</strong></p>
 <ul>
-<li>Operational definition: AfD-relevant media environment as overlap across issue domains.</li>
+<li>Cologne -&gt; narrow query around a single event</li>
+<li>Chemnitz -&gt; query combining location with event descriptors</li>
+<li>Correctiv -&gt; query centered on the Potsdam revelation</li>
 </ul>
-<div class="query-bubble-grid">
-<div class="query-bubble">
-<p>Migration / asylum</p>
 </div>
-<div class="query-bubble">
-<p>Security / public order</p>
-</div>
-<div class="query-bubble">
-<p>AfD / far-right</p>
-</div>
-<div class="query-bubble">
-<p>Remigration / democracy-threat</p>
+<div class="query-stage2-card main-logic">
+<p><strong>Main corpus: broader data extraction</strong></p>
+<p><code>Migration / asylum vocabulary</code><br>
+<code>AND German policy / institutional context</code><br>
+<code>AND length &gt; 250</code><br>
+<code>=&gt; Main corpus</code></p>
 </div>
 </div>
 <div class="query-core">
-<p>Query captures issue visibility patterns, not only explicit party mentions.</p>
+<p>Shock queries isolate specific events; the main corpus captures the broader AfD-relevant issue environment</p>
 </div>
-<ul>
-<li>Full Boolean query text is in the appendix.</li>
-</ul>
+</div>
+</div>
 </section>
 <section id="pipeline" class="slide level2 pipeline-slide">
 <h2>Pipeline</h2>
 
-<img data-src="assets/figures/workflow%20figure.png" class="pipeline-hero r-stretch"><p>Nexis retrieval -&gt; cleaning/deduplication -&gt; monthly salience -&gt; text indicators -&gt; polling merge -&gt; event-window diagnostics.</p>
+<img data-src="assets/figures/workflow%20figure.png" class="pipeline-hero r-stretch"><p>Nexis retrieval -&gt; cleaning/deduplication -&gt; monthly salience -&gt; text indicators -&gt; polling merge -&gt; event-window diagnostics</p>
 </section>
 <section id="salience-what-it-measures" class="slide level2 salience-slide">
 <h2>Salience: What It Measures</h2>
 <ul>
-<li>Salience = monthly Nexis total relevant results.</li>
-<li>Not the same as downloaded article count.</li>
-<li>Kept-article counts are used for text-indicator construction.</li>
-<li>Coverage volume alone does not explain political pattern differences.</li>
+<li>Salience = monthly Nexis total relevant results*</li>
+<li><code>*relevant results</code> = volume of all articles matching the main query results</li>
+<li>Kept-article counts are used for text indicator construction</li>
+<li>Coverage volume alone does not explain political pattern differences</li>
 </ul>
 
-<img data-src="assets/figures/01_notebook_figures/monthly_nexis_total_results_over_time_report.png" class="salience-hero r-stretch"></section>
+<img data-src="assets/figures/01_notebook_figures/monthly_volume_salience_with_shock_dates.png" class="salience-hero r-stretch"></section>
 <section id="text-based-indicators-how-they-are-constructed" class="slide level2 indicator-construction-slide">
 <h2>Text-Based Indicators: How They Are Constructed</h2>
+<div class="indicator-swap">
+<div class="indicator-stage1 fragment fade-out" data-fragment-index="1">
 <ul>
-<li>Count issue-dictionary terms in each article.</li>
-<li>Normalize by article length.</li>
-<li>Aggregate to monthly indicators.</li>
+<li>Count issue dictionary terms</li>
+<li>Normalize by article length</li>
+<li>Aggregate monthly</li>
 </ul>
 <p>Formula (per article):</p>
 <p><span class="math display">\[
@@ -449,27 +461,23 @@ Aligns media indicators with political outcomes.</p>
 =
 \left(\frac{\text{dictionary term count}}{\text{word count}}\right)\times 1000
 \]</span></p>
-<div class="indicator-build-flow">
-<div class="ib-step">
-<p>Article text</p>
 </div>
-<div class="ib-arrow">
-<p>→</p>
+<div class="indicator-stage2 fragment" data-fragment-index="1">
+<div class="indicator-stage2-intro">
+<p>The monthly indicator is the average of article-level values within each month</p>
 </div>
-<div class="ib-step">
-<p>Dictionary counts</p>
+<p><span class="math display">\[
+I_m = \frac{1}{N_m}\sum_{i \in m} I_i
+\]</span></p>
+<div class="indicator-stage2-note">
+<p><span class="math display">\[
+\begin{aligned}
+I_i &amp;= \text{article-level normalized indicator} \\
+N_m &amp;= \text{number of articles in month } m \\
+I_m &amp;= \text{monthly indicator}
+\end{aligned}
+\]</span></p>
 </div>
-<div class="ib-arrow">
-<p>→</p>
-</div>
-<div class="ib-step">
-<p>Length normalization</p>
-</div>
-<div class="ib-arrow">
-<p>→</p>
-</div>
-<div class="ib-step">
-<p>Monthly aggregation</p>
 </div>
 </div>
 </section>
@@ -496,15 +504,16 @@ Aligns media indicators with political outcomes.</p>
 </div>
 </div>
 <ul>
-<li>Goal: compare how issue emphasis and tone differ across shocks.</li>
+<li><code>They show what kind of coverage increases around each shock - and whether the tone of that coverage also changes</code></li>
 </ul>
 </section>
 <section id="event-window-logic--3-and--6-months" class="slide level2 window-logic-slide">
 <h2>Event-Window Logic: +/-3 and +/-6 Months</h2>
 <ul>
-<li>+/-3 months: tighter local comparison.</li>
-<li>+/-6 months: broader descriptive window.</li>
-<li>Goal is comparison of local pre/post patterns at two scales, not one exact effect estimate.</li>
+<li>Shock month is t = 0</li>
+<li>I compare the months before and after the shock in the monthly panel</li>
+<li>The comparison includes media salience, text indicators, polling support</li>
+<li>±3 for a tighter local view; ±6 for a broader descriptive view</li>
 </ul>
 <div class="window-timeline">
 <div class="wt-band wt-band-6">
@@ -548,83 +557,227 @@ Aligns media indicators with political outcomes.</p>
 </div>
 </div>
 </section>
-<section id="bridge-to-act-3" class="slide level2">
-<h2>Bridge to Act 3</h2>
-<ul>
-<li>With salience, framing indicators, and polling in one aligned monthly panel, we can compare how each shock maps to distinct media-political dynamics.</li>
-</ul>
+<section id="long-run-context-afd-support-and-media-salience" class="slide level2 result-slide act3-result-slide section-divider">
+<h2>3. Long-Run Context: AfD Support and Media Salience</h2>
+<div class="result-takeaway">
+<p>All 3 shocks occur under different background conditions: Cologne coincides with the strongest media salience surge, while Correctiv occurs when AfD support is already at one of its highest levels</p>
+</div>
+<div class="act3-evidence-grid">
+<div class="act3-evidence-card">
+<p><strong>Salience peak</strong><br>
+Sep 2015: <strong>1,007</strong> Nexis results</p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>Correctiv baseline</strong><br>
+Jan 2024 AfD support: <strong>21.34%</strong></p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>Series high support</strong><br>
+Nov 2025 AfD support: <strong>26.02%</strong></p>
+</div>
+</div>
 
-<img data-src="assets/figures/03_notebook_figures/descriptive_comovement_standardized.png" class="chart-image r-stretch quarto-figure-center"><p class="caption">Descriptive co-movement (standardized). <em>TODO: simplification .</em></p></section>
-<section id="three-shocks" class="slide level2 section-divider">
-<h2>Three Shocks</h2>
+<img data-src="assets/figures/11_notebook_figures/overview_afd_support_and_nexis_volume_final.png" class="chart-image r-stretch"></section>
+<section id="cologne-security-salience-surge-with-later-afd-rise" class="slide level2 result-slide shock-result-slide act3-result-slide">
+<h2>Cologne: Security Salience Surge with Later AfD Rise</h2>
+<div class="result-takeaway">
+<p>Cologne shows a sharp security spike, then a later rise in AfD support; salience peaks early and then declines</p>
+</div>
+<div class="act3-evidence-grid">
+<div class="act3-evidence-card">
+<p><strong>Security framing at shock (t=0)</strong><br>
+<strong>16.11</strong> terms per 1,000 words</p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>AfD support change</strong><br>
+<strong>10.00% -&gt; 11.00%</strong> (t+6)<br>
+Pre/post mean: <strong>+6.49 pp</strong></p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>Salience context</strong><br>
+Local peak <strong>1,007</strong> at t-4 (Sep 2015)<br>
+Shock month: <strong>766</strong></p>
+</div>
+</div>
+
+<img data-src="assets/figures/09_notebook_figures/cologne_local_mechanism_security.png" class="chart-image r-stretch"></section>
+<section id="chemnitz-strong-securityfar-right-movement-different-polling-path" class="slide level2 result-slide shock-result-slide act3-result-slide">
+<h2>Chemnitz: Strong Security/Far-Right Movement, Different Polling Path</h2>
+<div class="result-takeaway">
+<p>Chemnitz produces strong security and far-right framing spikes, but these shifts are not followed by the same sustained polling rise observed after Cologne</p>
+</div>
+<div class="act3-evidence-grid">
+<div class="act3-evidence-card">
+<p><strong>Security framing at shock (t=0)</strong><br>
+<strong>14.13</strong> terms per 1,000 words</p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>AfD/far-right framing peak</strong><br>
+<strong>10.61</strong> terms per 1,000 words<br>
+at t+1 (Sep 2018)</p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>Polling movement</strong><br>
+<strong>15.46% -&gt; 13.00%</strong> (t+6)<br>
+Pre/post mean: <strong>+0.07 pp</strong></p>
+</div>
+</div>
+
+<img data-src="assets/figures/09_notebook_figures/chemnitz_local_mechanism_security_far_right.png" class="chart-image r-stretch"></section>
+<section id="correctiv-adverseremigration-framing-with-afd-decline" class="slide level2 result-slide shock-result-slide act3-result-slide">
+<h2>Correctiv: Adverse/Remigration Framing with AfD Decline</h2>
+<div class="result-takeaway">
+<p>Correctiv is the clearest case of concentrated adverse framing: remigration/democracy-threat and AfD/far-right indicators spike sharply at the shock, while AfD support declines in the following months</p>
+</div>
+<div class="act3-evidence-grid">
+<div class="act3-evidence-card">
+<p><strong>Remigration/democracy-threat peak (t=0)</strong><br>
+<strong>15.84</strong> terms per 1,000 words</p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>AfD/far-right peak (t=0)</strong><br>
+<strong>18.25</strong> terms per 1,000 words</p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>AfD support decline</strong><br>
+<strong>21.34% -&gt; 17.19%</strong> (t+6)<br>
+Pre/post mean: <strong>-3.65 pp</strong></p>
+</div>
+</div>
+
+<img data-src="assets/figures/09_notebook_figures/correctiv_local_mechanism_remigration_far_right.png" class="chart-image r-stretch"></section>
+<section id="synthesis-what-emerges-across-3-shocks" class="slide level2 result-slide act3-result-slide section-divider">
+<h2>4. Synthesis | What Emerges Across 3 Shocks</h2>
+<div class="result-takeaway">
+<p>The response is not uniform: Cologne is polling positive, Correctiv is associated with negative framing and falling AfD support, Chemnitz sits between them</p>
+</div>
+<div class="act3-evidence-grid">
+<div class="act3-evidence-card">
+<p><strong>AfD support change (post-pre, +/-6m)</strong><br>
+Cologne: <strong>+6.49 pp</strong><br>
+Chemnitz: <strong>+0.07 pp</strong><br>
+Correctiv: <strong>-3.65 pp</strong></p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>Largest remigration shift (+/-6m)</strong><br>
+Correctiv: <strong>+1.84</strong> terms per 1,000 words</p>
+</div>
+<div class="act3-evidence-card">
+<p><strong>Largest AfD/far-right shift (+/-6m)</strong><br>
+Correctiv: <strong>+1.72</strong> terms per 1,000 words<br>
+Chemnitz: <strong>+0.87</strong></p>
+</div>
+</div>
+
+<img data-src="assets/figures/11_notebook_figures/shock_results_bar_pm6m_final.png" class="chart-image r-stretch"></section>
+<section id="what-patterns-emerge-across-shocks" class="slide level2">
+<h2>What Patterns Emerge Across Shocks</h2>
+<ul>
+<li>Attention alone does not explain polling direction</li>
+<li>Framing explains more than raw volume</li>
+<li>Each shock activates a different mechanism</li>
+<li>Cologne and Correctiv form the clearest contrast</li>
+</ul>
 </section>
-<section id="cologne" class="slide level2">
-<h2>Cologne</h2>
-<ul>
-<li>Placeholder: shock-specific mechanism slide scaffold</li>
-</ul>
-
-<img data-src="assets/figures/09_notebook_figures/cologne_local_mechanism_security.png" class="chart-image r-stretch quarto-figure-center"><p class="caption">Cologne local mechanism chart (first-pass import). <em>TODO: rerender with harmonized y-axix. добавить event annotation style.</em></p></section>
-<section id="chemnitz" class="slide level2">
-<h2>Chemnitz</h2>
-<ul>
-<li>Placeholder: shock-specific mechanism slide scaffold</li>
-</ul>
-
-<img data-src="assets/figures/09_notebook_figures/chemnitz_local_mechanism_security_far_right.png" class="chart-image r-stretch quarto-figure-center"><p class="caption">Chemnitz local mechanism chart (first-pass import). <em>TODO: ререндер с улучшенным порядком логики легонды.</em></p></section>
-<section id="correctiv" class="slide level2">
-<h2>Correctiv</h2>
-<ul>
-<li>Placeholder: shock-specific mechanism slide scaffold</li>
-</ul>
-
-<img data-src="assets/figures/09_notebook_figures/correctiv_local_mechanism_remigration_far_right.png" class="chart-image r-stretch quarto-figure-center"><p class="caption">Correctiv local mechanism chart (first-pass import). <em>TODO: ререндер с маркерами для pre/post contrast.</em></p></section>
-<section id="comparative-synthesis" class="slide level2 section-divider">
-<h2>Comparative Synthesis</h2>
-</section>
-<section id="comparative-synthesis-1" class="slide level2">
-<h2>Comparative Synthesis</h2>
-<ul>
-<li>Placeholder: cross-shock pattern comparison</li>
-<li>Placeholder: consistency / heterogeneity across indicators</li>
-<li>Placeholder: implications for interpretation</li>
-</ul>
-
-<img data-src="assets/figures/11_notebook_figures/shock_results_bar_pm6m_final.png" class="chart-image r-stretch quarto-figure-center"><p class="caption">Shock synthesis summary bars (first-pass import). <em>TODO: finalize ordering, uncertainty display, and labeling conventions.</em></p></section>
-<section id="limitations" class="slide level2 section-divider">
-<h2>Limitations</h2>
-</section>
-<section id="limitations-1" class="slide level2">
-<h2>Limitations</h2>
-<ul>
-<li>Placeholder: measurement and data limitations</li>
-<li>Placeholder: design limitations and sensitivity boundaries</li>
-<li>Placeholder: external validity considerations</li>
-</ul>
-</section>
-<section id="conclusion" class="slide level2 section-divider">
+<section id="conclusion" class="slide level2">
 <h2>Conclusion</h2>
-</section>
-<section id="conclusion-1" class="slide level2">
-<h2>Conclusion</h2>
 <ul>
-<li>Placeholder: concise takeaways</li>
-<li>Placeholder: theoretical and empirical contribution</li>
-<li>Placeholder: next steps for full thesis write-up</li>
+<li><code>Reproducible notebooks</code> with text as data pipeline linking retrieval, indicator construction, polling alignment, and event window comparison.</li>
+<li><code>Empirical contribution:</code> AfD-relevant shocks differ not only in intensity, but in the issue environments they activate and the polling dynamics they align with.</li>
+<li><code>Core result:</code> more attention does not uniformly help or hurt AfD; different shocks map onto different media-political pathways.</li>
 </ul>
 </section>
-<section id="appendix" class="slide level2 section-divider">
-<h2>Appendix</h2>
+<section id="appendix-auxilary-graphs" class="slide level2 section-divider">
+<h2>Appendix / Auxilary graphs</h2>
 </section>
-<section id="appendix-1" class="slide level2">
-<h2>Appendix</h2>
-<ul>
-<li>Placeholder: extra robustness visuals</li>
-<li>Placeholder: indicator construction details</li>
-<li>Placeholder: supplementary notes and backup slides</li>
-</ul>
+<section id="dictionary-families-and-groups" class="slide level2 appendix-dictionary-slide">
+<h2>Dictionary Families and Groups</h2>
+<p>Regex/stem-based matching on normalized text (umlauts transliterated; <code>*</code> below means suffix expansion via <code>\w*</code>).</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Family</th>
+<th>Group key</th>
+<th>Presentation label</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>issue_environment</td>
+<td><code>migration</code></td>
+<td>Migration/Asylum</td>
+</tr>
+<tr class="even">
+<td>issue_environment</td>
+<td><code>security</code></td>
+<td>Security/Public Order</td>
+</tr>
+<tr class="odd">
+<td>actor_identity</td>
+<td><code>afd_far_right</code></td>
+<td>AfD/Far-right</td>
+</tr>
+<tr class="even">
+<td>mechanism_specific</td>
+<td><code>remigration_democracy</code></td>
+<td>Remigration/Democracy-threat</td>
+</tr>
+<tr class="odd">
+<td>evaluative_tone_proxy</td>
+<td><code>negative_threat</code></td>
+<td>Negative/Threat</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dictionary-detail-all-groups" class="slide level2 appendix-dictionary-slide dict-table-5-slide">
+<h2>Dictionary Detail: All Groups</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Migration/Asylum</th>
+<th>Security/Public Order</th>
+<th>AfD/Far-right</th>
+<th>Remigration/Democracy-threat</th>
+<th>Negative/Threat</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>migrat<br>migrant<br>fluechtling<br>gefluechtet<br>asyl<br>zuwander<br>einwander<br>auslaender<br>auslaendisch<br>abschieb<br>deport<br>integrat<br>grenz<br>schutzsuch<br>unterkunft<br>fluechtlingsheim<br>aufnahm</td>
+<td>kriminal<br>straftat<br>straftaeter<br>tatverdaechtig<br>verdaechtig<br>polizei<br>sicherheit<br>gewalt<br>messer<br>mord<br>totschlag<br>vergewaltig<br>sexuell<br>belaestig<br>uebergriff<br>ausschreit<br>randal<br>krawall<br>mob<br>hetzjagd<br>demonstrat<br>protest<br>ordnung<br>rechtsstaat<br>innere sicherheit</td>
+<td>afd<br>alternative fuer deutschland<br>rechtspopul<br>rechtsextrem<br>rechte<br>rechtsradikal<br>rechtsruck<br>identitaer<br>pegida<br>hoecke<br>weidel<br>gauland<br>chrupalla<br>nationalistisch<br>voelkisch</td>
+<td>remigration<br>geheimtreffen<br>potsdam<br>correctiv<br>deport<br>vertreib<br>masterplan<br>identitaer beweg<br>sellner<br>rechtsextremismus<br>demokrati<br>verfassungsfeind<br>verfassungsschutz<br>parteiverbot<br>menschenwuerd<br>massendeport</td>
+<td>angst<br>sorg<br>gefahr<br>gefaehrlich<br>bedroh<br>kris<br>eskalat<br>chaos<br>problem<br>konflikt<br>gewalt<br>hass<br>hetz<br>extremismus<br>radikal<br>skandal<br>schock<br>empoer<br>wut<br>illegal<br>missbrauch<br>ueberforderung<br>scheiter<br>versag</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="yearly-kept-article-totals" class="slide level2 appendix-figure-slide">
+<h2>Yearly Kept Article Totals</h2>
 
-</section>
+<img data-src="assets/figures/appendix/yearly_kept_article_totals.png" class="appendix-figure r-stretch"></section>
+<section id="word-count-distribution-of-kept-articles" class="slide level2 appendix-figure-slide">
+<h2>Word Count Distribution of Kept Articles</h2>
+
+<img data-src="assets/figures/appendix/word_count_distribution.png" class="appendix-figure r-stretch"></section>
+<section id="top-sources-in-the-kept-article-corpus" class="slide level2 appendix-figure-slide">
+<h2>Top Sources in the Kept-Article Corpus</h2>
+
+
+<img data-src="assets/figures/appendix/top15_sources.png" class="appendix-figure r-stretch"></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">

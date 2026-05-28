@@ -8,6 +8,7 @@ Last updated: 2026-05-13
 ## Current Structure
 - `data/corpus/`: corpus-derived canonical tables.
 - `data/indicators/`: finalized indicator outputs.
+- `data/dictionaries/`: canonical grouped regex dictionaries for text-content indicators.
 - `data/polling/raw/`: unchanged raw polling source files.
 - `data/polling/processed/`: cleaned/aggregated monthly polling outputs.
 - `data/polling/manual/`: manual historical polling supplement files (Wahlrecht-based pre-DAWUM).
@@ -26,6 +27,7 @@ Last updated: 2026-05-13
 | `data/corpus/monthly_nexis_volume.csv` | one month | Manual Nexis total monthly results + manual download counts | manual entry | salience indicator build |
 | `data/indicators/monthly_media_salience_indicator.csv` | one month | Volume-based salience indicator + diagnostics | `scripts/build_monthly_media_salience_indicator.py` and Notebook 01 | polling merge stage |
 | `data/indicators/monthly_media_salience_indicator.parquet` | one month | Parquet version of salience indicator table | same as above | analysis pipelines |
+| `data/dictionaries/text_indicator_term_patterns.json` | one dictionary config | Grouped canonical regex dictionaries (`migration`, `security`, `afd_far_right`, `remigration_democracy`, `negative_threat`) used for Notebook 07 indicator construction | Notebook 07 (loaded config) | article/monthly text-content indicator build |
 | `data/indicators/article_text_content_indicators.csv` | one kept article | Dictionary-based article-level text/content indicators | Notebook 07 | monthly content aggregation |
 | `data/indicators/article_text_content_indicators.parquet` | one kept article | Parquet version of article-level text/content indicators | Notebook 07 | analysis pipelines |
 | `data/indicators/monthly_text_content_indicators.csv` | one month | Monthly aggregated dictionary-based text/content indicators | Notebook 07 | later panel merge stage |

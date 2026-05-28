@@ -1,0 +1,143 @@
+{
+  "version": "2026-05-28",
+  "notes": "Canonical regex term dictionaries for Notebook 07 text content indicators; text is normalized to lowercase ASCII with German umlaut transliteration before matching.",
+  "families": {
+    "issue_environment": [
+      "migration",
+      "security"
+    ],
+    "actor_identity": [
+      "afd_far_right"
+    ],
+    "mechanism_specific": [
+      "remigration_democracy"
+    ],
+    "evaluative_tone_proxy": [
+      "negative_threat"
+    ]
+  },
+  "groups": {
+    "migration": {
+      "label": "Migration/Asylum",
+      "patterns": [
+        "\\bmigrat\\w*\\b",
+        "\\bmigrant\\w*\\b",
+        "\\bfluechtling\\w*\\b",
+        "\\bgefluechtet\\w*\\b",
+        "\\basyl\\w*\\b",
+        "\\bzuwander\\w*\\b",
+        "\\beinwander\\w*\\b",
+        "\\bauslaender\\w*\\b",
+        "\\bauslaendisch\\w*\\b",
+        "\\babschieb\\w*\\b",
+        "\\bdeport\\w*\\b",
+        "\\bintegrat\\w*\\b",
+        "\\bgrenz\\w*\\b",
+        "\\bschutzsuch\\w*\\b",
+        "\\bunterkunft\\w*\\b",
+        "\\bfluechtlingsheim\\w*\\b",
+        "\\baufnahm\\w*\\b"
+      ]
+    },
+    "security": {
+      "label": "Security/Public Order",
+      "patterns": [
+        "\\bkriminal\\w*\\b",
+        "\\bstraftat\\w*\\b",
+        "\\bstraftaeter\\w*\\b",
+        "\\btatverdaechtig\\w*\\b",
+        "\\bverdaechtig\\w*\\b",
+        "\\bpolizei\\w*\\b",
+        "\\bsicherheit\\w*\\b",
+        "\\bgewalt\\w*\\b",
+        "\\bmesser\\w*\\b",
+        "\\bmord\\w*\\b",
+        "\\btotschlag\\w*\\b",
+        "\\bvergewaltig\\w*\\b",
+        "\\bsexuell\\w*\\b",
+        "\\bbelaestig\\w*\\b",
+        "\\buebergriff\\w*\\b",
+        "\\bausschreit\\w*\\b",
+        "\\brandal\\w*\\b",
+        "\\bkrawall\\w*\\b",
+        "\\bmob\\w*\\b",
+        "\\bhetzjagd\\w*\\b",
+        "\\bdemonstrat\\w*\\b",
+        "\\bprotest\\w*\\b",
+        "\\bordnung\\w*\\b",
+        "\\brechtsstaat\\w*\\b",
+        "\\binnere\\s+sicherheit\\b"
+      ]
+    },
+    "afd_far_right": {
+      "label": "AfD/Far-right",
+      "patterns": [
+        "\\bafd\\b",
+        "\\balternative\\s+fuer\\s+deutschland\\b",
+        "\\brechtspopul\\w*\\b",
+        "\\brechtsextrem\\w*\\b",
+        "\\brechte\\w*\\b",
+        "\\brechtsradikal\\w*\\b",
+        "\\brechtsruck\\w*\\b",
+        "\\bidentitaer\\w*\\b",
+        "\\bpegida\\w*\\b",
+        "\\bhoecke\\w*\\b",
+        "\\bweidel\\w*\\b",
+        "\\bgauland\\w*\\b",
+        "\\bchrupalla\\w*\\b",
+        "\\bnationalistisch\\w*\\b",
+        "\\bvoelkisch\\w*\\b"
+      ]
+    },
+    "remigration_democracy": {
+      "label": "Remigration/Democracy-threat",
+      "patterns": [
+        "\\bremigration\\w*\\b",
+        "\\bgeheimtreffen\\w*\\b",
+        "\\bpotsdam\\w*\\b",
+        "\\bcorrectiv\\w*\\b",
+        "\\bdeport\\w*\\b",
+        "\\bvertreib\\w*\\b",
+        "\\bmasterplan\\w*\\b",
+        "\\bidentitaer\\w*\\s+beweg\\w*\\b",
+        "\\bsellner\\w*\\b",
+        "\\brechtsextremismus\\w*\\b",
+        "\\bdemokrati\\w*\\b",
+        "\\bverfassungsfeind\\w*\\b",
+        "\\bverfassungsschutz\\w*\\b",
+        "\\bparteiverbot\\w*\\b",
+        "\\bmenschenwuerd\\w*\\b",
+        "\\bmassendeport\\w*\\b"
+      ]
+    },
+    "negative_threat": {
+      "label": "Negative/Threat",
+      "patterns": [
+        "\\bangst\\w*\\b",
+        "\\bsorg\\w*\\b",
+        "\\bgefahr\\w*\\b",
+        "\\bgefaehrlich\\w*\\b",
+        "\\bbedroh\\w*\\b",
+        "\\bkris\\w*\\b",
+        "\\beskalat\\w*\\b",
+        "\\bchaos\\w*\\b",
+        "\\bproblem\\w*\\b",
+        "\\bkonflikt\\w*\\b",
+        "\\bgewalt\\w*\\b",
+        "\\bhass\\w*\\b",
+        "\\bhetz\\w*\\b",
+        "\\bextremismus\\w*\\b",
+        "\\bradikal\\w*\\b",
+        "\\bskandal\\w*\\b",
+        "\\bschock\\w*\\b",
+        "\\bempoer\\w*\\b",
+        "\\bwut\\w*\\b",
+        "\\billegal\\w*\\b",
+        "\\bmissbrauch\\w*\\b",
+        "\\bueberforderung\\w*\\b",
+        "\\bscheiter\\w*\\b",
+        "\\bversag\\w*\\b"
+      ]
+    }
+  }
+}
