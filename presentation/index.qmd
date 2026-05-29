@@ -496,3 +496,11 @@ Regex/stem-based matching on normalized text (umlauts transliterated; `*` below 
 ## Top Sources in the Kept-Article Corpus {.appendix-figure-slide}
 
 ![](assets/figures/appendix/top15_sources.png){.appendix-figure}
+
+## Monthly Negative Tone Intensity Over Time {.appendix-figure-slide}
+
+![](assets/figures/appendix/monthly_negative_tone_intensity_over_time.png){.appendix-figure}
+
+## Monthly Net Tone Score Over Time {.appendix-figure-slide}
+
+![](assets/figures/appendix/monthly_net_tone_score_over_time.png){.appendix-figure}
